@@ -1,0 +1,5 @@
+- First case of CJEU stating that EU Law should be above national law
+- consequence: individual can sue their member state based on EU law
+	- Italian citizen can sue Government of Italy in Italian Court
+- traditional way (pre-van Gend)
+	- Italian citizen can sue Government of Italy in EU Court

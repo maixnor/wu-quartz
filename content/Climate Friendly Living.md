@@ -1,0 +1,42 @@
+- Point of no return will be reached soon
+- experts expect 2 C or even 3 C
+- carbon emissions are still increasing
+- targets missed by miles - [[Juergen Essletzbacher]]
+- [[APCC Report, Strukturen fuer ein klimafreundliches Leben]]
+	- Provision Perspective -> providing things
+		- providing systems to provide basic needs, not products
+		- also lower-income households have access -> more people
+		- need-based, not want-based
+		- forces to think about what matters
+			- use-value vs exchange-value
+		- 
+	- Market Perspective -> e.g. CO2 Tax (simple)
+		- price, price, price
+		- whats the price of a "ice bear" or the species "tiger"
+			- many things are non-substitutable
+		- fossil fuel subsidies are 7% of global GDP - IEA
+	- Innovation Perspective -> e.g. fusion energy (expensive, complex)
+		- all kinds of innovation 
+		- exnovation -> stopping to do something
+		- green transition
+		- mission oriented innovation policies
+		- social innovation
+			- car sharing or urban gardening
+	- society-nature perspective
+		- nature is not something to dominate
+		- with industrialization humanity decoupled from nature
+		- personal freedom (revolt against)
+		- sealing of soil -> more floodings (humans vs nature)
+		- growth compulsion -> is it really good?
+		- what can we give up? what cannot?
+		- freedom tradeoffs -> freedom of one is limit to another
+		- material flow needs to become ecological
+		- ecology, planetary boundaries, social justice
+- no decoupling of economic growth and energy usage
+	- linear scaling
+### Changes / Policies
+- changes need to be
+	- effective -> do what they should
+	- feasible -> resistance to change by public must be low
+### Table
+#todo get table with actors from slides

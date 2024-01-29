@@ -1,0 +1,156 @@
+Credit: Aaron Meekins
+Chap 6-11
+
+Pg 128-132 very important
+
+  
+
+# Background of EU
+- Institution built up in the post-WWII situation
+    - First aim of European integration was the aim of lasting peace
+    - Build up peace by stronger cooperation of member states in Europe
+    - Nucleus of peace-building process was to build strong connections between France and Germany
+        - WWI, WWII and even before, hostilities between these countries were large
+        - This was an issue for all of Europe
+    - Cooperation, collaboration
+        - Not just in economics but also the longer perspective
+        - From the beginning, there was an idea of a political union
+    - Other companies joined for the peace and economic benefits
+    - Legal aspects
+        - Union based on Law
+            - Alternative to a union based on power
+                - Political power is more difficult to handle
+                - Danger to get back into war is much more prevalent through political power
+    - After development of european union
+        - Based on treaty of Lisbon
+            - Considered Constitution of EU
+                - Tried to establish an actual constitution but was denied for political reasons
+                - Functionally a constitution nonetheless
+            - Treaty on European Union TEU
+                - A state has to fulfill certain conditions in order to become a member of the EU
+                    - Has to comply with all of the EU laws (acquie comminute)
+                - Only a country following human rights laws have access
+                - (Copenhagen Criteria)
+            - Treat on the Functioning of the European Union TFEU
+            - When talking about treaties:
+                - Who are we talking about
+                - Who is involved?
+                - International law treaty founding European Union
+    - How does a state become a new member?
+        - Ukraine, Moldova
+            - Process is “on the way”
+            - In legal terms: in order for Ukraine to access the union, they must have an accession treaty
+                - All other existing member states have to agree on this treaty
+                    - It is necessary for **every** member to approve accession of new members
+                        - Every member has a different process for how they decide on approving members
+            - Process is mean to lead the country to the union
+                - The state must be prepared to enter the union because there’s so much EU law that new members have to comply with
+                - Must change internal law to comply with **every** EU law
+
+Institutions and Bodies
+- European Council
+    - Heads of state or government of Member States, European Council President and President of European Commission
+        - European Council President
+            - Represents union to the outside
+    - High level political body of EU
+    - Responsible for providing the union with the impetus necessary for its development and defining general political direction and priorities
+    - Has no legislative power/functions
+        - Not included in legislative process
+- European Commission
+    - College of Commissioners with 27 commissioners nominated by Member states every 5 years
+        - They are not *representatives* of the member states
+            - You work *only* for the European union
+            - Independent of all states, including the one you are coming from
+    - 1 commissioner per state
+    - Has monopoly for initiatives
+        - Proposes legislation
+        - Motor of integration
+    - Guardian of European law
+        - Entitled to control whether the member states comply with European law
+            - If not, there are specific procedures that can be used to enforce the compliance of every member state with EU law
+- European Parliament
+    - 705 members directly elected by EU citizens
+        - EU citizenship is guaranteed and Germans/Italians can vote for their representative at home or in Austria
+    - Competences:
+        - Legislative
+        - Budgetary functions
+        - After elections of parliament, a new commission will take office
+            - Parliament decides on the President of EU that’s nominated by European council
+    - Initially, the power/role was weak
+        - Step by step and treaty by treaty, EU parliament became stronger
+- Council of Ministers
+    - Government ministers from each EU country
+    - One from each country
+    - Part of legislative process
+    - Works in 10 different *formations*
+        - Depends on what subject it deals with
+        - When the council is meeting on security questions
+            - All of the minister of security from each land come together
+    - Ambassadors of relevant embassies to the EU act on the day to day basis (french term found in book 134 *co re per*)
+- Court of Justice of the European Union (CJEU)
+    - Court of Justice (ECJ)
+    - General Court (Court of first instance)
+    - Exclusively competent to review the legality of the acts of the EU’s institutions and to interpret EU law
+- European Central Bank (ECB)
+- Court of Auditors
+- Other institutions and bodies
+    - Committee of the Regions, Economic and Social Committee, EU agencies
+
+Sources & Hierarchy
+- EU Law
+    - Primary Law
+        - Treaties to EU
+            - TEU & TFEU
+        - Charter on Fundamental Rights
+            - Set of articles guaranteeing human rights to EU citizens & beyond
+        - Accession treaties
+        - Legal basis for decision on secondary law
+        - Does the EU have competence to legislate on specific matters?
+            - Exclusive
+                - Only the EU
+            - Shared
+                - Member states as long as the EU doesn’t use it’s competence
+                - Most often case
+            - Competence to carry out actions to support, coordinate or supplement the actions of the Member States
+- Limited by principles of:
+    - Conferral
+        - EU is only competent if one competence had been conferred to it by the member states
+    - Subsidiarity
+    - Proportionality
+- Only have competence to legislate on specific matters if it’s laid down in treaties as Primary law
+- Accession to the EU means that the state cedes some of its power to the EU
+    - EU only has competence if it’s in treaty
+    - Most parts of criminal law are in competence of member states
+    - Internal market: all legislation with respect to internal market (competition law, product law) lay with the EU
+- Secondary Law
+    - In the TFEU you will find rules, articles on how to produce law on European level
+    - These articles provide the bodies of EU, the competences, and the matters on which the EU may issue laws
+    - Difference between regulations and directives
+        - Legislative acts given by institution of EU
+            - Initiative by commission
+            - Decision by parliament and council of ministers
+        - Regulation
+            - Legislative Act
+            - General
+            - Quasi-same as law given by a national parliament
+            - Directly applicable to the bodies of EU
+                - And to everyone in the member states
+                - If EU decides on regulation, it must be applied at the national level
+        - Directive
+            - Legislative Act
+            - General
+            - Not directly applicable by authorities and courts of member states
+            - Addressed to member state itself and the state must transform the directive into national law
+            - Usually leaves some discretion to some degree in order for the member state to decide on details
+            - Member states are obligated to comply with directives
+            - When delivering a new directive, the EU declares a date by which the directive must be done
+                - When not complied, the commission brings this case to the ECJ
+            - Gives a bit more flexibility to member states to transform
+- Tertiary Law
+    - Decision
+        - Made on the European level by the commission
+        - Usually an individual decision (act)
+        - Ex: giving a fine to microsoft
+        - If a commision issues a decision, the person goes to the general court
+        - If commission issues a decision on not complying with a directive, it goes to Court of justice
+    - If secondary law violates primary law

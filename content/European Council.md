@@ -1,0 +1,4 @@
+- determines where the EU is heading
+- consists of Heads of State or Heads of Government
+- mostly Chancellors or Presidents, the people which are in power
+- decide on general direction of the EU

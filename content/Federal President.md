@@ -1,0 +1,11 @@
+- One of the highest executive organs of the Austrian State
+	- More representative but less powerful
+- Elected by all Austrian citizens who are entitled to vote
+- Limited term of office (6 years)
+- “Head of state”
+- Competences:
+	- Dissolve National Council or whole [[Federal Government]]
+	- appoints/dismisses Federal Chancellor
+	- Commander in Chief of the Army
+- Impeachment by referendum
+	- ⅔, but has never happened

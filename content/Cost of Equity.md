@@ -1,0 +1,9 @@
+- Transparency 
+	- less transparency -> higher unknown risk for shareholders
+	- investor's behavior is different -> different share prices
+	- Teslas Stock Price
+		- nobody wants the profitability of Tesla now -> there is none
+		- people buy into the future [[Elon Musk]] is selling to them
+- Talk about Tomorrow
+	- Investors invest into tomorrow
+- #todo get image from slides about business model story

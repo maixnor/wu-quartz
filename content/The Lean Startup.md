@@ -1,0 +1,13 @@
+- build an MVP
+	- first thing to sell, get cash quickly
+	- early adopters -> loyal customers
+	- not just with new companies but also with features/products
+- fail fast
+	- failing should be encouraged, even celebrated
+	- explore many ideas instead of just one
+- test it with people
+	- learn, build measure
+	- work with customers, not for customers
+	- get feedback quickly, iterate -> [[Agile Development]]
+- if it fails -> Pivot
+	- realizing that the idea is good, but changing a key attribute like the customer base is a make or break decision

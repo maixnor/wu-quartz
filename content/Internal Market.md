@@ -1,0 +1,2 @@
+- not just finished products may move freely
+- also parts of production may move freely

@@ -1,0 +1,7 @@
+- Individual Earnings
+	- Wages/Salaries
+	- free labour market
+- Capital Earnings
+	- Dividends, interests, rents
+	- #todo get from [[CCBE Contemporary Challenges in Business and Economics]] Inequality Slides
+- 

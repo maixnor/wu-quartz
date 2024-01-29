@@ -1,0 +1,3 @@
+- Q & A
+- tending to gut feelings of customer
+- 50% of people should be closing deals in this stage

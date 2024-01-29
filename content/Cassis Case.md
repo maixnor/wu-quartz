@@ -1,0 +1,9 @@
+- not only discriminatory measures
+- also **indistinctly applicable** measures
+- Cassis de Dijon may not be imported to Germany
+- marketing of alcohol is not part of EU rules -> competence of member states
+- settlement of correct/different labeling in Germany
+	- less restricting than import ban
+- [[CJEU]] fueling EU integration
+- if product can be sold in one member state, it should be possible in every member state
+- principle of origin -> where does it come from?

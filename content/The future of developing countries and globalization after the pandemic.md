@@ -1,0 +1,43 @@
+Source: https://www.youtube.com/watch?app=desktop&v=lUGT5uXLRnE
+Dani Rodrik
+# Content
+- the pandemic does not change the world, only accelerates the changes that are happening
+- shines a light on economic inequality and insecurity
+- great balancing of global markets
+- china has stopped hyper-globalising
+- emerging countries growing ever faster
+- Africa: public health, labour laws, human rights crisis
+- action needed: redirecting funds from creditors in developed countries to health system and debt payments in developing countries
+- pandemic made us more aware of issues
+- joint health strategies/information sharing should be priority
+- fostered global integration in cost of domestic social disintegration
+- investments in global human rights/labour/health not likely
+- some globalisation too good, others still lacking
+- pro- or against-globalisation? depends on policy
+- tax havens should not exist -> bad globalisation
+- [[Panama Papers]] 
+- rich viewing themeselfes as part of global community, not part of local community
+- working class does not have that network and tax strategies
+- [[The Road from Somewhere]]
+- when problems arise -> blaming the victim instead of searching for flaws in economic system
+- left parties -> parties of educated elite
+- US and China
+	- ongoing economic war
+	- becoming more similar
+	- china trying to be more western
+	- similar to cold war with UdSSR, need to accept differences
+	- China understands, that US market is not always accessible
+	- Chinas Economy would be destructive, if incorporated unfiltered
+	- US still has upper hand for decision making
+	- US is keeping profits off-shore, protecting people, not jobs
+	- China dos not want to give up their economic model
+	- China suppressing human rights and labour laws
+- if no global institutions can be built how are we gonna combat climate change?
+	- (sub-)national level first, then global trend after
+	- local political activation -> grass roots movements
+	- not just carbon taxes
+- government is the problem, not the solution?
+	- wealthy individuals owning the government
+- corporations do not have to act sensibly for society or environment
+- as the Chinese say: crisis is a time of potential
+- deterioration in the faith in expertise

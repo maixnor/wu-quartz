@@ -1,0 +1,9 @@
+- after Maastricht
+	- EU is single entity
+	- not multiple institutions anymore
+- filled gaps in laws and regulations
+- goal was to write a single constitution
+	- not successful
+	- [[TEU]] and [[TFEU]] in place
+- [[EU Parliament]] strengthened
+- right to withdraw from the EU recognized

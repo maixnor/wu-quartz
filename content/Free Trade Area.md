@@ -1,0 +1,6 @@
+- no tariffs within area
+- imports/exports only from/to outside of trade area
+	- tariffs may apply here
+- import into trade area done with member state with best tariffs
+- determine origin of good
+	- compensatory tariffs

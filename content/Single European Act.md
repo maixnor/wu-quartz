@@ -1,0 +1,4 @@
+- before 1986 each decision had to be approved by all member states 
+	- unanimous supranational agreements
+- afterwards majority votes -> speeding up process dramatically
+- except for foreign policies

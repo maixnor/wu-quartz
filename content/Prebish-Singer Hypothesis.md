@@ -1,0 +1,3 @@
+- Countries Specialize in what they can do best
+- developing countries specializing in primary resources and raw resources and agriculture
+- mixed results based on copper/silver prices

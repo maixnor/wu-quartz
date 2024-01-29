@@ -1,0 +1,7 @@
+- “Freedom from the State”
+- Separation of the stat and the society
+- Reflected in fundamental rights and freedoms
+- Freedom to exercise every kind of gainful activity
+- Inviolability of property
+- Freedom of opinion
+- Principle of equality

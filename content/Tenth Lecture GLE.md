@@ -1,0 +1,131 @@
+Credit: Aaron Meekins
+
+## EU Competences
+- The capacity to act (through secondary or tertiary law) requires a respective competence of the EU
+- The EU competences are defined by primary law
+	- Power of conferral
+		- When Member transfers power to EU, the state loses power
+	- Principle of subsidiarity
+		- EU should only act if they do it better at the EU level than that of the member states
+	- Limited by the principle of proportionality
+		- EU should use its competences only if it’s necessary to achieve a specific aim
+- There are 3 main types of competences
+	- Exclusive competences
+		- The only person allowed to act is EU
+	- Shared competences
+	- Competencies to support, coordinate or supplement the actions of the MS
+## EU legal acts
+- Primary Law
+	- Treaties under international law
+	- Agreed upon by the Member States
+- Secondary Law
+	- Legal acts based upon primary law
+	- Eg regulations, directives
+- Tertiary Law
+	- Legal acts based upon secondary law
+		- Eg decisions
+			- Can be general or individual
+			- Decisions can have a legislative nature (general)
+		- Usually it’s the commission deciding
+- Binding Acts
+	- Binding acts can be adopted in the form of regulations, directives, decisions
+- Non-Binding Acts
+	- Can be adopted in the form of recommendations and opinions (TFEU) and others
+## Judicial Protection in EU
+- Three procedures are most important
+	- Infringement proceedings
+		- Member State is found to have failed to fulfill an obligation under EU law
+		- Member State fails to comply with judgment -> ECJ may impose lump sum or penalty payment
+	- Annulment Actions
+		- Legislative acts of an EU institution that produces legal effects vis-a-vis third parties
+			- Another form within the EU about violating EU law
+			- If laws at some level violate the law above
+				- Tertiary violating secondary
+				- Secondary violating primary
+		- Grounds: lack of competence, infringement of an essential procedural requirement, infringement of the Treaties or of any rule of law relating to their application or misuse of power
+	- Preliminary Reference Procedure
+		- Questions concerning the interpretation and validity of EU law
+		- National Courts can and national courts of last instance must refer, if such questions arise in proceedings before them
+		- “Infringement procedure of the European citizen”
+## EU Law as “Supranational Law”
+- EU law has direct effect
+	- Usually the states have to implement everything
+- EU law enjoys supremacy vis-a-vis national law
+
+## Dynamics of EU Integration
+- Regional transformation of unprecedented dynamism because of:
+	- Formal Principles
+		- Direct Effect
+		- Supremacy
+		- Preliminary Reference Procedure
+	- Substantive Principles
+		- Internal market law
+		- Principle of mutual recognition
+			- If you got permission for a product in one country, you can bring it to market it in another country
+- These are the fundamental Principles that contribute to a self-sustaining transformation process
+## Internal market
+- Markets of all Member States form one common market
+	- Daily experience of EU citizen means that they can freely decide where to work
+	- You can decide where you buy your goods or services
+Forms of Economic Integration
+- Free Trade Area
+	- Eliminate customs duties and other restrictive regulations
+	- Different national tariffs for goods imported from third countries
+	- Need to determine origin of products and to impose compensating tariffs
+- Customs Union
+	- Common customs tariff and trade policy vis a vis third countries
+- Internal Market
+	- Free movement of all factors of production
+- EU: fundamental freedoms
+	- Optimal allocation of factors of production, incurring and international division of labor, economies of scale and an increase in wealth
+	- Stabilization of Europe through highly increased political and social integration
+## Positive and Negative Integration
+- Positive Integration entails harmonization
+	- The EU is adoption legislation in order to harmonize regulations across Europe
+	- How can the EU harmonize to affect the internal market?
+		- EU needs a competence
+			- Art 114 TFEU
+				- EU measures must contribute to removing appreciable obstacles to trade or distortions of competition and may also address anticipated problems as well as non-economic concerns
+				- Exceptions Art 114 para. 4 & 5
+					- Member state can keep their own legislation if the state needs their own rule to maintain something on legitimate grounds
+						- Public health, safety, etc
+						- Must notify the commission and the commission will tell the member if they are allowed to keep it
+					- After the adoption of EU harmonization, the member discovers new scientific evidence that the EU law will affect that specific member state
+- Negative integration is driven forward by individuals interested in their internal market rights and by courts
+	- If we have an Austrian company who wants to sell its products to another EU state (Belgium) and the company learns that in Belgium, specific requirements for the product are still enforced. 
+		- The Austrian company can go to Belgian courts and say that their freedom for free movement of goods has been violated
+## Fundamental Freedoms
+- Common Structures
+	- Scope of Protection
+		- Preliminary Question: Is there a cross-border economic activity
+			- Relevant for any application of fundamental freedom
+			- In-country, fundamental freedoms aren’t applied
+	- Interference
+		- Discrimination
+			- Direct
+				- If a person or a product or a service or good are subject to discrimination or disadvantages explicitly on the basis of foreign origin
+			- Indirect
+				- Disadvantage on grounds of criteria that regularly disadvantages people of foreign origin
+	- Justification
+		- Grounds explicitly mentioned in TFEU
+		- Mandatory Requirements
+	- Test of proportionality
+		- We make a balance between the restriction on the one side and the aim on the other side
+		- Only if the balance between these elements is fair, is the interference justified.
+	- Other common characteristics:
+		- Direct effect
+		- Supremacy
+		- State liability
+		- Horizontal effect
+## Free Movement of Goods
+- Scope of Protection
+	- Goods: “products which can be valued in money and which are capable, as such, of forming the subject of a commercial transaction”
+		- Tariff Trade Barriers= Customs duties, international discriminatory taxation
+			- No Justification
+		- Non-Tariff barriers = quantitative restrictions + MEE (Measures Having and Equivalent Effect)
+			- Discrimination
+				- Direct
+				- Indirect
+	- Products in free circulation
+- Interference
+- Justification

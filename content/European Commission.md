@@ -1,0 +1,3 @@
+- 28 members
+- one of the members is the president
+	- no additional "president member"

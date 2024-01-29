@@ -1,0 +1,3 @@
+- Debt is pushed down onto the newly acquired subsidiary
+- Subsidiary needs to pay off it's own acquisition costs in addition to their previous debts
+- A kind of [[Hidden Distribution]] -> illegal

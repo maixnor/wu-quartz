@@ -1,0 +1,3 @@
+- no tariffs
+- no restrictive regulations
+- 

@@ -1,0 +1,1 @@
+https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/

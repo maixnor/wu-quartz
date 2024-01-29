@@ -1,0 +1,12 @@
+
+- Give the political will direction
+- Protection of the environment
+	- Is not a fundamental right, but can be a value
+	- If it’s part of the constitution, then any politics has to observe this basic value
+	- Principle of neutrality, especially in wartime but also in peace
+		- Not allowed to exceed NATO or other military unions
+- A state who declares itself to observe a right also can make that right a value
+- Economic system
+	- Economy driven by the market with socialist aspects
+- Basic value itself doesn’t mean that every political action is determined by the constitution
+	- Politics has to discuss what “protection of the environment” means

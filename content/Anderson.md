@@ -1,0 +1,1 @@
+Editor of [[Wired Magazine]]

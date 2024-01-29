@@ -1,0 +1,1 @@
+after a bank has established a "trust factor" with a business it can offer better terms since the risk of the bank is lower. The bank can be promoted to the "house bank" status, meaning that most if not all loans are issued by this very bank.

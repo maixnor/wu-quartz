@@ -1,0 +1,1 @@
+Creditors can form relationships while also fixating the current management. When a company is acquired and the management changes this clause may apply and all future payments are due immediately. Important to think about in [[Merger Deal]].

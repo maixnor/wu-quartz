@@ -1,0 +1,1 @@
+The value of a stream of future [[Cash Flow]]s from the viewpoint of today minus the initial investment.

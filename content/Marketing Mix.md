@@ -1,0 +1,17 @@
+- Product
+	- digital products important
+	- music: physical media -> digital media -> streaming
+	- software: SaaS, low cost of reproduction, [[Winner Takes It All]], [[Network Effect]]
+- Price
+	- price discrimination: free/basic/pro/enterprise plans
+	- discounts, promotions, special offerts
+	- device discrimination: phone/desktop have different price (hotel)
+	- dubious pricing-strategies: [[Dubious Pricing Strategies#Drip Pricing|drip pricing]]
+- Promotion
+	- advertising
+	- social media, influencer marketing
+	- affiliate marketing: [[Last Cookie Wins]]
+- Place
+	- sales channels, transport, storage, shops
+	- e-commerce: tangible, intangible, digital goods
+	- e.g. Shopify and Amazon

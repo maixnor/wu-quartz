@@ -1,0 +1,2 @@
+- creditors can object to [[Merger Deal]]
+- all liabilities are due immediately. Similar to [[Change of Control Clause]] and [[Personal Legal Relationship]]

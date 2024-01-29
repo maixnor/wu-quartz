@@ -1,0 +1,3 @@
+- Showing off our solution, Show off our **VALUE**
+- Answer all the questions of the customer
+- Present the final offer

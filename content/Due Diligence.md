@@ -1,0 +1,2 @@
+- making sure that everything is correct
+- e.g. checking your credit card statement regularly to ensure the card information has not been stolen and is now used by fraudulent parties
