@@ -11,14 +11,16 @@ location: WU
 # General
 - questions during studying to maria.braunsberger@wu.ac.at
 - [[Treaty vs Regulation vs Directive]]
+- [[Glossary GLE]]
+- [[Cases GLE]]
 
 # Grading
 - 2 exams
 
 # Questions from Book
-[[Questions GLE - pre Midterm]]
-[[Questions GLE - post Midterm]]
-[[Questions GLE - post Midterm - with GPT]]
+- [[Questions GLE - pre Midterm]]
+- [[Questions GLE - post Midterm]]
+- [[Questions GLE - post Midterm - with GPT]]
 # Unit Summaries from Book
 1. [[Business Organization Concepts]]
 2. [[Limited Liability and Creditors]]

@@ -17,7 +17,7 @@ Variables and functions should be named properly. They signal what things are do
 
 Check out the following 2 examples, I don't even need to read the function in the second code block to know what it (probably) does and can use it right away. 
 
-```R
+```r
 a <- (1:10)
 
 b <- function(x) { ... }
@@ -25,7 +25,7 @@ b <- function(x) { ... }
 c <- b(a)
 ```
 
-```R
+```r
 interval <- (1:10)
 
 calulate_mean <- function(values) { ... }
@@ -41,7 +41,7 @@ I am aware that for the submissions we are expected to put comments in our code,
 ### (implicit) Loops
 R has the language feature which allows you to pass a vector to functions which would by definition only accept a single value. 
 
-```R
+```r
 increment <- function(x) x + 1
 
 # single value
@@ -54,7 +54,7 @@ after_increment <- increment(before_increment))
 
 In most other language one would have to use a loop or something called a `map` operation (Map = every input value is mapped to an output value). This saves a lot of code to write as you can see since those approaches take much more lines to express the same thing.
 
-```R
+```r
 with_loop <- function(before_increment) {
 	after_increment <- (1:length(before_increment)); # create vector of equal length
 	
@@ -80,7 +80,7 @@ I use functions to **abstract** my intentions. When I have a clearly defined fun
 
 You have read before to "extract into functions". This is exactly what I mean. You can also inline functions when they are very simple to de-clutter the code.
 
-```R
+```r
 calculate_mean = function(values) { ... }
 find_highest_3_values = function(values) { ... }
 remove_values_below_x = function(values, x) { ... }
@@ -98,7 +98,7 @@ This can also help with the character limit from the above rule regarding line l
 
 $f(x, y) = {\frac{x + y^2 + x^2 + y + 3y^3}{45 + x^2 + y}}$
 
-```R
+```r
 f <- function(x, y) {
 	upper <- x + y^2 + x^2 + y + 3y^3
 	lower <- 45 + x^2 + y
@@ -108,7 +108,7 @@ f <- function(x, y) {
 
 Also very simple concepts or computations can be put into label functions to help abstract away just a little more complexity. Great example are the three `rieman` functions, duplicated here.
 
-```R
+```r
 rieman_left = function(f,x,dx) f(x) * dx
 rieman_center <- function(f,x,dx) f(x + (dx/2)) * dx
 rieman_right <- function(f, x, dx) f(x + dx) * dx
@@ -122,7 +122,7 @@ No separate example here, look at [[#Everything together]].
 ## Everything at once
 This is the code pieces from the first case study, you should be familiar with it. Notice how I structured the code into different logical "blocks". In the actual code there are no comments because they are not needed to understand the code. Here I have put in some comments to illustrate how the different "rules" I put forward are applied.
 
-```R
+```r
 # could be inlined -> label functions
 rieman_left = function(f,x,dx) f(x) * dx
 rieman_center <- function(f,x,dx) f(x + (dx/2)) * dx

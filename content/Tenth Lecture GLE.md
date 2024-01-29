@@ -108,7 +108,7 @@ Forms of Economic Integration
 				- Disadvantage on grounds of criteria that regularly disadvantages people of foreign origin
 	- Justification
 		- Grounds explicitly mentioned in TFEU
-		- Mandatory Requirements
+		- Mandatory Requirements -> [[Fundamental Rights#Justifications for Exceptions|Mandatory Requirements]]
 	- Test of proportionality
 		- We make a balance between the restriction on the one side and the aim on the other side
 		- Only if the balance between these elements is fair, is the interference justified.

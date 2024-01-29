@@ -95,7 +95,10 @@
 - [[Empty Chair Policy]]
 ### Given the rules on how a qualified majority vote is taken within the Council, is it necessary to have a specific rule on how to establish a blocking minority? 
 - Blocking Minority -> 4 no
-- 55% of votes and at least 15 votes
+	- 8 countries (30% of EU) have only 3.1% of population
+		- would be difficult to bargain otherwise
+- 55% of votes (15 members) to pass a legislation
+- at least 65% of all population of EU
 ### How are Commission decisions taken? 
 - consensus -> unanimous decision
 - more than 50% -> majority
@@ -138,7 +141,7 @@
 # Chapter 8
 
 ### How does an internal market differ from a free trade area and a customs union? 
-- free trade -> within specific country, different tariffs between member states
+- free trade -> within specific region, different tariffs to third countries (non-members)
 - customs union -> the tariffs between each member state is the same
 - internal market -> not just products, goods, services, capital, payment
 ### Who is empowered by the fundamental freedoms? 

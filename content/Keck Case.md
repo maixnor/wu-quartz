@@ -3,4 +3,4 @@
 - selling products at a loss was illegal in France
 - now with new EU ruling permitted, as long as not hindering trade
 	- e.g. every sugar (brown, white, from Germany, Italy, etc) must be sold at a loss to everyone with all traders, not just specific ones
-- concept of **market access**
+- concept of **[[market access]]**

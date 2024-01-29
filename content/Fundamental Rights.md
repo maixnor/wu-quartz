@@ -22,3 +22,11 @@
 - CRC -> Convention Rights of the Child
 - ICCPR -> International Covenant on Civil and Political Rights
 
+### Justifications for Exceptions
+- public policy, health, security
+- consumer/environment protection
+- Art. 36 of TFEU (only for products)
+	- protection of life of humans, animals, plants
+	- protection of national treasures, cultures
+	- protection of morality
+	- protection of industrial and commercial property (including intellectual property)

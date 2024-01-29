@@ -1,0 +1,5 @@
+- [[van Gend Case]] -> can sue your own state
+- [[Dassonville Case]] -> must allow to sell products  which are legally introduced elsewhere (broad)
+- [[Cassis de Dijon Case]] -> must allow to sell products which are legally introduced elsewhere (specific)
+- [[Keck Case]] -> can't impose specific rules on just imported products, must include domestic products too
+- [[Bossman Case]] -> contracts which contradict EU law are not allowed
