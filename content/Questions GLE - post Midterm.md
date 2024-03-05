@@ -13,7 +13,7 @@
 - hierarchy (top - highest)
 	- basic principles
 	- constitution
-	- ordinary laws
+	- ordinary law
 	- ordinances
 	- rulings, judgement, decisions
 ### The basic principles of the Austrian Federal Constitution enjoy a special position compared to other norms of constitutional law. Explain
