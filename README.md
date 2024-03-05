@@ -5,7 +5,7 @@ Hi, here you can find all my notes easily and freely accessible to you.
 
 Use the `/content` folder with obsidian or other markdown editors.
 
-Or just use the website under (https://maixnor.github.io/wu-quartz/BBE)[https://maixnor.github.io/wu-quartz/BBE].
+Or just use the website under [https://maixnor.github.io/wu-quartz/BBE](https://maixnor.github.io/wu-quartz/BBE).
 
 # Quartz v4
 
