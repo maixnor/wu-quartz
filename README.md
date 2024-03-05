@@ -1,3 +1,12 @@
+
+# The Maixnor Realm - WU edition
+
+Hi, here you can find all my notes easily and freely accessible to you.
+
+Use the `/content` folder with obsidian or other markdown editors.
+
+Or just use the website under (https://maixnor.github.io/wu-quartz/BBE)[https://maixnor.github.io/wu-quartz/BBE].
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
