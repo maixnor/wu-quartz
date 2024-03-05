@@ -15,6 +15,5 @@ To contribute navigate to the [Github](https://github.com/maixnor/wu-quartz/tree
 
 Once you are done editing hit commit changes and select `Create a **new branch** for this commit and start a pull request`. Then I will take a look at it and approve the PR. Then your contributions are live.
 
-
 # Disclaimer
 As these are personal notes everything might be wrong or outdated/irrelevant for any exam. I try and gather as much information as possible, but there might always be something missing.
