@@ -14,9 +14,9 @@ This study plan is recommended by the BBE Program and might be worth following. 
 ### Semester 2
 - [[FR Financial Reporting]]
 - [[QM2 Quantitative Methods 2]]
-- [[Law, Economics, and Business]]
-- [[Foundations in Microeconomics]]
-- [[Foundations in Socioeconomics]]
+- [[LEB Law, Economics, and Business]]
+- [[FM Foundations in Microeconomics]]
+- [[FS Foundations in Socioeconomics]]
 
 ### Semester 3
 - [[Business Analytics 1]]
