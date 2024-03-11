@@ -18,6 +18,24 @@
 	- substitutes: $E_{q1, p2} > 0$
 	- complements: $E_{q1, p2} < 0$
 
+> the flatter the demand curve, the more elasticity
+
+### Problem of Monopoly
+- where to place your price?
+- if price is too high ... high elasticity ... very low demand
+- if price is too low ... low elasticity ... little profit
+
+### Extremes
+- completely inelastic
+	- crucial drugs/medicine -> any price you have to pay
+- completely elastic
+	- something which was free is now pay -> nobody will pay
+
+### Short vs Long Term Elasticity
+- elasticity of electricity
+	- short term -> almost impossible to change the consumption habits
+	- long term -> possible to change e.g. buying more energy efficient washing machine
+
 
 # Glossary
 - Complements ... when products are bound together
