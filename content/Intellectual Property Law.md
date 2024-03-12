@@ -133,5 +133,3 @@ mostly international and EU law
 	- overprotection, 
 	- developing countries not having access to important patents
 - 
-
-

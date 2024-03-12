@@ -7,6 +7,7 @@
 # Contents
 ### Part 1
 - [[Intellectual Property Law]]
+	- [[Questions at the End of First LEB Lecture]]
 - [[Competition Law]]
 ### Part 2
 - [[Tax Law]]
