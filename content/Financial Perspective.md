@@ -150,7 +150,7 @@ Factors are
 - Management -> C-Level leaving/dying
 - Research -> e.g. Pharma and Bio Tech huge impact
 - [[Intangible Assets]] -> dependent on company
-- [[Interlectual Property]] -> dependent on company
+- [[Intellectual Property]] -> dependent on company
  
 ### Shares Value
 [[Market Capitalization]]
