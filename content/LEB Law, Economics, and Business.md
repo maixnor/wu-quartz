@@ -5,6 +5,8 @@
 
 
 # Contents
+### Part 1
 - [[Intellectual Property Law]]
 - [[Competition Law]]
+### Part 2
 - [[Tax Law]]
