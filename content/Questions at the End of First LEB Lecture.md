@@ -1,5 +1,5 @@
 ### Please correct me if I'm wrong!
-relating [[Intellectual Property Law]]
+relating lecture [[Intellectual Property Law]]
 # Question 1
 - [!] IP generally refers to creations of the mind.
 - [!] The idea of IP protection is to enable people to exclusively exploit the intellectual property they have developed or created.
