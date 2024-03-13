@@ -78,3 +78,7 @@
 - wheel of fortune
 - probability of certain point -> 0
 - probability of landing in one of the regions -> $\frac{1}{\text{number of regions}}$
+
+## Uniform Continuous Distribution
+- integral between 2 values of continuous probability
+- e.g. wheel of fortune in the top half -> 0.5
