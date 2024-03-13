@@ -1,5 +1,5 @@
 Online Classes
 
-
-# Assignments
-[[Due 2024-03-05]]
+# Assignments with Readings
+- [[Due 2024-03-05]]
+- [[Due 2024-03-12]]

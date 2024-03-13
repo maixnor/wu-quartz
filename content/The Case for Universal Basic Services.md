@@ -40,7 +40,7 @@ differences to other papers or what other people think/write, link them here
 ||Money/payment systems|Retail Banking|communication  
 
 ### In-Kind benefits as a share of disposable income by quintile
-![[Pasted image 20231107153739.png]]
+![[basic_service_benefits_by_quintile.png]]
 
 ### Essential Jobs
 -  health and care or emergency services
