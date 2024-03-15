@@ -31,4 +31,14 @@
 - 771 Million payed in dividends
 - earned from operations, spent on investments and paying loans and investors -> healthy
 
-
+## Statement Notes
+- Profit by Business Unit Statement
+	- Adhesive vs Consumer Brands
+	- Adhesive has higher profit
+- Profit by Geography Statement
+- is it national profit or IFRS profit? -> IFRS here
+- scope of consolidation -> who is in the group or not?
+	- more than 50% shares or if the parent otherwise is control
+	- 14 additions, 9 mergers, 9 disposals
+- divestments -> information on Russia -> Henkel has option of buying back the business
+- currency rates used in calculations
