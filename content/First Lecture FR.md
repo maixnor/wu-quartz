@@ -54,4 +54,11 @@
 	- personal Dividend receivables are not tax-free
 	- 27.5% withheld at source -> company deducts amount before sending it to you
 - Amazon has a very specific quote in it's annual report: when having the choice between showing profit and saving on tax they will choose saving on tax
-
+- Distribution of Profits (dividends)
+	- Profit and Loss is not effected -> no tax deduction
+	- after decision: + liability, - profit in equity
+	- after payout: - liability, - cash
+	- liability cancels out in final balance sheet
+- Alteration of Balance Sheet or other financial reports is a criminal offense
+- Issuance of Shares: + equity, + cash
+	- in/decrease of shares: not effecting the balance sheet
