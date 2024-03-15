@@ -1,5 +1,6 @@
-International Financial Reporting Standard
-https://irfs.org
+- International Financial Reporting Standard
+- anglo-saxon tradition -> [[First Lecture FR#Accounting Traditions|Accounting Traditions]]
+- https://irfs.org
 
 - issued by IASB (International Accounting Standards Board)
 	- 14 accounting professionals
@@ -15,3 +16,8 @@ https://irfs.org
 - IFRS GAAP
 
 - complete national GAAP can also be mixed
+
+## Depreciation
+- normally nationally regulated
+- in IFRS "under management judgement"
+	- are placed within report

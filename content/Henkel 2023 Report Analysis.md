@@ -42,5 +42,6 @@
 	- 14 additions, 9 mergers, 9 disposals
 - divestments -> information on Russia -> Henkel has option of buying back the business
 - currency rates used in calculations
-- accounting estimates
-	- all accounting is just estimates, they are never **the truth**. It is always judgements and estimates.
+- [[accounting]] estimates
+- useful life for [[depreciation]] -> [[IFRS#Depreciation]]
+- 

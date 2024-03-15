@@ -36,3 +36,12 @@
 	- ad-hoc information -> relevant to the shareholders
 - [[World Show]]
 - [[Henkel 2023 Report Analysis]]
+
+# Accounting Traditions
+## Anglo Saxon (USA) 
+- shareholder oriented -> geared towards
+- aims to create a stable profit for stable profit distribution
+## European 
+- tax and creditor oriented
+- governments regulating the economy
+- tax link -> profit is very hardly linked to tax base
