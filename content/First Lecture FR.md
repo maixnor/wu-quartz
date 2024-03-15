@@ -53,4 +53,5 @@
 - Dividends between companies are tax free -> would be taxed multiple times then
 	- personal Dividend receivables are not tax-free
 	- 27.5% withheld at source -> company deducts amount before sending it to you
+- Amazon has a very specific quote in it's annual report: when having the choice between showing profit and saving on tax they will choose saving on tax
 
