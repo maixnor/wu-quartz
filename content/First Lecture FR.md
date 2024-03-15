@@ -51,3 +51,5 @@
 - in Austria (and Germany) only Operating Profit (from [[Profit and Loss Statement]]) may be distributed -> [[Dividend]]
 - Dividends between companies are tax free -> would be taxed multiple times then
 	- personal Dividend receivables are not tax-free
+	- 27.5% withheld at source -> company deducts amount before sending it to you
+
