@@ -23,7 +23,12 @@
 - 2 Billion EBIT
 - negative financial result
 - Income before tax -> tax statement of each subsidiary
-	- 29.1% tax rate
-- 
+	- 29.1% tax rate above average of Austria 24%
+## Cash Flow Statement
+- investing activities negative
+- investments in another subsidiary and more assets
+	- investments should equal depreciation
+- 771 Million payed in dividends
+- earned from operations, spent on investments and paying loans and investors -> healthy
 
 

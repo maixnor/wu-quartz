@@ -1,5 +1,6 @@
 > Where money goes and where it comes from
 
+- starts with EBIT, adds all non-cash transactions afterwards
 - calculated yearly
 - all 3 cash flows added up are complete Cash Flow
 # Operations
