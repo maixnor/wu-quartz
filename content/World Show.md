@@ -1,0 +1,1 @@
+Management of a large corporation tours the world to speak at confereces and present their company numbers to investors

@@ -1,0 +1,2 @@
+- Residual from Consolidation Process
+- Difference between Equity and Sales price if company was to be sold
