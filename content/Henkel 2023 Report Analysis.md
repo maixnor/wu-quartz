@@ -17,4 +17,13 @@
 - lots of cash, receivables and inventory
 - 2/3 equity -> mostly retained earnings
 	- not just retained earnings of last year
-- [[Provisions]] 
+- [[Provisions]]
+## Profit and Loss Statement
+- sold less / earned more -> less pieces sold at a higher price -> higher margin
+- 2 Billion EBIT
+- negative financial result
+- Income before tax -> tax statement of each subsidiary
+	- 29.1% tax rate
+- 
+
+
