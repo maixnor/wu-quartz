@@ -45,3 +45,9 @@
 - tax and creditor oriented
 - governments regulating the economy
 - tax link -> profit is very hardly linked to tax base
+
+
+# General Notes
+- in Austria (and Germany) only Operating Profit (from [[Profit and Loss Statement]]) may be distributed -> [[Dividend]]
+- Dividends between companies are tax free -> would be taxed multiple times then
+	- personal Dividend receivables are not tax-free
