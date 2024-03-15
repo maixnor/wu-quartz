@@ -14,3 +14,11 @@ Equity compared to total Assets
 Should be 1:2 (33%)
 
 higher ratio (1:3 or even 1:9) -> High Geared Company
+
+
+# Changes in Equity
+- Equity of previous Years
+- + Profit
+- - Losses
+- +/- Dividends
+- +/- Capital (Issue of Shares / Share Buyback)

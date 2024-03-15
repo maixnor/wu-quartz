@@ -1,4 +1,5 @@
 # Financial Statements
+- [[Income Statement]]
 - [[Profit and Loss Statement]]
 - [[Cash Flow Statement]]
 - [[Changes in Equity Statement]]

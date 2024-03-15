@@ -1,0 +1,1 @@
+- sub-account of Equity in [[Balance Sheet]]
