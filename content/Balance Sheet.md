@@ -1,6 +1,5 @@
 >Left = Right
 >...Always
-
 # Left
 - Assets
 - Receivables (we will get money soon)
@@ -8,8 +7,6 @@
 - Equity
 - Payables (we will pay money soon)
 - Liabilities
-
-
 
 # 31.12. = 1.1.
 - this is always true, except...
