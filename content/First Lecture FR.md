@@ -29,15 +29,10 @@
 - Tax Law is something deliberately not international
 - conflict of insterest
 
-# Definitions
-- [[Assets]]
-- [[Liabilities]]
-
 # Henkel Annual Report
 - [[Corporate Governance Report]]
 - [[Risks and Opportunities report]]
 - Subsequent Events -> what happened between 20**/12/31 and now?
 	- ad-hoc information -> relevant to the shareholders
 - [[World Show]]
-
 - [[Henkel 2023 Report Analysis]]

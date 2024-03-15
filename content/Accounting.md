@@ -1,5 +1,8 @@
 Keeping track of money in an often conservative way.
 Main benefit is with protecting creditors (banks, suppliers, state).
+
+> Accounting is never **correct** it is based on judgments and estimates. Accounting is not about truth, it's about drawing the picture of the company.
+
 ### Types of Accounting
 - Cost Accounting
 	- Kostenrechnung basically
