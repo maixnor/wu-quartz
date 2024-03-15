@@ -62,3 +62,4 @@
 - Alteration of Balance Sheet or other financial reports is a criminal offense
 - Issuance of Shares: + equity, + cash
 	- in/decrease of shares: not effecting the balance sheet
+	- only important if new shares will be issuance
