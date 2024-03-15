@@ -21,4 +21,4 @@ higher ratio (1:3 or even 1:9) -> High Geared Company
 - + Profit
 - - Losses
 - +/- Dividends
-- +/- Capital (Issue of Shares / Share Buyback)
+- +/- Capital (Issuance of Shares / Share Buyback)
