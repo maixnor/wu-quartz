@@ -6,3 +6,6 @@ Then figuring out by what percentage the output changes.
 
 converges to the derivative -> [[Derivatives]]
 the "percentage" is the slope of the derivative
+
+only works well with convex curves -> [[Common Properties of Functions#Convexity & Concavity|Convexity]]
+this promotes variety instead of extremes

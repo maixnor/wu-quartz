@@ -36,4 +36,7 @@
 ### Convexity
 - preference of variety
 - ![[FM_convexity.png]]
-- Combining A and B to produce optimal point C.
+- combining A and B to produce optimal point C
+- Concavity -> mixture of A and B would result in a lower utility than A or B -> against convexity principle
+- slope of indifference curve is the relative value of the good -> [[Marginal Changes]]
+	- called here; Marginal Rate of Substitution
