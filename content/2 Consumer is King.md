@@ -84,4 +84,16 @@
 - demand curve: capturing preference of individual, not specific actions
 ![[FM_changes in demand.png]]
 
-### 
+### Engel Curve
+- Demand by Income
+- again, just preferences of individual
+- slope and monotonicity of Engel curve (lower respectivel) is important
+	- rising -> normal good (cars)
+	- falling -> inferior good (hand-made brooms)
+	- non -> quasilinear -> demand does not change when income changes
+- ![[FM_engel curve.png]]
+
+
+
+
+
