@@ -78,11 +78,10 @@
 
 ### Playing with the numbers
 - higher price -> less quantity
-- individual demand curve
 - at each price map the distribution of products
 - purple line left: continuous price-consumption curve -> how the consumption changes when costs increase/decrease
 - purple line right: continuous income-consumption curve -> how the consumption changes when the overall income changes
-- demand curve: capturing preference, not specific actions
+- demand curve: capturing preference of individual, not specific actions
 ![[FM_changes in demand.png]]
 
 ### 
