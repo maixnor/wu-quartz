@@ -104,7 +104,7 @@
 - 0 + 5 + 8 = 13
 - ![[FM_market demand.png]]
 
-### Substitution and Income Effects
+## Substitution and Income Effects
 - Substitution Effect -> changes in market demand regarding relative price changes
 - Income Effect -> changes in market demand regarding non-relative price changes (or income changes)  
 - Substitution Effect -> changing the price relatively -> demand will increase/decrease
