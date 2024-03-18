@@ -70,3 +70,18 @@
 - C: slope of utility function > slope of budget line -> move to left
 - B: slope of utility function < slope of budget line -> move to right
 - A: slope of utility function = slope of budget line -> stay where you are
+
+### Boundary Solutions
+- highest utility is at one of the boundaries
+- absolute dominance of one product over the other
+![[FM_boundary solutions.png]]
+
+### Playing with the numbers
+- higher price -> less quantity
+- individual demand curve
+- at each price map the distribution of products
+- purple line left: continuous price-consumption curve -> how the consumption changes when costs increase/decrease
+- purple line right: continuous income-consumption curve -> how the consumption changes when the overall income changes
+![[FM_changes in demand.png]]
+
+### 
