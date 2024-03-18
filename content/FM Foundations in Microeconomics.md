@@ -12,7 +12,7 @@
 ![[mircoeconomics_timeline.png]]
 # Contents / Topics
 - [[1 Micro? Economics?]]
-- [[2]]
+- [[2 Pay Me!]]
 - [[3]]
 - [[4]]
 - [[5]]
