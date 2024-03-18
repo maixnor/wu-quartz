@@ -1,4 +1,5 @@
-# Consumer Behaviour
+# Consumer Behavior
+## How Consumers Decide
 ### Consumer Preferences
 - assumptions about preferences
 	- complete -> consumer can compare options
@@ -48,3 +49,24 @@
 - substitutes -> one can substitute the other
 - complements -> one cannot substitute the other
 - perfect, could not be more extreme
+
+## Why does this cost money tho?
+### Budget Constraint
+- Income limits the possible bundles
+- changes in income shift the limit outwards/inwards
+- changing the prices is about moving the intersect of that axis
+- ![[FM_income constraint.png]]
+
+### Indifference Curve and Utility
+- taking any indifference curve and finding the 2 intersections of the budget constraint
+- the region between indifference and budget curve yield higher utility and are obtainable
+- drawing another function through one point within this region
+- repeat finding the intersects
+- repeat drawing a curve through region between 2 curves
+- after $n$ iterations one will reach a tangent point which has maximized the utility
+- ![[FM_budget constraint.png]]
+
+### Slopes at Points
+- C: slope of utility function > slope of budget line -> move to left
+- B: slope of utility function < slope of budget line -> move to right
+- A: slope of utility function = slope of budget line -> stay where you are
