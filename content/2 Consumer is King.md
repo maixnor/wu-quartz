@@ -5,6 +5,7 @@
 	- complete -> consumer can compare options
 	- transitivity: A > B and B > C -> A > C
 	- non-satiation: more is better
+		- if satiation is possible -> indifference curve is circular -> has an optimum within finite space
 	- convexity -> preference for variety -> [[Common Properties of Functions#Monotonicity]]
 	- continuity -> [[Marginal Changes]]
 
@@ -93,7 +94,28 @@
 	- non -> quasilinear -> demand does not change when income changes
 - ![[FM_engel curve.png]]
 
+### Deriving Individual demand function
+- [[Optimization#Lagrange Multiplier Method]] 
 
+## Sum it all Up -> Market Demand
+- each individual has different preferences
+- summing up all individual preferences creates demand
+	- horizontal summation
+- 0 + 5 + 8 = 13
+- ![[FM_market demand.png]]
+
+### Substitution and Income Effects
+- Substitution Effect -> changes in market demand regarding relative price changes
+- Income Effect -> changes in market demand regarding non-relative price changes (or income changes)  
+- Substitution Effect -> changing the price relatively -> demand will increase/decrease
+- Income Effect -> changing the price absolutely -> income changes relatively -> demand will increase/decrease 
+
+### Giffen Paradox
+- a good affected by this phenomenon is called a [[Giffen Good]]
+- a good becomes cheaper -> increased demand
+- relative income increases
+- increased relative income -> negative effect in demand
+- negative effect in demand > increased demand due to cheaper prices
 
 
 
