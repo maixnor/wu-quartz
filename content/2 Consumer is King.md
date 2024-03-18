@@ -40,3 +40,11 @@
 - Concavity -> mixture of A and B would result in a lower utility than A or B -> against convexity principle
 - slope of indifference curve is the relative value of the good -> [[Marginal Changes]]
 	- called here; Marginal Rate of Substitution
+
+### Marginal Utility
+![[FM_marginal utility.png]]
+### Curvature of Indifference Curves
+![[FM_utility function curvature.png]]
+- substitutes -> one can substitute the other
+- complements -> one cannot substitute the other
+- perfect, could not be more extreme
