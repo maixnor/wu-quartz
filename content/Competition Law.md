@@ -79,7 +79,18 @@ https://eur-lex.europa.eu
 		- fresh fruits
 		- christmas decorations
 	- train/flight tickets during peak times (e.g. christmas time)
-	- 
+
+## Challenges
+- innovation
+- products in digital platforms
+- price might not be monetary
+- ecosystems
+
+## Undertaking, not Company
+- undertaking -> meant is a "company"
+	- local definitions for "company" -> Bulgaria vs Austria have different definitions
+- undertaking ... an entity which carries out economic activity
+
 
 
 
