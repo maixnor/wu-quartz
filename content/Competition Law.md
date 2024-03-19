@@ -91,6 +91,32 @@ https://eur-lex.europa.eu
 	- local definitions for "company" -> Bulgaria vs Austria have different definitions
 - undertaking ... an entity which carries out economic activity
 
+# Article 101 TFEU - Anti-Competitive agreements
+- 2 or more undertakings
+- agreement, decision or concerted practice
+	- written or oral agreement -> although not necessarily a contract
+	- gentlemen's agreement included
+	- general practice included
+	- decision by a [[Trade Association]]
+		- Association does not have money, going after member companies therefore
+	- concerted practices 
+		- parallel behavior hard to distinguish from cooperation
+		- burden of proof lies with enforcers (authorities)
+		- 3 criteria
+			- concerting with each other
+			- subsequent conduct on the market
+			- cause & effect
+		- example: gas station prices
+	- horizontal vs vertical agreement
+		- horizontal ... refinery cooperating with other refineries
+		- vertical ... refinery cooperating with gas stations
+- appreciable effect on trade between member states
+	- EU Laws should only be applied to EU relevant cases 
+	- no strictly domestic cases
+- appreciable effect on competition
+	- effect must be "noticeable" to be illegal
+- object or effect of preventing, restricting or distorting competition
+	- "restriction of competition"
 
 
 
