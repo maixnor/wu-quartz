@@ -110,9 +110,18 @@ https://eur-lex.europa.eu
 	- horizontal vs vertical agreement
 		- horizontal ... refinery cooperating with other refineries
 		- vertical ... refinery cooperating with gas stations
+			- if in a conglomerate it is okay from anti-competitive
+			- but dominant position laws within 102 come into effect 
 - appreciable effect on trade between member states
 	- EU Laws should only be applied to EU relevant cases 
-	- no strictly domestic cases
+		- no strictly domestic cases
+	- para 52: thresholds ([[NAAT Rule]])
+		- market share not above 5%
+		- aggregate (horizontal) or suppliers (vertical) annual turnover not above 40 Million EUR
+	- para 53: rebuttable positive presumption
+		- imports/exports or covers several member states
+		- + turnover threshold exceeded
+	- **also applies to hardcore restraints**
 - appreciable effect on competition
 	- effect must be "noticeable" to be illegal
 - object or effect of preventing, restricting or distorting competition
