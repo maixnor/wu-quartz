@@ -70,6 +70,16 @@ https://eur-lex.europa.eu
 		- supply substitutability
 		- potential competition
 	- [[SSNIP test]]
+	- e.g. all soft drinks are in one Product Market
+- Geographic Market (paras 38 ff Notice)
+	- different countries/regions may have different markets
+	- global to local geographic markets
+- Temporal Market (paras 13 ff Notice)
+	- seasonal work
+		- fresh fruits
+		- christmas decorations
+	- train/flight tickets during peak times (e.g. christmas time)
+	- 
 
 
 
