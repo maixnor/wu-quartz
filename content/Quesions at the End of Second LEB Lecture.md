@@ -1,9 +1,9 @@
 
 # Question 1
-- [x] In the EU Member States, competition law rules are almost identical.
+- [!] In the EU Member States, competition law rules are almost identical.
 	-> many copied 101 and 102
 - [ ] Competition law is only governed by national law in the EU Member States.
-- [x] Competition law is governed by Treaty provisions and directly applicable Regulations in the EU.
+- [!] Competition law is governed by Treaty provisions and directly applicable Regulations in the EU.
 	-> Block exemptions
 - [ ] Directives directly apply in all EU Member States, no transposition into national law is required.
 	-> Directives need to be transposed
@@ -15,18 +15,18 @@
 	-> not immune from national (altough not asked for in this question)
 	-> size does not matter (in competition)
 - [ ] An agreement between a producer of laundry detergent and a washing machine producer is a horizontal agreement.
-- [x] An agreement between an importer of rubber and a sneaker producer is a vertical agreement.
+- [!] An agreement between an importer of rubber and a sneaker producer is a vertical agreement.
 
 # Question 3
-- [x] Many competitors competing over the same number of customers as well as over the same product are indicators of perfect competition.
+- [!] Many competitors competing over the same number of customers as well as over the same product are indicators of perfect competition.
 - [ ] Perfect competition results in a rising amount of market entry barriers.
-- [x] The outcome of perfect competition may be a wider choice, better products, lower prices and a greater efficiency.
-- [x] Perfect competition may increase consumer welfare as well as social welfare.
+- [!] The outcome of perfect competition may be a wider choice, better products, lower prices and a greater efficiency.
+- [!] Perfect competition may increase consumer welfare as well as social welfare.
 
 # Question 4
-- [x] An undertaking is defined as any entity that carries out economic activities.
-- [x] The legal form of an entity is not relevant when it comes to its definition as an undertaking.
-- [x] An infringement of Article 101 TFEU requires the involvement of at least two undertakings.
+- [!] An undertaking is defined as any entity that carries out economic activities.
+- [!] The legal form of an entity is not relevant when it comes to its definition as an undertaking.
+- [!] An infringement of Article 101 TFEU requires the involvement of at least two undertakings.
 - [ ] An infringement of Article 101 TFEU requires the involvement of at least one undertaking.
 
 # Question 5
@@ -40,9 +40,9 @@ Regarding the NAAT rule, what should you take into consideration if you are inte
 - [ ] Para 52 of the Guidelines on the effect on trade concept does not apply, as this horizontal agreement does not exceed €40 million in annual turnover.
 - [ ] Para 52 of the Guidelines on the effect on trade concept generally applies as this vertical agreement exceeds €35 million annual turnover.
 	-> it is 40 Million, statement is wrong, but answer to statement would be true
-- [x] For horizontal as well as vertical agreements , the relevant aggregate market share on the relevant market is exceeded, as it exceeds 5%.
+- [!] For horizontal as well as vertical agreements , the relevant aggregate market share on the relevant market is exceeded, as it exceeds 5%.
 	-> [[Competition Law#Market Definition]] relevant here
-- [x] As the behaviour covers several member states of the EU , para 53 of the Guidelines on the effect on trade concept could be fulfilled. For this, the turnover threshold would need to be reached.
+- [!] As the behaviour covers several member states of the EU , para 53 of the Guidelines on the effect on trade concept could be fulfilled. For this, the turnover threshold would need to be reached.
 
 # Question 6
 Furli Bags produces wallets (market share 7.9 % in the EU, €68.9 million annual turnover). They agree with their competitor Eco Bags (2.4 % market share in the EU, €24 million annual turnover) upon a new process for manufacturing eco-friendly and recyclable wallets. The CO2-emissions are nearly eliminated in comparison with other regular manufacturing processes. The agreement Eco and Furli agree upon also contains clauses on information sharing of the price calculation for their wallets.
@@ -51,10 +51,10 @@ You are the manager of Furli Bags and make use of the knowledge you acquired dur
 
 -> [[De Minis Notice]]
 
-- [x] As this is a horizontal agreement, the 10% market share threshold of para 8 a) of the De Minimis Notice generally applies.
+- [!] As this is a horizontal agreement, the 10% market share threshold of para 8 a) of the De Minimis Notice generally applies.
 - [ ] As this is a vertical agreement, the 15% market share threshold of para 8 b) of the De Minimis Notice generally applies.
 	-> not a vertical agreement
-- [x] Information sharing on price is an anti-competitive agreement by object and therefore comes under para 13 of the De Minimis Notice , meaning that the agreement is deemed to have an appreciable effect on competition.
-- [x] The behaviour of Furli Bags may nevertheless be justified by fulfilling all four requirements under Art icle 101(3) TFEU.
+- [!] Information sharing on price is an anti-competitive agreement by object and therefore comes under para 13 of the De Minimis Notice , meaning that the agreement is deemed to have an appreciable effect on competition.
+- [!] The behaviour of Furli Bags may nevertheless be justified by fulfilling all four requirements under Art icle 101(3) TFEU.
 	-> 101(3) is in theory always possible, but is hardly met
 	-> statement is true "may nevertheless be justified" -> asking about possibility
