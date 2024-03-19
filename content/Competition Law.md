@@ -56,8 +56,20 @@ https://eur-lex.europa.eu
 # Legal Framework
 - [[Kodex Competition Law 2024]]
 	- Art 101 TFEU -> anti-competitive agreements
+		- e.g. price agreements between competitors
+		- e.g. tying -> bundling products together with malicious intent
 	- Art 102 TFEU -> abuse of market power
 	- EU Merger Control (EUMR) 139/2004
+
+# Market Definition
+- Product Market (paras 25 ff Notice)
+	- interchangeability
+		- price, quality, functionality -> possible substitute products (para 26 Notice)
+	- 3 competitive constrains (para 23 Notice)
+		- demand substitutability
+		- supply substitutability
+		- potential competition
+	- [[SSNIP test]]
 
 
 
