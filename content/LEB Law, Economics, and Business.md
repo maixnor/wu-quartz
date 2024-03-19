@@ -9,5 +9,6 @@
 - [[Intellectual Property Law]]
 	- [[Questions at the End of First LEB Lecture]]
 - [[Competition Law]]
+	- [[Quesions at the End of Second LEB Lecture]]
 ### Part 2
 - [[Tax Law]]
