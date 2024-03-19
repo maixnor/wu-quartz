@@ -114,7 +114,6 @@ https://eur-lex.europa.eu
 			- but dominant position laws within 102 come into effect 
 - appreciable effect on trade between member states
 	- EU Laws should only be applied to EU relevant cases 
-		- no strictly domestic cases
 	- para 52: thresholds ([[NAAT Rule]])
 		- market share not above 5%
 		- aggregate (horizontal) or suppliers (vertical) annual turnover not above 40 Million EUR
@@ -124,8 +123,59 @@ https://eur-lex.europa.eu
 	- **also applies to hardcore restraints**
 - appreciable effect on competition
 	- effect must be "noticeable" to be illegal
+	- agreement does not have to be on EU scale, even if effect is 
+	- [[De Minis Notice]]
+		- para 2: not applicable if agreement has the object of restricting competition
+		- threshold
+			- 10% aggregate for competitors (horizontal)
+			- 15% each for non-competitors (vertical)
+			- 5% in case of network effect
+	- consequence: justification under Article 101(3) TFEU highly unlikely
 - object or effect of preventing, restricting or distorting competition
 	- "restriction of competition"
+	- Article 101(1) TFEU -> long **non-exhaustive** list of behaviors
+##  Exceptions to Article 101 TFEU
+- 4 cumulative conditions
+	- 2 positive conditions
+		- Improvement -> Innovation
+		- passing on to consumer -> [[Principle of Consumer Wealth]]
+	- #todo negative conditions
+## Block Exemptions
+- the [[VABER]] 2022/720
+	- #todo VABER
+- [[Distribution Agreements]] -> vertical agreements
+- does not apply to huge companies
+- first thing when setting up distribution agreements is to be [[VABER]] compliant 
+	- ensures safety from anti-competition claims
+
+## Consequences of Infringement
+- those parts of the agreement are **void** (not the whole agreement)
+- fines of up to 10% of previous years turnover (public enforcement)
+	- highest fine was 4.3 Billion EUR
+	- Austria only: Authority may keep parts of the fine -> incentive
+- damages actions by other companies or consumers are possible
+- loss of reputation, bad publicity, loss of share value
+
+## Information sharing agreements
+- #todo copy from slides
+- paras 366 ff
+
+## Sustainability Standards
+- #todo copy from slides
+
+## Cases
+### Pierre Fabre (2011)
+- cosmetics companies
+- selective distribution agreement prohibited internet sales (absolute ban)
+- banning only sales is not acceptable -> CJEU Ruling
+### Electronics Producers
+- #todo 
+
+### Nike (2019)
+- #todo 
+
+
+
 
 
 
