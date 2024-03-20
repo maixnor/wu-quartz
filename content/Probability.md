@@ -91,4 +91,39 @@
 	- important to know whether the interval goes to right or left -> subtract or add
 - when looking up the $z$ when given a probability
 	- look at table other way round -> find probability and read the $z$
-- 
+- $\mathbb{E}[X] = \mu$
+-  $\mathbb{V}(X) = \sigma^2$
+- $Z = \frac{X - \mu}{\sigma}$ ... shifting by $\mu$ and scaling by $\sigma$
+	- $Z$ is now a standard normal variable
+	- $X = \sigma * Z + \mu$
+	- insert formula with $Z$ into original probability
+	- then transform the from and to values according to $Z$ expression
+	- look up probability
+
+## Log-Normal Distribution
+- if the logarithm of the function is normally distributed
+- formulas are on the formula sheet
+- problem with Gaussian -> negative values have 50% probability
+- no negative demand or price in economics -> therefore log-normal
+	- log-normal can only have positive $x$-values
+	- then the logarithm is normally distributed
+
+## Exponential Distribution
+- related to [[#Poisson Distribution]]
+- events occurring at some rate, counting the time between events (e.g. 5 minutes between buses)
+	- made to measure and calculate waiting time
+- $\mathbb{E} = 1/\lambda$
+- $\mathbb{V} = 1/\lambda^2$
+- different parameters than $\lambda$ possible (e.g. $\beta$)
+
+## Independent Random Variables
+- correlation/causation problem kind of
+- example: temperature and ice cream consumption
+- $\mathbb{E}[f * g] = \mathbb{E}[f] * \mathbb{E}[g]$
+- $\text{Cov}(X, Y) = 0$  ... independence requires 0 covariance
+	- 0 covariance does not require independent variables
+	- also true for $n$ random variables $\text{Cov}(X_1, ..., X_n) = 0$
+
+## Properties of Expectation, Variance, Convergience
+- #todo I zoned out
+- a lot of playing around with formulas and proving parts of the formula sheet
