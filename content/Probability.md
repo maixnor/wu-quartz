@@ -82,3 +82,13 @@
 ## Uniform Continuous Distribution
 - integral between 2 values of continuous probability
 - e.g. wheel of fortune in the top half -> 0.5
+
+## Gaussian (Normal) Distribution
+- parameters with defaults: $\mu$ = 0 and $\sigma$ = 1 
+- area under curve ($\int_{\infty}^{-\infty} f(x) = 1$) is always 1
+- when calculating or looking up value of probability
+	- area under each side is 0.5 -> symmetry of curve
+	- important to know whether the interval goes to right or left -> subtract or add
+- when looking up the $z$ when given a probability
+	- look at table other way round -> find probability and read the $z$
+- 
