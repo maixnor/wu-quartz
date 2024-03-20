@@ -21,6 +21,10 @@
 - measure of reliability -> statement about uncertainty
 
 # Data 
+
+## Which data?
+- if data is qualitative or quantitative is dependent on the experiment
+- cloth size can be qualitative -> (S, M, L) or quantitative -> (120 cm, 150 cm)
 ### Qualitative Variables
 - cannot be measured in numbers
 - nominal variable
@@ -42,4 +46,18 @@
 	- there must be a natural 0 
 		- e.g. temperature in Celsius has no natural 0, Calvin does
 
+## Sources
+- published source
+- designed experiment -> full control over all variables, artificial environment
+- observational study -> data collection within natural environment
 
+## Population vs Sample
+- representative sample
+	- mostly done using random samples
+	- analogy with pot of soup -> could taste different in different parts of the pot
+- ensuring reliability of results
+
+## Sampling Error
+- Selection Bias -> if certain subsets of a population are under/over represented within sample
+- non-response bias -> not ensuring that data is collected from all experimental units
+- measurement error -> just wrong values at time of analysis
