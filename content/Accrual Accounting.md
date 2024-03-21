@@ -1,5 +1,5 @@
-
-
+- accruals give an easier question to the question how much profit one makes
+	- does not give any statement about cash flow
 
 # Example - Shoes
 - purchase shoes at 10$ (cash)

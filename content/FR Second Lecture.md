@@ -52,11 +52,29 @@
 - EBIT: operating result
 - PBT: profit before tax
 - (N)PAT: profit after tax
-- 3 main types of costs -> cost of sales
+- cost of sales ... directly attributable costs + plant/equipment overhead
 	- materials
 	- salaries
 	- depreciation
 - expenses by nature -> materials, salaries, depreciation
 - expenses by function -> cost of sales, marketing, R&D, etc
 
-- [[Accrual Accounting]]
+- [[Accrual Accounting#Example - Shoes]]
+
+- [[IFRS#Revenue Recognition]]
+
+- back to Henkel -> only when Henkel has done everything they need to do to complete a sale i.e. delivered all the goods, etc
+	- just a contract is not enough
+	- just hopeful thinking is not enough
+- sales is often toyed with quite intensely
+
+- if it is likely that products will be returned (e.g. due to poor quality) then the share of sales is not included in the sales figure
+	- true for spikes (new production launch regarding 40% sales)
+	- true for everyday business (e.g. 1.5% of products are returned)
+
+- back to Henkel -> adjusted EBIT. What is that?
+	- "adjusted" includes the restructuring during the merger of "detergents" and "care" into "consumer brands"
+	- "adjusted" includes one-time costs of leaving Russia this year
+	- message to investors -> why the figures are so low
+	- [[Restructuring]]
+		- firing people and external contractors

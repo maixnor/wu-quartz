@@ -9,6 +9,7 @@
 - IAS -> older
 - IFRS -> recent
 
+- current IFRS Standard: 15
 
 ## Variations of GAAP
 - National GAAP
@@ -21,3 +22,9 @@
 - normally nationally regulated
 - in IFRS "under management judgement"
 	- are placed within report
+
+### Revenue Recognition
+> I sold something, when can I add this to my books?
+
+- as soon as one is "entitled" to received money at a later time
+	- i.e. it is guaranteed by law that I will received money
