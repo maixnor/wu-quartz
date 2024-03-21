@@ -1,6 +1,8 @@
 The continuous movement of cash into and out of a business during a business year.
 
-- Cash is the most liquid asset of a business (notes, bank deposits)
+> Cash is the most liquid asset of a business (money bills, bank deposits)
+
+- all the Cash Flows summed up are the change in position of "Cash" in the [[Balance Sheet]]
 
 different positions
 - operations (normal business activities, production, sales)
@@ -34,3 +36,11 @@ continuous (more than 1 year) negative cash flow is a telltale sign of a struggl
 - sell and leaseback
 - stimulate sales for cash (e.g. discounts)
 - delay own payments
+
+# Indirect Method
+- start from operating profit from [[Profit and Loss Statement]] 
+- minus non-cash income
+	- amortization, depreciation, etc
+- plus non-cash expenses
+	- changes in inventory, etc
+- = cash flow from operations
