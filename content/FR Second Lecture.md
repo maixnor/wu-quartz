@@ -78,3 +78,5 @@
 	- message to investors -> why the figures are so low
 	- [[Restructuring]]
 		- firing people and external contractors
+
+- [[Trirangular Relationship]]
