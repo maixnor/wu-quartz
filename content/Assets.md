@@ -1,13 +1,13 @@
 > #todo copy from FR 1 slides 
 
-## Asset Types
+# Asset Types
 - Current (Short Term)
 - Non-Current (Long Term)
 - Tangible 
 - Intangible
 
 
-# Property, Plant and Equipment
+## Property, Plant and Equipment
 - land 
 - real estate
 - buildings
