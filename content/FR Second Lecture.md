@@ -86,3 +86,4 @@
 - [[Inventory]]
 - [[Expenses]]
 - [[Evaluation of Assets]]
+- [[Assets]]
