@@ -1,5 +1,12 @@
 > #todo copy from FR 1 slides 
 
+# Impairment
+- there is a fire in the 
+
+### Impairment Fraud (kind of)
+- One can use impairment to mask high profits
+- Kind of 
+- 
 # Asset Types
 - Current (Short Term)
 - Non-Current (Long Term)

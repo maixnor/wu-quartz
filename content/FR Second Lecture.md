@@ -88,3 +88,8 @@
 - [[Evaluation of Assets]]
 - [[Assets]]
 - [[Depreciation]]
+- Bad Debt
+	- the debt is impossible to be payed back (bankruptsy) -> this is gone -> write-down
+		- trade receivable is not being payed back -> expense
+	- the debt is unlikely to be payed back (not responding to warnings) -> re-asses
+		- find out what is the probability that it is not payed back

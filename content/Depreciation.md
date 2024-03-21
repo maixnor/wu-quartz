@@ -24,3 +24,11 @@ When adding depreciation into the price calculations and the customers pay that 
 	- BS: ppe -4, cash +7, retained earnings +3
 	- PL: +3 (income 7 - expense 4)
 	- Balance Sheet Sum +3 (from PL)
+
+# Example - Machine, but Fair Value
+-> [[Evaluation of Assets#Fair Value]]
+
+- book value is 1.000, Fair Value is 1.200
+	- BS: ppe +200, retained earnings +200
+	- CF: 0 -> 
+	- PL: +200 -> write-up = income
