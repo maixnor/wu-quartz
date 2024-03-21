@@ -1,0 +1,3 @@
+- Deferral -> cash moves now, product later
+- Accrual -> product moves now, cash later
+	- booking now for later payment
