@@ -1,1 +1,2 @@
-- [[First Lecture FR]]
+- [[FR First Lecture]]
+- [[FR Second Lecture]]

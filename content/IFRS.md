@@ -1,5 +1,5 @@
 - International Financial Reporting Standard
-- anglo-saxon tradition -> [[First Lecture FR#Accounting Traditions|Accounting Traditions]]
+- anglo-saxon tradition -> [[FR First Lecture#Accounting Traditions|Accounting Traditions]]
 - https://irfs.org
 
 - issued by IASB (International Accounting Standards Board)
