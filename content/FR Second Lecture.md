@@ -28,6 +28,35 @@
 - TikTok remains unprofitable -> huge sales, yet no profit
 	- strong focus on growth -> investments lower profit
 	- similar to if not purely R&D costs
+	- any profit distribution does not effect profit itself
 - China "firmly opposes" any forced sale of TikTok
 
+# Some more Henkel
+- CEO says company is on a good path -> obviously
+- Ebit Marge between 12% and 13.5%
+- Competitor Beiersdorf did better than Henkel last year
 
+### Earnings Call
+- conference call of CEO + CFO with investors and analysts
+- explaining what happened last year and what is planned for this year
+	- 4.2% organic sales growth
+	- battery production
+	- plans to divest underperforming 350 Million EUR until end of 2024
+		- underperforming ... not meeting profit margin of 12%
+- free cash flow ... cash which can be used for anything -> [[Hierarchy of Financing]]
+	- financing which is not bound to any agreement
+	- e.g. when taking out a loan the bank wants to know what this money will be used for, your money you can used for ANYTHING
+
+# Income Statement & Balance Sheet
+- [[Profit and Loss Statement]] = [[Income Statement]], they are the same
+- EBIT: operating result
+- PBT: profit before tax
+- (N)PAT: profit after tax
+- 3 main types of costs -> cost of sales
+	- materials
+	- salaries
+	- depreciation
+- expenses by nature -> materials, salaries, depreciation
+- expenses by function -> cost of sales, marketing, R&D, etc
+
+- [[Accrual Accounting]]
