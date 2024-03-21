@@ -83,4 +83,4 @@
 - how do companies calculate the operating cash flow?
 	- [[Cash Flow#Indirect Method]] 
 	- direct approach would mean to have a second set of books for all cash transactions
-- 
+- [[Inventory]]
