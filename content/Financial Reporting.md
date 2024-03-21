@@ -8,6 +8,8 @@
 - What owners and stock holders have contributed
 
 ## Exceptions to triangular relationships
+- [[Trirangular Relationship]]
+
 - [[Depreciation]], not in [[Cash Flow Statement]]
 - non-cash changes in provisions ... Rückstellung
 	- pension schemes (after 10 years)
