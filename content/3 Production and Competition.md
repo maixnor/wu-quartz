@@ -2,7 +2,7 @@
 - last one was consumer taking care of needs
 	- demand given
 - this one is suppliers and how they take actions and decisions
-	- supply given
+	- supply given (price given)
 
 # 3 Steps
 - revenue expectations
@@ -74,9 +74,33 @@
 - marginal cost vs marginal product of labor
 
 ### Long Term
-- 
+- capital can be adjusted too
+	- capital / labor combination can be chosen at will
+- [[Isocost]] -> all combinations of capital and labor
+	-  constant function $-\frac{w}{r}$
+- Isocost function and Isoquant function have to intersect
+	- lowest cost until Isocost is tangent to Isoquant curve
+	- $-\frac{w}{r} = MRTS = + \frac{MP_L}{MP_K}$
+	- $\frac{MP_L}{w} = \frac{MP_K}{r}$
+- change in Input Cost (wage $w$ or rent rate $r$)
+	- tangent line changes slope and therefore intersection point
+	- e.g. wages rise -> hire less workers -> substitute with more capital
 
+### Expansion
+- short term -> only labor can be increased (faster but higher Isocost)
+- long term -> scaling labor and capital equally (least Isocost -> more efficient)
+- for different quantities drawing different cost functions
+	- envelope of functions are linear if returns to scale constant
+- choosing output amount -> calculating best cost function -> calculating best capital / labor combination
 ## Maximum Profit
+- choosing optimal output amount
 - Marginal Revenue = Marginal Costs
+	- function is always concave
+- what if maximum profit is negative?
+	- shut the company down -> 0$ profit > negative profit
+	- long term: $p \geq AC(q)$ ... price needs to be larger than average cost of quantity
+	- short term: $p \geq AVC(q)$ ... price needs to be larger than average variable cost of quantity
 
-	
+## Market Supply
+### Short Term
+- just summing up all individual supply functions
