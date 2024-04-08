@@ -116,6 +116,7 @@
 - relative income increases
 - increased relative income -> negative effect in demand
 - negative effect in demand > increased demand due to cheaper prices
+- one example: rice in Asia
 
 
 

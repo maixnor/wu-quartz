@@ -13,7 +13,7 @@
 # Contents / Topics
 - [[1 Micro? Economics?]]
 - [[2 Consumer is King]]
-- [[3]]
+- [[3 Production and Competition]]
 - [[4]]
 - [[5]]
 - [[6]]
