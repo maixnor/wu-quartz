@@ -16,7 +16,6 @@
 - groups of 4
 - use group label/number during communication
 
-
 # Content
 - [[Probability]]
 - [[Statistics and Data, Describing qualitative data]]

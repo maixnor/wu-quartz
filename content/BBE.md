@@ -38,3 +38,4 @@ up till here at least 16 ECTS
 ### All Time
 - [[BBE Internship + Seminar]]
 - [[Free Electives]]
+- [[Latin Glossary]]
