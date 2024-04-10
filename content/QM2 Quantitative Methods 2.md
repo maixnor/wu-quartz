@@ -19,7 +19,7 @@
 - [[Probability]]
 - [[Statistics and Data, Describing qualitative data]]
 	- [[Explanation of Concepts Home Assignment 2]]
-- [[Describing Quantitative Data]]
+- [[Describing Qualitative and Quantitative Data]]
 - [[Sampling Distributions, CLT]]
 - [[Confidence Intervals]]
 - [[Hypothesis Testing]]
