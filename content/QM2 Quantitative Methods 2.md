@@ -7,7 +7,6 @@
 
 ## Grading
 - quiz questions 10 points
-- individual work 35 points 
 - midterm 20 points
 - case study 20 points
 - final exam 50 points
