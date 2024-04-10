@@ -1,0 +1,11 @@
+# Qualitative Data
+- no numbers -> only categories
+- absolute frequency: amount of data points fitting a description (category)
+	- e.g. passengers being male and in 2nd class
+	- base for bar charts
+- relative frequency: relative amount of data points fitting a description (category)
+	- e.g. 70% of passengers are male
+	- base for pie charts
+	- `category | absolute freq | relative freq`
+	- `   SUM   |       n       |     1`
+- 
