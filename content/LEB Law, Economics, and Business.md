@@ -1,7 +1,7 @@
 # General
 - email: complaw@wu.ac.at
-- Part 1: Vicky Robertson
-- Part 2: 
+- Part 1: [[Vicky Robertson]]
+- Part 2: [[Claus Staringer]]
 # Contents
 ### Part 1
 - [[Intellectual Property Law]]
@@ -10,5 +10,6 @@
 	- [[Questions at the End of Second LEB Lecture]]
 - [[Anti-Competition Law and Abuse of Power Law]]
 	- [[Questions at the End of Third LEB Lecture]]
+- [[Intro into Tax Law and Tax Policy]]
 ### Part 2
 - [[Tax Law]]

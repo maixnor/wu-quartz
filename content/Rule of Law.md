@@ -1,3 +1,4 @@
+> Is there a law for it? Otherwise it does not exist.
 
 - Not a police state
 - Constitutional state in which constitutional law governs the legislation and laws govern the administration

@@ -1,0 +1,5 @@
+- not everyone will own a house
+- Vienna is mostly a tenant society
+- the more west you go in Austria the more ownership is occuring
+- richest countries are Greece and Italy -> huge cultural ownership 
+	- ownership makes you rich
