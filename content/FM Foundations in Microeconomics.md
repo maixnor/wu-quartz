@@ -14,7 +14,7 @@
 - [[1 Micro? Economics?]]
 - [[2 Consumer is King]]
 - [[3 Production and Competition]]
-- [[4]]
+- [[4 Perfect Competition]]
 - [[5]]
 - [[6]]
 - [[7]]

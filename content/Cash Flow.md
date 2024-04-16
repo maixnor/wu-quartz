@@ -39,8 +39,8 @@ continuous (more than 1 year) negative cash flow is a telltale sign of a struggl
 
 # Indirect Method
 - start from operating profit from [[Profit and Loss Statement]] 
-- minus non-cash income
+- minus [[Non-Cash Transactions#Income|non-cash income]] 
 	- amortization, depreciation, etc
-- plus non-cash expenses
+- plus [[Non-Cash Transactions|non-cash expenses]]
 	- changes in inventory, etc
 - = cash flow from operations

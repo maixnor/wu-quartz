@@ -11,7 +11,7 @@
 - [[Trirangular Relationship]]
 
 - [[Depreciation]], not in [[Cash Flow Statement]]
-- non-cash changes in provisions ... Rückstellung
+- [[Non-Cash Transactions|non-cash]] changes in provisions ... Rückstellung
 	- pension schemes (after 10 years)
 - "dirty" changes to equity i.e. booked directly into equity
 ## Value of Assets in Balance Sheet
