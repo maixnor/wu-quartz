@@ -1,0 +1,21 @@
+name: Tag Monthly Commit
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Runs at midnight on the first day of every month
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set Tag
+        run: |
+          # Get the current month and year
+          current_month_year=$(date +"%m-%Y")
+          # Tag the current commit with the current month and year
+          git tag -a $current_month_year -m "Monthly tag for $current_month_year"
+          # Push the tag
+          git push --tags
+
