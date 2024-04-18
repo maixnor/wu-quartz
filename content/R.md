@@ -172,6 +172,3 @@ evaluate(fd, -2, 2, 0.1)
 evaluate(gaussian, -1.96, 1.96, 0.1)
 
 ```
-
-
-
