@@ -1,0 +1,18 @@
+# Clicker Question Feedback
+- Profit Margin
+	- 60% Profit Margin of Academic Publishing Houses
+	- 30% Services
+	- 2% food industry
+- [[BvD]]
+- Return on Equity
+	- Net Profit / Equity
+- Return on Assets
+	- (Net Profit + interest payments) / (Equity + Liabilities)
+- Financial Rations have **NO** clear cut definition (except Earnings per Share)
+	- there might be slight differences, maybe have large implications
+	- best to calculate the ratios yourself
+	- Earnings per Share -> [[IAS]] 33
+	- most Statements have a Glossary of some sort
+- [[Hyper Market]] #todo
+- [[Working Capital]]
+- [[Financial Ratios]]

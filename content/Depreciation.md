@@ -5,7 +5,9 @@ Every year an asset looses some value based on the lifetime on the asset. Differ
 
 # Stone to Gold
 When adding depreciation into the price calculations and the customers pay that price then you turned stoned to gold. Since the depreciation is never leaving the cash account you "made up" profits.
-
+## Where to Find in Income Statement
+- Depreciation is not in a single account in [[Income Statement]]
+	- Depreciation of R&D Building is under R&D expenses, etc
 # Example - Machine 
 - purchase of machine at 20
 	- BS: ppe +20, cash -20

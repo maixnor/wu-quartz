@@ -1,0 +1,5 @@
+- Group EBT after consolidaiton
+- Tax expenses added up for all legal entities in the group
+	- different taxation laws under different jurisdictions
+		- e.g. Brazilian Subsidiary is taxed in Brazil (might be lower/higher than groups tax rate)
+- Group Effective Tax Rate is $\frac{\text{combined EBT}}{\text{combined Tax}}$

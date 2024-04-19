@@ -159,4 +159,31 @@
 ##### Tax Reconciliation Statement
 - if the whole worldwide income was subject to local taxation
 	- because local income is subject to local tax
-- 
+## Taxable Profit
+- definition of taxable profit is not the exact tax base
+	- almost all countries have amendments (each country has different rules)
+- A sort of [[Cash Flow#Indirect Method]]
+	- Accounting Profit before Tax
+		- individual statement -> taxation happens on legal entity
+	- + Disallowed Expenses
+		- Excess Depreciation
+			- Impairment, Write-downs (e.g. write-down for bad debt), other estimates
+		- Excess Provision
+		- Fines
+		- Hospitality
+			- going on a nice dinner/lunch with your customers, buying concert tickets
+	- - Special Allowances
+		- Capital Investment, etc
+			- e.g. dividend income -> avoid double taxation
+			- not a benefit, just a basic principle to keep the system going
+	- - Non-Taxable Income
+		- not allowed to deduct from accounting profit, but from taxable income
+	- Calculate tax by statutory tax rate (Austria 23%)
+	- = Current Tax Expense of Year XXXX
+		- feeds back into income statement (P/L)
+		- EBIT - Income Tax + [[Deferred Tax]]
+		- = Net Profit "After Tax"
+	- Effective Tax Rate
+		- income tax / EBT
+		- ETR != Statutory Tax Rate
+		- Why is there a difference? -> [[Tax Reconciliation Statement]]
