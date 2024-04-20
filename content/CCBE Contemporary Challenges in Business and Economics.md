@@ -1,6 +1,6 @@
 # Overview
 ## Course Instructor(s)
- - Jesus
+ - [[Jesus Crespo]]
 	- www.worldpoverty.io
 	- www.worldemissions.io
 	- consultant for world bank, central bank of austria, etc
@@ -12,7 +12,7 @@
 	- [[Poverty]] and [[Inequality]]
 	- [[Climate Change]]
 	- [[Globalization - An Introduction]]
-- Essletzbichler
+- [[Essletzbichler]]
 ## Topics
 - Challenges for Economics and Businesses
 - perspectives to understand those challenges

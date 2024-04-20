@@ -388,9 +388,9 @@
 ### Why could one be surprised by the effectiveness of international law? 
 - even though there is no "world executive" which can punish the actions of a state, international law is still quite effective
 - states can issue sanctions against one another
-- emergent behavior
+- [[emergent behavior]]
 ### Why is international law effective? 
-- emergent behavior
+- [[emergent behavior]]
 ### How can states consciously create new rules of international law? 
 - basically, writing it down
 - conclude international treaties and conventions
