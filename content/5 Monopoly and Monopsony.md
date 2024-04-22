@@ -107,6 +107,7 @@ $$\frac{p - MC}{p} = -\frac{1}{\epsilon _d}$$
 - all market power with demand side
 - e.g. military, labor market (in certain industry)
 	- military is just 1 per country, but with many defense contractors
+	- labor market can force low wages with lower amount of people
 - instead of profit there is net value
 	- Marginal Value = Marginal Expenditure
 - monopsonist buyer wants to maximize net value
