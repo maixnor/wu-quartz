@@ -29,19 +29,7 @@ the brand or the quality of the product is unique enough to create value
 such a "small" market that nobody else wants to participate
 [[USP]]: only product available
 ## Market Barriers
-### Market Saturation Barrier
-- A saturated market is harder to join in on
-- Competitors can still join in markets which are not as separated
-	- Red Bull in EU market
-	- Monster in US market
-### Initial Investment Barrier
-- a high investment for any competitors to build up a brand similar to the original
-### Innovation Barrier
-- it is just too hard to join the race because the innovation costs are so high
-	- Apple with its M2 chips
-### Patent Barrier
-- you can't use my technology or I'll sue you
-	- pharma is big with patents
+- [[Entry Barriers]]
 ## Market-Based View
 - from [[Michael Porter]] (Harvard)
 - product oriented

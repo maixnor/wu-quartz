@@ -1,0 +1,4 @@
+- eliminate [[Goodwill]]
+- eliminate some other parts
+- add [[Hidden Reserves]] if information is available
+	- loan taker will be happy to provide this information

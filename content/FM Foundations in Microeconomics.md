@@ -15,7 +15,7 @@
 - [[2 Consumer is King]]
 - [[3 Production and Competition]]
 - [[4 Perfect Competition]]
-- [[5]]
+- [[5 Monopoly and Monopsony]]
 - [[6]]
 - [[7]]
 - [[8]]

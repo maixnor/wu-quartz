@@ -1,0 +1,1 @@
+companies investing in lobbying to secure their monopolistic position
