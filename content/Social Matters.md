@@ -5,7 +5,6 @@ Stakeholders:
 - Investors
 - Governments
 - Employees (part of business)
-
 ### Corporate Social Responsibility CSR
 Topics:
 - Sustainability
@@ -36,21 +35,10 @@ Information in reports:
 > Sustainable development is development that meet the needs of the present without compromising the ability of future generations to meet their own needs
 
 &amp; Cro Harlem Brundtland - Rio Summit 1996
-
 ### Sustainable Development Goals
 by United Nations
 
-#todo extract to own page
-
-1. No Poverty
-2. Zero Hunger
-3. good health and well-being
-4. quality education
-5. gender equality
-6. clean water and sanitation
-7. afforadble and clean ene
-8. #todo get rest from slides
-
+[[Sustainable Development Goals by UN]]
 ### Business Case for CSR (Caroll 2015)
 CSR can help with:
 - winning more customers
@@ -60,7 +48,6 @@ CSR can help with:
 - save energy costs (in the long run)
 - access to investment and funding opportunities
 - business legitimacy and reputation
-
 ### Circular Economy
 Recycling
 - reduce waste

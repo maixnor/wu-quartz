@@ -1,4 +1,5 @@
-# [[Environmental Destruction]]
+# Environmental Destruction
+- [[Environmental Destruction]]
 - The Great Accelerations
 	- everything is growing expentially
 	- good as bad equally

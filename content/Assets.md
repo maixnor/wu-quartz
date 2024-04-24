@@ -1,4 +1,4 @@
-> #todo copy from FR 1 slides 
+> #todo copy from FRA 1 slides 
 
 # Impairment
 - there is a fire in the 
