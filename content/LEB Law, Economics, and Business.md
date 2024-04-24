@@ -10,7 +10,6 @@
 	- [[Questions at the End of Second LEB Lecture]]
 - [[Anti-Competition Law and Abuse of Power Law]]
 	- [[Questions at the End of Third LEB Lecture]]
-- [[Intro into Tax Law and Tax Policy]]
 ### Part 2
-- [[Tax Law]]
+- [[Intro into Tax Law and Tax Policy]]
 - [[Income Tax]]
