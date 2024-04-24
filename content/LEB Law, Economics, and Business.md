@@ -13,3 +13,4 @@
 - [[Intro into Tax Law and Tax Policy]]
 ### Part 2
 - [[Tax Law]]
+- [[Income Tax]]
