@@ -1,0 +1,6 @@
+- mostly flat rate -> 27.5% KöSt in Austria
+- dual income tax system
+	- different income tax for different kinds of income
+		- why? capital income is easily not reported -> lower tax rate offers incentive to include it anyways
+			- and lobbying and politics
+- dividend payments are not taxed -> already taxed with company paying the dividend

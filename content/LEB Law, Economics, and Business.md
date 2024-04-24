@@ -12,4 +12,5 @@
 	- [[Questions at the End of Third LEB Lecture]]
 ### Part 2
 - [[Intro into Tax Law and Tax Policy]]
+	- [[Tax Law]]
 - [[Income Tax]]
