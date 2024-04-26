@@ -1,3 +1,10 @@
+# The List
 - [[KPMG]]
 - [[Deloitte]]
-- #todo complete this list
+- [[EY]]
+- [[PwC]]
+
+# Why?
+- global network
+	- all subsidiaries can be audited by same auditors with equal standards
+- 

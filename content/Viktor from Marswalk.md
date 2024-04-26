@@ -86,7 +86,7 @@ Why is it important to split up the process?
 - customer contracts
 - go to big lawyer companies and choose their startup prices
 	- do not use friends that study law
-- work with the [[Big 4]] 
+- work with the [[The Big 4]] 
 - in the long term get a dedicated person for these tasks
 
 # Q&A After

@@ -1,0 +1,9 @@
+- what is material?
+- outside-in perspective
+	- financial materiality
+	- relevant for investors
+	- e.g. due to climate change there is less water in the river -> less production in water power plant
+	- e.g. due to climate change your farm is experiencing worse droughts -> higher costs for watering (if possible even)
+- inside-out perspective
+	- impact of firm on community
+	- e.g. CO2 emmissions

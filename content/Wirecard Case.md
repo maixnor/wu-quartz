@@ -1,0 +1,7 @@
+- 66% of balance sheet was made up
+- faked the Bank
+- faked the offices
+	- even with state actors (there was no real office)
+- switch from [[EY]] to [[KPMG]]
+	- KPMG could not confirm a lot of information
+	- qualified audit opinion -> ringing alarm bells

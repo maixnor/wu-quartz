@@ -1,0 +1,19 @@
+- EU decides what is green and what isn't
+	- addresses [[Green Washing]] -> less approved
+		- [[DWS Case]]
+		- activists challenge green washing
+			- rather honest 0% alignment than fake 10%
+	- any kind of [[defense industry]] is not deemed as green
+		- [[defense industry]] will face higher financing costs therefore 
+- have to report on
+	- Revenue
+	- CAPEX
+	- OPEX
+- generates a percentage on how much money is used or made for/from green endevours
+	- problems: 
+		- perspectives change rapidly (e.g. is nuclear energy green or not?)
+		- laws are slow to change (technological advancements may be too fast)
+- collecting data on all subsidiaries around the world
+	- digital infrastructure
+		- data collection (finding out about data points)
+		- 

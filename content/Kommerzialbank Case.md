@@ -1,0 +1,5 @@
+- confirmations of receivables from banks are supposed to be sent directly from bank to auditors, not via the firm being audited
+- here the confirmation was crafted from the firm
+	- photoshoped the documents
+	- even traveled physically to Tirol to get a stamp from Tirol 
+		- genuinely criminal intent

@@ -1,3 +1,4 @@
+also called Quick Ratio
 
 (current assets - inventory) / current liabilities
 ... should be as close to 1, but not under

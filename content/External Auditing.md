@@ -1,0 +1,29 @@
+- [[The Big 4]] vs [[Second Tier Auditors]]
+- [[Professional Skepticism]]
+	- about finding mistakes, not fraudulent/criminal behavior
+- group management report ... Lagebericht
+- KAM ... Key Audit Matters
+	- matters which are of most significant during report
+- reasonable vs limited assurance
+	- [[sustainability report]] ... limited assurance
+	- limited ... we don't know of any material misstatement
+- [[IAASB]]
+- Audit Opinion
+	- unqualified -> always preferred
+		- in EU qualified opinions are very uncommon
+		- in USA qualified opinions are more common
+	- qualified -> ringing alarm bells
+	- disclaimer of opinion (not giving any opinion)
+	- adverse (gross misstatement) -> all over the news
+- very high workload during change of year (1st of December until 31st of January)
+- event is recognized after 31st of December but before finalization of report
+	- if cause is before 31st -> include in report
+	- if cause is after 31st -> next years report
+	- if effect is material -> "subsequent events" included anyways
+## Auditors Report of Henkel
+- governance report is only checked for completeness, not for correctness
+- auditors opinion:
+	- comply in all material respects with [[IFRS]]
+- KAMs
+	- "recoverability of goodwill and trademarks and other rights with indefinite useful lives"
+	- "recognition management of pension provisions"
