@@ -29,11 +29,8 @@
 - only one [[profit and loss statement]]
 	- cannot distinguish income between products
 - great for [[Process and Production Perspective#Pipeline vs Platform|Platform]] businesess
-#todo get from slides
 
 ### Multidivisional From
-#todo get from slides
-
 - from General Motors
 - each car got a separate [[profit and loss statement]]
 - creating incentives to work harder and achieve profits
@@ -49,7 +46,7 @@
 
 # Recruiting
 ## Modes
-#todo get from slides
+#todo get from BS1 slides
 ### Traditional Recruiting
 
 ### Headhunting

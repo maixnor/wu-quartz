@@ -34,7 +34,7 @@
 		- "Statutory law. Law in the books"
 		- is written down in the books
 
-#todo get notes for the rest of differentiations
+#wontfix get notes for the rest of differentiations
 
 ### Law and business
 - law as a barrier or impediment to private enterprise... pursuing other aims
@@ -62,7 +62,7 @@
 #### Goal
 understanding and answering legal questions for the intermediate exam
 #### Case Study
-#todo add pic from slides
+#wontfix add pic from slides
 → Sub stands for subsidiary
 → Sub B
 	- 25% are Free floating/on the stock market. Mostly anonymous and we don't know who owns them
@@ -73,7 +73,7 @@ understanding and answering legal questions for the intermediate exam
 When a customer has a contract, its better to have it with Sub B, so they can seize the assets. When doing business with holding, it is more difficult.
 
 ##### When Yellow gets bought by blue:
-#todo add pic
+#wontfix add pic
 - Buys Holding: buying keys to garage and therefore getting contents of it
 - Buys Sub B: buying contents of garage
 - Price should be the same
@@ -81,16 +81,16 @@ When a customer has a contract, its better to have it with Sub B, so they can se
 - Before buyer owns 100% of target company
 
 ###### Buying the Business
-#todo add pic
+#wontfix add pic
 new company gets created: SPV (special purpose Vehicle). The subsidiary is right underneath holding. its only purpose is to buy the target company
 
 ###### Where does the money come from?
-#todo add pic
+#wontfix add pic
 1. Bank provides 500m EUR to buy Sub B. Bank will not agree to lend money to SPV because its an empty shell. Doesn't have any assets. Bank will only be willing to lend money to Sub B because it has assets
 2. Money gets transmitted to SPV
 
 ###### Purchase
-#todo add pic slide 12 and 13
+#wontfix add pic slide 12 and 13
 1. target company moves ownership from seller to SPV
 	1. Seller gets 500m EUR
 	2. target company is now part of holding
@@ -104,14 +104,14 @@ new company gets created: SPV (special purpose Vehicle). The subsidiary is right
 → Free floating shareholders are getting "scammed" since they now are a debtor without any decision
 
 ###### After purchase
-#todo add slide 14
+#wontfix add slide 14
 - down-stream merger. SPV and Target Company merge so one disappears
 - now target company owes debt to Sub B
 
 → this is also called a <mark class="hltr-orange">debt push down</mark>
 
 #### Analysis
-#todo add pic slide 16
+#wontfix add pic slide 16
 of (legal) position of parties
 - holding company and its shareholders
 	- are happy
@@ -123,16 +123,16 @@ of (legal) position of parties
 	- the bank has no claim against other companies in the structure
 - target and its creditors'
 	- shareholders have limited liability, so it doesn't affect them as much.
-	- The situation has worsened. #todo check if true
+	- The situation has worsened. #wontfix check if true
 	- Creditors have to face the fact, that <mark class="hltr-orange">debt load of target company has increased</mark>
 - (minority) shareholders of Sub B
 	- unhappy
-	- #todo get notes for this from Beni
+	- #wontfix get notes for this from Beni (Circular Dependency)
 - creditors of Sub B
 	- not every creditor is as sophisticated as a bank. Like trade creditors or employees. These creditors are in the spotlight and suffer from this. They're in the spotlight from a legal and government perspective
 
 
-→ mandatory bid when buying more than 30% of a company. Shareholders have to have the option to sell shares. Here, shareholders of target company #todo check if true
+→ mandatory bid when buying more than 30% of a company. Shareholders have to have the option to sell shares. Here, shareholders of target company #wontfix check if true
 
 → Minority shareholders and creditor protection is very important!
 

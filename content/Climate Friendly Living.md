@@ -38,5 +38,3 @@
 - changes need to be
 	- effective -> do what they should
 	- feasible -> resistance to change by public must be low
-### Table
-#todo get table with actors from slides

@@ -44,7 +44,6 @@
 - Challenges to Mitigation 
 	- Companies stay dirty
 - Challenges to Adaption
-	- #todo what is this?
 - -> [[Jesus Crespo]] created a model to project GDP and GDP per Capita for **all countries** until 2100
 	- Population projections from WHO
 	- [[Population Pyramids]]
@@ -57,7 +56,7 @@
 		- previous projection was 2070 -> too optimistic, female education is not going as well as expected
 	- new Data will be published in the [[COP]]24 
 # Environmental Depletion
-## Example of [[Deforestation]]
+## Example of Deforestation
 - also applicable to other metrics (air pollution, CO2 emissions)
 
 - Core Question: How do rich countries changes when increasing its wealth? How is deforestation evolving?

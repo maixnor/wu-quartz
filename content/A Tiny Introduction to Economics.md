@@ -76,8 +76,6 @@ Marginal Quantities: When changing the inputs a little, how does the output chan
 Finding a way that the marginal revenue matches their marginal costs. Then their profit is maximized.
 
 ## Abstraction and Mathematics
-#todo get quotes from slides
-
 Economics often use abstract models, often in mathematical form.
 
 Advantages:
@@ -103,7 +101,6 @@ The Toolbox of an economics:
 - rationalism
 - deduction
 - induction
-
 ## Popper  Logic
 Science vs Pseudo-Science
 

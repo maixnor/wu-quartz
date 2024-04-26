@@ -6,4 +6,3 @@
 		- people buy into the future [[Elon Musk]] is selling to them
 - Talk about Tomorrow
 	- Investors invest into tomorrow
-- #todo get image from slides about business model story

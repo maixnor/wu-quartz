@@ -63,33 +63,7 @@ Marginal Quantities: When changing the inputs a little, how does the output chan
 
 Finding a way that the marginal revenue matches their marginal costs. Then their profit is maximized. -> [[Optimization]]
 # Abstraction and Mathematics
-#todo get quotes from slides
-
-Economics often use abstract models, often in mathematical form.
-
-Advantages:
-- transparent language for results and benchmarks
-- allowing a (hopefully) straightforward way to confront the theoretical results with empirical evidence through predictions 
-
-Role Model of Physics:
-- when throwing a fall off a building, what is the speed after 3 seconds?
-- Physics has no problem with using wrong model
-	- the problem with this model is air friction
-	- It doesn't matter in our model, because it is negligible
-- Economics wants to do it like that
-	- a lot of abstraction
-	- a lot of assumptions, to keep complexity down
-	- question: did I abstract and assume the correct things?
-	- example air friction: cannot abstract air friction when dropping a feather 2 meters but can be when dropping a ball 2 meters
-
-Problem of social sciences:
-- Impossible (or at least very hard) to conduct experiment
-
-The Toolbox of an economics:
-- empiricism
-- rationalism
-- deduction
-- induction
+- [[A Tiny Introduction to Economics#Abstraction and Mathematics]]
 # Popper Logic
 Science vs Pseudo-Science
 
