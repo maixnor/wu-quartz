@@ -16,6 +16,6 @@
 - [[3 Production and Competition]]
 - [[4 Perfect Competition]]
 - [[5 Monopoly and Monopsony]]
-- [[6]]
+- [[6 I shall use my Power]]
 - [[7]]
 - [[8]]

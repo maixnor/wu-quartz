@@ -3,7 +3,7 @@
 	- music: physical media -> digital media -> streaming
 	- software: SaaS, low cost of reproduction, [[Winner Takes It All]], [[Network Effect]]
 - Price
-	- price discrimination: free/basic/pro/enterprise plans
+	- [[price discrimination]]: free/basic/pro/enterprise plans
 	- discounts, promotions, special offerts
 	- device discrimination: phone/desktop have different price (hotel)
 	- dubious pricing-strategies: [[Dubious Pricing Strategies#Drip Pricing|drip pricing]]
