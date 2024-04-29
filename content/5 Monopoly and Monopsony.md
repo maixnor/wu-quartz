@@ -58,11 +58,16 @@ $$\frac{p - MC}{p} = -\frac{1}{\epsilon _d}$$
 - the higher the Lerner index, the less competition 
 - the higher the markup, the less competition
 
-| Industry           | Lerner Index | Markup Factor |
-| ------------------ | ------------ | ------------- |
-| ---                |              |               |
-| Food               | 0.26         | 1.35          |
-| #todo finish table |              |               |
+| Industry  | Lerner Index | Markup Factor |
+| --------- | ------------ | ------------- |
+| ---       |              |               |
+| Food      | 0.26         | 1.35          |
+| Tobacco   | 0.76         | 4.17          |
+| Textiles  | 0.21         | 1.27          |
+| Apparel   | 024          | 1.32          |
+| Paper     | 0.58         | 2.38          |
+| Chemicals | 0.67         | 3.03          |
+| Petroleum | 0.59         | 2.44          |
 ### Measuring Monopoly Power
 - Lerner Index 1 -> complete Monopoly
 - Lerner Index 0 -> perfect competition
