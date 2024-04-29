@@ -40,7 +40,6 @@
 - unfair purchase/selling prices
 - limiting production, markets, or technical development
 - dissimilar conditions to equivalent transactions
-- typing #todo find out more about that
 
 - exploitative abuse vs exclusionary abuse
 	- exploit -> let them live and benefit off of their lower market power

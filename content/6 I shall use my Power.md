@@ -27,11 +27,20 @@ only 1 price for all markets:
 - set MR = MC
 - get combined Q* -> then get combined p*
 	- p* should be between p_1* and p_2*
+#### Two-Part Tariffs
+- [[Two-Part Tariffs]]
 #### Combinations (1 market, multiple products)
 - separate pricing
 	- different prices in different markets
-- pre-bundling + tying
-	- e.g. you can only buy a car with original wheels
-		- car wheel tied to car purchase 
+- pre-bundling + [[Tying]]
 - mixed bundling
-	- 
+## Large Example at the End
+- independent goods $\epsilon_{1,2} = 0$
+	- relative markup is the inverse of the other product
+	- product with higher elasticity has lower price
+- complements $\epsilon_{1,2} < 0$
+	- monopolist will charge a price lower than in case with independent goods
+- substitutes $\epsilon_{1,2} > 0$
+	- monopolist will charge a higher price than in case with independent goods
+	- otherwise there would be flocking behavior
+		- make the customer choose, not just downright prefer 1
