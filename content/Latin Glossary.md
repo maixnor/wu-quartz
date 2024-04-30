@@ -1,3 +1,5 @@
+#### Ex Nihilo
+"out of nothing"
 #### Qua
 "as" "which way"
 #### Pari Passu
