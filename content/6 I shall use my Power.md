@@ -34,7 +34,10 @@ only 1 price for all markets:
 	- different prices in different markets
 - pre-bundling + [[Tying]]
 - mixed bundling
+
 ## Large Example at the End
+#todo type out example from picture
+## Elasticity of 
 - independent goods $\epsilon_{1,2} = 0$
 	- relative markup is the inverse of the other product
 	- product with higher elasticity has lower price
@@ -42,5 +45,4 @@ only 1 price for all markets:
 	- monopolist will charge a price lower than in case with independent goods
 - substitutes $\epsilon_{1,2} > 0$
 	- monopolist will charge a higher price than in case with independent goods
-	- otherwise there would be flocking behavior
-		- make the customer choose, not just downright prefer 1
+
