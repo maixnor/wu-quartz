@@ -8,18 +8,18 @@ from [[Xenia Miklin]]
 - Provisioning Systems
 
 # Climate Change
-#todo get definition from slides
+![[Climate Change#Definition]]
 
 ### Humans
 - global CO2 concentration has risen drastically due to human development
 	- troughs because of ice-times 
 	- spikes during warmer times
-#todo get graph from slides
+#wontfix get graph from slides
 - Annual CO2 emmissions by world region
 - Temperatures have been rising very quickly
 
 ### Planetary boundaries
-#todo get graph from slides
+#wontfix get graph from slides
 - essential for sustainable human development
 - 6 out of 9 boundaries crossed
 - multiple interconnected ecological crises
@@ -76,15 +76,15 @@ from [[Xenia Miklin]]
 - impact inequalities
 	- rich vs poor
 - policy-making inequality
-	- #todo slides
+	- #wontfix slides
 
 - Carbon inequality as pointed out in [[Tackling climate breakdown and delivering economic justice must go hand in hand|this paper]]. Top 10% of income pollute 50%
 - total per capita emissions
-	- #todo get from slides
+	- #wontfix get from slides
 
 # Social Thresholds
 - Doughnut economics 
-	- #todo get from slides
+	- #wontfix get from slides
 - diminishing returns between resource use and social performance
 	- aim should be for **sufficiency**
 	- more is not always better
@@ -92,7 +92,7 @@ from [[Xenia Miklin]]
 - Sufficiency in practice
 	- [[Human Need Theory]]
 - linking resource use to social outcomes
-- science of social provisioning #todo grab source from slides
+- science of social provisioning #wontfix grab source from slides
 
 ### Provisioning
 - goods need to be produced, distributed, utilized
@@ -102,7 +102,7 @@ from [[Xenia Miklin]]
 	- land use
 - social elements
 	- instituations (markets, states)
-- #todo continue from slides 41
+- #wontfix continue from slides 41
 
 ### Universal Basic Services
 - example: free public transport

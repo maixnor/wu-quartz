@@ -40,7 +40,7 @@
 	- command and control policies -> directly modify behavior
 	- market policies -> takes that modify behavior
 ## Shared Socioeconomic Pathways
-- #todo get image from slides
+- #wontfix get image from slides
 - Challenges to Mitigation 
 	- Companies stay dirty
 - Challenges to Adaption
@@ -50,7 +50,7 @@
 		- Assumptions for Projection
 			- business and usual
 			- e.g. Kenia will evolve as other countries have historically
-	- #todo insert global projection from slides here
+	- #wontfix insert global projection from slides here
 	- most important country for global population: Nigeria
 	- population peak in Nigeria by 2080
 		- previous projection was 2070 -> too optimistic, female education is not going as well as expected
@@ -89,4 +89,4 @@
 		- China: depending on which border the difference is great
 		- Dominican Republic: Wild Fires during Slave Revolts decimated forest cover 
 - Forest cover decreases until ~Brazils GDP per capita and increases from then onwards
-	- #todo get image from slides
+	- #wontfix get image from slides

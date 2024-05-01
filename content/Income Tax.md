@@ -50,7 +50,7 @@ tick markes taxed or not
 - [!] selling stocks -> basically [[Capital Gains Tax]]
 - [!] rental payments 
 	- related to [[Inheritance Tax]]
-	- related to [[Definition of Income]]
+	- related to [[Income#Definition]] 
 - [ ] lottery win
 	- already tax withheld with lottery
 

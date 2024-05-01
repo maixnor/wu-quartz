@@ -15,7 +15,7 @@
 		- most important in USA
 		- "You can talk about the EPS with every taxi driver"
 	- most Statements have a Glossary of some sort
-- [[Hyper Market]] #todo
+- [[Hyper Market]] #todo #question 
 - [[Working Capital]]
 - [[Financial Ratios]]
 - Limitations of Financial Analysis
