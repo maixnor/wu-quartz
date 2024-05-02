@@ -87,3 +87,21 @@ G = Debt / Equity
 
 debt to equity ratio, leverage ratio
 Gearing of 1 ... 50% equity, 50% liabilities
+
+
+# Dump from [[Profitability]]
+#todo incorporate
+### EBITDA
+
+### EBITDA-margin
+
+### EBIT
+
+### Return on Equity
+ROE 
+(profit before tax ant interest) / equity
+### Return on capital employed
+ROCE
+(profit before tax and interest) / (total capital employed)
+### Return on net assets
+(profit before tax and interest) / (assets - long-term liabilities)

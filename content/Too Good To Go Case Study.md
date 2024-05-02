@@ -8,7 +8,6 @@ One more interesting aspect is the diversification of products in different coun
 
 The ongoing growth of TooGoodToGo is likely to continue since there is still a great potential in this market. Food waste is not just a pressing issue of society as a whole but also a lucrative business endeavor for all participants. First off there are still a lot more countries to expand to. France alone accounts for almost 60% of sales which all other 16 countries share 40% of meals saved [1]. Also more stores and restaurants have are continuously signing up and therefore there is still great potential even within well-established countries.
 
-#todo incorporate survey from gdrive from @pave
 # Sources
 [1] Annual Report TooGoodToGo GmbH https://tgtg-mkt-cms-prod.s3.eu-west-1.amazonaws.com/40102/ImpactReport2022_DE.pdf
 

@@ -74,7 +74,7 @@ Relevant Cases to know are the ones with their own links or which are mentioned 
 	- works of art, electricity, gas, waste
 	- produced within EU or third country
 - products in free circulation (after tariffs are paid with imports)
-- equivalent effect #todo
+- [[Measures having an Equivalent Effect]]
 #### Internal Taxation
 - no difference in internal taxation based imported/domestic
 	- e.g. products from Germany may not be taxed different than Austrian ones
