@@ -1,9 +1,9 @@
 ### Please correct me if I'm wrong!
 relating lecture [[Intellectual Property Law]]
 # Question 1
-- [!] IP generally refers to creations of the mind.
-- [!] The idea of IP protection is to enable people to exclusively exploit the intellectual property they have developed or created.
-- [!] The legislator has to balance colliding interests in order to determine the appropriate level of IP protection.
+- [x] IP generally refers to creations of the mind.
+- [x] The idea of IP protection is to enable people to exclusively exploit the intellectual property they have developed or created.
+- [x] The legislator has to balance colliding interests in order to determine the appropriate level of IP protection.
 - [ ] IP law protects an idea itself.
 # Question 2
 - [ ] A rightholder can license their rights to someone else. However, it is only possible to license IP rights in their entirety (exclusive right), meaning the licensee is now in the same position as the initial rightholder.
