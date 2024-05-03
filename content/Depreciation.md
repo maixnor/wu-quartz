@@ -34,3 +34,8 @@ When adding depreciation into the price calculations and the customers pay that 
 	- BS: ppe +200, retained earnings +200
 	- CF: 0 -> 
 	- PL: +200 -> write-up = income
+# Exaple - Machine, Residual Value
+- 50k for 10 years
+	- depreciation would be 5k (50k / 10y)
+- expected residual value is 10k
+	- depreciation would be 4k ((50k - 10k) / 10y)

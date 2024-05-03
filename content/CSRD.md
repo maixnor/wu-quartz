@@ -1,6 +1,9 @@
 - not yet implemented in Austria, should be implemented by summer 2024
 - replaces the [[NFRD]]
 - applies within [[EU]]
+	- [[ESRS]] is standard which have to be adhered to
+	- [[CSRD]] is just saying: "you have to comply with [[ESRS]]"
+		- directive needs to be implemented into domestic laws
 - increases requirements for disclosure
 	- now part of [[Management Report]]
 	- must be in digital and in machine readable format
