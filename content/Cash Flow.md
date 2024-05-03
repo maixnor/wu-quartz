@@ -37,10 +37,23 @@ continuous (more than 1 year) negative cash flow is a telltale sign of a struggl
 - stimulate sales for cash (e.g. discounts)
 - delay own payments
 
-# Indirect Method
+# Operating Cash Flow (Indirect Method)
+
 - start from operating profit from [[Profit and Loss Statement]] 
 - minus [[Non-Cash Transactions#Income|non-cash income]] 
 	- amortization, depreciation, etc
 - plus [[Non-Cash Transactions|non-cash expenses]]
 	- changes in inventory, etc
 - = cash flow from operations
+
+or another variant of writing it down
+
+- start with EBT
+	- - write-up
+	- + deprecation, amortization, impairment -> [[Non-Cash Transactions]]
+- +/- inventory receivables, deferred assets
+- -/+ payables (except for inventory), provisions, deferred liabilities (not loans, bonds)
+- = operations cash flow
+
+### Included/Excluded?
+- EBT (operating profit) already includes interest earnings and dividend earnings

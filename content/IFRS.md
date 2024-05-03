@@ -1,6 +1,6 @@
 - International Financial Reporting Standard
 - anglo-saxon tradition -> [[FRA First Lecture#Accounting Traditions|Accounting Traditions]]
-- https://irfs.org
+- https://ifrs.org
 
 - issued by IASB (International Accounting Standards Board)
 	- 14 accounting professionals

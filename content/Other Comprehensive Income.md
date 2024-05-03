@@ -1,0 +1,9 @@
+- Currency Exchange
+- Pension Accounting
+- very specific
+- fair value of real estate
+- the "profit" is not really profit and is not supposed to be a profit
+	- the "profit" is booked directly into equity, not included in P/L
+	- difficult to deal with
+	- not clear what exactly it is
+	- dirty surplus

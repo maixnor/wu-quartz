@@ -19,3 +19,9 @@
 - Croatia, Sweden (25%)
 - Switzerland 8.1%
 - USA 0%
+# Finances
+- sales tax accumulates with every step (first step is taxed (n-1) times, second step is taxed (n-2) times, etc)
+- VAT is actually taxed only at the last production step when going towards the consumer
+- Tax on the consumer
+- Not part of Revenue or Expenses (not effect on profit) 
+	- (stays out of P/L) (Just effecting Operating CF)
