@@ -1,5 +1,6 @@
-Credit: Aaron Meekins
-
+---
+contributed-by: Aaron Meekins
+---
 ## EU Competences
 - The capacity to act (through secondary or tertiary law) requires a respective competence of the EU
 - The EU competences are defined by primary law

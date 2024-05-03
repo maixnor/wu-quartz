@@ -95,7 +95,6 @@
 - sundry ... various, not important, too small categories to be listed individually here
 - can be against impairment of a brand (if listed in balance sheet) due to publicity damage
 - past event: various
-
 ### Intangible Assets
 - must be identifiable
 - indefinite/definite useful life span
@@ -106,7 +105,6 @@
 - development **must** be capitalized under [[IFRS]] -> on balance sheet
 	- requirements: technical feasibility, intention and ability to use/sell
 - development **must never** be capitalized under AT and DE laws
-
 ### Goodwill
 - brand names
 	- only acquired brand names may be capitalized
@@ -123,43 +121,39 @@
 - under IFRS Goodwill is never depreciated
 	- under local law you would have to
 	- but there is an annual impairment test for [[Cash Generating Unit]] 
-		- one company you buy can consist of multiple [[Cash Generating Unit]]s
+		- one company you buy can consist of multiple [[Cash Generating Unit]]
 #### How to get
 - given buying a whole company (not on stock market)
 - the fair value is bought at purchase price (fair value + goodwill)
 - purchase price: 300
 	- fair value of assets: 200
 	- amazing engineers employed: 100 <- this is the goodwill
-
-### Taxation
-#### Value Added Tax
+## Taxation
+### Value Added Tax
 - [[VAT]] (Mehrwertssteuer)
 - flow through (almost never in [[Profit and Loss Statement]])
-
-#### Income Tax
+### Income Tax
 - Group Effective Tax Rate
 	- Group with all subsidiaries buy an aggregate amount of income tax
 - pure Income Tax 
 - communal Income Tax
 - etc -> anything which taxes profits
-
-##### Tax Base
+#### Tax Base
 - tax base -> what value is the total tax derived from
 	- universally: profit - tax-deductions
 - in continental Europe the deductions are quite few
 - in anglosaxon system the deductions are quite numerous
-
-##### Current vs Deferred Tax
+#### Current vs Deferred Tax
 - current: needs to be payed right now
 - deferred: taxes which will probably occur in the future
 	- almost like a provision, but with taxes (also on asset side)
 	- [[tax loss carry-forward]]
 		- if I have a loss this year then next year I have to pay less
 		- if that is certain I can book it as an asset
-##### Tax Reconciliation Statement
+#### Tax Reconciliation Statement
 - if the whole worldwide income was subject to local taxation
 	- because local income is subject to local tax
-## Taxable Profit
+### Taxable Profit
 - definition of taxable profit is not the exact tax base
 	- almost all countries have amendments (each country has different rules)
 - A sort of [[Cash Flow#Indirect Method]]

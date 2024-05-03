@@ -13,16 +13,22 @@
 - only financial profit
 ## Return on ...
 ### Capital Employed
-ROCE = net profit before interest on longterm debt / (equity + longterm debt)
+- ROCE = net profit before interest on longterm debt / (equity + longterm debt)
+- ROCE = operating profit / operating assets
 
-Capital Employed $\neq$ Invested Capital
-ROCE is mostly calculated for special use-cases. So the Capital Employed will be different for each use-case
+- Capital Employed $\neq$ Invested Capital
+- ROCE is mostly calculated for special use-cases. So the Capital Employed will be different for each use-case
 
-ROCE = operating profit / operating assets
-
-How much do I make with this operation / use-case
+- how much do I make with this operation / use-case?
 ### Sales (EBIT Margin)
-
+- EBIT Margin = Profit / Revenue
+- for each sale, how much profit do I make?
+### Investment
+- ROI = profit / invested capital
+- how much profit do I generate based on all investments? 
+### Equity
+- ROE = profit / equity
+- how much do I (the owner, the company) get back for my investments
 ## Earnings per ...
 ### Share
 - ordinary -> any current stock holder
@@ -48,60 +54,26 @@ How much do I make with this operation / use-case
 ### Debt/Equity Ratio
 - exact opposite of [[#Equity Ratio]]
 ### Current Ratio
+- CR = Current Assets / Current Liabilities 
+- ability to pay back current liabilities 
+	- problems paying back trade payables?
+- also called "liquidity ratio" sometimes
 ### Acid-Test Ratio
 - [[Acid Test]]
 - ratio should be as close to 1, but not under 1
 	- unless large acquisitions or other good reasons
 ### Payout Ratio
 - PR = total payout amount / total profit
-# From Business and Society Lectures
-[[BS1 Business and Society 1]]
-### ROI
-Return on Investment
-ROI = Profit / Invested Capital
-
-How much money do I get back for my investments
-### ROCE
-ROCE = EBIT / Capital Employed
-
-Capital Employed $\neq$ Invested Capital
-ROCE is mostly calculated for special use-cases. So the Capital Employed will be different for each use-case
-
-ROCE = operating profit / operating assets
-
-How much do I make with this operation / use-case
-### ROE
-Return on Equity
-ROE = Profit / Equity
-
-How much do I (the owner, the company) get back for my investments
-### Profit Margin
-PM = Profit / Revenues
-
-How much profit do I make per sale.
-### Liquidity Ratio
-LR = Current Assets / short-term liabilities
-
 ### Gearing
-G = Debt / Equity
+- G = Debt / Equity
 
-debt to equity ratio, leverage ratio
-Gearing of 1 ... 50% equity, 50% liabilities
-
-
+- debt to equity ratio, leverage ratio
+- Gearing of 1 ... 50% equity, 50% liabilities
 # Dump from [[Profitability]]
 #todo incorporate
 ### EBITDA
-
+- [[EBIT vs EBITDA]]
 ### EBITDA-margin
 
-### EBIT
-
-### Return on Equity
-ROE 
-(profit before tax ant interest) / equity
-### Return on capital employed
-ROCE
-(profit before tax and interest) / (total capital employed)
 ### Return on net assets
 (profit before tax and interest) / (assets - long-term liabilities)

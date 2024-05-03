@@ -1,10 +1,8 @@
-Credit: Aaron Meekins
+---
+contributed-by: Aaron Meekins
+---
 Chap 6-11
-
 Pg 128-132 very important
-
-  
-
 # Background of EU
 - Institution built up in the post-WWII situation
     - First aim of European integration was the aim of lasting peace

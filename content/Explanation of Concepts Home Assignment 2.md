@@ -1,5 +1,6 @@
-Credit: GPT-4
-
+---
+contributed-by: GPT-4
+---
 Let's break down the mathematical concepts and methods used in our discussions, aiming for simplicity and clarity. Where applicable, I'll reference R code snippets to illustrate these concepts in action.
 # Statistical Variables and Their Types
 ### Categorical/Nomial Variables: 

@@ -1,3 +1,6 @@
+---
+contributed-by: Aaron Meekins
+---
 - [[Constitution]]
 	- new fundamental rights can also create new basic values
 - [[Separation of Powers]]
@@ -9,7 +12,6 @@
 	- Rulings, Judgements, Decisions -> individual cases
  - [[Federal Legislation]]
  - Diet ... Parliament of Land
-
 
 
 

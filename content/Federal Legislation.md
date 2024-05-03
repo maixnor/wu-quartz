@@ -1,3 +1,6 @@
+---
+contributed-by: Aaron Meekins
+---
 
 ![[federal_legislation_from_slides.png]]
 - red: [[National Council]] -> Nationalrat

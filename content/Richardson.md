@@ -1,4 +1,6 @@
-Credit: Yehor Musiichenko
+---
+contributed-by: Yehor Musilchenko
+---
 # Challenges in evaluating social progress
 Complexity in Diverse Contexts across different cultural and economic contexts. Adaptability and Continual Refinement: The compass must be flexible enough to accommodate changes and responsive enough to integrate new insights. Applying the compass involves navigating various trade-offs and constraints, both moral and practical. Reconciling global standards of social progress with local priorities and values. Also, the compass requires robust mechanisms for empirical validation and feedback.
 ## Social progress
@@ -7,7 +9,6 @@ the advancement of societies in terms of the normative dimensions that assess wh
 Values are fundamental beliefs or qualities that are inherently seen as good and desirable within a society, they evaluate the state of affairs, while principles are the standards or rules that guide the realization or distribution of these values (actions taken at various levels—from local to global).
 ## Evaluative Framework
 How the compass serves as a framework for tracking improvements in various evaluative dimensions such as freedom and human well-being. Comprises practical implications, including the challenges of measuring and applying these concepts to real-world scenarios.
-
 # Values:
 ## Well-being
 This value encompasses various dimensions of an individual's quality of life, including physical health, mental health, and overall life satisfaction. There are different theories of well-being, such as happiness, functioning and capabilities, and preference fulfillment. Well-being is seen not just in terms of personal satisfaction but also about societal support systems that enable individuals to achieve their potential.

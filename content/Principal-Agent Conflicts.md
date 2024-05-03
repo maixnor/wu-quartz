@@ -1,3 +1,4 @@
+related to [[Principal-Agent Principle]]
 ## Concept
 trying to settle conflicts between interest groups within company
 
@@ -8,7 +9,6 @@ trying to settle conflicts between interest groups within company
 	- corruption
 	- asymmetric information -> high "agency costs"
  - trying to reduce agency costs
-
 ## Relations
 ### Shareholders and Management
 - management by third parties -> managers do not have shares, just salaries
@@ -16,14 +16,12 @@ trying to settle conflicts between interest groups within company
 - monitoring costs
 - free-riding more common with many smaller shareholders -> wider held
 - monitoring mandatory, even if no single shareholders wants to enforce
-
 ### Majority and Minority Shareholders
 - applies to closely held companies
 - principals ... minority
 - agent ... majority
 - mostly affecting subsidiaries affected by parent company
 - less influence by shareholders on managers
-
 ### Shareholders and Other Stakeholders
 - employees protected by labor law
 	- works council

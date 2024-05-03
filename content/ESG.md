@@ -10,7 +10,7 @@
 - [[CSRD]] -> Sustainability Reporting of EU -> [[ESRS]]
 - SFDR
 - NABEG
-- [[EU Taxonomie Revelation]]
+- [[EU Taxonomy Revelation]]
 - ISSB Standards -> [[IAASB]] and [[IAS]]
 
 
@@ -21,7 +21,7 @@
 - who is this for?
 	- society -> society wants to know who is damaging the environment or at least not helping
 	- investors -> moral reasons and assessing impact of climate change for future
-		- e.g. will your production plant suffer from floodings?
+		- e.g. will your production plant suffer from flooding?
 		- e.g. do your workers in Bangladesh have good working conditions?
 - most suppliers of companies have no clue about emissions -> challenging, now required
 - more difficult for inherently not green industries (e.g. oil and gas)

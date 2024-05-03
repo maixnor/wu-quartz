@@ -29,27 +29,26 @@
 > The executive directors are responsible for assessing the group's ability to continue as a going concern
 - will the company still exist during the next year or is it dissolving next year
 	- if a company goes bankrupt it is not the auditors fault
-
 # IIA Three Lines Model
 - [[Three Lines of Defense]]
 # External Auditing
 - [[External Auditing]]
 # Corporate Governance Report
-- [[Principle Agent Principle]]
+- [[Principal-Agent Principle]]
 - governance report is about the whole structure, everything
 	- major shareholders
 	- GCGC declarations of compliance
 		- GCGC ... German [[Corporate Governance Code]]
 			- equivalent in Austria
-			- 
-		- #todo get 19 page PDF `191216_*`
+			- [[corporate-governance-code-012021.pdf]]
 - remuneration of management report
-	- how is management payed for correct incentives
+	- how is management payed 
+		- important for correct incentives
 	- basic remuneration -> fixed salary
 	- short-term variable annual cash remuneration -> profit of current year
 	- long-term variable share-based cash remuneration -> profit of next 10 years
 		- good idea to have more long-term than short-term
-		- share which can only be sold after 10 years
+		- e.g. through shares which can only be sold after 10 years
 		- manager has long left the company, but is still receiving money from company
 - remuneration report
 	- money actually payed to management

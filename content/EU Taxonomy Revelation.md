@@ -16,4 +16,3 @@
 - collecting data on all subsidiaries around the world
 	- digital infrastructure
 		- data collection (finding out about data points)
-		- 
