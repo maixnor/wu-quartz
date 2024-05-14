@@ -11,3 +11,5 @@ legal: taking action after something has happened
 #### Ex Ante
 "predicted" "forecast"
 legal: taking action before something is likely to happen
+#### Mutatis Mutandis
+"Having changed what needed to be changed"

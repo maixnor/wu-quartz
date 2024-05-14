@@ -17,7 +17,7 @@
 - [[4 Perfect Competition]]
 - [[5 Monopoly and Monopsony]]
 - [[6 I shall use my Power]]
-- [[7]]
+- [[7 Comes Only in Pairs]]
 - [[8]]
 - [[9]]
 - [[10]]

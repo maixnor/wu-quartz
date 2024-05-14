@@ -1,3 +1,8 @@
+Prerequisites:
+- identifyability
+- controlled by company
+- existence of future economic benefits
+
 Something, which price cannot be determined individually.
 
 e.g. a car has a fixed value
