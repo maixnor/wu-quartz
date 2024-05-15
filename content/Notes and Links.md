@@ -1,0 +1,22 @@
+# Just some ideas for Links
+- [[Due 2024-03-05#Etzioni]] 
+	- peer pressure into "climbing career ladde"
+	- peer pressure to earn (end spend after)
+- [[Due 2024-03-05#Stilwell]]
+	- unfair distribution by willingness and ability to work
+- [[Due 2024-03-12#Hodgson]]
+	- norms is to work and earn money
+- [[Due 2024-03-19#Hodgson]]
+	- is with all those norms and peer pressure the agent still self-interested or just following the social norms?
+- [[Due 2024-04-09#Crouch]]
+	- lobbying by large corporations to "keep up the work"
+	- also instead of innovating with technology people stay in jobs
+- [[Due 2024-04-23#Streeck]]
+	- gap between labor and capital
+		- GDP has increased x2 after inflation, wages did not after inflation
+- [[Due 2024-05-14#Schroeder]]
+	- is alienation worse with free markets or with coordinated economies?
+		- by design or by emergent behavior?
+	- is better education going to end at some point?
+- [[Due 2024-05-14#Witt]]
+	- can draw parallel, that also the labor market is also different in all countries to some extent with grouping possible on multiple levels

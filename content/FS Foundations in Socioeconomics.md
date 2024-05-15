@@ -8,6 +8,8 @@
 - [[Due 2024-04-23]]
 - [[Due 2024-04-30]]
 - [[Due 2024-05-14]]
+## Work vs Leisure
+- [[Notes and Links]]
 # On Campus
 ## Summaries
 - [[Richardson]]
