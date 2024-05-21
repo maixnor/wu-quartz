@@ -29,7 +29,7 @@ the brand or the quality of the product is unique enough to create value
 such a "small" market that nobody else wants to participate
 [[USP]]: only product available
 ## Market Barriers
-- [[Entry Barriers]]
+- [[Market Entry Barriers]]
 ## Market-Based View
 - from [[Michael Porter]] (Harvard)
 - product oriented

@@ -96,7 +96,7 @@ Positive and Normative tend to get mixed up.
 - Honesty
 - Replicability
 - Sufficiency
-#todo get rest from slides
+#wontfix get rest from slides
 # Occam's Razor
 When there are 2 hypotheses that explain the situation equally well, then choose the simpler one.
 # Logical Fallacies

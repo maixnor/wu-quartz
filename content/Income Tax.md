@@ -33,7 +33,6 @@ anything which goes above and beyond the absolute necessities of living is taxed
 		- promoted high fertility
 		- individual income added up and divided by head count (even children)
 		- e.g. in France -> a lot of French people don't pay income tax
-- 
 # Case Studies from LEB Lecture
  [[LEB Law, Economics, and Business]]
 ## Case Study 1
@@ -52,5 +51,5 @@ tick markes taxed or not
 	- related to [[Inheritance Tax]]
 	- related to [[Income#Definition]] 
 - [ ] lottery win
-	- already tax withheld with lottery
+	- tax already withheld with lottery
 

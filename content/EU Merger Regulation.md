@@ -1,0 +1,51 @@
+# Merger Regulation
+- only enforced by European Commission -> nationals have no control
+	- if not EU level, then nationals can act on national laws
+- Merger Regulation 139/2004 ([[EU Merger Regulation]])
+- Ex ante investigation -> prospective analysis, notifications of companies merging
+	- only after approval of Commission is the merge legal
+## Analysis under EUMR
+### Jurisdiction 
+- concentration
+	- change of control (not necessarily ownership)
+	- control ... decisive influence
+		- positive control: taking decisions about company
+		- negative control: hinder company from taking decisions (e.g. veto)
+	- sole control vs joint control (only a handful of companies together)
+		- no definite % of shares mentioned
+- [[Union Dimension]]
+- between EU and non EU undertakings
+	- EU can block the merger from the EU side (EU company may not merge) -> therefore merger is blocked entirely
+	- EU and other authorities may have conversations
+		- if no agreement is found the merger is blocked by either side or both
+### Substantive Analysis
+- [[SIEC Test]] -> is the position dominant after a merger?
+	- (i) SIEC - dominance (unilateral effects)
+	- (ii) SIEC - collective dominance (coordinated effects)
+	- (iii) SIEC - other than dominance (unilateral effects)
+- other factors
+	- degree of concentration of the relevant market
+		- 3 to 2 merger not appreciated
+	- level of market share held by parties
+	- competitor relations
+	- opportunities to switch suppliers for customers
+	- development of price and product
+	- assets such as data, IP rights
+		- against building IP monopoly (e.g. all patents in one company then)
+	- [[Research and Development]]
+- horizontal vs vertical mergers -> same as with horizontal vs vertical Agreements
+	- horizontal mergers: concentration measure
+		- [[HHI Herfindahl Hirschmann Index]]
+		- Horizontal Merger Guidelines (2004)
+		- sum of all squared market shares before and after the merger
+	- procedural aspects 
+		- notification
+		- phase I investigation
+		- phase II investigation
+		- [[one-stop-shop principle]] -> going **only** to the highest authority 
+		- referral to commission
+	- remedies
+		- may not be suggested by commission
+#### Telering Case (Maverick)
+- Telering was bought by T Mobile
+- Telering was a [[Maverick]] -> Keeping prices down so that the large players cannot increase prices excessively

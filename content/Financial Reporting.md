@@ -20,7 +20,8 @@
 ### Fair Value
 - Market value may be used
 - Cause of [[Financial Crisis 2008]]
-  - Inflation of [[Balance Sheet]]
+  - Inflation of [[Balance Sheet]] 
+	  - here not [[Inflation]] but just increasing numbers on [[Balance Sheet]]
   - When sold at less than book value depreciation kills the company if severe enough
 
 ## Financial Accounting

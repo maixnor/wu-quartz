@@ -1,8 +1,6 @@
-mostly international and EU law
-
+mostly international and EU law here
 
 # Definition of IP
-
 - Industrial Property -> used by companies
 - Copyright -> artistic
 
@@ -12,7 +10,6 @@ mostly international and EU law
 	- Intangible Goods
 	- Patents
 	- Information
-
 # Why Protection
 - problem: hard to create, easy to copy
 - cost of information = cost of copying
@@ -20,7 +17,6 @@ mostly international and EU law
 - moral rights to be associated to ones creation
 - promote creativity
 - downside: monopolies can be formed
-
 ## Copyright
 - aquisition: creation
 - only on works, not ideas
@@ -125,7 +121,7 @@ mostly international and EU law
 		- (MFN) Most Favourable Nation treatment -> best case for all members
 	- gives minimum requirements, more may be added by member state
 - no International Trademark
-	- "international trademark" is actually 125 individual trademarks
+	- "international trademark" is actually 126 individual trademarks
 - in EU there is union trademark
 - in EU there is NO union patent
 - principle of first sale #todo 

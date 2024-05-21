@@ -11,7 +11,7 @@
 - competition => [[Monopoly]]
 - many sellers buyers => one seller, many buyers
 - homogenous good => single product
-- free entry for competitors => limited entry ([[Strategic Perspective#Market Barriers]])
+- free entry for competitors => limited entry ([[Market Entry Barriers]])
 - price is given => price is set by company (high market power)
 - p = MC, p = AC => profit is maximized by output of $q$ where MR=MC
 ## Market Power
@@ -47,7 +47,6 @@ $$MR = p + p\frac{1}{\epsilon _d}$$
 	- negatively sloped market demand & marginal revenue curves
 - inelastic demand $-1 < \epsilon _d < -\infty \implies MR < 0$
 	- negative marginal revenue -> choose an output level which is in elastic demand
-
 ### Optimal Prices
 $$p = mMC$$
 - $m$ ... Markup
@@ -82,7 +81,7 @@ $$\frac{p - MC}{p} = -\frac{1}{\epsilon _d}$$
 - producer surplus ... profit + fixed costs
 - monopoly produces less units at higher price
 	- [[Rent Seeking]] or Corruption to keep monopoly
-- #todo add social cost graph
+![[FM_social_cost_monopoly.png]]
 ## Natural Monopoly
 - similar to [[Economy of Scale]]
 - when a single company can produce all the supply cheaper than if the load was split among multiple companies
@@ -106,7 +105,6 @@ $$\frac{p - MC}{p} = -\frac{1}{\epsilon _d}$$
 - first-order condition still holds:
 	- $MC = MR$
 - only partial redistribution of production, not complete redistribution
-
 ## Monopsony
 - exact opposite of monopoly
 - all market power with demand side

@@ -45,7 +45,7 @@
 - preemptive action by incumbents
 - excess capacity
 - selling expenses, including advertising
-- segmenting the market [[Market Segmentation]]
+- segmenting the market -> [[Market Segmentation]]
 - patents 
 - exclusive control over strategic resources
 - taking actions that raise rivals costs
