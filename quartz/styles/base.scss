@@ -26,7 +26,7 @@ section {
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 75%, transparent);
+  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
 }
 
@@ -53,8 +53,12 @@ ul,
   }
 }
 
+strong {
+  font-weight: $semiBoldWeight;
+}
+
 a {
-  font-weight: 600;
+  font-weight: $semiBoldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
@@ -74,6 +78,11 @@ a {
       background-color: none;
       border-radius: 0;
       padding: 0;
+    }
+    &.tag-link {
+      &::before {
+        content: "#";
+      }
     }
   }
 
@@ -171,9 +180,11 @@ a {
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
+          min-width: 140px;
         }
       }
     }
@@ -257,11 +268,9 @@ thead {
   font-weight: revert;
   margin-bottom: 0;
 
-  article > & > a {
+  article > & > a[role="anchor"] {
     color: var(--dark);
-    &.internal {
-      background-color: transparent;
-    }
+    background-color: transparent;
   }
 }
 
@@ -503,4 +512,9 @@ ol.overflow {
   ul {
     padding-left: 1rem;
   }
+}
+
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
 }

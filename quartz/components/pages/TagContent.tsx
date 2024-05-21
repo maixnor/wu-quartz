@@ -1,15 +1,15 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import style from "../styles/listPage.scss"
 import { PageList } from "../PageList"
 import { FullSlug, getAllSegmentPrefixes, simplifySlug } from "../../util/path"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { Root } from "hast"
-import { pluralize } from "../../util/lang"
 import { htmlToJsx } from "../../util/jsx"
+import { i18n } from "../../i18n"
 
 const numPages = 10
-function TagContent(props: QuartzComponentProps) {
-  const { tree, fileData, allFiles } = props
+const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
+  const { tree, fileData, allFiles, cfg } = props
   const slug = fileData.slug
 
   if (!(slug?.startsWith("tags/") || slug === "tags")) {
@@ -43,7 +43,7 @@ function TagContent(props: QuartzComponentProps) {
         <article>
           <p>{content}</p>
         </article>
-        <p>Found {tags.length} total tags.</p>
+        <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
         <div>
           {tags.map((tag) => {
             const pages = tagItemMap.get(tag)!
@@ -52,20 +52,33 @@ function TagContent(props: QuartzComponentProps) {
               allFiles: pages,
             }
 
-            const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`)[0]
-            const content = contentPage?.description
+            const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`).at(0)
+
+            const root = contentPage?.htmlAst
+            const content =
+              !root || root?.children.length === 0
+                ? contentPage?.description
+                : htmlToJsx(contentPage.filePath!, root)
+
             return (
               <div>
                 <h2>
                   <a class="internal tag-link" href={`../tags/${tag}`}>
-                    #{tag}
+                    {tag}
                   </a>
                 </h2>
                 {content && <p>{content}</p>}
                 <div class="page-listing">
                   <p>
-                    {pluralize(pages.length, "item")} with this tag.{" "}
-                    {pages.length > numPages && `Showing first ${numPages}.`}
+                    {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
+                    {pages.length > numPages && (
+                      <>
+                        {" "}
+                        <span>
+                          {i18n(cfg.locale).pages.tagContent.showingFirst({ count: numPages })}
+                        </span>
+                      </>
+                    )}
                   </p>
                   <PageList limit={numPages} {...listProps} />
                 </div>
@@ -86,7 +99,7 @@ function TagContent(props: QuartzComponentProps) {
       <div class={classes}>
         <article>{content}</article>
         <div class="page-listing">
-          <p>{pluralize(pages.length, "item")} with this tag.</p>
+          <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
           <div>
             <PageList {...listProps} />
           </div>
