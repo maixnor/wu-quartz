@@ -7,7 +7,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "tinylytics",
+      siteId: "CyMx3XtU1HjPdHnWxtSq",
     },
     baseUrl: "maixnor.github.io/wu-quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
