@@ -35,3 +35,25 @@
 		- first 3mn are deductible anyways -> 3mn
 		- after 30% of EBITDA -> 1.5mn
 	- conclusion: full amount of interest expense is deductible in this case
+# Case Study 2 (Panama)
+- givens:
+	- company A (25% tax, country X)
+	- company B (0% tax, country Y)
+	- A holds 100% of B
+	- B generates 10mn in year 1
+	- B distributes 10mn in dividends to A in year 2
+- how/when/where is the profit (10mn) taxed?
+	- year 1
+		- income taxed in parent company (25%)
+			- 2.5mn
+	- year 2
+		- dividend distribution
+		- no extra tax 
+# CFC
+- [[CFC]] 
+# Case Study 3
+- givens:
+	- #todo 
+- conclusion:
+	- not so smart
+	- still extraction from company for personal profit is due to personal income tax -> effectively same tax burden

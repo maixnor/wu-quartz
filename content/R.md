@@ -4,14 +4,11 @@ or Readability / Understandability
 To measure the quality of your code measure the WFTs per minute while somebody else is reading your code.
 
 Code Quality and Readability are subjective. Therefore most issues with code are like with food when it has gone off. Something is off about that smell. We don't know why and what is causing the feeling, but we can tell.
-
 ## The Basics
-
 ### Duplicates
 Duplication is the enemy of long-term projects. If you have the same code in 2 or more places put it inside a function. Otherwise changes in one place are not necessarily applied in the other place(s).
 
 No example here, check out [[#Everything together]]
-
 ### Names
 Variables and functions should be named properly. They signal what things are doing and what they are. I recommend to name variables with nouns and functions with verbs.
 
@@ -32,12 +29,10 @@ calulate_mean <- function(values) { ... }
 
 mean <- calculate_mean(interval)
 ```
-
 ### Comments
 Whenever you need to explain with comments what your code does it tends to be messy. Extract some things into functions and adjust the names of your functions or variables.
 
 I am aware that for the submissions we are expected to put comments in our code, we did it as well. But when writing the code and exploring solutions it should always be clear what your code does without comments. 
-
 ### (implicit) Loops
 R has the language feature which allows you to pass a vector to functions which would by definition only accept a single value. 
 
@@ -74,7 +69,6 @@ with_map <- function(before_increment) {
 ```
 
 Be careful tho since you can pack a lot of information into a single line or expression. Be aware where those implicit loops or are and if they are **obvious** easy to understand. The most dangerous loops are those which **stay undetected** by a reader.
-
 ### Functions when?
 I use functions to **abstract** my intentions. When I have a clearly defined function which can tell me the **intent** from just the name and its parameters then I don't have to read the implementation.
 
@@ -85,12 +79,10 @@ calculate_mean = function(values) { ... }
 find_highest_3_values = function(values) { ... }
 remove_values_below_x = function(values, x) { ... }
 ```
-
 ### Functions how?
 Functions should fit onto your screen entirely. Signs for bad code are either too long functions (20 lines or longer) and if the lines are too long to fit into a single line. R Studio per default does no line breaks (i.e. the rest of the line is put in the next line in the editor). If you can scroll sideways that is a bad sign (normally around 80 characters). 
 
 Please don't count the lines of your functions or the characters of your lines. They are feelings (smells) and are not mandatory rules.
-
 ### Label Variables / Functions
 When dealing with more complex computations or mathematical expressions things can get messy and very long. I recommend to just use some label variables like this.
 
@@ -100,7 +92,7 @@ $f(x, y) = {\frac{x + y^2 + x^2 + y + 3y^3}{45 + x^2 + y}}$
 
 ```r
 f <- function(x, y) {
-	upper <- x + y^2 + x^2 + y + 3y^3
+	upper <- x + y^2 + x^2 + y + 3*y^3
 	lower <- 45 + x^2 + y
 	upper / lower
 }
@@ -113,12 +105,10 @@ rieman_left = function(f,x,dx) f(x) * dx
 rieman_center <- function(f,x,dx) f(x + (dx/2)) * dx
 rieman_right <- function(f, x, dx) f(x + dx) * dx
 ```
-
 ### What belongs together
 Conceptually some things belong together. When things are related put them in the same location of the file. Think about the order and place of functions in relation to where they are used. Here a code snippet of that I have prepared for the first case study. 
 
 No separate example here, look at [[#Everything together]].
-
 ## Everything at once
 This is the code pieces from the first case study, you should be familiar with it. Notice how I structured the code into different logical "blocks". In the actual code there are no comments because they are not needed to understand the code. Here I have put in some comments to illustrate how the different "rules" I put forward are applied.
 

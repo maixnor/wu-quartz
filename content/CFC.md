@@ -1,0 +1,8 @@
+- >50% of capital control, voting rights, profit entitlement
+- <50% taxed of parent company
+- >1/3 of subsidiary is [[Passive Company Income|passive]]
+- Effect: CFC is taxed as if parent made profit
+	- no need for dividend distribution
+- exemption: valid commercial reasons
+	- [[Cadbury Schweppes]] carve out for "genuine economic activities"
+	- respect EU fundamental freedoms
