@@ -1,0 +1,7 @@
+- 38 members
+- coordinated domestic laws
+	- basically anti-lobbying
+- mainly tax laws affected
+- soft law -> only recommendations
+	- needs to be implemented into domestic law
+	- similar to [[EU]] directives
