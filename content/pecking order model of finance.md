@@ -1,0 +1,1 @@
+internal -> debt -> equity

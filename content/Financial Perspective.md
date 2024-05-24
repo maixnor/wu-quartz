@@ -29,23 +29,18 @@ Important Stuff to know:
 **[[Depreciation]]** ... Loss of Value, Loss of Wealth due to time/usage
 **[[Depreciation#Straight Line|straight line depreciation]]** ... each year the same amount of depreciation
 ## Cash Flow Statement
-#todo get from slides
-
 **net cash flow** after year 1: - 10.000 
 **net cash flow** after year 2: 30.000 
-year 3 & 4 are like year 2: 30.000
+year 3 & 4 are like year 2: 30.000 (60.000 combined)
 year 5: **net cash flow**: 0
 
-**Free cash flow**: 80.000 over 5 years
-
-Free cash flow = operating cashflow + cashflow from investing (or forecast)
-Why free? Because you are free to use it, money from a bank loan is not free to use
+[[Free Cash Flow]]: 80.000 over 5 years
 ## Income Statement
-Profit vs Loss Statement
+also known as [[Profit and Loss Statement]]
 
 Don't think about how much money left the bank account, but how many resources you have used. Spreading the cost of the taxi (25.000) on all 5 years instead of just the first year
 
-**Expenditure** ... Paying for something (Fueling car)
+**Expenditure** ... Paying for something (Paying for gas at gas station)
 **Expense** ... Using up resources (Driving car)
 
 **Depreciation** is an **Expense**.
@@ -119,36 +114,7 @@ Attaching a monetary value to a [[Cash Flow]] Stream
 
 Money of the future in comparison to today
 ### Discounting
-Calculations done without [[Risks]].
-
-The sum of discounted future cash flows $CF_t$ more than the investment $I$?
-$NPV=-I +\frac{CF_1}{1+r}+\frac{CF_2}{(1+r)^2}+\frac{CF_3}{(1+r)^3} +... +\frac{CF_t}{(1+r)^t}$; $NPV>0$ -> $(-I, CF_1, CF_2, CF_3, ..., CF_t)$ is a profitable investment
-$r$ ... discount rate
-$NPV$ ... [[Net Present Value]]
-#### Example Taxi
-Assumption: the taxi business is closed after 5 years
-
- $-40,000 +  \frac {30,000}{1+r} + \frac {30,000}{(1+r)^2} + \frac {30,000}{(1+r)^3} + \frac {30,000}{(1+r)^4} + \frac {45,000}{(1+r)^5}= 1001,637$ 
- for $r=0.05$
-
-The [[Net Present Value]] is positive, it would be a worthwhile investment
-
-Careful: This price also includes the driving of the taxi (done by entrepreneur)
-
-After hiring a taxi driver for 24k per year:
- $-40,000 +  \frac {6,000}{1+r} + \frac {6,000}{(1+r)^2} + \frac {6,000}{(1+r)^3} + \frac {6,000}{(1+r)^4} + \frac {21,000}{(1+r)^5}= -2.270$ 
- for $r=0.05$
-
-The [[Net Present Value]] now is negative. This would not be a good investment. You would get more money just saving with the bank at 5%
-#### 0 Discount Rate
-when solving the $NPV = 0$ for $r$ we can find the [[Internal Rate of Return]]. 
-
-Invest 200 now, get 220 in a year: $\frac{220}{200} - 1 = 10\%$
-
-But how can we solve for $r$ in more years than just 2? -> [[Newtons Approximation]]
-Basically brute force the values
-
-After brute forcing we get $0.032 < r < 0.033$ for this specific problem.
+- [[Discounting]]
 ### Amortization
 - How long is the investment going to take to pay for itself?
 - Either by cutting costs or increasing sales
@@ -159,7 +125,8 @@ After brute forcing we get $0.032 < r < 0.033$ for this specific problem.
 - is expected to be close to the [[Market Capitalization]]
 - there is no "correct" way of calculating the value
 - other factors: 
-	- income taxes
+	- [[Income Tax]]
 	- information of investors, providers of debt or other stakeholders
 	- measuring and managing the financial performance of the company
 - everything is just approximation
+	- "consulting the local glas sphere"

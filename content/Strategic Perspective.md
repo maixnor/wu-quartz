@@ -71,29 +71,6 @@ Travel, do internships, talk with people, find out what people need/want.
 
 do a [[SWOT Analysis]] on yourself
 
-## BCG Portfolio
-
-- Relative market share = $\frac{\text{own market share}}{\text{market share of strongest competitor}}$
-- Market Growth = #todo get from slides
-
-| x                  | Relative Market Share Low | Relative Market Share High |
-| ------------------ | ------------------------- | -------------------------- |
-| High Market Growth | Question Mark            | Star                     |
-| Low Market Growth  | Poor Dog                  | Cash Cow                           |
-
-- Poor Dog
-	- just don't bother anymore
-- Question Mark
-	- cash flow alone not sustainable
-	- either invest or divest
-- Star
-	- high cash flow - high costs
-	- cash flow sustainable for itself and investments
-	- invest or hold
-- Cash Cow
-	- high cash flow - low costs
-	- harvest for as long as possible
-
 ### Accounting Perspective
 [[BCG Portfolio]] focuses on cash flow
 
@@ -101,7 +78,7 @@ do a [[SWOT Analysis]] on yourself
 	- invest into innovation
 	- return to shareholders
 - uncontrolled use of finance by managers
-- pecking order model of finance: internal -> debt -> equity
+- [[pecking order model of finance]] 
 - internal capital vs external capital
 	- internal capital can be used in ANY way
 	- for external capital to be used one needs to ask the investors
