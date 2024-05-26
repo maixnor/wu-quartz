@@ -124,7 +124,7 @@ mostly international and EU law here
 	- "international trademark" is actually 126 individual trademarks
 - in EU there is union trademark
 - in EU there is NO union patent
-- principle of first sale #todo 
+- [[Principle of First Sale]]
 - problems: 
 	- overprotection, 
 	- developing countries not having access to important patents

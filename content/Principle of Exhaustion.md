@@ -8,4 +8,5 @@
 - normally with the first sale your rights are exhausted
 	- after you sold it you have no rights anymore
 	- buyer can do **whatever** he wants
+	- [[Principle of First Sale]]
 - slight adaptations in different fields of IP Law

@@ -1,10 +1,14 @@
+## Ratios
 - Relative market share = $\frac{\text{own market share}}{\text{market share of strongest competitor}}$
-- Market Growth = #todo get from slides
+	- separation between unit/dollar market share
+- Market Growth = $\frac{\text{total market unit sales in current year}}{\text{total market unit sales in previous year}}$
+	- could also be done with dollars instead
+## BCG Matrix
 
 | x                  | Relative Market Share Low | Relative Market Share High |
 | ------------------ | ------------------------- | -------------------------- |
-| High Market Growth | Question Mark            | Star                     |
-| Low Market Growth  | Poor Dog                  | Cash Cow                           |
+| High Market Growth | Question Mark             | Star                       |
+| Low Market Growth  | Poor Dog                  | Cash Cow                   |
 
 - Poor Dog
 	- just don't bother anymore
