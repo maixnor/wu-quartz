@@ -65,17 +65,7 @@ Finding a way that the marginal revenue matches their marginal costs. Then their
 # Abstraction and Mathematics
 - [[A Tiny Introduction to Economics#Abstraction and Mathematics]]
 # Popper Logic
-Science vs Pseudo-Science
-
-For something to be scientific it needs to be 2 things
-- logically consistent
-	- if it rains, the floor gets wet
-- needs to be falsifiable
-	- theory: all swans are white
-	- how to falsify: find a non-white swan
-	- if I can't find a white swan
-		- "I cannot falsify the theory yet"
-		- but the theory is not proven
+- [[Popper Logic]]
 # Cause and Effect
 Pattern Matching is used to derive insights from data.
 

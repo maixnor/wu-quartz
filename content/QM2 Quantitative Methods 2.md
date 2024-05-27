@@ -4,13 +4,11 @@
 - Wednesday Lectures
 	- no attendance required, but recommended
 - [zehra.eksi@wu.ac.at](mailto:zehra.eksi@wu.ac.at), [nurtai.meimanjan@wu.ac.at](mailto:nurtai.meimanjan@wu.ac.at)
-
 ## Grading
 - quiz questions 10 points
 - midterm 20 points
 - case study 20 points
 - final exam 50 points
-
 ## Case Study Groups
 - groups of 4
 - use group label/number during communication
