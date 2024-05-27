@@ -7,10 +7,11 @@
 - demand becomes perfectly elastic
 	- no loss of surplus
 ### Cournot Competition
+- [[Cournot Model]] #todo
 - same products, few providers
 ### Bertrand Competition
+- [[Bertrand Model]]
 - different products, few products
-
 # Product Differentiation
 ## Vertical Diff
 - quality
@@ -20,3 +21,7 @@
 - 
 
 #todo get image from slides
+# Summary
+![[FM_summary_competition.png]]
+- [[Backward Induction]] #todo
+- [[Nash Equilibrium]] #todo

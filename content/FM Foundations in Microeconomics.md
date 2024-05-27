@@ -7,7 +7,6 @@
 	- Groups of 6 
 - Written final exam (50%) (positive)
 - Multiple Choice questions (10%)
-
 # Timeline
 ![[mircoeconomics_timeline.png]]
 # Contents / Topics
@@ -18,6 +17,6 @@
 - [[5 Monopoly and Monopsony]]
 - [[6 I shall use my Power]]
 - [[7 Comes Only in Pairs]]
-- [[8]]
+- [[8 Games]]
 - [[9]]
 - [[10]]

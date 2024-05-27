@@ -2,3 +2,4 @@
 - [[Bundling]]
 # Oligopoly
 - [[Competition]]
+- [[Bertrand Model]]
