@@ -20,7 +20,9 @@
 $$P_{NY} = 240 - 4Q_{NY}, P_{LA} = 200 - 2Q_{LA}$$
 $$MC = 40$$
 #todo type this out
-#todo where does the 2 come from? from differentiating the Q^2 of marginal revenue
+> [!info]
+> where does the 2 come from? 
+> from differentiating the Q^2 of marginal revenue
 
 only 1 price for all markets:
 - take MR function in which all markets are willing to pay
@@ -34,7 +36,6 @@ only 1 price for all markets:
 	- different prices in different markets
 - pre-bundling + [[Tying]]
 - mixed bundling
-
 ## Large Example at the End
 #todo type out example from picture
 ## Elasticity of 
