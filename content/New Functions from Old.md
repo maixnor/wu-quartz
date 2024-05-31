@@ -27,8 +27,6 @@ $f \circ g \neq f * g$ ... also $f^2 \neq f \circ f$
 $f \circ g \neq g \circ f$
 they *might* be the same, but it is not generally true
 
-#todo redo 3x - x^3 and x^3 from slides
-
 $f(x) = 3x - x^3$ and $g(x) = x^3$
 
 $(f \circ g) (x) = f(g(x)) = 2$

@@ -1,7 +1,6 @@
+> [!info]
 > Game ... interaction between multiple agents which effect the others
-
 > Player ... actor, agent in this interaction
-
 ## History
 - [[submodules/wu-quartz/content/John von Neumann|John von Neumann]] 1928
 - [[John Nash]] 1949

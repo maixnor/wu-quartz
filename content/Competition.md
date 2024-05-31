@@ -24,4 +24,4 @@
 # Summary
 ![[FM_summary_competition.png]]
 - [[Backward Induction]] #todo
-- [[Nash Equilibrium]] #todo
+- [[Nash Equilibrium]]
