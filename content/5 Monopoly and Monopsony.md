@@ -121,6 +121,7 @@ $$\frac{p - MC}{p} = -\frac{1}{\epsilon _d}$$
 - Monopoly: Marginal Expenditure = Actual Expenditure = Supply = Value
 - Monopsony: Supply = Average Expenditure = Price
 	- basically suppliers are forced to produce below market value
+![[FM_monopsonist_buyer.png]]
 ## Monopoly vs Monopoly
 - monopoly
 	- MR = MC

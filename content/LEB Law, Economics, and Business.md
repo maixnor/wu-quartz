@@ -2,7 +2,7 @@
 - email: complaw@wu.ac.at
 - Part 1: [[Vicky Robertson]]
 - Part 2.1: [[Claus Staringer]]
-- Part 2.2: 
+- Part 2.2: [[Rita Szudoczky]]
 # Contents
 ### Part 1 - Competition
 - [[Intellectual Property Law]]
@@ -18,3 +18,4 @@
 - [[Corporate Income Tax Law]]
 ### Part 2.2
 - [[Tax Planning]]
+- [[Tax Planning 2]]

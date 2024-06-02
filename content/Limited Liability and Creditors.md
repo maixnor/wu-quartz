@@ -67,7 +67,7 @@ why is legal restriction still needed?
 	- even if there is a profit in the balance sheet the company may not be able to pay the [[Dividend|dividends]] since the profits are tied up in less liquid assets like real estate
 - hidden or disguised distributions (illegal)
 	- parent company pays lower than market value prices to subsidiaries
-		- called transactions 'at arms length'
+		- called transactions '[[At Arms Length]]'
 		- e.g. the owners wife is employed despite not working i.e. providing value to the company
 	- if reported the money needs to be payed back or compensated otherwise
 	- most common with majority shareholders, again discriminating against minority shareholders

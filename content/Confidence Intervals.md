@@ -3,7 +3,7 @@
 - we always have to add confidence level: $95\%$, $99\%$, etc
 ## Large Samples
 - similar to creating the $z$ score
-	- we can expect the sample mean $\bar{x}$ is good enough because of [[Sampling Distributions, CLT#Central Limit Theorem|Central Limit Theorem]]
+	- we can expect the sample mean $\bar{x}$ is good enough because of [[Central Limit Theorem]]
 	 $$z = \frac{\bar{x} - \mu}{\sigma_{\bar{x}}}$$
 	 $$z \sim N(0,1)$$
 - region is defined by confidence level as a symmetric range
@@ -14,7 +14,7 @@
 		- $+z = \text{97.5 percentile}$
 		- look at any $z$ table to get the results
 ## Small Samples
-- for small samples the [[Sampling Distributions, CLT#Central Limit Theorem|Central Limit Theorem]] is not holding anymore
+- for small samples the [[Central Limit Theorem]] is not holding anymore
 	- we need another assumption
 - we can use $t$-statistic distributions
 	- $t$-statistic distributions have thiccer tails
@@ -35,7 +35,7 @@
 	- all estimators in QM2 are unbiased
 - expressable as $\hat{p} = \frac{1}{n} * \sum^n_{i = 1} \text{Bernoulli}(p)$ where Bournoulli(p) is either 1 or 0
 	- summing up all yes (1) and no (0) values and divide by sample size $n$
-- after [[Sampling Distributions, CLT#Central Limit Theorem|Central Limit Theorem]] this can be considered the same as sample mean as long as $n$ is "large" enough
+- after [[Central Limit Theorem]] this can be considered the same as sample mean as long as $n$ is "large" enough
 	- $\hat{p} = \bar{x}$
 	- large is true when
 		- $n*\hat{p} \geq 15$ and $n*(1-\hat{p}) \geq 15$
