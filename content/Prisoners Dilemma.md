@@ -1,0 +1,15 @@
+- givens
+	- 2 prisoners in separate cells - no communication is possible
+	- if both prisoners do not confess -> both 2 years
+	- if both prisoners confess -> both 5 years
+	- if one prisoner confesses -> confessing 0 years, other 10 years
+- the dilemma
+	- in a perfect world (social optimum) it would be best for both prisoners to not confess
+		- social optimum ... sum of all payoffs
+		- result both 2 years
+	- in reality it is for both prisoners the dominant strategy to confess
+		- -5 > -10 and 0 > -2
+		- result both 5 years
+- result
+	- no [[Nash Equilibrium]] since the optimum (both not confessing) cannot be reached
+	- both players have dominant strategy of confessing -> both will confess

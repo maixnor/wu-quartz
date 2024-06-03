@@ -55,8 +55,32 @@
 #### Multiple Equilibria - Battle of the Sexes
 - when 2 strategies are exactly opposite to one another
 - combination of all payoffs are equally beneficial
-## Prisoners Dilemma
-#todo
-## No Solution
-#todo
+- multiple predictions are valid
+- actual solution is outside of scope of analysis
+	- i.e. depending on actions of actors the system will reach any [[Nash Equilibrium]]
+- 2nd order decision
+	- if there are multiple equilibria i.e. equally well for me
+	- then I can choose the equilibrium which hurts other player(s) the most
+### Prisoners Dilemma
+- [[Prisoners Dilemma]]
+- [[Bertrand Model]]
+### Maximin Strategy
+- no complete rationality or not folly informed players
+- even tho a [[Nash Equilibrium]] may be possible there is still the risk that the other player does not follow the optimal strategy
+	- when e.g. an investment is risky then it might be better to leave the dominant strategy and choose the risk-averse strategy
+	- risk-averse strategy -> maximin strategy
+- asking: "what is the worst thing that can happen?" for all possibilities
+	- maximin strategy -> choose the best worst thing
+### No Solution - Mixed Strategy
+- 0-sum game
+- e.g. rock-paper-scissors
+	- there is no clear profit-maximizing strategy
+- no [[Nash Equilibrium]] in pure strategies
+- **BUT** there is an equilibrium with **mixed strategies**
+	- mixed strategy ... taking probabilities of actions into account
+		- i.e. preferences of other players
+	- players are only willing to change their preferences "randomize" when there is otherwise no chance for profit
+		- e.g. during rock-paper-scissors one might pick one option multiple times to get an edge
+	- with symmetrical games they will always randomize -> always equal probabilities
+	- with asymmetrical games they will only randomize when chances are equal, otherwise players have dominant strategies
  

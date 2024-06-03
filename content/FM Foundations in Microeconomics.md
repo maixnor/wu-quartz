@@ -18,5 +18,5 @@
 - [[6 I shall use my Power]]
 - [[7 Comes Only in Pairs]]
 - [[8 Games]]
-- [[9]]
+- [[9 Games 2]]
 - [[10]]
