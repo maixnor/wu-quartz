@@ -1,8 +1,6 @@
 putting the workers, humans, first
-
 # Todays Motivation
 ## Dual-Factor Theory
-
 - intrinsic motivation is really important
 - after [[Frederik Herzberg]]
 ### Motivators
@@ -27,18 +25,15 @@ putting the workers, humans, first
 ## Intrinsic Motivation
 - inner feelings
 	- sports -> just feels nice
-
 ## Extrinsic Motivation
 - doing something for the reward
 	- studying slides to get a good grade
 - doing something for fearing punishment
 	- parking somewhere else to not get a ticket
-
 ## Complementary
 - sometimes both intrinsic and extrinsic are needed to get the job done
 - starting is mostly extrinsic motivation
 - keep doing is mostly intrinsic motivation
-
 ## Counteracting
 - being forced
 	- extrinsic motivation killing intrinsic motivation

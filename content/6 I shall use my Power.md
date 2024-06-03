@@ -22,7 +22,7 @@ $$MC = 40$$
 #todo type this out
 > [!info]
 > where does the 2 come from? 
-> from differentiating the Q^2 of marginal revenue
+> from differentiating the $Q^2$ of marginal revenue
 
 only 1 price for all markets:
 - take MR function in which all markets are willing to pay
