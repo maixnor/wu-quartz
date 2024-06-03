@@ -1,19 +1,19 @@
 > [!info]
 > Game ... interaction between multiple agents which effect the others
 > Player ... actor, agent in this interaction
-## History
+# History
 - [[submodules/wu-quartz/content/John von Neumann|John von Neumann]] 1928
 - [[John Nash]] 1949
 	- theory of Neumann and Morgenstern
 	- [[Nash Equilibrium]]
-## Games and Competition
+# Games and Competition
 - sequential or constant game
 ![[FM_game_theory.png]]
 - game plan
 	- each player has a predefined action/reaction trees
 	- imagine chess with pre-planned moves (e.g. chess openings)
 	- no game plan for chess (too many options)
-### Assumptions
+## Assumptions
 - every actor understands the payoffs of the game
 - players have preferences
 - [[Rationality]] - all players are rational -> maximize payoffs
@@ -21,15 +21,15 @@
 	- all information is available to everyone
 	- everyone knows that all information is known by everyone
 - players have unlimited reasoning and calculation ability
-#### Criticism
+### Criticism
 - players are not rational
 - not all players have all knowledge
-### Nash Equilibrium
+## Nash Equilibrium
 - [[Nash Equilibrium]]
 - for all players the utility has been maximized
 	- i.e. sticking to the current (best) option, since every other option is inferior
 - #todo math notation
-### Payoff Matrix
+## Payoff Matrix
 - $N$ - dimensional -> $N$ ... number of players
 - $m \times m$ matrix -> $m$ ... number of strategies of players
 	- square if all players have same (number of) strategies
@@ -41,18 +41,18 @@
 - complete information vs incomplete information
 	- information asymmetry -> [[Economics of Information]]
 	- we will only cover complete information in [[FM Foundations in Microeconomics|Micro]]
-### Solutions of a Static Game
+# Solutions of a Static Game
 - find the possible strategies of all players
 - determine the payoffs
 - find optimal strategies of all players
 - reach [[Nash Equilibrium]]
-#### Strategies
+## Strategies
 - dominant strategy
 	- whatever the others are doing a specific strategy is always the best
 	- player-specific, not all agents have to have the same dominant strategy
 - dominated strategy
 	- whatever the others are doing a specific strategy will always be inferior to another strategy
-#### Multiple Equilibria - Battle of the Sexes
+## Multiple Equilibria - Battle of the Sexes
 - when 2 strategies are exactly opposite to one another
 - combination of all payoffs are equally beneficial
 - multiple predictions are valid
@@ -61,17 +61,17 @@
 - 2nd order decision
 	- if there are multiple equilibria i.e. equally well for me
 	- then I can choose the equilibrium which hurts other player(s) the most
-### Prisoners Dilemma
+## Prisoners Dilemma
 - [[Prisoners Dilemma]]
 - [[Bertrand Model]]
-### Maximin Strategy
+## Maximin Strategy
 - no complete rationality or not folly informed players
 - even tho a [[Nash Equilibrium]] may be possible there is still the risk that the other player does not follow the optimal strategy
 	- when e.g. an investment is risky then it might be better to leave the dominant strategy and choose the risk-averse strategy
 	- risk-averse strategy -> maximin strategy
 - asking: "what is the worst thing that can happen?" for all possibilities
 	- maximin strategy -> choose the best worst thing
-### No Solution - Mixed Strategy
+## No Solution - Mixed Strategy
 - 0-sum game
 - e.g. rock-paper-scissors
 	- there is no clear profit-maximizing strategy
@@ -83,4 +83,40 @@
 		- e.g. during rock-paper-scissors one might pick one option multiple times to get an edge
 	- with symmetrical games they will always randomize -> always equal probabilities
 	- with asymmetrical games they will only randomize when chances are equal, otherwise players have dominant strategies
- 
+
+# Solutions of a Dynamic Game
+## Repeated Games
+- giving a new spin to [[Prisoners Dilemma]]
+### Finite Games
+- game is played a number of times
+- last-move optimization -> state at last move will be [[nash equilibrium]]
+- deviations from equilibrium are only possible, if the deviation is not punished in the next turn/state of the game
+- [[First Mover Advantage]] can be meaninful
+> [!info]
+> extensive form -> decision tree
+> think about pre-move decisions in chess
+> [[Backward Induction]]
+### Infinite Games
+- a game is not just played once, but infinitely many times
+	- i.e. there is no last move -> no last-move optimization
+- genuine repetition can flourish
+- [[First Mover Advantage]] only limited applicable
+#### Tit-for-Tat Strategy
+- I do what you did to me last time
+- this can sustain collusion for long times, even when there are disruptions
+- [[Stackelberg Theory]]
+#### Grim Trigger Strategy
+- I will collude, until you cheat only once
+- after the first cheat, I will always compete with you
+- this can sustain collusion for long times, until there is any disruption
+# Goals of Firms
+> Which actions give me an edge in the market?
+- make entry unattractive -> [[Market Entry Barriers]]
+- hurting competitors
+	- reduce output
+	- stop producing entirely (exit market)
+- setting threats
+	- empty threats 
+		- threats against player with dominant strategy are futile
+		- they will always be on top of others, you can only reduce the overall social optimum
+- [[First Mover Advantage]] - if present

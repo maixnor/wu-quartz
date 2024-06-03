@@ -23,5 +23,5 @@
 #todo get image from slides
 # Summary
 ![[FM_summary_competition.png]]
-- [[Backward Induction]] #todo
+- [[Backward Induction]] 
 - [[Nash Equilibrium]]
