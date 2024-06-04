@@ -2,9 +2,6 @@
 - What should economics focus on?
 - What can different approaches contribute?
 - Why socio-economics?
-
-#todo get table from slides
-
 ## Mainstream Economics
 - neoclassical economics
 	- scarcity
@@ -35,30 +32,25 @@ But:
 	- falsification
 	- status of empirical facts
 	- importance on "positionality" of researcher
-
 ### How to make sense of reality?
- #todo get from slides
-
+ #wontfix get from slides
 ### Theoretical lenses
-#todo get from slides
-
+#wontfix get from slides
 ## Socioeconomics
-- Multi-Disciplinary and Muti-Perspective thinking
-- The economy is not an independant entity separate from society
+- Multi-Disciplinary and Multi-Perspective thinking
+- The economy is not an independent entity separate from society
 - all decisions have **political** and **moral** results
 - actors do not have a level playing field
-- markets without **regulations** and **instituations** would destruct society
+- markets without **regulations** and **institutions** would destruct society
 - economic explanations cannot be reduced to single individuals
-
 ## Trade and Growth
-Correlational Effect clearly present
+[[Correlational Effect]] clearly present
 [[Prebish-Singer Hypothesis]]
 Causal effect of trade and growth -> [[Instrumental Variable Estimation]]
 [[Stolper-Samuelson Theorem]]
-
 ### Environmental Depletion
 - more trade requires more depletion for transportation
-- as countries grow richer they tend to get less pollutend
+- as countries grow richer they tend to get less polluting
 - empirical data for both sides is present
 	- neither direction is proven/can be proven currently
 - pollution haven

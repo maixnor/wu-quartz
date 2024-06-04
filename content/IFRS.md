@@ -12,6 +12,8 @@
 - current IFRS Standard: 15
 
 ## Variations of GAAP
+> [!info]
+> GAAP = generally accepted accounting practices
 - National GAAP
 - US GAAP
 - IFRS GAAP
