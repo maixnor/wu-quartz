@@ -5,7 +5,7 @@
 - Liabilities > Provisions -> rather sure that you will pay something in the future (court case)
 ### Notes from Clicker Questions
 - constraint in financial accounting under [[IFRS]]
-	- cost-benefit: #todo what is this?
+	- cost-benefit: #wontfix what is this?
 - impairment vs write-off
 	- book value of an asset is decreased through depreciation
 	- a sudden and unexpected event happens -> impairment
