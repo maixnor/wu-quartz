@@ -9,10 +9,18 @@
 - region is defined by confidence level as a symmetric range
 	- tails share $100\% - \text{confidence level} = 1-\alpha$
 		- i.e. 95% confidence -> tails share 5%
-		- each tail has 2.5% $\alpha / 2$
+			- each tail has 2.5% $\alpha / 2$
 		- $-z = \text{2.5 percentile}$
 		- $+z = \text{97.5 percentile}$
 		- look at any $z$ table to get the results
+### Alpha Table
+| $\alpha$ | $z_{\alpha / 2}$ |
+| -------- | ---------------- |
+| 20%      | 1.282            |
+| 15%      | 1.440            |
+| 10%      | 1.645            |
+| 5%       | 1.960            |
+| 1%       | 2.576            |
 ## Small Samples
 - for small samples the [[Central Limit Theorem]] is not holding anymore
 	- we need another assumption

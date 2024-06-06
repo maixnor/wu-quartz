@@ -42,6 +42,7 @@ location: WU TC
 - [[New Functions from Old]]
 - [[Common Properties of Functions]]
 - [[Derivatives]]
+	- [3Blue1Brown - The other way to visualize derivatives](https://www.youtube.com/watch?v=CfW845LNObM)
 - [[Integrals]]
 - [[Functions with many Variables]]
 - [[Optimization]]

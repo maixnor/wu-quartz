@@ -64,7 +64,7 @@
 	- $z_{c}= qt(\frac{1-\alpha}{2})$ if $n$ is small and population is normally distributed
 ## Population Proportion
 - follows [[Confidence Intervals#Large Sample Confidence Intervals|Large Sample Confidence Intervals]]
-	-  $\hat{p} = \frac{1}{n} * \sum^{n_{i = 1} } = \text{Bernoulli}(p)$ 
+	-  $\hat{p} = \frac{1}{n} * \sum^{n}_{i = 1} \text{Bernoulli}(p)$ 
 - $\hat{p} \approx N(p, \sqrt{\frac{p(1-p)}{n}})$
 # $p$-Values
 - the probability of obtaining a sample "more extreme" than the one observed in the data set, assuming that $H_0$ is true
@@ -72,5 +72,5 @@
 	- finding $\alpha$ for the given $\bar{x}$ (two-sided CI)
 - leaving it up to the reader to interpret the result
 - p-value = 
-	- $2 * P(z < \text{observed value})$ for $z < \mu$
-	- $2 * P(z > \text{observed value})$ for $z > \mu$
+	- $2 * P(z > \text{observed value})$ for $z < \mu$
+	- $2 * P(z < \text{observed value})$ for $z > \mu$

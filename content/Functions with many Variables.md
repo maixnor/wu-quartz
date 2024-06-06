@@ -1,3 +1,4 @@
+
 general definition of function: $f : A \rightarrow B$
 $A = \mathbb{R} \times \mathbb{R}$ ... real numbers in pairs of 2
 $A = \mathbb{R}^5$ ... 5th dimensional real numbers, in groups of 5
@@ -13,9 +14,21 @@ $A = \mathbb{R}^5$ ... 5th dimensional real numbers, in groups of 5
 - $f(c_1p, c_2m) / f(p,m)$ ... relative change to changes in variables
 	- $= c_1^{-1.5} * c_2^{2.08}$
 # Partial Derivatives
-when taking the [[Derivatives|derivative]] of functions with multiple variable then we take a partial derivative. There is one derivative for each variable. In case of $\mathbb{R} \times \mathbb{R}$ there will be 2 partial derivatives. In case of $\mathbb{R}^5$ there will be 5 partial derivatives.
+When taking the [[Derivatives|derivative]] of functions with multiple variable then we take a partial derivative. There is one derivative for each variable. In case of $\mathbb{R} \times \mathbb{R}$ there will be 2 partial derivatives. In case of $\mathbb{R}^5$ there will be 5 partial derivatives.
+
+For each variable we derive the function considering only this one variable. The other variables are all treated as constants (if you are lucky most of them just fall away).
 
 #todo get notation from slides
+## But why bother?
+- each of the variables has a separate convexity/concavity
+	- imagine a hilly landscape, you are south of a hill peak (2 variables x,y)
+	- going either west or east will have little incline 
+		- imagine a serpentine road, going left/right to have a less steep incline
+	- going either north or south will have steep incline 
+		- imagine beyond the guard rails of the serpentine road..., going straight down/up
+- partial derivatives is about finding out which way is which, down the serpentine road or straight down/up 
+- then one can analyse where to go
+	- e.g. during maximization/minimization problems you want to reach a peak/valley as fast as possible, so you would jump off all the guard rails instead of taking the serpentine road
 ### Example [[Cobb-Douglas]]
 - $f_1 = f_p(p,m) = m^{2.08} * (-1.5p^{-2.5})$
 	- overall derivative is negative: $-1.5$
@@ -64,15 +77,11 @@ $x * y(x) = 5$ -> differenciate for $y$
 $y(x) + x * y'(x) = 0$
 $xy' = -y$
 $y' = \frac{-y}{x}$
-#todo understand this stuff exactly
-
 ### Not so simple this time
 $y^3 + 3x^2y = 13$
 $y(x)^3 + 3x^2*y(x) = 13$
 $3*y(x)^2*y'(x) + 3x^2*y'(x) + 6x*y(x) = 0$
-#todo get this part
 $y' = \frac{-2xy}{x^2+y^2}$
-
 division by 0 issue:
 only if $x^2 + y^2 = 0$ ... only if $x$ and $y$ are 0. 
 -> when plugging into the given function it does not equal 13 -> it's okay
@@ -86,11 +95,10 @@ the derivative can then be derived again. When talking about just 2 variables we
 	- $f_{yxx} = f_{xyx} = f_{xxy}$ ... as long as the count of each factor is equal (here $y$ once, $x$ twice)  
 ### Example [[Cobb-Douglas]]
 $f(p,m) = p^{-1.5} * m^{2.08}$
-#todo compute
+$f'_p = -1.5 p^{-2.5} * m^{2.08}$
+$f'_m = 2.08 * m^{1.08} * p^{-1.5}$
 
-#todo explanation 
 Find out about the convexity or concavity of a function with multiple variables
-
 - direct partial derivative -> just one bottle cap
 - cross-partial derivative -> two bottle caps with different "parity"
 ### Caviat in-between
