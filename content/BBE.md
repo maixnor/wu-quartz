@@ -1,5 +1,3 @@
-- [[BBE Welcome Days]] had good information
-
 # Study Plan
 This study plan is recommended by the BBE Program and might be worth following. [Here](https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/) in written form.
 ![[bbe_study_plan.png]]
@@ -10,14 +8,12 @@ This study plan is recommended by the BBE Program and might be worth following. 
 - [[GLE Governance and Legal Enviroment]]
 - [[UBBP Understanding Business]]
 - [[Free Electives]] - onwards
-
 ### Semester 2
 - [[FRA Financial Reporting and Analysis]]
 - [[QM2 Quantitative Methods 2]]
 - [[LEB Law, Economics, and Business]]
 - [[FM Foundations in Microeconomics]]
 - [[FS Foundations in Socioeconomics]]
-
 ### Semester 3
 - [[Business Analytics 1]]
 - [[Business Analytics 2]]
@@ -25,17 +21,16 @@ This study plan is recommended by the BBE Program and might be worth following. 
 - [[Foundations in Macroeconomics]]
 - [[History of Economics and the Economy]]
 - [[Specializations]] - onwards
-
 ### Semester 4
 - [[Managing Organizations]]
 - [[Logic and Methodology of Social Sciences]]
 - [[Introduction to Academic Writing]]
-
 ### Semester 5 & 6
 up till here at least 16 ECTS
 - [[BBE Bachelor Thesis]]
-
 ### All Time
 - [[BBE Internship + Seminar]]
 - [[Free Electives]]
 - [[Latin Glossary]]
+- [[All the Economics]]
+- [[BBE Welcome Days]] had good information

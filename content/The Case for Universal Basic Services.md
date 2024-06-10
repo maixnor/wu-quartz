@@ -7,7 +7,7 @@ There is more to income than money on your bank account. Social Income is also a
 - "social income" based on meeting of those needs for less money or free (because state sponsored)
 - low-income households profit most
 - entitlement per-person can be difficult -> legislatively difficult
-- reduce [[income equality]] by 20%
+- reduce [[income inequality]] by 20%
 - [[Transactional Service Model]] vs [[Providing Service Model]]
 - should refugees be included? who is part of the welfare system?
 	- based on residency and not necessarily on passport?

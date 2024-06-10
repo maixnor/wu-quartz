@@ -8,7 +8,7 @@
 	- poor people vs rich people
 	- if there were no rich people there would be no poor people
 	- high income -> high relative poverty rate
-- Sissors of average income
+- Scissors of average income
 	- top 1% rising
 	- bottom 50% dropping
 - what is interesting? 
@@ -25,7 +25,6 @@
 - measuring [[Income]]
 	- sum (earnings of participants) + capital income + private transfers
 	- = household market income
-	- #todo how to get this calculation
 	- = household equivalised disposable income
 		- different scalings with larger households
 			- transport -> exponential
@@ -34,7 +33,7 @@
 	- + value of [[Public Services]] (education, public transport, etc)
 	- = Household extended Income
 
-## Based Justice
+## Based Justice(s)
 - based
 - very based
 - #todo fill from slides
@@ -63,7 +62,8 @@
 		- more saving
 		- less re-investment or spending
 - negative link of inequality and growth
-	- OECD study #todo find that study
+	- [[OECD]] study
+		- [[Trends in Income Inequality - OECD]]
 	- mostly due to human capital accumulation theory
 - Book [[The Spirit Level]] by [[Richard Wilkinson]] and [[Kate Pickett]]
 	- life expectancy
@@ -77,7 +77,7 @@
 	- higher development -> higher life expectancy
 	- income is pointless -> money cannot be eaten
 		- income can only pay for healthcare etc
-- #todo get image of tube system with life exptancy
+- #todo get image of tube system with life expectancy
 ### Linked Social Aspects
 - #todo get diagram of inequality vs health and social problems
 	- correlation between inequality and social health
@@ -102,7 +102,6 @@
 ### Others
 - [[Stress]] in the womb
 - parents socio-economic status
-
 ## Education
 - parent's income significant in children's performance
 - babies already affected by parents'income 
@@ -134,20 +133,16 @@
 	- pay decreased
 - #todo slides get image from skill percentile to tasks
 - higher skill level -> more abstract, less routine and manual tasks
-
 ### Automation Impact
 - Most middle-skilled jobs automated by computers
 - high-skilled jobs still in high demand
 - low-skilled jobs hard to automate -> not yet obsolete
 - 47% of jobs will be destroyed in the next 20 years (USA)
-
 ## Trade
 - import competition only affects blue-collar workers
 - #todo slides get more
-
 ## Market Forces
 - #todo slides get more
-
 # Explanations
 #todo slides get more
 - CEO Compensation 

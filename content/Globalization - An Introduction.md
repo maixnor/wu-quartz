@@ -8,11 +8,11 @@
 	- the end of [[Hyperglobalization]]?
 
 ### What is?
-#todo get quotes from slides
+#wontfix get quotes from slides
 
 ### The cost of overcoming distance
 - With increased technology the "size" of the world devreases
-#todo get image from slides
+#wontfix get image from slides
 - time-space compression
 - faster turnover time
 - capitalism causes the geographical expansion
@@ -126,7 +126,7 @@ Face-to-Face Costs remain high
 - new: Many steps are delegated (offshored) to other companies
 
 ### Stolper-Samuelson (1941)
-Elephant Curve #todo get from slides
+Elephant Curve #wontfix get from slides
 - string re-distributive implications of free trade models
 - model predicts, that unskilled workers will be worse off
 - establishes *absolute* losses, not relative losses
@@ -135,10 +135,10 @@ Elephant Curve #todo get from slides
 - There re loosers from trade
 - winners need to compensate the loosers
 - redistribution is flipside
-- #todo get more from slides
+- #wontfix get more from slides
 
 #### Empirical Studies
-- #todo get from slides
+- #wontfix get from slides
 
 ## Countermovements
 - anti-globalization protests
@@ -148,7 +148,7 @@ Elephant Curve #todo get from slides
 
 ### Reactions and its Manifestations
 - populist voting
-- #todo what the fuck did I do here?
+- #wontfix what the fuck did I do here?
 - Left or Right?
 	- link to welfare state
 	- right wing: if generous and open to all residents 
@@ -157,7 +157,8 @@ Elephant Curve #todo get from slides
 		-> turns against EU, WTO, global finance
 
 ### Polanyi's double movement
-- #todo get image from slides
+- #wontfix get image from slides
+- after [[Dani Rodrik]], by [[Polanyi]]
 - there will always be political backlash to every economic decision
 - [[Dani Rodrik#Golden Straightjacket|Golden Straightjacket]]: you have to conform to golden role-model
 - [[Dani Rodrik#Bretton Woods Compromise|Bretton Woods Compromise]]: after ww2
@@ -165,7 +166,8 @@ Elephant Curve #todo get from slides
 
 ### Backlash
 - Rodriks suggests a political backlash
-- #todo what should I put here?
+	- [[Dani Rodrik]]
+- #wontfix what should I put here?
 
 - split is more about cultural lines, less about economic lines
 
@@ -179,7 +181,7 @@ Elephant Curve #todo get from slides
 - move to circular economies / local trade relations -> less emissions
 - democracy and market based economies not defined by international law
   -> every country can choose for themselves
-- #todo get the end of "in-China for China" from Slides
+- #wontfix get the end of "in-China for China" from Slides
 - stronger focus on "strategic autonomy" and "de-coupling/de-risking" and technological sovereignity
 	- chips being produced in EU
 	- server farms being built in EU
@@ -194,5 +196,5 @@ Elephant Curve #todo get from slides
 - rarely includes political backlashes etc
 	- maybe higher efficiency per company
 	- but lower efficiency on marco/global level
-- #todo get the rest from slides
+- #wontfix get the rest from slides
 

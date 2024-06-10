@@ -1,9 +1,6 @@
-
 # 🪴 Welcome
-
 These are my personal notes, made freely (as in free beer and as in freedom) available to you.
 # 🏠 How to get around town
-
 The root node is [[BBE]]. From there on branch out to the different lectures and its topics. Or you can use the powerful search to find notes or the content of notes directly.
 # 🔓 License GPL
 Any content published here is publicly available without any costs (free as in free beer). Feel free to clone and redistribute content as you please (free as in freedom) as long as you keep the GPL license. Any additions or alterations need to be contributed (copyleft agreement).

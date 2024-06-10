@@ -10,19 +10,16 @@
 - [[Acid Test]] ratio: (current assets - stocks) / current liabilities
 - positive [[Cash Flow]]
 - [[EBIT]] is important
-
 ### Sufficient Financial Resources
 - Businesses need money for their activities
 - Initial capital needs to be present
 - #todo get additinal points from UBBP slides
-
-### Hyrid [[Bond]]
+### Hyrid Bond
 - Combination of a [[Bond]] and a [[Share]]
 - Borrower receives money
 - Investor receives shares of the business and
 - Investor receives interest
 - Similar to Liquid Bonds -> [[Bond]] first, converted to [[Share]] after
-
 ### Equity and Debt Finance
 - Equity finance
 	- fund provided by investors
