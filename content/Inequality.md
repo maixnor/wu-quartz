@@ -2,7 +2,7 @@
 ## Absolute vs Relative Poverty
 - economic growth -> reduction in absolute poverty
 	- covid reversed some of that
-- below 2.1 USD not sufficient for productive life
+- below 2.1 USD per day deemed not sufficient for productive life
 	- different measure is needed
 - social exclusion -> relative poverty
 	- poor people vs rich people
