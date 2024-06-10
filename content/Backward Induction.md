@@ -1,5 +1,5 @@
 - starting from the conclusions and working backwards through the decision tree to find the resulting decision
 	- conclusions ... trade-offs at end of branches (leaves)
-- allows to filter out clearly bad outcomes and maybe rule out entire decision paths entirely (especially with more complex decision trees)
+- allows to filter out clearly bad outcomes and maybe early on rule out certain decision paths entirely (especially with more complex decision trees)
 - computationally expensive 
 	- grows exponentially with choices and depth

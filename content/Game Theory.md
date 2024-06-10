@@ -104,7 +104,7 @@
 #### Tit-for-Tat Strategy
 - I do what you did to me last time
 - this can sustain collusion for long times, even when there are disruptions
-- [[Stackelberg Theory]]
+- [[Stackelberg Model]]
 #### Grim Trigger Strategy
 - I will collude, until you cheat only once
 - after the first cheat, I will always compete with you

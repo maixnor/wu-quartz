@@ -1,5 +1,10 @@
-
 # Types
+### Perfect Competition
+- prices are given
+- all producers need to produce and sell at exact equilibrium price
+- 0 profit, but large turnover
+- fight over market share, rather than profit margins 
+- requires homogeneous products
 ### Monopolistic Competition
 - different products, plenty providers
 - different products -> profits in short run
@@ -7,16 +12,19 @@
 - demand becomes perfectly elastic
 	- no loss of surplus
 ### Cournot Competition
-- [[Cournot Model]] #todo
+- [[Cournot Model]]
 - same products, few providers
 ### Bertrand Competition
 - [[Bertrand Model]]
 - different products, few products
+### Stackelberg Competition
+- [[Stackelberg Model]]
+- first-mover advantage
 # Product Differentiation
-## Vertical Diff
-- quality
-## Horizontal Diff
-- taste
+- Vertical Diff
+	- quality
+- Horizontal Diff
+	- taste
 ### Modelling
 - 
 

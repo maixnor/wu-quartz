@@ -12,7 +12,6 @@
 
 > Supply and Demand require Competition!
 > There cannot be Supply and Demand in a [[Monopoly]].
-
 ## Supply
 - variable
 	- price of the good
@@ -27,18 +26,15 @@
 	- preferences -> [[Customer Perspective]]
 	- income -> [[Poverty]], [[Prahalad]]
 	- prices of other goods
-
 ## Equilibrium
 - intersection of supply and demand function
 - [[Game Theory]] -> no need to act by either consumer or producer
 - ![[FM_supply_demand_equilibirum.png]]
-
 ### Excess Demand
 - consumers demand more than suppliers are willing to supply
 - price will increase, supply will increase, demand will decrease
 - reaching equilibrium eventually -> convergence
 ![[FM_excess_demand.png]]
-
 ### Excess Supply
 - consumers demand less than suppliers are willing to supply
 - price will decrease, supply will decrease, demand will increase
@@ -51,7 +47,6 @@
 ### Movement of Equilibrium
 - change of supply inversely affects price
 - change of demand directly affects price
-
 ## Price Elasticity
 - [[Marginal Changes]]
 - [[Derivatives#Elasticity]]

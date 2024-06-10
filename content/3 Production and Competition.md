@@ -1,9 +1,8 @@
-# Same same, but different
-- last one was consumer taking care of needs
+- [[2 Consumer is King|last lecture]] was consumer taking care of needs / consumer behavior
 	- demand given
-- this one is suppliers and how they take actions and decisions
-	- supply given (price given)
-
+- this lecture is suppliers and how they take actions and decisions
+	- supply (price) given / perfect competition analysis
+- related to: [[Competition]]
 # 3 Steps
 - revenue expectations
 	- demand
@@ -14,7 +13,6 @@
 	- input cost -> revenue must be higher than production cost -> profit
 - output choices
 	- what to do with profits?
-
 ## Production Technology
 - production function
 	- shows highest output possible (not efficiently)
@@ -26,7 +24,6 @@
 - Production with one variable input
 	- certain inputs cannot be adjusted fast e.g. expert machinery
 	- Law of [[Diminishing Marginal Returns]]
-
 ### Long Term Production
 - all production inputs can be adjusted -> multi-variable
 - Production with two variable input
@@ -39,7 +36,6 @@
 		- Isoquants are linear -> any combination of capital and labor feasible
 	- special case: inputs cannot be substituted
 		- Isoquants are L shaped -> precise mapping of capital and labor
-
 ### Returns to Scale
 - scaling inputs and outputs equally -> both 2x
 - how much is the output going to change -> 1x? 1.5x? 2x? 3x? 10x?
@@ -52,7 +48,6 @@
 - $F(L,K) = A*L^{\alpha}*K^{\beta}$
 - scaling by factor $\lambda > 1$ : $F(\lambda L, \lambda K) = \lambda^{\alpha + \beta} * F(L,K)$
 	- [[Cobb-Douglas Production Function]]
-
 ## Production Costs
 - cost function
 	- cost minimization for given
@@ -66,13 +61,11 @@
 - fixed costs vs variable costs
 	- marginal costs -> how much one more unit in output will cost
 	- average costs -> amount produced / total cost
-
 ### Short Term
 - capital and output level is fixed
 	- calculating labor level which satisfies the desired output level
 - no substitution whatsoever
 - marginal cost vs marginal product of labor
-
 ### Long Term
 - capital can be adjusted too
 	- capital / labor combination can be chosen at will
@@ -85,7 +78,6 @@
 - change in Input Cost (wage $w$ or rent rate $r$)
 	- tangent line changes slope and therefore intersection point
 	- e.g. wages rise -> hire less workers -> substitute with more capital
-
 ### Expansion
 - short term -> only labor can be increased (faster but higher Isocost)
 - long term -> scaling labor and capital equally (least Isocost -> more efficient)
@@ -100,7 +92,6 @@
 	- shut the company down -> 0$ profit > negative profit
 	- long term: $p \geq AC(q)$ ... price needs to be larger than average cost of quantity
 	- short term: $p \geq AVC(q)$ ... price needs to be larger than average variable cost of quantity
-
 ## Market Supply
 ### Short Term
 - just summing up all individual supply functions
