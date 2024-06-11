@@ -51,5 +51,5 @@ tick markes taxed or not
 	- related to [[Inheritance Tax]]
 	- related to [[Income#Definition]] 
 - [ ] lottery win
-	- tax already withheld with lottery
+	- tax already [[Withheld Tax|withheld]] with lottery
 

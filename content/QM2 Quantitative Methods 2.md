@@ -20,5 +20,6 @@
 - [[Sampling Distributions, CLT]]
 - [[Confidence Intervals]]
 - [[Hypothesis Testing]]
+	- [[Complete Example]]
 - [[Linear Regression]]
 - [[Two-Sample Tests]] (probably not exam relevant)

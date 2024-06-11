@@ -1,5 +1,5 @@
 - part of salary is not paid but directly withheld by employer 
-
+- a mode of [[Withheld Tax]]
 ### Benefits
 - employer is mostly more knowledgeable on taxation 
 - simplifies the tax collection -> less persons (also legal) to interact with

@@ -419,7 +419,7 @@
 
 - even if the organization is not recognized one may still enter into diplomatic relations with the member states
 	- e.g. a country does not recognize the EU it may still enter into relations with Austria (member of EU)
-### What are the tasks of the UN Security Council, and what hinders it from discharging them?
+### What are the tasks of the [[UN]] Security Council, and what hinders it from discharging them?
 - maintenance of international peace and security
 	- has power of binding decisions
 - 15 nations in total
@@ -433,10 +433,10 @@
 - [[ICJ]] vs [[CJEU]]
 - as long as the CJEU recognizes the ICJ rulings as higher value it counts
 - even though the ICJ has "no value" in the sense that not every state has agreed to it's power
-### Within the UN system of collective security, does the Security Council have the power to compel Member States to resort to certain non-military or military action?
+### Within the [[UN]] system of collective security, does the Security Council have the power to compel Member States to resort to certain non-military or military action?
 - yes, theoretically
 - authorizes the member states to apply military action on it's behalf
-- UN is not in command of any army directly
+- [[UN]] is not in command of any army directly
 ### A State’s enforcement jurisdiction is territorial in principle. Explain.
 - state can enforce laws only within it's territory
 - extraterritorial jurisdiction

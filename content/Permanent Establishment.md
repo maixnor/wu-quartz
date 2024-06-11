@@ -1,0 +1,10 @@
+- Art 5 OECD MC
+- changed in 2017
+- "taxable presence" or "nexus"
+- covered
+	- place of management, branch, office, factory, workshop, mine, oil or gas well
+	- building site or construction project > 12 months
+	- agency which represents company in foreign country
+- not covered
+	- mere market share or consumer base
+	- buildings for preparatory or auxiliary purpose (e.g. warehouse, not for online retail)

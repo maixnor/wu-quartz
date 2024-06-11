@@ -124,6 +124,5 @@
 		- prevention of tax evasion/fraud
 	- **never** increasing tax liability
 		- only ever limit the tax liability within a single tax jurisdiction
-
 # Case Study 6 - Tax Treaty
 - [[Tax Treaty]] 

@@ -16,5 +16,8 @@
 	- [[Tax Law]]
 - [[Income Tax]]
 - [[Corporate Income Tax Law]]
-### Part 2.2 - Tax Planning
+### Part 2.2
 - [[Tax Planning]] (2 lectures)
+- [[Principle of International Tax Law]]
+	- [[LEB Final Exam Info]]
+- [[Value Added Tax]]
