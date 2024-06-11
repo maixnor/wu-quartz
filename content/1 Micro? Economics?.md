@@ -15,7 +15,7 @@ contributed-by:
 	- inelastic: $|E| < 1$ ... demand does not scale 
 - Income Elasticity
 	- inferior good $E_I < 0$
-	- normal good $E_I < 0$
+	- normal good $E_I > 0$
 - Cross Price Elasticity
 	- substitutes: $E_{q1, p2} > 0$
 	- complements: $E_{q1, p2} < 0$

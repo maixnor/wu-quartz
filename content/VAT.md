@@ -2,6 +2,7 @@
 	- especially in Europe
 	- even larger tax income for states than [[Income Tax]]
 - harmonized vs disharmonized
+	- harmonized within EU (except for VAT tax rate)
 - USA has no harmonized VAT
 	- all budgetary problems would be solved
 	- keeping economy in balance via printing USD

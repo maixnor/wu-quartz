@@ -19,5 +19,6 @@
 ### Part 2.2
 - [[Tax Planning]] (2 lectures)
 - [[Principle of International Tax Law]]
-	- [[LEB Final Exam Info]]
+	- [[Final Exam Info LEB]]
 - [[Value Added Tax]]
+	- [[Quiz VAT &  Audit LEB]]
