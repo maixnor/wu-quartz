@@ -1,10 +1,10 @@
 # Environmental Destruction
 - [[Environmental Destruction]]
 - The Great Accelerations
-	- everything is growing expentially
+	- everything is growing exponentially
 	- good as bad equally
 - great achievements in global quality of life
-- significant accelrators
+- significant accelerators
 	- industrial revolution -> fossil-based fuels
 	- welfare capitalism -> mass production for mass consumption
 	- China and India rising
@@ -23,7 +23,7 @@
 		- natural and man-made (e.g. wars)
 		- total 28.3 million people
 - [[Great Decoupling]] vs [[Great Collapse]]
-	- signes for both, cannot differenciate
+	- signes for both, cannot differentiate
 	- by 2050 things will be clear
 	- cannot predict the future yet, can just talk about probabilities
 - there is still hope, it is still a challenge, not a problem
@@ -31,7 +31,7 @@
 # [[Globalization]]
 - strong connection between Europe, Asia, and Northern America
 - everything is interconnected
-- low-income countries are most affected regarding Covid regeneration
+- low-income countries are most affected regarding [[Covid]] regeneration
 
 # [[Poverty]]
 - extreme poverty has declined globally

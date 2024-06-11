@@ -42,6 +42,7 @@ location: WU D5
 - [[Ambidexterity]]
 
 # Exam
+#examinfo
 - [[UBBP Insight Book]] assignment as a preparation
 - no number crunching
 - writing -> no multiple choice tests

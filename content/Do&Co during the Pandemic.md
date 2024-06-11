@@ -7,5 +7,5 @@ Fields of business:
 - Event Catering
 - Airline Catering
 
-All of them were hit by Covid and therefore their sales decreased drasticly.
+All of them were hit by [[Covid]] and therefore their sales decreased drasticly.
 

@@ -1,10 +1,10 @@
 # Lectures
-- [[FRA First Lecture]]
-- [[FRA Second Lecture]]
-- [[FRA Third Lecture]]
-- [[FRA Forth Lecture]]
-- [[FRA Fifth Lecture]]
-	- [[FRA Exam Info]]
+- [[First Lecture FRA]]
+- [[Second Lecture FRA]]
+- [[Third Lecture FRA]]
+- [[Forth Lecture FRA]]
+- [[Fifth Lecture FRA]]
+	- [[Exam Info FRA]]
 - [[FRA Sixth Lecture]]
 # Assignment
 - [[FRA Assignment 1]]

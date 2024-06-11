@@ -23,6 +23,7 @@ Source: GPT-3, no further research done, probably not entirely correct
 	- one accounting standard for entire BEFIT group
 		- e.g. everyone with [[IFRS]] or everyone with Austrian GAAP
 ## Notes on Exam 2
+#examinfo 
 - BEFIT may be printed out
 - treat it as law, even though it is just a proposal and not current law
 - exam will mostly cover content of the lectures, but not **only** the content of the lectures

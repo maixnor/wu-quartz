@@ -18,7 +18,7 @@
 - predictions are wrong 90% of the time
 
 ### Urban Legend of Covid Prediction
-- 3 months before Covid broke out some [[BBE]] Students predicted the scenario of Covid
+- 3 months before [[Covid]] broke out some [[BBE]] Students predicted the scenario of [[Covid]]
 - rather accurate prediction
 - thoughts about 
 	- supply chains

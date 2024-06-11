@@ -1,3 +1,4 @@
+#examinfo
 - each question 1 point
 	- partial credits will be given -> to be defined
 	- similar to clicker questions on canvas

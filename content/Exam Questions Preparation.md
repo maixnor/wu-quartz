@@ -1,3 +1,4 @@
+#examinfo 
 - one, multiple, or none of the answers can be correct in the exam
 - answers are scrambled in order
 

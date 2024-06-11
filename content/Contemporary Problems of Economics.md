@@ -1,7 +1,6 @@
-
-### Environmental Destruction
+# Environmental Destruction
 - The Great Accelerations
-	- everything is growing expontially
+	- everything is growing exponentiell
 	- good as bad equally
 - great achievements in global quality of life
 - significant accelrators
@@ -27,22 +26,20 @@
 	- by 2050 things will be clear
 	- cannot predict the future yet, can just talk about probabilities
 - there is still hope, it is still a challenge, not a problem
-
-### Globalization
+# Globalization
 - strong connection between Europe, Asia, and Northern America
 - everything is interconnected
-- low-income countries are most affected regarding Covid regeneration
-
-### Poverty
+- low-income countries are most affected regarding [[Covid]] regeneration
+# Poverty
 - extreme poverty has declined globally
 	- decreased from 28% to 11%
 	- 1.7 billion to 767 million
 - enrollment rates in primary schools increased 
 	- girl enrollment has risen significantly
-- after Covid, more people in extreme poverty than before
+- after [[Covid]], more people in extreme poverty than before
 	- poorer countries hit most
 - extreme income distribution in developing countries
-	- brazil has most extreme distribution
+	- Brazil has most extreme distribution
 - relative income gain (compared to 1988)
 	- elephant curve
 	- best for middle class
@@ -60,5 +57,5 @@
 	- massive social costs
 
 
-Challenge:
+## Challenge
 balance high income and with with while staying within the boundaries that the earth can provide for a given country

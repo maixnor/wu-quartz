@@ -5,7 +5,6 @@
 	- if not the shares are re-sold on the market
 - AG no additional payments necessary
 	- except contracts between shareholders
-
 ### Duty of Loyalty
 - "do not compete with own company in its line of business"
 - no exact definition -> principles and guidelines
@@ -14,7 +13,6 @@
 	- not if liquidity is not sufficient
 - standard -> spirit, rule -> wording
 	- standard -> power with judges
-
 ### Financial Rights
 - shareholder wants profits
 	- voting rights just align with aim 
@@ -25,12 +23,10 @@
 - new shares (shares split) 
 	- current shareholders need to receive extra shares (to stay at same relative ownership)
 	- or current shareholders need to buy extra shares cheaper than rest to offset downsides
-
 ### Voting Rights
 - shareholders free to exercise their voting rights
 	- duty of loyalty 
 	- equal treatment principle
-
 #### Types of Shares
 - one share on vote
 	- each share has equal voting rights
@@ -50,7 +46,6 @@
 	- a lot of shares -> still capped voting rights
 		- 40% shares, but cap is at 10% voting rights (will receive 40% of profits)
 	- deter large investors and hostile takeovers impossible
-
 ### Right to Information
 - how vote without information?
 	- asymmetric information
@@ -60,7 +55,6 @@
 - information in GmbH widely available
 	- threat: competitor buys 1 share and gets access to all trade secrets
 	- limit here -> often before court
-
 ## Shareholder Resolution
 ### public limited company
 - AG
@@ -100,25 +94,21 @@
 - duty to justify -> treating shareholders equally, otherwise justification
 - duty to loyalty - also to other shareholders
 - every shareholder may bring claim against decision and to court -> risky
-
 ### Minority Rights
 - call in meeting or append points to agenda
 - request a special investigator (with 10% shareholder support)
 	- investigator may see all books, can uncover violations
-
 ### Board Representation
 - may appoint independent (from majorities) members of board of supervision
 - independent members recommended with free float
 	- >20% 1 member
 	- >50% 2 members
-
 ## Tunneling
 - [[Tunneling]] bad for minorities
 	- form of hidden distribution
 - "related party transactions" in general meeting
 	- shareholder in benefit may not vote
-	- determination if at arms length
-
+	- determination if [[at arms length]]
 ## Transfer of Membership
 - cannot sell shares back to company
 - shares sold on market to exit company

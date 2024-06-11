@@ -11,11 +11,10 @@
 	- [[Questions at the End of Second LEB Lecture]]
 - [[Anti-Competition Law and Abuse of Power Law]]
 	- [[Questions at the End of Third LEB Lecture]]
-### Part 2.1
+### Part 2.1 - Tax Law
 - [[Intro into Tax Law and Tax Policy]]
 	- [[Tax Law]]
 - [[Income Tax]]
 - [[Corporate Income Tax Law]]
-### Part 2.2
-- [[Tax Planning]]
-- [[Tax Planning 2]]
+### Part 2.2 - Tax Planning
+- [[Tax Planning]] (2 lectures)
