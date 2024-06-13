@@ -3,10 +3,15 @@
 - online
 - screen + camera recordings are made
 - allowed resources
-	- [[V80]] directive
-	- [[OECD MC]]
-	- [[ATAD]] directive
-	- [[BEFIT]] directive
+	- [[V80]] directive -> [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006L0112-20200101](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006L0112-20200101)
+		- [[CELEX 02006L0112-20240101 EN TXT.pdf]]
+	- [[OECD MC]] -> [https://www.oecd.org/ctp/treaties/model-tax-convention-on-income-and-on-capital-condensed-version-20745419.htm](https://www.oecd.org/ctp/treaties/model-tax-convention-on-income-and-on-capital-condensed-version-20745419.htm)
+		- [[mtc_cond-2017-en.pdf]]
+	- [[ATAD]] directive -> [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2016.193.01.0001.01.ENG](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2016.193.01.0001.01.ENG)
+		- [[CELEX 32016L1164 EN TXT.pdf]]
+	- [[BEFIT]] directive -> [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM:2023:532:FIN](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM:2023:532:FIN)
+		- [[cellar 35311f2e-5210-11ee-9220-01aa75ed71a1.0001.02_DOC_1.pdf]]
+		- [[cellar 35311f2e-5210-11ee-9220-01aa75ed71a1.0001.02_DOC_2.pdf]]
 	- only legal texts - also digitally (CTRL+F possible)
 - 90 minutes - 20 questions
 	- going back to previous questions possible
