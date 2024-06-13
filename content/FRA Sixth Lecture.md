@@ -13,7 +13,6 @@
 # Deferred Assets and Deferred Liabilities
 - late payment
 - advance payment
-- #todo get from in-lecture pictures
 - when receiving rent it is exactly the other way round
 	- liability when receiving in advance
 	- asset when receiving late

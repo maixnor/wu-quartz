@@ -15,7 +15,7 @@ Strategy ... the route we take to the peak
 	- [[Rolls Royce Case]]
 	- [[NATO Case]]
 
-- Undecidable Problems -> there are mathematically unsolvable problems
+- [[Undecidable Problems]] -> there are mathematically unsolvable problems
 
 - Pavlov's Dog -> [[Conditioned Reflexes]]
 	-> Pavlov mistakes ringing of bell for trigger of salivation
