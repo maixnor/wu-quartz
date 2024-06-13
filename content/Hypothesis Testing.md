@@ -4,10 +4,11 @@
 	- every hypothesis has to be able to be disproven
 - null-Hypothesis
 	- default value (status quo) for a parameter (until proven false)
-	- denoted as $H_0$
 	- like defendant in court ... unguilty until proven otherwise
+	- denoted as $H_0$
 - alternative Hypothesis
-	- 
+	- deviation from current knowledge
+	- must be proven to be valid
 	- denoted as $H_a$
 ### Example Machine
 - machine must produce with mean diameter of 0.5 inch

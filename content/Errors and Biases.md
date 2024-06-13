@@ -11,3 +11,13 @@
 - top of social hierarchy favored
 # Confirmation Bias
 - favor information which supports already formed opinions
+# Fundamental Attribution Error
+- overemphasize personal preferences and biases
+- underemphasize context and current situation
+# Egocentric Bias
+- tendency to rely too heavily on one's own perspective
+- higher opinion of oneself than reality
+# Reactive Devaluation Bias
+- statements and proposals are rejected because from an antagonist
+- even when logically and factually sound argumentation
+- "a nazi said it, so it must be wrong"

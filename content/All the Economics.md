@@ -6,4 +6,4 @@
 - [[Socioeconomics]]
 # Statistics
 - [[Statistics]]
-- [[Biases]]
+- [[Errors and Biases]]

@@ -1,4 +1,4 @@
-https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/
+[https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/](https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/)
 
 # my preferences
 0. Financial Management (double degree prerequisitie)
@@ -15,4 +15,3 @@ https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-econ
 	- Finance specialization
 - course Cross-Cultural Competence during semester 5
 	- focus Australia or no specific regional focus
-- 

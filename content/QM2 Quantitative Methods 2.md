@@ -13,17 +13,18 @@
 - groups of 4
 - use group label/number during communication
 # Content
+- [[Exam Info QM2]]
 - [[Probability]]
 - [[Statistics and Data, Describing qualitative data]]
 	- [[Explanation of Concepts Home Assignment 2]]
-- [[Describing Qualitative and Quantitative Data]]
+- [[Describing Qualitative and Quantitative Data]] (midterm cutoff in here)
 - [[Sampling Distributions, CLT]]
 - [[Confidence Intervals]]
 - [[Hypothesis Testing]]
 	- [[Complete Example]]
 - [[Linear Regression]]
 - [[Two-Sample Tests]] (probably not exam relevant)
-	- [[Exam Info QM2]]
+	- [[Multiple Regression Exercise]]
 # Future Encounters
 - [[Specializations]]: Business Mathematics
 	- linear algebra and analysis

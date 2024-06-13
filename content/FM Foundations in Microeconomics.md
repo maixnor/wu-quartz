@@ -7,9 +7,14 @@
 	- Groups of 6 
 - Written final exam (50%) (positive)
 - Multiple Choice questions (10%)
-# Timeline
-![[mircoeconomics_timeline.png]]
+# Exam Preparation Recommendation
+- take a look at [[Micro Formula Sheet]] and use when solving
+- solve all problems from lecture slides
+- understand graphs of lecture slides
+- solve mock exam/mock questions
+- bundling/tying will not be part of exam
 # Contents / Topics
+- [[Micro Formula Sheet]]
 - [[1 Micro? Economics?]]
 - [[2 Consumer is King]]
 - [[3 Production and Competition]]
@@ -19,4 +24,3 @@
 - [[7 Comes Only in Pairs]]
 - [[8 Games]]
 - [[9 Games 2]]
-- [[10]]

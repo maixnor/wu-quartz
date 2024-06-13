@@ -34,7 +34,7 @@
 - range is $[0, 1]$
 - height of function value is 
 - jump size at $x_2$ is relative frequency of points between current $x_2$ and previous $x_1$
-	- if not cummulative distribution then the amount of values between $x_2$ and $x_1$ is always $1$, therefore it is the relative frequency of that value
+	- if not cumulative distribution then the amount of values between $x_2$ and $x_1$ is always $1$, therefore it is the relative frequency of that value
 ### Scatter Plot
 - pairing x and y values graphically (drawing a dot)
 - used in [[Regression]] and [[Correlation Analysis]]
@@ -95,13 +95,12 @@
 			- $k = 3 \rightarrow 88.8\%$ 
 			- $k = 3 \rightarrow 99.3\%$ 
 		- can be used as a sanity check or crude outlier detection
-## Not Midterm Relevant
 ### Relative Standing
 - percentiles (quantiles)
 	- roughly: $p$th percentile
 		- $p$ percent of measurements fall within range 
 - quartiles
-	- just a special percentile (4 regions)
+	- just a special percentile (4 regions $\Rightarrow p = 4$)
 	- square is a special rectangle
 - z-score
 	- distance between current value and mean, expressed in standard deviations
@@ -118,7 +117,7 @@
 	- z-scores (numerical)
 		- generally if greater 3 -> outlier
 	- box plots (graphical)
-
+# Midterm Cutoff
 #### Box Plots
 - "Five Point Summary"
 	- lower / upper extreme

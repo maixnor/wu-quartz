@@ -12,9 +12,12 @@ $$\hat{\sigma} = \frac{1}{n-1} \sum\limits^{n}_{i=1} (x_{i} - \bar{x}) (y_{i} - 
 	- for sample:
 		$$r_{XY} = \frac{\sum (x_{i} - \bar{x}) (y_{i} - \bar{y})}{\sqrt{\sum (x_{i} - \bar{x})^2 * \sum (y_{i} - \bar{y})^2}}$$
 - notation
-	- #todo type or GPT
-	- $S$ = sum of squared standard deviations
-	- #todo equivalent representation
+	$$S_{XY} = \sum(x_i - \bar{x})(y_i - \bar{y}) = \sum x_i * y_i - \frac{\sum x_i * \sum y_i}{n}$$
+	$$S_{XX} = \sum(x_i - \bar{x})^2 = \sum x_i^2 - \frac{(\sum x_i)^2}{n}$$
+	- $S$ ... sum of squared standard deviations
+	- $S$ is to be minimized in [[method of least squares]]	
+- equivalent representation
+	$$r_{XY} = \frac{\sum x_i y_i - n \bar{x} \bar{y}}{\sqrt{\sum(x_i^2 - n \bar{x}^2)}\sqrt{\sum(y_i^2 - n \bar{y}^2)}} = \frac{S_{XY}}{\sqrt{S_{XX}} \sqrt{S_{YY}}}$$
 
 - correlation is measure of linear relation
 - correlation does not mean causality
@@ -32,6 +35,8 @@ $$r_{XY} = \frac{Cov(X,Y)}{\sigma_{X}\sigma_{Y}} = \frac{b}{|b|} \rightarrow -1 
 - if the data has non-linear correlation (e.g. quadratic, exponential) it is impossible to measure with $Y = a+bX$
 	- but might be possible with e.g $Y=a+bX^2$
 - a scatter plot is always helpful to understand the problem and choose the correct correlation function
+### Example Correlation from Table
+![[QM2_correlation.png]]
 # Simple Linear Regression
 - question: "is the price of a house dependent on the size ($m^2$)?"
 ### Deterministic vs Probabilistic
@@ -63,11 +68,13 @@ $$r_{XY} = \frac{Cov(X,Y)}{\sigma_{X}\sigma_{Y}} = \frac{b}{|b|} \rightarrow -1 
 - coefficient of determination
 	- $R^{2} = r^{2}_{XY}$
 		- why...? [[Proof of Coefficient of Determination|long formula]]
+	- $R^2 = \frac{\sum\limits^{n}_{i=1} (y_{i}-\bar{y})^{2} - \sum\limits^{n}_{i=1} (y_{i}-\hat{y})^{2}}{\sum\limits^{n}_{i=1} (y_{i}-\bar{y})^{2}}$
 	- relation of variation in X and variation of the error
 		- variation of the error => variation of X
 	- relation of variation in X and variation in variation in X
 	- $R^{2}$ is always between 0 and 1
 # Multiple Regression Model
+- [[Linear Regression]]
 - question: "which parameters is the price of a house dependent on?"
 	- e.g. size, # of bedrooms, distance to nearest grocery/school/public transport, has garden
 - similar, just more variables
@@ -75,6 +82,6 @@ $$r_{XY} = \frac{Cov(X,Y)}{\sigma_{X}\sigma_{Y}} = \frac{b}{|b|} \rightarrow -1 
 	- [[F-Distribution]] test
 > [!important]
 > with R ... stars in p-values are significant
-> keep them in your model, the more the merrier
+> keep them in your model, the more stars the merrier
 - multiple $R^2$ takes also number of variables into account
 	- when comparing models with different number of variables, look at adjusted $R^2$ values

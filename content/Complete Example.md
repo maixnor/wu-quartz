@@ -1,3 +1,7 @@
+---
+contributed-by:
+  - GPT-4o
+---
 # Hypothesis Testing for Proportion of Cans with Trans Fat Content
 Suppose a nutritionist claims that the trans fat content in a certain brand of canned food is at most 69 milligrams (mg) per can. We have a suspicion that in 50% of all cans the trans fat content deviates from 69mg per can. To test this, we take a sample of $n=50$ cans and find that in 21 cans the trans fat content is not equal to 69mg. We will perform a hypothesis test at a 1% level of significance.
 ## Step-by-Step Guide

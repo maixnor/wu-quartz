@@ -53,7 +53,8 @@
 ## Uniform (discrete) Distribution
 - all results of experiment are equally likely
 	- dice toss, coin flip, roulette
-- #todo copy formulas
+- $\mathbb{E}[X] = \frac{n + 1}{2}$ 
+- $\mathbb{V}(X) = \frac{n^2 + 1}{12}$ 
 
 ## Binomial Distribution
 - repeating a Bernoulli Experiment
@@ -63,14 +64,14 @@
 - $\mathbb{E}(X) = n*p$
 - $\mathbb{V}(X) = n*p*(1-p)$
 - in R:
-```
+```R
  dbinom(0:n, n, p.suc)
 ```
 
 ## Poisson Distribution
 - poisson ... french for fish
 - intensity function
-- $\lambda$ ... intensity factor (how many fish jump out of the water in the lake)
+- $\lambda$ ... intensity factor (how many fish jump out of the water in the lake during a time period)
 - $\mathbb{E}(X) = \lambda$
 - $\mathbb{V}(X) = \lambda$
 
@@ -124,6 +125,9 @@
 	- 0 covariance does not require independent variables
 	- also true for $n$ random variables $\text{Cov}(X_1, ..., X_n) = 0$
 
-## Properties of Expectation, Variance, Convergience
-- #todo I zoned out
-- a lot of playing around with formulas and proving parts of the formula sheet
+## Properties of Expectation, Variance, Convergence
+- playing around with formulas and proving parts of the formula sheet
+- expectation: $E[aX + bY] = aE[X] + bE[Y]$ ... linear function
+- variance ($X,Y$ dependent): $V(aX + bY) = a^2V(X) + 2abCov(X, Y) + b^2V(Y)$ ... square function
+- variance ($X,Y$ independent): $V(aX + bY) = a^2V(X) + b^2V(Y)$
+	- $X,Y$ independent ... $Cov(X, Y) = 0$
