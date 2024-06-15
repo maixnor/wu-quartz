@@ -12,20 +12,28 @@ contributed-by:
 ### Example: Hotel
 A hotel owner chooses how many rooms to build and then sets his price based on the total amount of accommodation available in the resort and the demand level
 ## Profit Maximization in the Cournot Model
- 
-$$P=a-bQ_{\text{TOTAL}}\text{ ; }Q_{\text{TOTAL}}=Q_1+Q_2 \text{ and }MC_1=c_1 $$
-$$\pi_1(Q_1, Q_2)=$$
-$$=R-C=$$
-$$=PQ_1-C=$$
-$$=(a-bQ)Q_1-c_1Q_1-F_1=$$
-$$=(a-bQ_1-bQ_2)Q_1-c1Q1-F_1=$$
-$$=aQ_1-bQ^2_1-bQ_2Q_1-c_1Q_1-F_1$$
+$$
+P=a-bQ_{\text{T}}\text{ ; }Q_{\text{T}}=Q_1+Q_2 \text{ and }MC_1=c_1
+$$
+$$
+\begin{aligned}
+\pi_1(Q_1, Q_{2}) &= R - C \\
+&=PQ_{1-C} \\
+&=(a-bQ_{T})Q_1-c_1Q_1-F_{1} \\
+&=(a-bQ_1-bQ_2)Q_1-c_1Q_1-F_{1} \\
+&=aQ_1-bQ^{2}_1-bQ_2Q_1-c_1Q_1-F_{1} \\
+\end{aligned} 
+$$
 →  this maximizes $q_1$
 when setting derivative to 0:
-$$\frac {\delta \pi_1(Q_1,Q_2)}{\delta Q_1}= a-2bQ_1-bQ_2-c_1=0 $$
- $a-2bQ_1-bQ_2$ is $MR_1$ in the above formula
+$$
+\frac {\delta \pi_1(Q_1,Q_2)}{\delta Q_1}= a-2bQ_1-bQ_2-c_1=0 
+$$
+$a-2bQ_1-bQ_2$ is $MR_1$ in the above formula
 $-c_1$ is  $-MC_1$ in the above formula
-$$Q^*_1= \frac {a-bQ_2-c_1}{2b}$$
+$$
+Q^*_1= \frac {a-bQ_2-c_1}{2b}
+$$
 The **optimal output is a function of the output of the other firm!**
 **The more Firm 2 produces, the less Firm 1 will produce**
 ### Firm 1’s output decision
@@ -36,7 +44,6 @@ The **optimal output is a function of the output of the other firm!**
 - If **Firm 1 thinks that Firm 2 will produce 75 units**, the **demand curve facing Firm 1 will move left by 75 units**.
 $$\Downarrow$$
 - The output of Firm 1 depends on the output decision of Firm 2: the optimal output of Firm 1 decreases as the optimal output of Firm 2 increas<es.
-
 ### Reaction Function
  ![[IMG-20240607174219850.png]]
 
@@ -45,7 +52,7 @@ $$\Downarrow$$
 - Reaction functions show the relationship between a firm‘s profit maximizing output and the amount it thinks its competitor will produce.
 
 > [!Important] 
-> In the Cournot equilibrium, **each firm correctly assumes the amount that its competitor will produce** and **thereby maximizes its own profits**. Therefore, **neither firm will move from this equilibrium**.
+> In the Cournot equilibrium, **each firm correctly assumes the amount that its competitor will produce** and **thereby maximizes its own profits**. Therefore, **neither firm will move from this [[Nash Equilibrium]]**.
 ### Example: Extreme Duopoly
 ? similar example in the [[Stackelberg Model]]
 a) Two firms are competing in a market with the linear inverse demand function $P=30-Q$ with $Q=Q_1+Q_2$. Calculate the profits of two firms, assuming marginal costs of zero.
@@ -69,7 +76,6 @@ b) Calculate the profits of the firm, assuming collusion. If the firms collude, 
  $30-2Q=0$
  $Q=15$
  $\Pi^*=225$
-
  ![[IMG-20240528073113816.png]]
 
 
