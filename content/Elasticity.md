@@ -6,5 +6,7 @@ Ratio of change in $f(x)$ to the percentage change in $x$ in %.
 
 The Derivative and the Elasticity share their sign.
 
+### Example
+
 $D(P) = -10P+400$
 $EL_P D(P) = \frac{P}{-10P+400} * (-10) = \frac{-10P}{-10P + 400}$

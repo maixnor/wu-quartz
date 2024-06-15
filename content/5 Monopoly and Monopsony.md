@@ -40,6 +40,7 @@
 	- from what we can get the price with the demand function
 ### Amoroso-Robinson Formula
 $$MR = p + p\frac{1}{\epsilon _d}$$
+- $\epsilon_{d}$ ... elasticty -> [[Micro Formula Sheet]]
 - in perfect competition: $\epsilon _d = -\infty \implies MR = p$
 	- constant marginal revenue: horizontal curves
 	- small price increase -> complete loss of demand

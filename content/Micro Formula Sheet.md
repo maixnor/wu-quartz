@@ -3,6 +3,7 @@
 > subscript and superscript used mixed on the slides
 > e.g. $Q^{S}$ can be found instead of $Q_{S}$, but it is identical
 - $S$ and $D$ ... Supply and Demand
+	- supply = all $MC$ of all firms added up
 - $R$ and $C$ ... Revenue and Costs
 	- $FC$ ... fixed costs
 - $Q_{x}$ ... Quantity of x
@@ -19,12 +20,13 @@
 - $X_{T}$ ... total X (costs, revenues)
 # Basics
 > [!important]
-> I use capital letters for results, lowercase letters for inputs.
+> I use capital letters in general formulas or for results, lowercase letters for inputs and when using the formulas.
 > When calculating the equilibrium quantity I use $Q^{*}$
 > When calculating the profit at a quantity I use $\pi(q)$
 - Equilibrium: $S = D$
-- Elasticity: $\epsilon = E_{P} = \frac{\partial q / q}{\partial p / p} = \frac{\% \partial q}{\% \partial p}$
-	- [[Marginal Changes]] and [[Derivatives#Elasticity|Elasticity]]
+- [[Elasticity]]: $\epsilon = E_{P} = \frac{\partial q / q}{\partial p / p} = \frac{\% \partial q}{\% \partial p}$
+	- [[Marginal Changes]]
+- [[Cross-Elasticity]]: $E_{q_{1}, p_{2}}=\frac{p_{2}}{q_{1}}\frac{\delta q_{1}}{\delta p_{2}}$
 - $\pi(q) = R(q) - C(q)$
 # Perfect Competition
 - Maximization:
@@ -37,6 +39,8 @@
 	- fixed costs included
 - long run: $P = MC > AC$ ... more competitors enter market, price falls until $P = AC$ and $\pi = 0$
 # Monopoly
+- $MR$ ... Revenue function with twice the slope -> [[5 Monopoly and Monopsony#Marginal Revenue Function (Linear)|why?]]
+	- $MR = a * 2bQ$
 ## Third Degree Price Discrimination
 - $\pi(q) = p_{1}q_{1} + p_{2}q_{2} + \dots + p_{n}q_{n} - C(q_{T})$
 - $MR_{1} = MR_{2} = \dots = MR_{n}$
@@ -45,3 +49,22 @@
 - $T*$ ... consumer surplus of the consumer group with smaller demand $D$
 - $\pi = N*T^{*} + (P^{*} - MC)(Q_{1} + Q_{2} + \dots + Q_{n}) - FC$
 	- $N$ ... amount of customers in all groups, $n$ ... amount of consumer groups
+# Amoroso-Robinson Formula
+$$MR = p + p\frac{1}{E_{d}}$$
+- perfect competition: $E_{d} = 0 \Rightarrow MR = P$
+	- loss of demand with small price change
+- market power/monopoly: $-1 > E_{d} > -\infty \Rightarrow MR < P$
+	- negatively sloped market demand & marginal revenue curves
+	- #todo ^ what does this mean?
+- inelastic demand: $-1 < E_{d} < 0 \Rightarrow MR < 0$
+	- negative marginal revenue -> not optimal!
+# Surplus
+### Consumer Surplus
+- area between demand function and given price
+- derivative - rectangle
+- **OR** with linear quantity just a rectangle ($\frac{a*b}{2}$)
+![[FM_consumer surplus.png|400x266]]
+# Tax Burden
+- on consumers: $\frac{E_{s}}{E_{s}-E_{d}}$
+- on sellers: $\frac{-E_{d}}{E_{s}-E_{d}}$
+- 
