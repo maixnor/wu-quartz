@@ -83,7 +83,6 @@
 		- e.g. during rock-paper-scissors one might pick one option multiple times to get an edge
 	- with symmetrical games they will always randomize -> always equal probabilities
 	- with asymmetrical games they will only randomize when chances are equal, otherwise players have dominant strategies
-
 # Solutions of a Dynamic Game
 ## Repeated Games
 - giving a new spin to [[Prisoners Dilemma]]

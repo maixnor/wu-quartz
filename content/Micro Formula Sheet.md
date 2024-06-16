@@ -44,7 +44,6 @@
 	- $MR = a - 2bQ$
 - optimal price rule of thumb: $\frac{1}{1+1/E_{d}} = m$
 	- $p = m * MC$ .... $m$ ... markup
-- 
 ## Third Degree Price Discrimination
 - $\pi(q) = p_{1}q_{1} + p_{2}q_{2} + \dots + p_{n}q_{n} - C(q_{T})$
 - $MR_{1} = MR_{2} = \dots = MR_{n}$
@@ -74,9 +73,9 @@ Competition on (x + y) results in behavior:
 ## Stackelberg
 - firm 1 sets output in anticipation of firm 2's reaction
 - firm 2 takes output of firm 1 as given, adjusts accordingly
-- first mover advantage (firm 1):
-	- firm 1 (leader/dominant) has 66% output/profit, firm 2 has 33% output/profit
-- $P = MC$
+- $p_{2} = d + ep_{1}$
+- $\pi_{1} = p_{1}*q_{1} = (a - bp_{1} + c(d + ep_{1}))*p_{1} - C_{1}$
+	- $a,b,c,d,e$ ... parameters
 ## Bertrand
 - maximized price (same for $P_{2}^{*}$): $P_{1}^{*}(p_{2}) = \frac{a + b_{2}p_{2} + c_{1}b_{1}}{2b_{1}}$
 ## Cournot
