@@ -40,17 +40,34 @@
 - long run: $P = MC > AC$ ... more competitors enter market, price falls until $P = AC$ and $\pi = 0$
 # Monopoly
 - $MR$ ... Revenue function with twice the slope -> [[5 Monopoly and Monopsony#Marginal Revenue Function (Linear)|why?]]
-	- $MR = a * 2bQ$
+	- $MR = a - 2bQ$
+- optimal price rule of thumb: $\frac{1}{1+1/E_{d}} = m$
+	- $p = m * MC$ .... $m$ ... markup
+- 
 ## Third Degree Price Discrimination
 - $\pi(q) = p_{1}q_{1} + p_{2}q_{2} + \dots + p_{n}q_{n} - C(q_{T})$
 - $MR_{1} = MR_{2} = \dots = MR_{n}$
 ## Two-Part Tariffs
-- $P^{*} > MC$ ... buy-in price
+- $P$ ... per-unit price; $T$ ... buy-in price (lump-sum fee)
+- $P^{*} > MC$  or $P* = MC$
 - $T*$ ... consumer surplus of the consumer group with smaller demand $D$
+	- $T* = \frac{1}{2} (q_{D}(0) - MC) * q_{D}(MC)$ (linear demand curve -> triangle)
 - $\pi = N*T^{*} + (P^{*} - MC)(Q_{1} + Q_{2} + \dots + Q_{n}) - FC$
+	- if $P^{*} = MC \Rightarrow \pi = N*T^{*} - FC$
 	- $N$ ... amount of customers in all groups, $n$ ... amount of consumer groups
+# Oligopoly
+## When what?
+- price + sequential = price leadership
+- quantity + sequential = quantity leadership ([[#Stackelberg]])
+- price + simultaneous = [[#Bertrand]]
+- quantity + simultaneous = [[#Cournot]]
+## Price Leadership
+## Stackelberg
+## Bertrand
+## Cournot
 # Amoroso-Robinson Formula
 $$MR = p + p\frac{1}{E_{d}}$$
+- $E_{d}$ ... elasticity of demand (not market elasticity)
 - perfect competition: $E_{d} = 0 \Rightarrow MR = P$
 	- loss of demand with small price change
 - market power/monopoly: $-1 > E_{d} > -\infty \Rightarrow MR < P$
@@ -58,6 +75,10 @@ $$MR = p + p\frac{1}{E_{d}}$$
 	- #todo ^ what does this mean?
 - inelastic demand: $-1 < E_{d} < 0 \Rightarrow MR < 0$
 	- negative marginal revenue -> not optimal!
+## Lerner Index
+$L = \frac{p - MC}{p} = - \frac{1}{E_{d}}$
+$L = 0$ -> perfect competition
+$L = 1$ -> monopoly
 # Surplus
 ### Consumer Surplus
 - area between demand function and given price
