@@ -10,7 +10,7 @@
 - $P_{x}$ ... Price of x
 - $E_{x} = \epsilon_{x}$ ... Elasticity of x
 - $X^{*}$ ... Optimum/Equilibrium of X (Price, Quantity)
-	- sometimes used as $X^{*}_{1}$ and $X^{*}_{2}$ #todo check
+	- sometimes used as $X^{*}_{1}$ and $X^{*}_{2}$ in duopoly
 - $X^{**}$ ... another Optimum of X
 	- e.g. when comparing competition vs monopoly 
 - $\pi_{x}$ ... Profit of x
@@ -83,8 +83,8 @@ Competition on (x + y) results in behavior:
 - optimized quantity (same for $Q_{2}^{*}$): $Q_{1}^{*}(q_{2}) = \frac{1 - bq_{2} - c_{1}}{2b}$
 	- [[Cournot Model#Reaction Function|reaction curve]]
 # Amoroso-Robinson Formula
-$$MR = p + p\frac{1}{E_{d}}$$
-- $E_{d}$ ... elasticity of demand (not market elasticity)
+- $MR = p + p\frac{1}{E_{d}}$
+	- $E_{d}$ ... elasticity of demand (not market elasticity)
 - perfect competition: $E_{d} = 0 \Rightarrow MR = P$
 	- loss of demand with small price change
 - market power/monopoly: $-1 > E_{d} > -\infty \Rightarrow MR < P$
@@ -96,7 +96,7 @@ $L = \frac{p - MC}{p} = - \frac{1}{E_{d}}$
 $L = 0$ -> perfect competition
 $L = 1$ -> monopoly
 # Surplus
-### Consumer Surplus
+## Consumer Surplus
 - area between demand function and given price
 - derivative - rectangle
 - **OR** with linear quantity just a rectangle ($\frac{a*b}{2}$)
@@ -104,4 +104,3 @@ $L = 1$ -> monopoly
 # Tax Burden
 - on consumers: $\frac{E_{s}}{E_{s}-E_{d}}$
 - on sellers: $\frac{-E_{d}}{E_{s}-E_{d}}$
-- 

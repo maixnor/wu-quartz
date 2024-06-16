@@ -10,7 +10,7 @@
 ## Competition vs Monopoly
 - competition => [[Monopoly]]
 - many sellers buyers => one seller, many buyers
-- homogenous good => single product
+- homogeneous good => single product
 - free entry for competitors => limited entry ([[Market Entry Barriers]])
 - price is given => price is set by company (high market power)
 - p = MC, p = AC => profit is maximized by output of $q$ where MR=MC
