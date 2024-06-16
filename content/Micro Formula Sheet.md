@@ -2,7 +2,7 @@
 > [!info]
 > subscript and superscript used mixed on the slides
 > e.g. $Q^{S}$ can be found instead of $Q_{S}$, but it is identical
-- $S$ and $D$ ... Supply and Demand
+- $S$ and $D$ ... [[Supply and Demand]]
 	- supply = all $MC$ of all firms added up
 - $R$ and $C$ ... Revenue and Costs
 	- $FC$ ... fixed costs
@@ -14,6 +14,7 @@
 - $X^{**}$ ... another Optimum of X
 	- e.g. when comparing competition vs monopoly 
 - $\pi_{x}$ ... Profit of x
+	- $\Pi$ ... joint profits
 - $MX$ ... Marginal X (Revenue/Costs/Profit)
 	- [[Marginal Changes]]
 - $AX$ ... Average X (Costs, Variable Costs, Revenue)
@@ -56,15 +57,31 @@
 	- if $P^{*} = MC \Rightarrow \pi = N*T^{*} - FC$
 	- $N$ ... amount of customers in all groups, $n$ ... amount of consumer groups
 # Oligopoly
+## Collusion / Cartels
+- just use the [[#Monopoly]] instead of oligopoly formulas
 ## When what?
+Competition on (x + y) results in behavior:
 - price + sequential = price leadership
 - quantity + sequential = quantity leadership ([[#Stackelberg]])
 - price + simultaneous = [[#Bertrand]]
 - quantity + simultaneous = [[#Cournot]]
 ## Price Leadership
+- firm 1 sets price in anticipation of firm 2's reaction
+- firm 2 takes price of firm 1 as given, adjusts accordingly
+- $p2 = d + ep_{1}$
+- $\pi_{1} = p_{1}*q_{1} = (a-bp_{1} + c(d+ep_{1}))*p_{1} - C_{1}$
+	- $a,b,c,d,e$ ... parameters
 ## Stackelberg
+- firm 1 sets output in anticipation of firm 2's reaction
+- firm 2 takes output of firm 1 as given, adjusts accordingly
+- first mover advantage (firm 1):
+	- firm 1 (leader/dominant) has 66% output/profit, firm 2 has 33% output/profit
+- $P = MC$
 ## Bertrand
+- maximized price (same for $P_{2}^{*}$): $P_{1}^{*}(p_{2}) = \frac{a + b_{2}p_{2} + c_{1}b_{1}}{2b_{1}}$
 ## Cournot
+- optimized quantity (same for $Q_{2}^{*}$): $Q_{1}^{*}(q_{2}) = \frac{1 - bq_{2} - c_{1}}{2b}$
+	- [[Cournot Model#Reaction Function|reaction curve]]
 # Amoroso-Robinson Formula
 $$MR = p + p\frac{1}{E_{d}}$$
 - $E_{d}$ ... elasticity of demand (not market elasticity)
@@ -72,7 +89,6 @@ $$MR = p + p\frac{1}{E_{d}}$$
 	- loss of demand with small price change
 - market power/monopoly: $-1 > E_{d} > -\infty \Rightarrow MR < P$
 	- negatively sloped market demand & marginal revenue curves
-	- #todo ^ what does this mean?
 - inelastic demand: $-1 < E_{d} < 0 \Rightarrow MR < 0$
 	- negative marginal revenue -> not optimal!
 ## Lerner Index

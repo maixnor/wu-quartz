@@ -1,5 +1,3 @@
-
-
 ![[FM_supply_demand.png]]
 
 - each consumer makes individual choices
