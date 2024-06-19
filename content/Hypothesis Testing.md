@@ -73,5 +73,5 @@
 	- finding $\alpha$ for the given $\bar{x}$ (two-sided CI)
 - leaving it up to the reader to interpret the result
 - p-value = 
-	- $2 * P(z > \text{observed value})$ for $z < \mu$
-	- $2 * P(z < \text{observed value})$ for $z > \mu$
+	- $2 * P(\text{observed z} < Z)$ for $\bar{x} < \mu$ -> $Z$ will be negative
+	- $2 * P(\text{observed z} > Z)$ for $\bar{x} > \mu$ -> $Z$ will be positive
