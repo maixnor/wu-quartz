@@ -3,6 +3,7 @@
 - Part 1: [[Vicky Robertson]]
 - Part 2.1: [[Claus Staringer]]
 - Part 2.2: [[Rita Szudoczky]]
+- [[Final Exam Info LEB]] (part 2.1 and 2.2 exam relevant)
 # Contents
 ### Part 1 - Competition
 - [[Intellectual Property Law]]
