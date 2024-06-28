@@ -1,2 +1,1 @@
-- even when income is not taxed (exempted)it is still taken into account when calculating tax base
-- 
+- even when income is not taxed (exempted) it is still taken into account when calculating tax base

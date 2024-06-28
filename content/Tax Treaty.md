@@ -33,7 +33,7 @@
 - Art 15 OECD MC
 - residence state of employee
 - except taxed by work state
-	- >183 days within 12 months
+	- more than 183 days within 12 months
 	- cost of salary payed by PE in work country
 		- even for single month
 - frontier worker rule
