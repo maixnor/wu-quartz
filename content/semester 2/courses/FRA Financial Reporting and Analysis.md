@@ -5,7 +5,7 @@
 - [[Forth Lecture FRA]]
 - [[Fifth Lecture FRA]]
 	- [[Exam Info FRA]]
-- [[FRA Sixth Lecture]]
+- [[Sixth Lecture FRA]]
 # Assignment
 - [[FRA Assignment 1]]
 - [[FRA Assignment 2]]

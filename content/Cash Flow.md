@@ -51,7 +51,7 @@ or another variant of writing it down
 - start with EBT
 	- - write-up
 	- + deprecation, amortization, impairment -> [[Non-Cash Transactions]]
-- +/- inventory receivables, [[FRA Sixth Lecture#Deferred Assets and Deferred Liabilities|deferred assets]]
+- +/- inventory receivables, [[Sixth Lecture FRA#Deferred Assets and Deferred Liabilities|deferred assets]]
 - -/+ payables (except for inventory), provisions, deferred liabilities (not loans, bonds)
 - = operations cash flow
 

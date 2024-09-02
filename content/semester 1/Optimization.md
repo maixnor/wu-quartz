@@ -102,7 +102,7 @@ $f_{max}(x,y)$ such that $g(x,y) = 0$
 $\mathcal{L}$
 #todo finish math notation
 
-#tdoo write some F# code or R
+#todo write some F# code or R
 
 # Epsilon
 In Math in general the Epsilon $\mathcal{E}$ is something that is positive and very small. This can be used to overcome rounding errors in [[Numerical Approximation]] problems.

@@ -156,7 +156,7 @@
 	- e.g. taxes on profits
 	- #todo copy math from slides
 	- $p = MC(q)$
-- [[Taxes on Consumption]]
+- Taxes on Consumption: [[Consumption taxes]]
 	- e.g. VAT
 	- analogous to decreasing the price, similar to [[#Maximum Price]]
 		- 2 prices, 1 which consumers are paying, 1 which producers are producing with

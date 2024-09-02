@@ -9,7 +9,7 @@ $A = \mathbb{R}^5$ ... 5th dimensional real numbers, in groups of 5
 - this is more of a demand function, but the same math is used
 - all variables with different exponents
 
-#tobdo find way to do 2 rows in one formula
+#todo find way to do 2 rows in one formula
 
 - $f(c_1p, c_2m) / f(p,m)$ ... relative change to changes in variables
 	- $= c_1^{-1.5} * c_2^{2.08}$
