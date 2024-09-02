@@ -354,7 +354,7 @@
 ### What does the principle of ‘nulla poena sine lege’ in Art. 7 ECHR guarantee? 
 - one cannot be convicted if there is no national or international law
 - one cannot be convicted for a law being established after the crime has been committed
-### The right to an effective remedy is an ancillary right. What does the term ‘ancillary right’ mean? 
+### The right to an effective remedy is an [[ancillary right]]. What does the term ‘[[ancillary right]]’ mean? 
 - if my rights are infringed by the state I am entitled to a remedy which is
 	- sufficient
 	- accessible

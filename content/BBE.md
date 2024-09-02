@@ -1,5 +1,5 @@
 # Study Plan
-This study plan is recommended by the BBE Program and might be worth following. [Here](https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/) in written form.
+This study plan is recommended by the BBE Program and is worth following. [Here](https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/) in written form.
 ![[bbe_study_plan.png]]
 ### Semester 1
 - [[CCBE Contemporary Challenges in Business and Economics]]

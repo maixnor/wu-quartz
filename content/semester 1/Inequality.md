@@ -117,18 +117,16 @@
 
 ## Populist Voting
 #todo get from slides
-- [[Dani Rodrik]] #todo reference
+- [[Dani Rodrik]]
 
 ## Climate Change
 - related to [[Climate Change]]
-	- #todo reference to Emissions
-	- #todo reference to Emissions 
-	- #todo reference to Emissions Distributions
+	- [[Emissions]]
+	- [[Emissions#Emission Distribution]]
 - [[Climate Change Policies by Social Status]]
 	- [[Fossil Fuel Lobby]] challenging most anti-fossil-fuel concepts/legislations
 
 ## Education Gap
-#todo fix heading
 - demand for university students was hit
 	- pay decreased
 - #todo slides get image from skill percentile to tasks
