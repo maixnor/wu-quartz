@@ -6,14 +6,14 @@ This study plan is recommended by the BBE Program and might be worth following. 
 - [[BS1 Business and Society 1]]
 - [[QM1 Quantitative Methods 1]]
 - [[GLE Governance and Legal Enviroment]]
-- [[UBBP Understanding Business]]
+- [[UBBP Understanding Business]] or [[UBBP Business Planning]]
 - [[Free Electives]] - onwards
 ### Semester 2
 - [[FRA Financial Reporting and Analysis]]
 - [[QM2 Quantitative Methods 2]]
 - [[LEB Law, Economics, and Business]]
 - [[FM Foundations in Microeconomics]]
-- [[FS Foundations in Socioeconomics]]
+- [[FS Foundations in Socioeconomics]] (online / offline)
 ### Semester 3
 - [[Business Analytics 1]]
 - [[Business Analytics 2]]
