@@ -1,14 +1,16 @@
 [https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/](https://www.wu.ac.at/en/students/my-program/bachelors-programs/business-and-economics/structure-content/)
 
 # my preferences
-0. Financial Management (double degree prerequisitie)
-1. Accounting and Taxation
-2. Strategy and Managerial Accounting
-3. Strategy and Organization
-4. Finance (excluded by double degree)
-5. Economics Core
-6. International and European Tax Law
-7. International Business
+0. Financial Management (double degree prerequisitie) 2488
+---
+1. Sustainability Reporting 1261
+2. Decision Sciences 1629
+3. Strategy and Managerial Accounting 2183
+4. International and European Tax Law 1425
+5. Strategy and Organization
+6. Finance (excluded by double degree)
+7. Economics Core
+8. International Business
 
 ## double degree
 - apply here during semester 3: https://bach.wu.ac.at/z/stud/oss/zasout
