@@ -22,8 +22,8 @@ Study from [[Henderson]]
 Data Sources
 - Open Street Map (Development of roads/infrastructure) 
 - Street View (size of doors because of refrigerators)
-- Night Light Photographs -> [[Jesus Crespo]]
-- Day Light Photographs
+- Night Light Satellite Photographs -> [[Jesus Crespo]]
+- Day Light Satellite Photographs
 - NASA Data
 
 ### Growth based on GDP
@@ -46,8 +46,8 @@ Income inequality is, from empirical data, not influencial when moving people ou
 
 Different to [[Trickle Down Idea]]
 
-### ISLM
-the [[ISLM Model]] is used to model how the [[GDP]] changes from one year to another. A short-term model compared to the long-term methods mentioned previously.
+### ISLM Model
+the ISLM Model is used to model how the [[GDP]] changes from one year to another. A short-term model compared to the long-term methods mentioned previously.
 
 $GDP = C + I + G + X - M = C + I + G + NX$
 

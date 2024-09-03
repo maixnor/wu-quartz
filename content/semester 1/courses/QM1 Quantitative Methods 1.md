@@ -11,7 +11,7 @@ location: WU TC
 ---
 # Organizational
 - Goals
-	- speak R
+	- speak [[R]]
 	- speak math
 - email: jana.hlavinova@wu.ac.at
 - Materials on Canvas

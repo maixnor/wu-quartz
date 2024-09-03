@@ -33,5 +33,5 @@ up till here at least 16 ECTS
 - [[Free Electives]]
 - [[Latin Glossary]]
 - [[All the Economics]]
-- [[Survival Guide Semester 1]]
+- [[Survival Guide Semester 1 and 2]]
 - [[BBE Welcome Days]] had good information
