@@ -18,7 +18,7 @@ I personally go to all lectures and study in groups before exams. Some people ca
 In most lectures you either have direct presence (you need to sign that you are there) or indirect presence (you need to do something in the classroom, difficult if not there). I recommend being present for a different reason: See and be Seen.
 You see what people are doing around you and people can see what you are doing. Mutual help. The more you are willing to share, the more people will share with you, simple. Help people and they will help you. We have a great community in BBE.
 
-You can also have a beer or spritzer after lectures with your friends and just enjoy life :)
+You can also have a beer or something to eat after lectures with your friends and just enjoy life :)
 ## My Notes
 click -> [[BBE]]
 If you want to contribute, let me know
