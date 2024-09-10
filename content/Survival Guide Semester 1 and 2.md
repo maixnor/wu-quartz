@@ -1,11 +1,11 @@
 # Welcome Freshmen
 You did it. You passed the entrance exam and are some of the lucky ones to study in this undergrad. Now it is time to get started with your studies. Don't panic, it's not difficult to get started.
 ## First Courses
-When you first sign up (on [[#LPIS]]) you will need to sign up for 3 courses
+When you first sign up for courses (on [[#LPIS]]) you will need to sign up for 3 courses
 - [[BS1 Business and Society 1]] and 
 - [[CCBE Contemporary Challenges in Business and Economics]] and
-- [[QM1 Quantitative Methods 1]]
-After that you are settled for the first month at least and can focus on studying and enjoying time with your fellow students.
+- [[QM1 Quantitative Methods 1]].
+After that you are settled for the first month at least and can focus on studying and enjoying time with your fellow students. By the time there are more things to do word of mouth will have served you well.
 ## Study Approaches
 I witnessed a lot of different approaches
 - reading the books recommended by the courses
@@ -20,8 +20,8 @@ You see what people are doing around you and people can see what you are doing. 
 
 You can also have a beer or something to eat after lectures with your friends and just enjoy life :)
 ## My Notes
-click -> [[BBE]]
-If you want to contribute, let me know
+click here -> [[BBE]] for all notes I have ever taken
+If you want to contribute, let me know <3
 ## WU Services
 ### Canvas
 https://canvas.wu.ac.at
@@ -48,11 +48,11 @@ The secret to enrolling with highest success rate
 	- a friend missed the deadline and then could not join us with the course we wanted to take as a group, sad
 	- there is a "waiting list" but if nothing moves within a few minutes there is little hope it will change
 ---
-The moment you have been waiting for has arrived, the deadline.
+The moment you have been waiting for has arrived, the deadline. Have an atomic clock ready and time the exact second to refresh the page, then hope to get in. Choose wisely which courses to reload first (e.g. [[QM1 Quantitative Methods 1|QM1]] with 30 slots each before [[BS1 Business and Society 1|BS1]] with 240 slots in total)
 
 ### MyLearn
 https://learn.wu.ac.at/
-The legacy application which was used before Canvas. You will use it max 3 times per semester. 
+The legacy application which was used before Canvas. You will use it max 3 times per semester.
 ### Teams
 https://teams.microsoft.com
 Microsoft Teams. Hate it or love it, it is being used. At least video calls are done using just one platform instead of each professor using individual solutions. There are no handins on Teams, only on Canvas. You might still need do fill out/upload stuff there; e.g. for the [[QM1 Quantitative Methods 1|QM]] interviews you needed to fill out an excel and upload your Case Studies (don't worry about them for now :), you will soon enough) to have the call.
