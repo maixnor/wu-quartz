@@ -154,7 +154,8 @@
 ## Examples
 - [[Lump-Sum Taxes]]
 	- e.g. taxes on profits
-	- #todo copy math from slides
+	- $\Pi_{net} = (1 - t_1)(p*q-C(q))$
+	- $\frac{\partial\Pi}{\partial q} = (1-t_1)(p-MC(q)) = 0$
 	- $p = MC(q)$
 - Taxes on Consumption: [[Consumption taxes]]
 	- e.g. VAT
@@ -162,7 +163,8 @@
 		- 2 prices, 1 which consumers are paying, 1 which producers are producing with
 		- government receives quantity * tax
 		- overall loss of welfare -> [[Deadweight Loss]]
-	- #todo copy math from slides
+	- $\Pi_{net} = (1 - t_2)(q-C(q))$
+	- $\frac{\partial\Pi}{\partial q} = (1-t_2)(MC(q)) = 0$
 	- $p - t_2 = MC(q)$
 ## 4 Conditions
 - Quantity sold and buyers price, $P_D$ must be on the demand curve
@@ -172,8 +174,8 @@
 ## Incidence of a Specific Tax
 - demand is inelastic -> tax burden on consumers
 - supply is inelastic -> tax burden on suppliers
-- $\text{Tax burden on consumers in \%} = \frac{E_s}{E_s - E_d}$ 
-- $\text{Tax burden on consumers in \%} = \frac{E_s}{E_s - E_d}$ #todo for suppliers from slides
+- Tax burden on consumers in % = $\frac{E_s}{E_s - E_d}$ 
+- Tax burden on consumers in % = $\frac{- E_d}{E_S - E_d}$
 ## Subsidy
 - government pays some part of the price
 - increases demand

@@ -1,5 +1,3 @@
-#todo get more elaborate standards from slides
-
 - standards implemented within a year by [[EFRAG]]
 - medium quality standards
 	- too many inclarities
