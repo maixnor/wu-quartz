@@ -21,8 +21,8 @@ $$P_{NY} = 240 - 4Q_{NY}, P_{LA} = 200 - 2Q_{LA}$$
 $$MC = 40$$
 #wontfix type this out
 > [!info]
-> where does the 2 come from? 
-> from differentiating the $Q^2$ of marginal revenue
+> where does the 2 ($2*-2Q_{NY}$ and $-2Q_{LA}$) come from? 
+> from differentiating the $Q^2$ of marginal revenue to $2Q$
 
 only 1 price for all markets:
 - take MR function in which all markets are willing to pay

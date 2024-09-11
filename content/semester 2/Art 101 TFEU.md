@@ -82,10 +82,21 @@
 	(b) The combined market share of the participating undertakings must not exceed 20 % on any relevant market affected by the standard.
 ## Cases
 ### Pierre Fabre (2011)
-- cosmetics companies
+- market: cosmetics companies
+- agreement: selective distribution (banning )
 - selective distribution agreement prohibited internet sales (absolute ban)
 - banning only sales is not acceptable -> CJEU Ruling
-### Electronics Producers
-- #wontfix   look at slides
+### Electronics Producers (2018)
+- involved: Asus, Denon & Marantz, Philips, Pioneer
+- agreement: resell price maintenance; refusal to supply; pricing algorithms
+- fine: EUR 111 million
+- online retails were restricted in setting prices
+	- monitoring network to ensure compliance
+- non-complying retails were threatened or sanctioned
+- pricing algorithms to adapt to competitor pricing
+- limiting cross-border sales
 ### Nike (2019)
-- #wontfix look at slides
+- fine: EUR 12.6 million
+- restriction of out-of-territory sales
+	- prohibiting resellers to sell outside of assigned territory
+	- deeply nested licencing structure

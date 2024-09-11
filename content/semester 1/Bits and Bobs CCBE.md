@@ -86,7 +86,7 @@ Positive and Normative tend to get mixed up.
 - Honesty
 - Replicability
 - Sufficiency
-#wontfix get rest from slides
+in full: [[FiLCHeRS - The Six Rules for Evidential Reasoning]]
 # Occam's Razor
 When there are 2 hypotheses that explain the situation equally well, then choose the simpler one.
 # Logical Fallacies
