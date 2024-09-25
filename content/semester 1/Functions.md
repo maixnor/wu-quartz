@@ -6,8 +6,8 @@ notation: $f: A \rightarrow B, x \Rightarrow f(x)$
 domain: $A$
 codomain: $B$
 range of a function: $f(A) = \{ f(x) | x \in A \}$
-#### Expamples
-- Assign each number it's squaere
+#### Examples
+- Assign each number it's square
 	- A:  $\mathbb{R}$
 	- B:  $\mathbb{R}$
 	- range: \[0; inf)
