@@ -11,6 +11,16 @@
 ### Net Profit Margin
 - NPM = Sales / Net Profit
 - only financial profit
+### EBITDA Margin
+- = Sales / EBITDA
+- depends on EBITDA calculation scheme
+## Earnings Before ...
+### Interest, Taxes
+- EBIT = Net Income + Interest Expense + Taxes
+- [[EBIT vs EBITDA]]
+### Interest, Taxes, Depreciation, Amortization
+- EBITDA = Net Income + Interest Expense + Taxes + Depreciation + Amortization
+- [[EBIT vs EBITDA]]
 ## Return on ...
 ### Capital Employed
 - ROCE = net profit before interest on longterm debt / (equity + longterm debt)
@@ -29,6 +39,8 @@
 ### Equity
 - ROE = profit / equity
 - how much do I (the owner, the company) get back for my investments
+### Net Assets
+- RONE =profit before tax and interest / (assets - long-term liabilities)
 ## Earnings per ...
 ### Share
 - ordinary -> any current stock holder
@@ -70,10 +82,5 @@
 - debt to equity ratio, leverage ratio
 - Gearing of 1 ... 50% equity, 50% liabilities
 # Dump from [[Profitability]]
-#todo incorporate
-### EBITDA
-- [[EBIT vs EBITDA]]
-### EBITDA-margin
 
 ### Return on net assets
-(profit before tax and interest) / (assets - long-term liabilities)

@@ -29,12 +29,10 @@
 - debt finance
 	- short term credit (bank overdraft, trade credit)
 	- long term credit (bank loan, bonds)
-
 ### Internal sources of finance
 - retained profit
 - reduce working capital
 - sale of assets
-
 ### External sources of finance
 - long term
 	- share capital
@@ -45,12 +43,10 @@
 	- trade credit
 	- leasing
 	- [[Debt Factoring]] (selling your trade receivable)
-
 ### Examining Stability and Wealth of a Business
 - [[Equity]] is very important
 - [[Equity#Equity Ratio|Equity Ratio]] important as well
 - Wealth is sufficient to sustain the business
-
 ### Share vs Venture Capital
 - [[Share Capital]] is usually not repaid
 	- dividends are used more often
@@ -59,12 +55,10 @@
 - [[Venture Capital]] are repaid
 	- investments in small businesses (mostly startups)
 	- after 5-7 years it is usually paid back (if company still exists)
-
 ### Share vs Bond
 - [[Share]] rather volatile
 - [[Bond|Bonds]] are more stable, yet potentially less profitable
 - if the company goes bankrupt, holders of a [[Bond]] are repaid before holders of a [[Share]]
-
 ### Choise of Source of Finance
 depends on cust, use of funds, financial situation and status/size of business
 
@@ -81,7 +75,6 @@ Why is it important to know your costs?
 Why is it important to know the **nature** of your costs
 - increased output -> not all costs scale equally
 - [[Fixed Costs]] vs [[Variable Costs]]
-
 ### Break-Even Analysis
 - total costs = total revenues
 - minimum output a company needs to meet
@@ -92,15 +85,12 @@ Weaknesses
 - does not account for change in costs
 - some [[fixed costs]] are stepped (e.g. insurance)
 - difficult to allocate allocate [[fixed costs]] for a range of products.
-
 ### [[Compound Interest]]
 Interest on Interest
 Exponential Growth
-
 ### Funds
 A [[Fund]] is a collection of Stocks, therefore the risk is lower than 
 picking stocks yourself.
-
 ### Soft Euro
 USD stays the same. EUR drops. 
 Therefore... more EUR for the same amount of USD
