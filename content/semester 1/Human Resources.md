@@ -1,7 +1,7 @@
 People matter. They make the difference between a failing, a good and an amazing company.
 
 ### Main Managerial Functions
-#todo get more from slides
+#todo get more from [[BS Business and Society]] slides
 - Planning
 	- settings goals
 	- developing strategies
@@ -16,7 +16,6 @@ People matter. They make the difference between a failing, a good and an amazing
 	- clarify processes, policies
 - Controlling
 	- measuring performance
-
 ### Tasks of HR
 - job analyses
 - define position
@@ -34,7 +33,7 @@ A complex and difficult task.
 
 ### Motivation Theories
 Maslow's hierarchy: Bottom to Top list
-- adequate compentasion
+- adequate compensation
 - job security
 - social contacts, team work
 - recognition for achievements
@@ -42,11 +41,5 @@ Maslow's hierarchy: Bottom to Top list
 
 Work should be a challenge, but not overwhelming.
 
-VRoom's expectancy theory
+![[VRoom's expectancy theory]]
 
-Do I have the abilities to perform the task?
--> no: no motivation
--> yes: 
-	Is it worth the outcome
-	-> no: no motivation
-	-> yes: Motivation

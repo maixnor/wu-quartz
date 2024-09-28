@@ -8,8 +8,8 @@
 - might be too much Inventory -> hard to sell
 - many firms are trying to reduce their working capital
 # Working Capital Cycle
-#todo finish
 ![[Production_Cycle.excalidraw]]
+![[Production_Cycle.excalidraw.png]]
 ## Balance Sheet and P/L
 - Buy Resources (+20 inventory, +20 liabilities)
 	- work-in-progress and finished goods 

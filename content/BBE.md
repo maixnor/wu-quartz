@@ -3,7 +3,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 ![[bbe_study_plan.png]]
 ### Semester 1
 - [[CCBE Contemporary Challenges in Business and Economics]]
-- [[BS1 Business and Society 1]]
+- [[BS Business and Society]]
 - [[QM1 Quantitative Methods 1]]
 - [[GLE Governance and Legal Enviroment]]
 - [[UBBP Understanding Business]] or [[UBBP Business Planning]]

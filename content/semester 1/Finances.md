@@ -13,7 +13,7 @@
 ### Sufficient Financial Resources
 - Businesses need money for their activities
 - Initial capital needs to be present
-- #todo get additinal points from UBBP slides
+- #wontfix get additinal points from UBBP slides
 ### Hyrid Bond
 - Combination of a [[Bond]] and a [[Share]]
 - Borrower receives money
@@ -62,7 +62,7 @@
 ### Choise of Source of Finance
 depends on cust, use of funds, financial situation and status/size of business
 
-#todo get rest from UBBP slides
+#wontfix get rest from UBBP slides
 ### Cost Awareness
 Cost-Unaware businesses can be endangered greatly by rising costs or falling sales. They may not be able to adjust their cost management quickly enough to meet the new requirements. 
 
@@ -78,7 +78,7 @@ Why is it important to know the **nature** of your costs
 ### Break-Even Analysis
 - total costs = total revenues
 - minimum output a company needs to meet
-- #todo get more from UBBP slide 53
+- #wontfix get more from UBBP slide 53
 
 Weaknesses
 - Assumption that all output is sold

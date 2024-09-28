@@ -1,5 +1,5 @@
 a.k.a [[Managerial Accounting]] or [[Cost Accounting]]
-beermat ... de: Bierdeckel, a cardboard sheet to place your drink on
+beermat ... de: Bierdeckel, a cardboard sheet to place your drink on so the table does not get wet
 ## How to make a wise decision
 - machine lifetime -> [[Depreciation]]
 - consider opportunity costs of investment -> interest in slides of week 3
@@ -11,7 +11,6 @@ beermat ... de: Bierdeckel, a cardboard sheet to place your drink on
 - if you are not sure about an outcome assume the most negative one
 	- e.g. machine is not worth anything after its lifespan
 - [[Amortization]] is important
-
 ## But there is not a single solution...
 - it depends...
 - what strategy is the company following?

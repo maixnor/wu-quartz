@@ -34,9 +34,7 @@
 	- = Household extended Income
 
 ## Based Justice(s)
-- based
-- very based
-- #todo fill from slides
+- #wontfix fill from slides
 ### Needs Based Justice
 ### Performance Based Justice
 ### Market Based Justice
@@ -52,7 +50,7 @@
 - Mean/Median ration -> Greater outliers on top/bottom of income distribution
 ## Why should I care?
 - endogenous fiscal policy
-	- #todo slides
+	- #wontfix slides
 - human capital accumulation theory
 	- untapped potential 
 	- e.g. education
@@ -73,13 +71,13 @@
 	- obesity
 # Consequences
 ### Life Expectancy
-- #todo get image from life expectancy/income diagram
+- #wontfix get image from life expectancy/income diagram
 	- higher development -> higher life expectancy
 	- income is pointless -> money cannot be eaten
 		- income can only pay for healthcare etc
-- #todo get image of tube system with life expectancy
+- #wontfix get image of tube system with life expectancy
 ### Linked Social Aspects
-- #todo get diagram of inequality vs health and social problems
+- #wontfix get diagram of inequality vs health and social problems
 	- correlation between inequality and social health
 - other linked aspects
 	- CO2 emissions
@@ -109,27 +107,23 @@
 - just knowledge of social status degrades performance
 - black/white students perform significantly different in "knowledge tests" but the same in "problem solving tests"
 	- african-american students perform worse in "knowledge tests"
-
 ## Social Graduation
 - due to [[Social Status]], not due to IQ or Ability
-- #todo get more from slides (56)
+- #wontfix get more from slides (56)
 - positive feedback look -> reinforcing effects
-
 ## Populist Voting
-#todo get from slides
+#wontfix get from slides
 - [[Dani Rodrik]]
-
 ## Climate Change
 - related to [[Climate Change]]
 	- [[Emissions]]
 	- [[Emissions#Emission Distribution]]
 - [[Climate Change Policies by Social Status]]
 	- [[Fossil Fuel Lobby]] challenging most anti-fossil-fuel concepts/legislations
-
 ## Education Gap
 - demand for university students was hit
 	- pay decreased
-- #todo slides get image from skill percentile to tasks
+- #wontfix slides get image from skill percentile to tasks
 - higher skill level -> more abstract, less routine and manual tasks
 ### Automation Impact
 - Most middle-skilled jobs automated by computers
@@ -138,9 +132,9 @@
 - 47% of jobs will be destroyed in the next 20 years (USA)
 ## Trade
 - import competition only affects blue-collar workers
-- #todo slides get more
+- #wontfix slides get more
 ## Market Forces
-- #todo slides get more
+- #wontfix slides get more
 # Explanations
-#todo slides get more
+#wontfix slides get more
 - CEO Compensation 

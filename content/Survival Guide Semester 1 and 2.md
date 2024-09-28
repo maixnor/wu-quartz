@@ -2,7 +2,7 @@
 You did it. You passed the entrance exam and are some of the lucky ones to study in this undergrad. Now it is time to get started with your studies. Don't panic, it's not difficult to get started.
 ## First Courses
 When you first sign up for courses (on [[#LPIS]]) you will need to sign up for 3 courses
-- [[BS1 Business and Society 1]] and 
+- [[BS Business and Society]] and 
 - [[CCBE Contemporary Challenges in Business and Economics]] and
 - [[QM1 Quantitative Methods 1]].
 After that you are settled for the first month at least and can focus on studying and enjoying time with your fellow students. By the time there are more things to do word of mouth will have served you well.
@@ -48,7 +48,7 @@ The secret to enrolling with highest success rate
 	- a friend missed the deadline and then could not join us with the course we wanted to take as a group, sad
 	- there is a "waiting list" but if nothing moves within a few minutes there is little hope it will change
 ---
-The moment you have been waiting for has arrived, the deadline. Have an atomic clock ready and time the exact second to refresh the page, then hope to get in. Choose wisely which courses to reload first (e.g. [[QM1 Quantitative Methods 1|QM1]] with 30 slots each before [[BS1 Business and Society 1|BS1]] with 240 slots in total)
+The moment you have been waiting for has arrived, the deadline. Have an atomic clock ready and time the exact second to refresh the page, then hope to get in. Choose wisely which courses to reload first (e.g. [[QM1 Quantitative Methods 1|QM1]] with 30 slots each before [[BS Business and Society|BS1]] with 240 slots in total)
 
 ### MyLearn
 https://learn.wu.ac.at/
