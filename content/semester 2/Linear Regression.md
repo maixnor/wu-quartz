@@ -42,10 +42,10 @@ $$r_{XY} = \frac{Cov(X,Y)}{\sigma_{X}\sigma_{Y}} = \frac{b}{|b|} \rightarrow -1 
 ### Deterministic vs Probabilistic
 - deterministic ... exact relationship $y = a + bx$
 	- very unrealistic, we are not in a deterministic world
-- probabilistic ... deterministic component + random error $y = a + bx + \epsilon$
+- probabilistic ... deterministic component + random error $y = a + bx + \varepsilon$
 	- oftentimes used
 	- when modelling we need to take error into account
-	- error term $\epsilon$ also takes care of the data points not taken into account
+	- error term $\varepsilon$ also takes care of the data points not taken into account
 		- sample vs population
 ### Theory
 > [!info]

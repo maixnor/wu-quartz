@@ -8,7 +8,7 @@
 	- $FC$ ... fixed costs
 - $Q_{x}$ ... Quantity of x
 - $P_{x}$ ... Price of x
-- $E_{x} = \epsilon_{x}$ ... Elasticity of x
+- $E_{x} = \varepsilon_{x}$ ... Elasticity of x
 - $X^{*}$ ... Optimum/Equilibrium of X (Price, Quantity)
 	- sometimes used as $X^{*}_{1}$ and $X^{*}_{2}$ in duopoly
 - $X^{**}$ ... another Optimum of X
@@ -25,7 +25,7 @@
 > When calculating the equilibrium quantity I use $Q^{*}$
 > When calculating the profit at a quantity I use $\pi(q)$
 - Equilibrium: $S = D$
-- [[Elasticity]]: $\epsilon = E_{P} = \frac{\partial q / q}{\partial p / p} = \frac{\% \partial q}{\% \partial p}$
+- [[Elasticity]]: $\varepsilon = E_{P} = \frac{\partial q / q}{\partial p / p} = \frac{\% \partial q}{\% \partial p}$
 	- [[Marginal Changes]]
 - [[Cross-Elasticity]]: $E_{q_{1}, p_{2}}=\frac{p_{2}}{q_{1}}\frac{\delta q_{1}}{\delta p_{2}}$
 - $\pi(q) = R(q) - C(q)$

@@ -39,20 +39,20 @@
 	- from that we get the optimal quantity to produce
 	- from what we can get the price with the demand function
 ### Amoroso-Robinson Formula
-$$MR = p + p\frac{1}{\epsilon _d}$$
-- $\epsilon_{d}$ ... elasticty -> [[Micro Formula Sheet]]
-- in perfect competition: $\epsilon _d = -\infty \implies MR = p$
+$$MR = p + p\frac{1}{\varepsilon _d}$$
+- $\varepsilon_{d}$ ... elasticty -> [[Micro Formula Sheet]]
+- in perfect competition: $\varepsilon _d = -\infty \implies MR = p$
 	- constant marginal revenue: horizontal curves
 	- small price increase -> complete loss of demand
-- market power: $-1 > \epsilon _d > -\infty \implies MR < p$
+- market power: $-1 > \varepsilon _d > -\infty \implies MR < p$
 	- negatively sloped market demand & marginal revenue curves
-- inelastic demand $-1 < \epsilon _d < -\infty \implies MR < 0$
+- inelastic demand $-1 < \varepsilon _d < -\infty \implies MR < 0$
 	- negative marginal revenue -> choose an output level which is in elastic demand
 ### Optimal Prices
 $$p = mMC$$
 - $m$ ... Markup
 ### Lerner Index
-$$\frac{p - MC}{p} = -\frac{1}{\epsilon _d}$$
+$$\frac{p - MC}{p} = -\frac{1}{\varepsilon _d}$$
 - Lerner index ... left side
 - $0 < L < 1$
 - the higher the Lerner index, the less competition 

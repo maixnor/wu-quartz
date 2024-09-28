@@ -31,9 +31,9 @@
 	- $MR_1 = MR_2 = MC$
 	- otherwise not maximized profits
 - rule of thumb: 
-$$MR_1 = p(1 + \frac{1}{\epsilon_{D_i}})$$
+$$MR_1 = p(1 + \frac{1}{\varepsilon_{D_i}})$$
 $$MR_1 = MR_2$$
-$$\frac{p_1}{p_2} = \frac{(1 + \frac{1}{\epsilon_{D_2}})}{(1 + \frac{1}{\epsilon_{D_2}})}$$
+$$\frac{p_1}{p_2} = \frac{(1 + \frac{1}{\varepsilon_{D_2}})}{(1 + \frac{1}{\varepsilon_{D_2}})}$$
 
 # Methods
 ## Inter-Temporal

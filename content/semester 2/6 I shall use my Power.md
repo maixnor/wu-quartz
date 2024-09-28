@@ -39,11 +39,11 @@ only 1 price for all markets:
 ## Large Example at the End
 #wontfix type out example from picture
 ## Elasticity of 
-- independent goods $\epsilon_{1,2} = 0$
+- independent goods $\varepsilon_{1,2} = 0$
 	- relative markup is the inverse of the other product
 	- product with higher elasticity has lower price
-- complements $\epsilon_{1,2} < 0$
+- complements $\varepsilon_{1,2} < 0$
 	- monopolist will charge a price lower than in case with independent goods
-- substitutes $\epsilon_{1,2} > 0$
+- substitutes $\varepsilon_{1,2} > 0$
 	- monopolist will charge a higher price than in case with independent goods
 
