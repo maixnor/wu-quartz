@@ -10,3 +10,10 @@ permanent stress leads to
 - increased risk of depression
 - deteriorated immune response
 
+- good vs bad stress
+	- good: just pressure, but no breaking
+	- bad: overwhelming and breaking pressure
+# Measures
+- cortisol levels are stored in the hair
+- cortisol levels generally
+- skin conductivity

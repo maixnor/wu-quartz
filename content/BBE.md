@@ -21,6 +21,8 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 - [[Foundations in Macroeconomics]]
 - [[History of Economics and the Economy]]
 - [[Specializations]] - onwards
+	- [[SR Sustainability Reporting]]
+	- [[Decision Sciences]]
 ### Semester 4
 - [[Managing Organizations]]
 - [[Logic and Methodology of Social Sciences]]

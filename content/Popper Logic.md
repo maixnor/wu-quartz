@@ -10,10 +10,14 @@ For something to be scientific it needs to be 2 things
 		- "I cannot falsify the theory yet"
 		- but the theory is not proven
 # Errors
-## Type I - false positive
+
+## Type I - false positive (alpha)
 - the prisoner is found guilty, but is innocent
 - $1 - \alpha$
-## Type II - false negative
+- standard is 5% as a scientific community
+## Type II - false negative (beta)
 - the prisoner is not found guilty, but has committed the crime
 - $\beta$ ... $(1-\beta)$ = power of a test
 	- not relevant, but for future studies
+- no definite decision, no yes/no
+	- just a rather/rather not

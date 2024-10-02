@@ -1,4 +1,4 @@
-- NADIVEG
+- NADIVEG (past)
 - CSDDD -> EU parlament 23rd of April 2024
 - GRI -> Global Reporting Initiative
 	- for voluntary use
@@ -12,9 +12,6 @@
 - NABEG
 - [[EU Taxonomy Revelation]]
 - ISSB Standards -> [[IAASB]] and [[IAS]]
-
-
-
 
 
 - a standardized auditors opinion would be very helpful

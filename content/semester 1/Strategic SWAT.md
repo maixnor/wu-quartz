@@ -12,7 +12,7 @@ You might be wrong 100% of the time, but just looking into the future makes you 
 - ... changes can be influenced 
 - [[5 Forces Analysis]]
 - [[Brandenburger Nalepuff]]
-- Co-opetition ... coworking with competitors
+- [[Co-Opetition]] ... coworking with competitors
 	- enormous value creation (mostly cost saving)
 	- not just thinking in competition but also about future competition
 

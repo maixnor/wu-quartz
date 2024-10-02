@@ -3,10 +3,10 @@
 # my preferences
 0. Financial Management (double degree prerequisitie) 2488
 ---
-1. Sustainability Reporting 1261
-2. Decision Sciences 1629
-3. Strategy and Managerial Accounting 2183
-4. International and European Tax Law 1425
+1. [[SR Sustainability Reporting]]
+2. [[DS Decision Sciences]]
+3. Strategy and Managerial Accounting
+4. International and European Tax Law
 5. Strategy and Organization
 6. Finance (excluded by double degree)
 7. Economics Core

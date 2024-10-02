@@ -22,7 +22,7 @@ location: WU D5
 	- Phizer, Zalando, Baierstorf, Nike, Netflix, Tesla, Unilever, Amazon, Starbucks, LVMH
 	- specs for grading: sticking to the 5 minutes, correct information, interesting presentation, teamwork
 - 45% Final Written Exam 
-- 20% [[UBBP Insight Book]]
+- 20% [[Insight Book UBBP]]
 	- max 4 pages
 	- this is a personal task, what have **you** taken from the class?
 	- kind of self-reflection 
@@ -43,7 +43,7 @@ location: WU D5
 
 # Exam
 #examinfo
-- [[UBBP Insight Book]] assignment as a preparation
+- [[Insight Book UBBP]] assignment as a preparation
 - no number crunching
 - writing -> no multiple choice tests
 - 10-20 questions, 90 minutes time
