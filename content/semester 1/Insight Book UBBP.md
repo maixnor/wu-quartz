@@ -1,0 +1,9 @@
+- Business is more than finance and marketing and sales, it's all of them combined
+- Not only about making money but also about providing value to others
+	- Zotter dropping "most successful" chocolate because it overshadowed the variety and misrepresented what Zotter stands for ultimately. Yes, would have been more profitable, but not as - lets call it that - fun
+- After [[John Nash]], one can do incredible things even though it is not recognized right away
+- Successful business is both super easy and super hard to do
+- Ratios have been demystified
+	- [[Investments on a Beermat]]
+- How important the future and planning for the future is
+	- [[Scenario Development]]

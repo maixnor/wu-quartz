@@ -1,0 +1,7 @@
+- publication or new experiment
+- generating hypothesis
+- study design
+- data collection
+- analysis & hypothesis test
+- interpretation
+- -> a new publication or experiment

@@ -1,0 +1,38 @@
+- define clear objective
+	- communicate why the survey is made and what data is collected
+- understand your audience
+	- identify who your respondents are
+	- tailor to level of understanding
+- choose the right type of question
+	- open-ended questions for qualitative insights
+	- closed-ended questions from quantitative analysis
+- questionnaire design
+	- keep questions clear, concise and unbiased, logical flow
+	- narrow your questions down to keep it short
+		- web 20min (rather 10min)
+		- phone 30min
+		- face2face 90min
+		- typically 4 responses per minute
+- consider your sample
+	- define your target population
+- survey distribution
+	- online, printed, in-person, etc
+- ethical considerations
+- test your survey
+	- grandma, friends, parents, etc
+
+# Construction of Questions
+- easily understandable
+- easy to answer
+	- understand question
+	- search relevant information (e.g. memory)
+	- judgement
+	- transfer of judgement onto the scale
+	- adapting of the response according to social desirability
+		- uncomfortable answers are often not given
+		- participants need to be comfortable giving the hard answer
+			- e.g. answer 2 questions with the same point
+			- how do you like the weather OR how depressed are you in one number
+- context of question relevant
+- start with an easy "ice breaker" question
+- socio-demographic question in the end
