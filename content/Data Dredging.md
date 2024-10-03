@@ -1,0 +1,5 @@
+- rerunning tests increases Alpha error probability 
+- also known as "data snooping" or "p-hacking" 
+- possible remedy: z-line
+  - plot all results (even across papers) on a line, it should be normally distributed, otherwise it is biased
+- examples, further details: https://en.wikipedia.org/wiki/Data_dredging

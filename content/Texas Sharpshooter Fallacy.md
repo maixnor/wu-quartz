@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy

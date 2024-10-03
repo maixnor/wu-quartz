@@ -33,7 +33,7 @@
 - economies of scale
 - absolute cost advantages
 - product differentiation
-- sunk cost
+- sunk cost -> [[Sunk Cost Fallacy]]
 - research and development intensity
 - asset specificity -> e.g. semiconductor industry
 - vertical integration

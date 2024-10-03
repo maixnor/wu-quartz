@@ -15,8 +15,11 @@
 	- always look for errors when analyzing data or conclusions
 - research is a process!
 	- not a result
+- research objectives 
+	- from abstract concept to clearly defined and measurable stat/stats
+	- check the method too, not just the abstract
 
 - [[Experiment Structure]] #todo
-- [[Reproduceability Crisis]] #todo
+- [[Replication Crisis]]
 - [[Conducting an Experiment]] #todo
 - [[Reliability and Validity]] #todo
