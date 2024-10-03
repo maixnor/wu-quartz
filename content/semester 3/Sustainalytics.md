@@ -1,0 +1,11 @@
+- 20k companies
+- widely recognized
+- a lot of different industries covered
+- large & middle companies
+- global coverage
+- [[Double Materiality]] framework used
+- over 200 indicators, 1.800 data points
+- 5 risk levels
+	- manageable and unmanageable portion of risk
+	- handling of manageable is rated too 
+- flexible in operation 

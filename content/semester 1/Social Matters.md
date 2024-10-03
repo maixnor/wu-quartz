@@ -38,7 +38,7 @@ Information in reports:
 ### Sustainable Development Goals
 by United Nations
 
-[[Sustainable Development Goals by UN]]
+[[SDGs]]
 ### Business Case for CSR (Caroll 2015)
 CSR can help with:
 - winning more customers

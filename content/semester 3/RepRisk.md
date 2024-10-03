@@ -1,0 +1,4 @@
+- for the banking sector
+- focus on short term risks
+- crawl internet for any data to be found
+	- less resource intensive than other sust. rating methodologies

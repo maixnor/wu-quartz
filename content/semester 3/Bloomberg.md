@@ -1,0 +1,6 @@
+- >16k companies
+- more about quality
+	- no proxy data
+- large client base
+- one of the earliest ratings
+- more about quality of the disclosures, not the actual numbers

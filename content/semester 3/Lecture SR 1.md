@@ -1,7 +1,7 @@
 NADIVEC is past
 
 [[Sustainability]]
-[[Sustainable Development Goals by UN]]
+[[SDGs]]
 [[ESG]]
 [[IPCC Reports]]
 [[Industries which will never be Carbon Neutral]]

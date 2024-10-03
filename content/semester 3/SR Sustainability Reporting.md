@@ -8,10 +8,14 @@
 - 40% final exam
 # Content
 [[Intro into Sustainability Reporting]]
+[[Voluntary Standards and Frameworks]]
+[[GHG Emissions]]
 [[ESRS]]
 [[Double Materiality]]
 [[Sustainability Taxonomy Regulations]]
 [[Accounting for Greenhouse Gas Emissions]]
+
+[[Sustainability Standards]]
 # Lectures
 ## Intro
 - [[Lecture SR 1]]

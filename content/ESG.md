@@ -6,7 +6,7 @@
 - [[ESRS]]
 - [[NFRD]]
 	- replaced / being replaced by [[CSRD]]
-- SDG -> [[Sustainable Development Goals by UN]]
+- SDG -> [[SDGs]]
 - [[CSRD]] -> Sustainability Reporting of EU -> [[ESRS]]
 - SFDR
 - NABEG

@@ -1,0 +1,6 @@
+- > 25k
+- they send out questionaires to companies
+- companies fill that out voluntarily
+	- do not cost anything or is insignificant
+- very detailed surveys
+	- heavy on water consumption

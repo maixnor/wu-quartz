@@ -5,6 +5,7 @@
 - in spirit is about
 	- cross cutting standards
 	- environmental matters
-	- social matters
+	- [[social matters]]
 	- governance matters
 - appendixes with relevant information
+- standard in [[EU]]
