@@ -1,3 +1,6 @@
+# Definition
+> Framework about strategic, interactive situations
+
 > [!info]
 > Game ... interaction between multiple agents which effect the others
 > Player ... actor, agent in this interaction
@@ -6,6 +9,14 @@
 - [[John Nash]] 1949
 	- theory of Neumann and Morgenstern
 	- [[Nash Equilibrium]]
+- [[Selten]]: subgame perfection 1965
+- [[Harsanyi]]: incomplete information 1967
+	- [[Incomplete Information Games]]
+- [[Maynard Smith]]: evolutionary games 1972/82
+	- [[Coordination Games]]
+## Nobel Prizes
+- 1994: Nash, Harsanyi, Selten
+- #todo DS lecture 1
 # Games and Competition
 - sequential or constant game
 ![[FM_game_theory.png]]
@@ -17,7 +28,7 @@
 - every actor understands the payoffs of the game
 - players have preferences
 - [[Rationality]] - all players are rational -> maximize payoffs
-- common knowledge
+- complete knowledge
 	- all information is available to everyone
 	- everyone knows that all information is known by everyone
 - players have unlimited reasoning and calculation ability
@@ -29,6 +40,7 @@
 - for all players the utility has been maximized
 	- i.e. sticking to the current (best) option, since every other option is inferior
 - #todo math notation
+- there can be more than one nash equilibrium, but there must always be one
 ## Payoff Matrix
 - $N$ - dimensional -> $N$ ... number of players
 - $m \times m$ matrix -> $m$ ... number of strategies of players
@@ -72,17 +84,7 @@
 - asking: "what is the worst thing that can happen?" for all possibilities
 	- maximin strategy -> choose the best worst thing
 ## No Solution - Mixed Strategy
-- 0-sum game
-- e.g. rock-paper-scissors
-	- there is no clear profit-maximizing strategy
-- no [[Nash Equilibrium]] in pure strategies
-- **BUT** there is an equilibrium with **mixed strategies**
-	- mixed strategy ... taking probabilities of actions into account
-		- i.e. preferences of other players
-	- players are only willing to change their preferences "randomize" when there is otherwise no chance for profit
-		- e.g. during rock-paper-scissors one might pick one option multiple times to get an edge
-	- with symmetrical games they will always randomize -> always equal probabilities
-	- with asymmetrical games they will only randomize when chances are equal, otherwise players have dominant strategies
+- [[Mixed Strategies]]
 # Solutions of a Dynamic Game
 ## Repeated Games
 - giving a new spin to [[Prisoners Dilemma]]

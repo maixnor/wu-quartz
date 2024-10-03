@@ -1,4 +1,6 @@
-- Nobel Prize winner
+- Nobel Prize 1994 winner
 - long unemployment before getting the prize
-- Schichozfrenic
-	- Film: A beautiful mind
+- Schizophrenic
+- Film: A beautiful mind
+	- more about the mental problems
+	- less about actual work in [[Game Theory]]
