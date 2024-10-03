@@ -15,7 +15,7 @@
 - [[Sustainability Taxonomy Regulations]]
 - [[Accounting for Greenhouse Gas Emissions]]
 
-- [[Sustainability Standards]]
+- [[Sustainability Reporting Standards]]
 # Lectures
 ## Intro
 - [[Lecture SR 1]]
