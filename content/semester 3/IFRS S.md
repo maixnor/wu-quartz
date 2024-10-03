@@ -1,0 +1,4 @@
+- should overlap with [[ESRS]]
+- in cooperation with [[GRI]]
+- 2 climate related disclosures
+- 

@@ -1,0 +1,5 @@
+- coming from gambling industry, casinos
+- very shareholder oriented
+- most prominent in Northern America currently
+- other industry-specifics for e.g. IT companies
+	- especially prominent in banking and other financial sectors

@@ -16,3 +16,9 @@
 15. life on land
 16. peace, justice and strong institutions
 17. partnerships for the goals
+
+# Sustainability Reporting
+- voluntary reporting 
+- very impact focused
+	- some industry-specific stuff, e.g. healthcare
+- about 17 goals, 169 targets

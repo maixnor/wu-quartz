@@ -2,11 +2,21 @@
 	- different standards have different objectives
 	- newer standards try to pluck flaws of other standards
 		- what are these flaws?
-	- no stock exchange has implemented the [[ESRS]] yet
-	- e.g. [[TCFD]] / [[TNFD]] is done in Switzerland and UK
-	- e.g. [[ESRS]] is done in Northern America 
+	- no stock exchange has implemented the [[ESRS]] as a requirements
+	- e.g. [[TCFD]] / [[TNFD]] is mandatory in Switzerland and UK
+	- e.g. [[SASB]] is done in Northern America 
 	- e.g. [[IFRS S]] is done in Turkey 
-- [[GRI Standard]] was the first standard
+- [[GRI]] was the first standard
+
+# Standards
+| ref               | [[GRI\|GRI]]          | [[SASB]]              | [[SDGs\|SDG]] | [[TCFD]]                                     | [[ESRS]]                       |
+| ----------------- | ------------------------------ | --------------------- | ------------- | -------------------------------------------- | ------------------------------ |
+| materiality, IROs | impact, [[GHG Emissions\|GHG]] | financial materiality | impact        | [[Double Materiality\|double]]               | [[Double Materiality\|double]] |
+| sectors           | no                             | yes, 77 sectors       | some          | no, only financial                           | no                             |
+| governance        | general                        | ~                     | vague         | recom                                        | yes                            |
+| strategy          | general                        | ~                     | ~             | [[Scenario Planning\|scenarios]], resilience | climate transition             |
+| KPIs              | yes                            | yes                   | vague         | yes                                          | yes                            |
+| targets           | reductions                     | no                    | 17 goals      | yes                                          | climate transition             |
 
 # Report Analysis
 ## Holcim

@@ -6,7 +6,7 @@ Why trade?
 - winners and losers of trade
 
 - trade, globalization and economic development
-- trade, globalization and inequality
+- trade, globalization and [[inequality]]
 - trade, globalization and the environment
 ## History of Globalization
 from [ourworldindata.org](ourworldindata.org)
@@ -70,8 +70,8 @@ Countries that trade more are more likely to have a greater increase in GDP per 
 - trade may produce winners and losers, even if the global economy benefits
 - benefits of trade
 	- increased variety of goods
-	- lower unit costs -> economy of scale
-	- increased competition
+	- lower unit costs -> [[economy of scale]]
+	- increased [[competition]]
 	- enhanced flow of ideas
 
-- trade may increase within-country inequality while generating economic growth
+- trade may increase within-country [[inequality]] while generating economic growth
