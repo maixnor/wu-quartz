@@ -26,7 +26,7 @@
 - Horizontal Diff
 	- taste
 ### Modelling
-#todo get image from slides
+#wontfix get image from slides
 # Summary
 ![[FM_summary_competition.png]]
 - [[Backward Induction]] 
