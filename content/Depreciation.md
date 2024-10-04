@@ -7,7 +7,7 @@ Every year an asset looses some value based on the lifetime on the asset. Differ
 When adding depreciation into the price calculations and the customers pay that price then you turned stoned to gold. Since the depreciation is never leaving the cash account you "made up" profits.
 ## Where to Find in Income Statement
 - Depreciation is not in a single account in [[Income Statement]]
-	- Depreciation of R&D Building is under R&D expenses, etc
+	- Depreciation of R&D Building is under R&D expenses, etc.
 # Example - Machine 
 - purchase of machine at 20
 	- BS: ppe +20, cash -20
@@ -34,7 +34,7 @@ When adding depreciation into the price calculations and the customers pay that 
 	- BS: ppe +200, retained earnings +200
 	- CF: 0 -> 
 	- PL: +200 -> write-up = income
-# Exaple - Machine, Residual Value
+# Example - Machine, Residual Value
 - 50k for 10 years
 	- depreciation would be 5k (50k / 10y)
 - expected residual value is 10k
