@@ -1,3 +1,4 @@
+- "European Sustainability Reporting Standards"
 - standards implemented within a year by [[EFRAG]]
 - medium quality standards
 	- too many inclarities
@@ -9,3 +10,13 @@
 	- governance matters
 - appendixes with relevant information
 - standard in [[EU]]
+
+## Different standards
+- E1 - climate change
+- E2 - [[pollution]]
+- E3 - water and marine resources
+- E4 - biodiversity and ecosystems
+- E5 - [[circular economy]]
+- S1 - own workforces
+- S4 - consumers
+- G1 - business conduct
