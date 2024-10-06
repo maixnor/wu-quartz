@@ -27,4 +27,3 @@
 	- "creating value from nothing"
 		- if one is undervalued one can increase share value that way
 - stakeholder theory
-- 
