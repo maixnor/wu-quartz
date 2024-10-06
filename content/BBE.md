@@ -22,7 +22,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 - [[History of Economics and the Economy]]
 - [[Specializations]] - onwards
 	- [[SR Sustainability Reporting]]
-	- [[Decision Sciences]]
+	- [[DS Decision Sciences]]
 ### Semester 4
 - [[Managing Organizations]]
 - [[Logic and Methodology of Social Sciences]]

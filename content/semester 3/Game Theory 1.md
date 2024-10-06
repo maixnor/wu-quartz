@@ -1,0 +1,17 @@
+## Game Theory I
+- [[Intro Session Game Theory]]
+- [[Markets]]
+- [[Bargaining and Cooperation]]
+- [[Reputation]]
+- [[Auctions]]
+- [[Information]]
+- [[Limits of Game Theory]]
+## Grading
+- 30% preparation
+- 2x10% written homework
+	- groups of 3, hand in individually
+- 50% exam
+	- knowledge questions
+	- strategic situation: like instructions
+	- data on behavior: like experimental data
+	- -> strategic analysis, discussion of data: like homework
