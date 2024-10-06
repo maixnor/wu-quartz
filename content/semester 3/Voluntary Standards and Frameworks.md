@@ -9,7 +9,8 @@
 - [[GRI]] was the first standard
 
 # Standards
-| ref               | [[GRI\|GRI]]          | [[SASB]]              | [[SDGs\|SDG]] | [[TCFD]]                                     | [[ESRS]]                       |
+
+| ref               | [[GRI\|GRI]]                   | [[SASB]]              | [[SDGs\|SDG]] | [[TCFD]]                                     | [[ESRS]]                       |
 | ----------------- | ------------------------------ | --------------------- | ------------- | -------------------------------------------- | ------------------------------ |
 | materiality, IROs | impact, [[GHG Emissions\|GHG]] | financial materiality | impact        | [[Double Materiality\|double]]               | [[Double Materiality\|double]] |
 | sectors           | no                             | yes, 77 sectors       | some          | no, only financial                           | no                             |

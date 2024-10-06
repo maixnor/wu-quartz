@@ -16,6 +16,7 @@
 | companies | >100k          | >25k    | >20k               | >16k               | >14k      | >150k                                   |
 | focus     | sustainability | climate | [[ESG]] risk       | [[ESG]] disclosure | investors | sustainability<br>[[UN Global Compact]] |
 | rating    | medals         | A       | 0-100              | 0-100              | AA-CC     | 1-100                                   |
+
 - check multiple ratings, not just one
 
 ## Reasons to disclose
