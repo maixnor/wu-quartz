@@ -1,4 +1,6 @@
 # Rittersport
+[[rittersport_sustainabilityreport_2020.pdf|report]]
+
 ---
 - chocolate producer
 - 1.900 employees
@@ -17,4 +19,11 @@
 - transparent supply chain
 - FSC certificate 
 - 2025 carbon neutral aim
-	- according to website they are 
+	- including [[GHG Emissions]] scope 3
+- 42% emission cut by 2030 ([[SBTi]])
+---
+- 4 key indicators
+	- sus. resources and supply chain
+	- sus. manufacturing
+	- responsible employments
+	- organization and values
