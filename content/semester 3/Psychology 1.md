@@ -3,7 +3,9 @@
 - [[Attitude Development and Perception]]
 - [[Memory & Learning]]
 - [[Motivation & Incentives]]
-- ...
+- [[Group Structure & Process]]
+- [[Interpersonal Communication & Conflict]]
+- [[Leadership Behavior & Power]]
 ## Grading
 - 25% individual effort (canvas)
 - 25% group effort 

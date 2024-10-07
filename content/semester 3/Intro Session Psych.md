@@ -1,3 +1,5 @@
+- [[LLM Snippets]]
+
 - differential psychology
 	- differences between people
 - social psychology
