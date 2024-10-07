@@ -6,9 +6,18 @@
 - ice cream consumption **is correlated** to shark attacks
 - BUUUUUT ice cream consumption does not **cause** shark attacks
 	- when eating ice cream in Vienna there is no shark attack chance
+	
+# Science and Suicide
+![[sciencen_suicide.png]]
 
 # Reasons for Correlation
-#todo psych slides
+- Causality 		x -> y
+- Reverse causality	y -> x
+- Simultaneity		        x -> y and y -> x
+- Omitted variable bias	z -> x and z -> y
 
 # Do Storks deliver Babies?
-#todo psych slides
+- storks and fertility rate are correlated
+![[storks_babies_1.png]]
+- add in km^2 of country and the correlation changes dramatically -> [[Data Dredging]] if not done properly
+![[storks_babies_2.png]]
