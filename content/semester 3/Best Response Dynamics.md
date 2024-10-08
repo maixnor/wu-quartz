@@ -1,0 +1,2 @@
+- given we start with random strategies we can analyse where want to go to to 
+- tendencies/incentives to deviate from any 

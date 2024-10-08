@@ -1,0 +1,11 @@
+# Steps
+- determine players, strategies, payoffs
+- write down the game
+	- [[Normal Form]] (strategy table, payoff matrix)
+	- [[Extensive Form]] (game tree)
+- find [[Equilibrium|equilibrium]]
+	- [[Normal Form]]
+		- repeated elimination of dominated strategies
+		- inspection of best responses
+	- [[Extensive Form]]
+		- rollback / subgame perfection

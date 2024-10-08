@@ -1,0 +1,9 @@
+- when what I do hurts you
+- fierce price [[competition]]
+- #todo gt2
+- obfuscation is very strong
+	- making it harder to compare for customers
+- highly elastic demand -> [[Elasticity]]
+	- change the price slightly and you lose all customers
+- free entry/exit -> [[Market Entry Barriers]]
+	- even [[Monopoly]] markets can have competitive prices

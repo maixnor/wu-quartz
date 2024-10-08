@@ -1,0 +1,4 @@
+###
+ A Class Divided (1968) is a famous experiment by Jane Elliot where a class of children was split into two distinct groups, based on their eye color, and observed in a classroom setting to illustrate discrimination. At first, the blue-eyed group was labelled as superior having extra privileges while brown-eyed ones were connected with negative characteristics only. The children's behavior changed almost instantaneously. The blue-eyed group performed better academically and started bullying the other group. On the second day, the rules were reversed which led to a similar change in behavior. Which of the following statements is/are correct? 
+
+add some form of distinction for lab experiment vs field experiment. I presume it is not a lab experiment because the class could be a group of students that are normally taught together but tested in a lab environment or an actual classroom full of students.

@@ -1,0 +1,14 @@
+- most highly controlled method of [[hypothesis testing]]
+- goal: Isolation of a [[Correlation vs Causation|cause-and-effect]] relationship
+- independent variables (IVs) are predicted to impact the dependent variables (DVs)
+- manipulation of IVs, then measurement of DVs while controlling all other confounding variables
+- random assignment of participants to different conditions (= different versions of IVs)
+	- e.g. treatment vs control group
+	- identical groups
+		- even tho people cannot be cloned we have statistical unbiased data
+		- only applicable to larger sample sizes
+			- how many people have long hair? sample size of 2. results: 100%, 50%, 0%
+			- with higher sample size the results gets closer to reality
+	- all same probably to be selected
+		- e.g. [[Vietnam Lottery]]
+	- no prior knowledge about [[unobservable information]] necessary

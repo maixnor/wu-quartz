@@ -31,3 +31,8 @@
 ![[FM_summary_competition.png]]
 - [[Backward Induction]] 
 - [[Nash Equilibrium]]
+
+# Preventing Competition
+- [[Cartel]] are powerful -> do not wright it down tho
+	- some cartels are [[Cartel#Legal Cartels|legal]]
+- Differentiation

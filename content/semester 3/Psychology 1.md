@@ -1,11 +1,13 @@
 ## Psychology I
 - [[Intro Session Psych]]
-- [[Attitude Development and Perception]]
+- [[Attitude Development and Perception]] #todo
 - [[Memory & Learning]]
 - [[Motivation & Incentives]]
 - [[Group Structure & Process]]
 - [[Interpersonal Communication & Conflict]]
 - [[Leadership Behavior & Power]]
+
+- [[Psychology Question Feedback]]
 ## Grading
 - 25% individual effort (canvas)
 - 25% group effort 

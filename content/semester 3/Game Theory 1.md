@@ -1,5 +1,6 @@
 ## Game Theory I
 - [[Intro Session Game Theory]]
+- [[Game Theory]] -> [[Analysing Games]]
 - [[Markets]]
 - [[Bargaining and Cooperation]]
 - [[Reputation]]

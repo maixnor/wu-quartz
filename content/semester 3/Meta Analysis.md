@@ -1,0 +1,6 @@
+- combining a lot of studies (usually 25 or more)
+- a great place to start when digging into new topics
+	- did someone already do the work? so I don't have to
+- discovers biases & 
+	- e.g. heterogenuitey -> not a great thing to sink money into
+- different measurement problems can cancel each other out

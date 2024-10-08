@@ -11,3 +11,10 @@
 	- cooperative games are not part of this specialization
 	- cooperative games ... contracts outside of rules of the game
 - [[Games]]
+
+
+# Experiments
+- [[Experiment 1]] and [[Experiment 2 and 3]]
+- goal of experiments:
+	- incentiveces drive prices to market equilibrium
+	- 

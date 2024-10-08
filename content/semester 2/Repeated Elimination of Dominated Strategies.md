@@ -1,0 +1,5 @@
+- never play dominated [[strategies]]
+- therefore we can exclude those strategies -> simplification
+- assumption: all players are rational
+	- [[Common Knowledge of Rationality]]
+- outcome: exactly 1 unique [[Nash Equilibrium]] or none

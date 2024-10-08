@@ -15,5 +15,5 @@
 - write down game
 - find equilibria -> [[Nash Equilibrium]]
 ## Write down a Game
-- [[Game Normal Form]]
-- [[Game Extensive Form]]
+- [[Normal Form]]
+- [[Extensive Form]]

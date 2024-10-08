@@ -42,11 +42,7 @@
 - #todo math notation
 - there can be more than one nash equilibrium, but there must always be one
 ## Payoff Matrix
-- $N$ - dimensional -> $N$ ... number of players
-- $m \times m$ matrix -> $m$ ... number of strategies of players
-	- square if all players have same (number of) strategies
-- Rock-Paper-Scissors with 2 players
-	- 2-dimensional matrix. 3x3 (rock, paper, scissors are the strategies of both players)
+- [[Normal Form]]
 ## Types of Games
 - static/simultaneous vs dynamic/sequential
 - pure-strategy equilibrium vs mixed-strategy equilibrium
@@ -59,11 +55,7 @@
 - find optimal strategies of all players
 - reach [[Nash Equilibrium]]
 ## Strategies
-- dominant strategy
-	- whatever the others are doing a specific strategy is always the best
-	- player-specific, not all agents have to have the same dominant strategy
-- dominated strategy
-	- whatever the others are doing a specific strategy will always be inferior to another strategy
+- [[Strategies]]
 ## Multiple Equilibria - Battle of the Sexes
 - when 2 strategies are exactly opposite to one another
 - combination of all payoffs are equally beneficial
