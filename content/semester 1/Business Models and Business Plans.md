@@ -32,7 +32,7 @@
 - Executive Summary
 - Product / Service
 - Team and Core Competencies
-	- diverse teams are always better
+	- diverse [[Teams]] are always better
 	- color, gender, culture, education
 - Marketing Plan
 - Legal Structure and Organization
