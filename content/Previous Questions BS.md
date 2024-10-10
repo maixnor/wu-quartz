@@ -161,7 +161,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	1. False
 49. Herzberg's theory explains the importance of extrinsic motivation
 	50. False
-50. The "Scientific Management" approach emphasizes the important role of leadership.
+50. The "[[Taylorism|Taylorism]]" approach emphasizes the important role of leadership.
 	1. False
 51. From a [[Taylorism]] perspective, management deals with the optimal division of the production process into individual tasks, in order to economize on the benefits of specialization.
 	1. Correct
@@ -177,7 +177,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	1. Correct
 57. When the price of a product is increased then it can be expected that less units of the product will be sold but revenues may still increase.
 	1. Correct
-58. [[Taylorism]] combined with assembly line production has been known as [[Fordism]].
+58. [[Taylorism]] combined with assembly line production has been known as [[Taylorism|Fordism]].
 	1. Correct
 59. When a company invests money to build up a brand then such investment only makes economic sense if the company is able to get the invested money back through higher revenues.
 	1. Correct
@@ -233,7 +233,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. False
 	2. Herzberg's theory explains the importance of extrinsic motivation
 		1. False
-	3. The "Scientific Management" approach emphasizes the important role of leadership
+	3. The "[[Taylorism|Scientific Management]]" approach emphasizes the important role of leadership
 		1. False
 	4. From a Taylorism perspective, management deals with the optimal division of the production process into individual tasks, in order to economize on the benefits of specialization.
 		1. Correct
@@ -346,7 +346,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. False
 	2. The “Hawthorne effect” shows the importance of incentives in business firms. 
 		1. False
-	3. The “Scientific Management” approach emphasizes the important role of leadership 
+	3. The “[[Taylorism|Scientific Management]]” approach emphasizes the important role of leadership 
 		1. False
 	4. From a P&L-perspective employees cause expenses (salary)but on the other hand they help to generate revenue. 
 		1. Correct
