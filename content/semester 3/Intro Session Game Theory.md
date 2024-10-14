@@ -16,5 +16,5 @@
 # Experiments
 - [[Experiment 1]] and [[Experiment 2 and 3]]
 - goal of experiments:
-	- incentiveces drive prices to market equilibrium
-	- 
+	- Incentives drive prices to market equilibrium
+	- market equilibrium does not need to be known by the players

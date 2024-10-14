@@ -15,7 +15,7 @@
 # Remedies
 - the pressure is not as high to create positives, nulls are ok and are published
 - data must be public, so at least the statistics are reproducible
-- pre-registration: defining the experiment before actually doing it and analyzing 
+- pre-registration: defining the [[experiment]] before actually doing it and analyzing 
 - meta-analysis: taking a bunch of papers (40-100) and finding out about differences
   - look for a meta analysis when diving into new subjects!!!
 

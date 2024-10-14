@@ -31,7 +31,7 @@
 
 - [[Experiment Structure]]
 - [[Replication Crisis]]
-- [[Conducting an Experiment]]
+- [[Experiment]]
 - [[Reliability and Validity]]
 - [[Lab Experiments]]
 - [[Quasi Experiments]]

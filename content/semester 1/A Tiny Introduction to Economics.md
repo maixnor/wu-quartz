@@ -94,7 +94,7 @@ Role Model of Physics:
 		- air friction negligible when dropping a ball 3 meters, but not when calculating for max speed of a falling ball
 
 Problem of social sciences:
-- Impossible (or at least very hard) to conduct experiment
+- Impossible (or at least very hard) to conduct [[experiment]]
 
 The Toolbox of an economics:
 - empiricism

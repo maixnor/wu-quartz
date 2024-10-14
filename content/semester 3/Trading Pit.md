@@ -6,4 +6,4 @@
 - everyone can only trade once
 # Analysis
 - when all costs and values are known we can calculate the [[Nash Equilibrium]]
-- economic theory works great here, the equilibrium price is mostly the average price of the experiment
+- economic theory works great here, the equilibrium price is mostly the average price of the [[experiment]]

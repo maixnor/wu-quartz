@@ -13,7 +13,7 @@
 - variable -> characteristic or property in a population
 - sample -> a subset of the population (not biased/selected)
 	- e.g. the working adults in Austria asked by survey X
-- statistical inference -> estimate, prediction, etc on population based on sample
+- statistical [[inference]] -> estimate, prediction, etc on population based on sample
 	- e.g. the preference of cola brand based on 1.000 people survey
 - measure of reliability -> statement about uncertainty
 # Data 

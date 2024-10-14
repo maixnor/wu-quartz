@@ -1,6 +1,6 @@
 > [!important]
 > not exam relevant in SS2024
-# Inference Based on Two Samples
+# [[Inference]] Based on Two Samples
 - 2 samples needed
 	- comparison between these 2 samples
 	- e.g. control group vs medicated group in medical trials

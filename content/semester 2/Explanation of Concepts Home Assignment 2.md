@@ -38,7 +38,7 @@ The number of observations in a subset of a population used for statistical anal
 ### Representative Sample: 
 A sample that accurately reflects the characteristics of the population from which it is drawn. It's important because conclusions drawn from the sample are generalized to the population. If a sample is not representative, as was the case with the survey conducted among car owners only, it may lead to biased results.
 ### Experimental Units: 
-The basic objects of study in an experiment or survey, from which data are collected. In our survey example, the experimental units were the respondents.
+The basic objects of study in an [[experiment]] or survey, from which data are collected. In our survey example, the experimental units were the respondents.
 # Probability and Distributions
 ### Standard Normal Distribution: 
 A special case of the normal distribution with a mean of 0 and a standard deviation of 1. It's used to calculate probabilities for any normal distribution after standardizing the variable.

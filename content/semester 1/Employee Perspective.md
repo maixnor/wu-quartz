@@ -14,7 +14,7 @@
 	- interviews with workers
 	- more productive with higher light intensity
 	- but also more productive in the control group
-	- actual reason was the experiment itself
+	- actual reason was the [[experiment]] itself
 		- workers were treated as humans
 		- researchers were kind to the workers
 		- workers thought they had a purpose

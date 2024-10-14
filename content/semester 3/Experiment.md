@@ -32,11 +32,11 @@
 
 # Results
 - again [[Correlation vs Causation]]
-- [[Inference Problems]]
+- [[Inference]] Problems
 	- time plots are not enough
-	- a [[Counter Factual]] is needed
+		- a [[Counter Factual]] is needed
 	- also multiple samples are not better than single samples
-		- more robust, just not solving the missing counter factual 
+		- more robust, just not solving the missing [[counter factual]] 
 		
 # Potential Solutions for Missing Counter Factuals
 - [[Counter Factual]]

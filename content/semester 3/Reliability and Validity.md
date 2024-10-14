@@ -13,7 +13,7 @@
 
 ### Internal vs External Validity
 - internal ... truth in the study
-	- are we doing the right thing in our experiment?
+	- are we doing the right thing in our [[experiment]]?
 - external ... truth in real life
 	- can we generalize the findings to the whole population?
 

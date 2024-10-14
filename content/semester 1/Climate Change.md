@@ -82,7 +82,7 @@
 	- another issue: most areas with colonial borders forests are not a big thing
 	- solution: another project mapping areas of homogenious response units:
 		- same slope, terrain, resources across borders
-	- after combining response units with deforestation data we have enough data points for a good experiment
+	- after combining response units with deforestation data we have enough data points for a good [[experiment]]
 		- Brazil vs Bolivia is good example
 		- China: depending on which border the difference is great
 		- Dominican Republic: Wild Fires during Slave Revolts decimated forest cover 

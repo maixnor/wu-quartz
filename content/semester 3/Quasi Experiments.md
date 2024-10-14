@@ -15,7 +15,7 @@
 		- upbringing
 		- etc...
 # Quasi Field Experiments
-- A controlled experiment which occurs at places with people going about their normal behavior (e.g. school, parking ramp)
+- A controlled [[experiment]] which occurs at places with people going about their normal behavior (e.g. school, parking ramp)
 
 - When trying out behavioral interventions in real-world contexts Field Experiments are often Quasi- Experiments 
 	- A team class gets the intervention, the other team gets no intervention, or an other intervention with a known effect, or gets the same intervention as the experimental group, but later
