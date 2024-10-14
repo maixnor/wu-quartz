@@ -1,0 +1,2 @@
+- #todo psych 57
+- friend has a new boyfriend/girlfriend. Always mixing up previous/current name

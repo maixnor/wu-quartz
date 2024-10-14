@@ -1,0 +1,9 @@
+- focus minute - very awkward
+- close eyes, deep breath 7 times, try to not think of anything
+- between switching contexts
+- helps with procrastination-heavy people 
+- helps with mind-wanderers
+- spend less time on learning/tasks
+- 5-minute checkin #todo find out about this
+- it's not about how often you do it - how well you do it
+- 

@@ -19,7 +19,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 - [[Business Analytics 2]]
 - [[Decision Making and Behaviour in Business]]
 - [[Foundations in Macroeconomics]]
-- [[History of Economics and the Economy]]
+- [[HE History of Economics and the Economy]]
 - [[Specializations]] - onwards
 	- [[SR Sustainability Reporting]]
 	- [[DS Decision Sciences]]

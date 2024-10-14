@@ -1,0 +1,15 @@
+- Ebbinhaus 1885/1913
+	- n = 1
+	- #todo psych 49
+
+- ebbinhaus forgetting curve
+	- if you missed a few slides the best place is right before the exam
+	- there is a baseline where nothing is lost
+	- after 2 days the most is gone
+		- positive: what is still there after 2 weeks will stay for longer
+	- 20 minutes: working memory
+	- 2 days: free-floating long-term memory
+	- it's okay to not know everything
+		- do you want to know everything for a short period
+		- or
+		- do you want to remember what you know now for longer times
