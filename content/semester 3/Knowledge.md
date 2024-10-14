@@ -1,0 +1,6 @@
+- linked information
+- the more links the more knowledge
+- expertise ... connect everything
+- more connections ... faster recalling
+- the more you know, the easier it is to learn
+	- information without an anchor just floats there, no root to already known things

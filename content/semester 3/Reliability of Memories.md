@@ -1,0 +1,22 @@
+- #todo psych 64
+- offer et al (2002)
+	- n = 73
+	- memory accurace not better than expected by chance
+
+- reconstructing fills in the gaps
+	- reconstructing happens in the same part of the brain where we imagine things
+- contradicting values/incentives than the current ones
+	- shame of the past selves - maybe also subconsciously
+	- almost a coping mechanism/trauma coping
+
+- memory $\neq$ video recorder
+	- memory = constructive process 
+- correspondence
+	- memory should reflect the true experience
+- coherence
+	- we like consistence and being predictable
+	- a stupid rebellion can change motivation afterwards
+	- a period when we were not acting out our desired values are conveniently forgotten
+	- over time coherence wins
+- memories about 10th birthday, amazing vacation 2 years ago, first love, summer job are not as accurate as people believe them to be
+	- not just about oneself - also about everyone/everything else

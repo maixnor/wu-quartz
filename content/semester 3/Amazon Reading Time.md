@@ -1,0 +1,3 @@
+- every meeting starts with a 10-15 min reading time where everyone reads a prepared report of 2-3 A4 pages
+	- why during the meeting? nobody does it beforehand
+- they also add some notes during that period so that everyone's voice is heard, not just the most vocal ones during the meeting

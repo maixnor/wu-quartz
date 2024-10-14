@@ -1,11 +1,6 @@
+# Definitions
 - [[Memory]]
 - [[Knowledge]]
-	- linked information
-	- the more links the more knowledge
-	- expertise ... connect everything
-	- more connections ... faster recalling
-	- the more you know, the easier it is to learn
-		- information without an anchor just floats there, no root to already known things
 
 # Improve Memory Performance
 - increase [[Level of Processing|depth of processing]]
@@ -23,5 +18,24 @@
 - [[Directed Forgetting]]
 - [[Cue-Dependent Forgetting]]
 
+# Reliability
+- [[Reliability of Memories]]
+- [[Memory Biases]]
+- why such an unreliable memory?
+	- imagination is in the same part as memory
+	- mental time travel
+	- allows for imagination
+
 # Smart Learning Environments
-- 
+- don't send out material before, nobody will read it -> [[Amazon Reading Time]]
+- [[Roleplay]] is a strong tool to build behavior
+- [[implementation intention]] -> think about when and where instead of if you will do something
+
+- best final response
+	- 2 days after the end of the workshop -> forgetting kicks in
+	- content should be a condenced to refresh/relearn quickly
+
+
+# Temp
+- riding down the wild road to the lake in central Istria, Croatia
+	- 
