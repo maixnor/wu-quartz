@@ -1,4 +1,5 @@
 # General
+- last lecuter: Wiener Stadtwerke
 
 # Grading
 ## Introduction
@@ -6,9 +7,12 @@
 - 30% class exercises
 - 20% quiz
 - 40% final exam
+
 # Content
 - [[Intro into Sustainability Reporting]]
-- [[Voluntary Standards and Frameworks]]
+- [[Voluntary Reporting Standards and Frameworks]]
+- [[Mandatory Reporting Standards]]
+
 - [[GHG Emissions]]
 - [[ESRS]]
 - [[Double Materiality]]
@@ -17,6 +21,7 @@
 
 - [[Company Tasks]]
 - [[Sustainability Reporting Standards]]
+
 # Lectures
 ## Intro
 - [[Lecture SR 1]]
