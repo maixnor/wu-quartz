@@ -1,4 +1,5 @@
 # Sustainable Development Goals by [[UN]]
+![[sdgs_visual.png]]
 1. no poverty
 2. zero hunger
 3. good health and well-being
