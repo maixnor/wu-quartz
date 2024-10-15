@@ -1,5 +1,6 @@
 # Sustainable Development Goals by [[UN]]
 ![[sdgs_visual.png]]
+
 1. no poverty
 2. zero hunger
 3. good health and well-being
@@ -23,3 +24,13 @@
 - very impact focused
 	- some industry-specific stuff, e.g. healthcare
 - about 17 goals, 169 targets
+	- targets very country-focused
+
+# Problems
+- targeted initially for entire countries
+- call for action by companies too
+	- not mandatory
+	- most companies just use the pretty pictures, not necessarily the actual goals
+- company can just cherry-pick the SDGs they meet
+	- no need to write about which are not met
+- some companies are actually using them, very useful there, but only some companies

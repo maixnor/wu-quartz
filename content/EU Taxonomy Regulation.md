@@ -16,3 +16,7 @@
 - collecting data on all subsidiaries around the world
 	- digital infrastructure
 		- data collection (finding out about data points)
+
+## Parents/Subsidiaries
+- each subsidiary large enough has to report on their own, even if included in parents consolidated report
+- subsidiaries not large enough to report on their own can be just included in parent company

@@ -115,7 +115,7 @@ profits taxed twice
 	- important part in company law
 
 ### directives
-- other [[Directives]] regarding public companies
+- other [[Directive]] regarding public companies
 	- [[Raising Capital]] 
 	- [[Mergers and Acquisitions]]
 	- [[Cross-Border Mergers]]

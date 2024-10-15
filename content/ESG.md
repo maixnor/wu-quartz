@@ -10,7 +10,7 @@
 - [[CSRD]] -> Sustainability Reporting of EU -> [[ESRS]]
 - SFDR
 - NABEG
-- [[EU Taxonomy Revelation]]
+- [[EU Taxonomy Regulation]]
 - ISSB Standards -> [[IAASB]] and [[IAS]]
 
 

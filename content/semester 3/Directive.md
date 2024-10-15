@@ -1,0 +1,3 @@
+- de "Richtlinie"
+- have to be transposed into national law
+	- transposing is mandatory tho
