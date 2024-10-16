@@ -1,5 +1,5 @@
 # General
-- last lecuter: Wiener Stadtwerke
+- last lecture: Wiener Stadtwerke
 - next quiz: october 24
 	- 3 answers, at least 1 correct answer
 	- 10 questions, 20 minutes

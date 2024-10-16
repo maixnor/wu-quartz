@@ -1,7 +1,8 @@
 # Rittersport
-[[rittersport_sustainabilityreport_2020.pdf|report]]
+- [[rittersport_sustainabilityreport_2020.pdf|sustainability report 2020]]
+- [[Besedilo odstavka.pdf|introductory presentation]]
 
----
+## Notes
 - chocolate producer
 - 1.900 employees
 - 100+ countries
