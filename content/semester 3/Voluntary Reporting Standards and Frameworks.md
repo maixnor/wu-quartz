@@ -12,15 +12,14 @@
 
 # Standards
 
-
-| ref               | [[GRI\|GRI]]                   | [[SASB]]        | [[SDGs\|SDG]] | [[TCFD]]                                     | [[ESRS]]                       |
-| ----------------- | ------------------------------ | --------------- | ------------- | -------------------------------------------- | ------------------------------ |
-| materiality, IROs | impact, [[GHG Emissions\|GHG]] | financial       | impact        | [[Double Materiality\|double]]               | [[Double Materiality\|double]] |
-| sectors           | no                             | yes, 77 sectors | some          | no, only financial                           | no                             |
-| governance        | general                        | ~               | vague         | recom                                        | yes                            |
-| strategy          | general                        | ~               | ~             | [[Scenario Planning\|scenarios]], resilience | climate transition             |
-| KPIs              | yes                            | yes             | vague         | yes                                          | yes                            |
-| targets           | reductions                     | no              | 17 goals      | yes                                          | climate transition             |
+| ref               | [[GRI\|GRI]]                   | [[SASB]]        | [[SDGs\|SDG]] | [[TCFD]]                                     | [[ESRS]]                       | 
+| ----------------- | ------------------------------ | --------------- | ------------- | -------------------------------------------- | ------------------------------ | 
+| materiality, IROs | impact, [[GHG Emissions\|GHG]] | financial       | impact        | [[Double Materiality\|double]]               | [[Double Materiality\|double]] | 
+| sectors           | no                             | yes, 77 sectors | some          | no, only financial                           | no                             | 
+| governance        | general                        | ~               | vague         | recom                                        | yes                            | 
+| strategy          | general                        | ~               | ~             | [[Scenario Planning\|scenarios]], resilience | climate transition             | 
+| KPIs              | yes                            | yes             | vague         | yes                                          | yes                            | 
+| targets           | reductions                     | no              | 17 goals      | yes                                          | climate transition             | 
 
 # Other Standards
 - [[UN Global Compact]]
