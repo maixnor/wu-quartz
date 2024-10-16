@@ -12,6 +12,7 @@
 
 # Standards
 
+
 | ref               | [[GRI\|GRI]]                   | [[SASB]]        | [[SDGs\|SDG]] | [[TCFD]]                                     | [[ESRS]]                       |
 | ----------------- | ------------------------------ | --------------- | ------------- | -------------------------------------------- | ------------------------------ |
 | materiality, IROs | impact, [[GHG Emissions\|GHG]] | financial       | impact        | [[Double Materiality\|double]]               | [[Double Materiality\|double]] |
