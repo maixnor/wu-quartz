@@ -1,7 +1,9 @@
 ## Game Theory I
 - [[Intro Session Game Theory]]
 - [[Game Theory]] -> [[Analysing Games]]
-- [[Markets]]
+- [[Markets]] and [[Monopoly]]
+	- [[Price Matching Policy]]
+	- [[Strategic Moves]]
 - [[Bargaining and Cooperation]]
 - [[Reputation]]
 - [[Auctions]]

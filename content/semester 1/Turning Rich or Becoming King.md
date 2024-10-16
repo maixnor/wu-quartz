@@ -1,5 +1,5 @@
 ### Turn Rich
-- [[Profit Maximization]]
+- [[Optimization]]
 - squeeze as much money out of business
 - better suited for some fields of business than others
 ### Become King
