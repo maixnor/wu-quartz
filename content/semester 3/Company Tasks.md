@@ -9,16 +9,16 @@
 - 540 Mio Sales
 - latest report: 2020, 4 years old
 ---
-- less problematic ingredient: sugar
 - main resource: cocoa
 	- grows in tropical climate (image of tropical region/cocoa producing countries)
 	- typically low-income countries
 	- exploitation of farmers/producers common
+- also sugar
 - also palm oil
 - also hazelnuts
 ---
 - transparent supply chain
-- FSC certificate 
+- [[FSC Certificate]] 
 - 2025 carbon neutral aim
 	- including [[GHG Emissions]] scope 3
 - 42% emission cut by 2030 ([[SBTi]])
