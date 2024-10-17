@@ -1,3 +1,5 @@
+# Examples
+- [[QuickShip Logistics AG]]
 # Carbon vs Climate Neutral vs Net Zero
 - mentioning [[GHG Emissions]]
 - carbon neutral ... offset just CO2 emissions
@@ -10,6 +12,14 @@
 - in sustainability that is not quite the same
 	- comparability only if same markers are collected for all companies
 	- only really works between 
+- comparability will be even more difficult when different countries have different mandatory reporting standards
+	- [[Interoperability]]
+	- [[IFRS S]] and [[ESRS]] are mainly aligned
+		- e.g. [[IFRS S]] has financed emissions / [[ESRS]] has non-shareholder impacts
+- digital tagging with [[ESEF]]
+	- digital reporting standard
+	- comparing 50 companies means importing 50 digital reports
+	- then a simple comparison
 
 # Levels of Regulation
 - supranational

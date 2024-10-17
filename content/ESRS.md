@@ -12,6 +12,11 @@
 	- [[social matters]]
 	- governance matters
 - appendixes with relevant information
+- sustainability statement part of normal management report, not it's own document
+	- general information
+	- environmental information
+	- social information
+	- governance information
 - standard in [[EU]]
 - [[Double Materiality]]
 
@@ -24,15 +29,28 @@
 ## Different standards
 - [[ESRS 1]] - general requirements (cross cutting across all sectors)
 	- #todo SR 29
-- ESRS 2 - general disclosures (cross cutting across all sectors)
+- [[ESRS 2]] - general disclosures (cross cutting across all sectors)
 
-- E1 - climate change
-- E2 - [[pollution]]
-- E3 - water and marine resources
-- E4 - biodiversity and ecosystems
-- E5 - resource use and [[circular economy]]
-- S1 - own workforces
-- S2 - workers in value chain
-- S3 - affected communities
-- S4 - consumers
-- G1 - business conduct
+- [[E1]] - climate change
+	- if climate change is not material a detailed explanation is necessary
+	- others just are/aren't, no explanation required
+- [[E2]] - [[pollution]]
+- [[E3]] - water and marine resources
+- [[E4]] - biodiversity and ecosystems
+- [[E5]] - resource use and [[circular economy]]
+- [[S1]] - own workforces
+- [[S2]] - workers in value chain
+- [[S3]] - affected communities
+- [[S4]] - consumers
+- [[G1]] - business conduct
+
+## The Report
+- requirements defined in ESRS 1
+- disclosures defined in ESRS 2
+### ESRS 2 IRO-1
+- how did I gather the data for the report?
+### ESRS 2 IRO-2
+- what did I do for the data? 
+- who did I ask for the data?
+	- only internal/employees or also externals?
+### ESRS 2 SBM

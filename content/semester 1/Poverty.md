@@ -46,57 +46,5 @@ Income inequality is, from empirical data, not influencial when moving people ou
 
 Different to [[Trickle Down Idea]]
 
-### ISLM Model
-the ISLM Model is used to model how the [[GDP]] changes from one year to another. A short-term model compared to the long-term methods mentioned previously.
-
-$GDP = C + I + G + X - M = C + I + G + NX$
-
-$I$ ... Investments (private and companies)
-$G$ ... Government Expenditure
-$C$ ... Consumption (private Individuals)
-$X$ ... Exports
-$M$ ... Imports
-$NX$ ... Net Exports
-
-Assuming a closed consumption: $NX = 0$
-
-#### Consumption $C$
-a function defined on disposable income: $f(Y^D) = f(Y - T)$
-$T$ ... Taxes
-$c_0$ ... "substistence" consumption (base consumption)
-$c_1 \in (0,1)$  ... (marginal) propensity to consume when income increases
-
-with a linear model we end up with: $C = c_0 + c_1 * Y^D$
-
-$1 - c_1$ ... investment rate (because one can either spend or save income)
-#### Investments $I$
-[[Exogenous Number]]
-#### Government Expenditure $G$
-[[Exogenous Number]]
-would be dependent on taxes ... not in this model tho
-
-### Putting it all together
-$GDP = I + G +c_0 - c_1 * T + c_1 * Y$
-#### Equilibrium
-aggregate demand = aggregate supply
-$GDP = Y$
-This will be a classic $y=x$ line
-
-Where both lines meet the equilibrium is located
-
-### Transformations
-$Y^* = \frac{1}{1-c_1} (I + G + c_0 - c_1*T)$
-
-more government expenditure -> $GDP * \frac{1}{1-c_1}$
-$\frac{1}{1-c_1}$ ... multiplicator, [[fiscal]] factor
-
-more taxes -> $GDP * \frac{c_1}{1-c_1}$
-$\frac{c_1}{1-c_1}$ ... fiscal factor for taxes
-
-### Paradox of Thrift
-- when saving more (decrease $c_0$) the GDP decreases in the short run
-- but the savings will finance the long-run development
-[[Ricardian equivalence theory]]
-
-### Fiscal Multiplier
-There are economies where the fiscal multiplier is smaller than 1. 
+### IS-LM Model
+- [[IS-LM Model]]

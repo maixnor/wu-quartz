@@ -1,5 +1,5 @@
 # Definition
-- everything that you earn
+- everything that one earns
 - does not include/exclude spending
 - purely the inflows of money
 # Notes
@@ -8,6 +8,11 @@
 	- free labor market
 	- Capital Earnings
 		- Dividends, interests, rents
+# Types
+- labor income
+- capital income
+- government spending
+- [[disposable income]]
 # Related To
 - [[Income Tax]] with people
 - [[Income Statement]] with companies

@@ -10,6 +10,9 @@
 	- materiality list company needs to focus on
 		- [[Double Materiality]]
 
+- not done every year
+	- business model does not change that quickly
+
 # How To
 ## 1) Understanding Context
 - stakeholders
@@ -41,7 +44,7 @@
 		- which materalities effect either group/parent or just individual subsidiaries
 	- e.g. holding company with many different companies/sectors 
 
-## Assess IROs
+## 3) Assess IROs
 - score/rank IROs by stakeholder effect
 	- #todo SR 40
 - stakeholder engagement

@@ -5,7 +5,7 @@ GDP / Population
 The Goal of Analysis based on GDP per Capita is about understanding why differences in GDP in countries occur and how they change. Based on these insights one hopes to correlate to e.g. [[Human Development Index]] or other measurements.
 
 ### Problems
-- Unpaid work, shadow economy
+- [[Unpaid work]], shadow economy
 	- home-grown vegetables
 	- cooking (private households)
 	- cyber crime

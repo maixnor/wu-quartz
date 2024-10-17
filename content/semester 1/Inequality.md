@@ -116,10 +116,9 @@
 - [[Dani Rodrik]]
 ## Climate Change
 - related to [[Climate Change]]
-	- [[Emissions]]
-	- [[Emissions#Emission Distribution]]
+	- [[GHG Emissions]]
 - [[Climate Change Policies by Social Status]]
-	- [[Fossil Fuel Lobby]] challenging most anti-fossil-fuel concepts/legislations
+	- Fossil Fuel Lobby challenging most anti-fossil-fuel concepts/legislations
 ## Education Gap
 - demand for university students was hit
 	- pay decreased
