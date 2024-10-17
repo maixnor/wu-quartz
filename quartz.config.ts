@@ -61,6 +61,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
+      Plugin.GitHubFlavoredMarkdown(), // rendering tables
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
