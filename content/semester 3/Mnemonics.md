@@ -17,3 +17,5 @@
 - Bower & Clark (1969)
 	- n = 24 ... not reliable enough
 	- there is an 80% difference ... fishy
+
+- book recommendation: Moonwalking with Einstein

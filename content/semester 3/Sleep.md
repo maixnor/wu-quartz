@@ -3,4 +3,4 @@
 	- #todo slides 46
 
 - after 12h sleep the recollection was better
-- sleep promotes memory-forming
+- sleep promotes [[memory]]-forming

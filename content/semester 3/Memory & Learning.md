@@ -33,9 +33,6 @@
 
 - best final response
 	- 2 days after the end of the workshop -> forgetting kicks in
-	- content should be a condenced to refresh/relearn quickly
-
-
-# Temp
-- riding down the wild road to the lake in central Istria, Croatia
-	- 
+	- content should be a condensed to refresh/relearn quickly
+- not best final response
+	- sending email right after the end of the workshop or in the evening 

@@ -21,6 +21,7 @@
 	Summarize your findings in a brief report (2 pages maximum) using full
 	sentences and structured paragraphs. Submit your report by October 20.
 	Be prepared to discuss your findings in Lecture 5
+
 # Grading
 ## Introduction
 - 10% class participation
