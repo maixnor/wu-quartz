@@ -29,6 +29,7 @@
 ## Great Divergence
 - about 1800 with the industrial revolution
 - income divergence
+- [[Diminishing Marginal Returns|diminishing returns]] of efficiency gain
 
 # Malthusian Theory or Trap
 - any technological advance was lost due to population increase
