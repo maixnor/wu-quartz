@@ -11,11 +11,13 @@
 	- there is a gene to define how well you can naturally separate sounds
 		- therefore it is hard to be in larger groups
 		- therefore those people choose more selective groups
-- [[maternal behavior and perceived sex of an infant]] #todo
+- maternal behavior and perceived sex of an infant
 	- Smith & Lloyd 1978
 	- 2x2x2 factorial design
 	- why is our sample not significant?
 		- samples size (n=20) too small (n>80 recommended)
+	- difference in behavior of adults based on sex of infant
+		- adults told if boy/girl and therefore different behavior/toy selection
 
 # Components of Attitudes
 ### Cognitive
@@ -63,17 +65,31 @@
 
 # Accessibility
 - deliberate behavior vs spontaneous behavior
-- #todo
+- accessible
+	- spontaneous decisions & behavior
+- inaccessible
+	- thinking about issue deeper and for longer
+	- "hidden" attitudes influence decision
 
 # Predictability
 - specific attitudes are better predictors of behavior
 - find a very specific attitude and ask about that rather than a larger topic/attitude
-- #todo
+- Example Birth Control:
+![[psych_birth_control.png]]
 
-# Persuation
+# Persuasion
 - often used in marketing
 - peripheral route vs central route
-#todo
+- peripheral route
+	- brief communication
+	- focus on main characteristics
+		- expert? attractiveness?
+	- temporary override of preference
+	- e.g. flyer handed out in front of WU
+- central route
+	- elaborate communication
+	- facts, logical soundness of arguments
+	- attitude change for longer periods
 
 ## Yale Attitude Change Approach
 ### Who?
@@ -83,34 +99,46 @@
 	- fact about unreliable source might be forgotten, leaving unreliable information which is believed to be reliable behind
 
 ### What?
-- 
-- two-sided communication
+- more persuaded by messages which seem to not be designed to influence them
+- two-sided communication (pro+contra instead of just pro or contra)
 - [[primacy effect]] vs [[recency effect]]
 	- first person sets the stage -> remembered better
 	- last person is remembered best (if not tired already)
 
 ### To Whom?
-- distracted audiences are easy to percuade
+- distracted audiences are easy to persuade
 - lower intelligence, moderate self-esteem, age 18-25
-- #todo
-- I like it because it makes me feel good > #todo
+- cultural differences
+	- western: personal relevance
+	- other cultures: contextually relevant behavior
+- I like it because it makes me feel good > I like it because others I am connected to like it
 
 ## Persuasion Immunity
 ### Attitude Inoculation
 - thinking of counterarguments beforehand
 
-### #todo
+### Awareness
+- be aware of product placements
+	- kids especially susceptible
+- if people are forewarned they identify more product placements
+	- more awareness => less persuasion
 
 ### Role Play
-- [[peer pressure]]
+- extension of inoculation
+- [[peer pressure]] can evoke attitude contrary behavior
+- role-play helps to create situations in controlled environments
+	- afterwards in real situation greater immunity
+	- e.g. role-play with juveniles regarding smoking/drinking/sex
 
 ## Persuasion Backfire
-- #todo
 - Pennebeaker & Sanders (1976)
 	- more forbidden = more fun
 - [[Reactance Theory]]
+	- the more important the freedom, the more resistance
 	- [[Covid]]: people felt threatened about own autonomy
 	- "Do you like vegan beer?"
+	- All Mensa food will be vegetarian from now on
+- how to work around reactance?
 	- creating incentives and counterincentives
 		- e.g. making the meat dish more expansive than banning it alright
 		- e.g. meat is an addon instead of included by default
