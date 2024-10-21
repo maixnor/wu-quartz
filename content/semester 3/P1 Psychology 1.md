@@ -1,6 +1,6 @@
 ## Psychology I
 - [[Intro Session Psych]]
-- [[Attitude Development and Perception]] #todo
+- [[Attitude Development and Perception]]
 - [[Memory & Learning]] #todo
 - [[Motivation & Incentives]]
 - [[Group Structure & Process]]
