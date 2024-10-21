@@ -19,7 +19,7 @@ $(x + 1)^2 = x^2 + 2x$
 $(x + 1)^2 = x^2 + 2x + 1$
 they are only different by a constant $+1$ which is still equal.
 # Rules
-#todo get from slides
+#wontfix get from slides
 
 $\int \frac{1}{x} dx = ln(|x|) + C$ ... careful with the absolute bars
 $\int cos(x) dx = sin(x) + C$
@@ -32,7 +32,7 @@ $\int (2x^3 + 5)dx = \frac{x^4}{2} + 5x + C$
 	- draw rectangle up to the function and as wide as the sub-interval
 	- repeat for every rectangle
 	- as the width of the sub-intervals get smaller the approximation gets more accurate, precise
-- #todo get illustration from slides
+- #wontfix get illustration from slides
 - getting smaller -> **infinitesimal** difference $\Delta x$
 - $\lim_{\Delta x \rightarrow \infty}$
 - $\int_a^b f(x) dx$ ... definite integral from $a$ to $b$ of $f(x)$ 
@@ -78,11 +78,11 @@ $u$ and $\frac{du}{dx}$
 
 reverse composition
 
-#todo get formula from slides
+#wontfix get formula from slides
 ### Example
-$\int_0^{1/3} \frac{72x}{(9x^2 + 2)^5} dx$ #todo do example
+$\int_0^{1/3} \frac{72x}{(9x^2 + 2)^5} dx$ #wontfix do example
 ### Changing the Limits
-plugging the limits into $u$ #todo to same example and changing the limits
+plugging the limits into $u$ #wontfix to same example and changing the limits
 # Applications
 ## Inverse Demand/Supply
 flipping Quantity and Price -> inverse functions of demand and supply
@@ -90,20 +90,21 @@ flipping Quantity and Price -> inverse functions of demand and supply
 at what price is it possible to sell a particular amount of goods.
 => when I want so sell x quantity i have to sell at x price
 ## Consumer Surplus
-some people will be willing to buy more => [[Consumer Rent]] #todo find reference
+some people will be willing to buy more => [[Consumer Rent]] #wontfix find reference
 
 Area of equilibrium price $P_0$ and higher prices.
 
-#todo write down some formulas or excalidraw idk
+#wontfix write down some formulas or excalidraw idk
 
-#todo check with formula from slides
+#wontfix check with formula from slides
 ## Average of a Function within Interval
-#todo write down functions
+#wontfix write down functions
 # Integration with $I$
 recursive integration
 when doing partial integration and you get back the same expression in the integral one can do Integration with $I$
 ### Example
-taken from [here](https://github.com/maixnor/uniwien/blob/main/notebooks/Aufgabenblatt_6.ipynb?short_path=655573a) - Aufgabe 2 - Uni Wien exercises 
+taken from [here](https://github.com/maixnor/uniwien/blob/main/notebooks/mg2/Aufgabenblatt_6.ipynb?short_path=655573a) - Aufgabe 2 - Uni Wien exercises 
+maybe need to switch to "Preview" mode in top right
 $$\int{\sin x \cos x dx} = -\cos x + \cos x + \int{\cos x * \sin x dx}$$
 $$= -\cos^2 x + \int{\sin x * \cos x dx}$$
 $I$ sei $\int{\sin x \cos x dx}$

@@ -34,19 +34,19 @@ convexity and concavity of multi-function variables
 	- $A_{3\times2}, B_{2\times3}$ 
 	- inner pair -> possible? AB = true, BA = true
 	- outer pair -> size ... $AB = 3\times3$, $BA = 2\times2$
-- #todo get visualiazation from 3b1b
+- #wontfix get visualiazation from 3b1b
 - Assoziativ
 - Kommunikativ
 - Distributiv
 - only a square matrix can be indefinetely raised to a power
 - $(A + B)^2 = A^2 + AB + BA + B^2 \neq A^2 + 2AB + B^2$ ... $BA \neq AB$
 ### Example Market Share
-#todo copy text from slides
+#wontfix copy text from slides
 
 $T = (...)$ 
 - columns: how much each company looses
 - rows: how much each company receives
-#todo get resulting matrix from phone
+#wontfix get resulting matrix from phone
 ### Example Airports
 - A to B
 	- 2 rows ... from A

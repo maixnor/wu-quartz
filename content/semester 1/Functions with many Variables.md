@@ -3,13 +3,13 @@ general definition of function: $f : A \rightarrow B$
 $A = \mathbb{R} \times \mathbb{R}$ ... real numbers in pairs of 2
 $A = \mathbb{R}^5$ ... 5th dimensional real numbers, in groups of 5
 ### Example 1
-#todo example from slides
+#wontfix example from slides
 ### [[Cobb-Douglas]] production functions
-- #todo example from slides
+- #wontfix example from slides
 - this is more of a demand function, but the same math is used
 - all variables with different exponents
 
-#todo find way to do 2 rows in one formula
+#wontfix find way to do 2 rows in one formula
 
 - $f(c_1p, c_2m) / f(p,m)$ ... relative change to changes in variables
 	- $= c_1^{-1.5} * c_2^{2.08}$
@@ -18,7 +18,7 @@ When taking the [[Derivatives|derivative]] of functions with multiple variable t
 
 For each variable we derive the function considering only this one variable. The other variables are all treated as constants (if you are lucky most of them just fall away).
 
-#todo get notation from slides
+#wontfix get notation from slides
 ## But why bother?
 - each of the variables has a separate convexity/concavity
 	- imagine a hilly landscape, you are south of a hill peak (2 variables x,y)
@@ -39,16 +39,16 @@ For each variable we derive the function considering only this one variable. The
 	- income increases -> consumption increases
 	- vice versa
 ### Example Demand of Money
-$M(Y,r) = 0.14 Y + 76.03 * (r - 2)^{-0.84}$ #todo finish
+$M(Y,r) = 0.14 Y + 76.03 * (r - 2)^{-0.84}$ #wontfix finish
 
 - $M_Y = 0.14$
 	- no scaling with Income, just linear changes
 	- [[Derivatives#Elasticity|elasticity]] of demand with respect to income
-		- #todo compute
+		- #wontfix compute
 - $M_r = -0.84 * 76.03 * (r - 2)^{-1.84}$
 	- interest rate increases -> demand for money decreases
 	- [[Derivatives#Elasticity|elasticity]] of demand with respect to interest rate
-		- #todo compute
+		- #wontfix compute
 ### Example with 3 variables
 $f(a, b, c) = a^2 + 2ab + bc + e^bc$
 $f'_a = 2a + 2b$
@@ -86,7 +86,7 @@ division by 0 issue:
 only if $x^2 + y^2 = 0$ ... only if $x$ and $y$ are 0. 
 -> when plugging into the given function it does not equal 13 -> it's okay
 # Higher-order Partial Derivatives
-#todo get notation from slides
+#wontfix get notation from slides
 the derivative can then be derived again. When talking about just 2 variables we can then either derive again with the same variable or the other variable.
 
 - $f_{xx}, f_{yy}$ ... direct partial derivatives

@@ -115,3 +115,4 @@
 		- e.g. making the meat dish more expansive than banning it alright
 		- e.g. meat is an addon instead of included by default
 	- labeling it as an experiment, but it is permament
+		- e.g. Amesterdam blocking main road for cars
