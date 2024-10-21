@@ -6,6 +6,7 @@ notation: $f: A \rightarrow B, x \Rightarrow f(x)$
 domain: $A$
 codomain: $B$
 range of a function: $f(A) = \{ f(x) | x \in A \}$
+
 #### Examples
 - Assign each number it's square
 	- A:  $\mathbb{R}$
@@ -15,13 +16,16 @@ range of a function: $f(A) = \{ f(x) | x \in A \}$
 	- A: $\mathbb{N}$
 	- B: $\mathbb{R}$
 	- range: $\{100 * x * \sqrt{x} + 500 | x \in \mathbb{N}\}$
+	
 #### Absolute Function
 $\mathbb{R} \rightarrow \mathbb{R}\text{+0}$
 $x \rightarrow |x|$
+
 ### Linear (affine) functions
 $f(x) = \{ \mathbb{R} \rightarrow \mathbb{R}; x \rightarrow ax+b\}$
 $a$ ... slope
 $b$ ... intercept
+
 #### Equilibrium Price
 $P: D(P) = S(P)$
 Demand ... $D(P) = -10P + 400$
@@ -30,6 +34,7 @@ $P$ ... Price
 
 $-10P + 400 = 10P$
 $P = 20$
+
 ### Polynomials
 For dregree $n$:
 $f(x) = \{ \mathbb{R} \rightarrow \mathbb{R}; x \rightarrow a_nx^n + a_{n-1} x^{n-1} + ... +a_0\}$
@@ -43,16 +48,21 @@ Degree 2 - parabola opens
 - 0-Points: $x_{1,2} = \frac{-b \pm \sqrt{D^2}}{2a}$
 - after $x_{1,2}$ -> $f(x) = -\frac{1}{2} (x - x_1) (x - x_2)$ 
 - then $f(x) = x^2 + (-x_1)x + (-x_2)$
+
 ### Power functions
 $f(x) = \{ \mathbb{R} \rightarrow \mathbb{R}; x \rightarrow Ax^r\}$
 
 If $r < 0$, then $x$ may not be $0$.
+
 ### Exponential functions
 $f(t) = \{ \mathbb{R} \rightarrow \mathbb{R}; x \rightarrow Aa^t\}$
 
 special case ("the" exponential function):
 - $f(x) = e^x$
+
 #### Gaussian density function (Normal Distribution)
+- [[Probability#Gaussian (Normal) Distribution|Gaussian distribution]]
+
 ### Logarithmic functions
 $f(x) = \{ \mathbb{R} \rightarrow \mathbb{R}; x \rightarrow \log_{a}{x}\}$
 $log_{10} = log$
@@ -67,27 +77,10 @@ $\ln 4 = 1.3...$
 $\ln -6$ = n.d.
 
 $\ln{xy} = \ln{x} + \ln{y}$
-#todo get rest from slides on canvas
+#wontfix get rest from slides on canvas
 
 $\text{exp}(\ln x^2 - 2 \ln y) = \frac{x^2}{y^2}$
+
 #### Rule of 70
-The doubling time in years is approximately $\frac{70}{i}$ ... $i$ being the percentage of interest $i \in \{1,2,3,...\}$ 
-
-| i   | doubling time | 4x time | 1024x time |
-| --- | ------------- | ------- | ---------- |
-| 1   | 70            | 140     | 700        |
-| 2   | 35            | 70      | 350        |
-| 3   | 22.3          | 44.6    | 226        |
-| 4   | 17.5          | 35      | 175        |
-| 5   | 14            | 28      | 140        |
-| 6   | 11.7          | 23.4    | 117        |
-| 7   | 10            | 20      | 100        |
-| 8   | 8.75          | 17.5    | 87.5       |
-| 9   | 7.8           | 15.6    | 78         |
-| 10  | 7             | 14      | 70         |
-| 15  | 4.7           | 9.4     | 47         |
-| 20  | 3.5           | 7       | 35         |
-| 25  | 2.8           | 5.6     | 28         |
-| 30  | 2.3           | 4.6     | 23         |
-
-
+ ![[Rule of 70]]
+ 
