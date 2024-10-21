@@ -13,7 +13,7 @@
 # Definition Strategy
 > - strategy = information + reaction
 > - complete plan of action
-- in business: a plan to achieve and organizations goals and objectives from which - ideally - each #todo complete
+- in business: a plan to achieve an organizations goals and objectives from which - ideally - each person can derive their own smaller goals
 - strategy is a complete plan of action for a game
 	- simple with rock/paper/scissors
 	- harder with chess
@@ -36,4 +36,4 @@
 - **write it down**
 	- forces the brain to think clear thoughts
 # Equilibrium
-- [[Equilibrium]]
+- [[Nash Equilibrium]]

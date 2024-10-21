@@ -7,8 +7,8 @@
 
 ## Sequential Payoff Matrix
 - putting in full strategies, not just choices
-- #todo choose red/blue, then red/blue
 	- [[Example Color Competition]]
+- [[Experiment 5 GT1]] has a very nice payoff matrix
 
 ## Payoff vs Outcome
 - payoff ... individual value

@@ -1,6 +1,5 @@
 - when what I do hurts you
 - fierce price [[competition]]
-- #todo gt2
 - obfuscation is very strong
 	- making it harder to compare for customers
 - highly elastic demand -> [[Elasticity]]

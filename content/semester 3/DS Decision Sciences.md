@@ -9,5 +9,5 @@
 	- psychology 2
 - finish with one more course
 # Contents
-- [[Game Theory 1]]
-- [[Psychology 1]]
+- [[GT1 Game Theory 1]]
+- [[P1 Psychology 1]]

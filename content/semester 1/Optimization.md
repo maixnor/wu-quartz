@@ -52,19 +52,18 @@ global minimum ... $min(v)$
 global maximum ... $max(v)$
 
 # Multivariate Optimization
-We will only focus on 2 variables. More variables gets even more complicated.
+We will only focus on 2 variables i.e. $f(x,y)$. More variables gets even more complicated.
 
-$f(x,y)$
 a point $(x_0, y_0)$ is only an extreme point if both derivatives are zero
 $f_x(x_0, y_0) = 0$ and $f_y(x_0, y_0) = 0$
 
-then take direct derivatives $f_{xx}, f_{yy}$ and check if they are #todo check
+then take direct derivatives $f_{xx}, f_{yy}$ and check if they are non-zero
 
 local extreme ... product of direct derivatives > product of cross derivatives
 
-saddle point is like a horse saddle, across x minimum, across y maximum
 saddle point ... product of direct derivatives = product of cross derivatives
-#todo write down in math notation
+saddle point is like a horse saddle, across x minimum, across y maximum
+#wontfix write down in math notation
 
 ### Example Profit
 
@@ -86,7 +85,7 @@ $\pi_{max} = \pi(40, 24) = 1650$
 
 ### Example Profit 2
 $\pi(x,y) = x(25-x) + y(24 -2y) - (3x^2 + 3xy + y^2)$
-#todo finish math notation
+#wontfix finish math notation
 
 # Constraint Optimization
 $x$ and $y$ should not just be part of a maximum but also fulfill other constraints.
@@ -100,9 +99,9 @@ lagrangian number will "punish" deviating from the required constraint
 $f_{max}(x,y)$ such that $g(x,y) = 0$
 
 $\mathcal{L}$
-#todo finish math notation
+#wontfix finish math notation
 
-#todo write some F# code or R
+#wontfix write some R code
 
 # Epsilon
 In Math in general the Epsilon $\mathcal{E}$ is something that is positive and very small. This can be used to overcome rounding errors in [[Numerical Approximation]] problems.

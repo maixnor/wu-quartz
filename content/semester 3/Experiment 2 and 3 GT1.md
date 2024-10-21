@@ -1,6 +1,5 @@
 # Setting 2 - simultaneous
 - is a [[Competitive Game]]
-- #todo write down rules 
 
 ## Solving
 - 5 players becomes very large to write down
@@ -13,7 +12,9 @@
 - [[Best Response Dynamics]]
 
 ## Outcome
-#todo
+- race to the bottom -> [[Competition]]
+- no cooperation, serious price cutting
+![[experiment_2_gt1.png]]
 
 # Setting 3 - sequential
 - strategic planning goes bottom to top
@@ -40,3 +41,4 @@
 - many had hopes at first to increase prices
 	- did not work either
 - race to the bottom even faster this time
+![[experiment_3_gt1.png]]

@@ -1,5 +1,7 @@
 # Definition Competitive Markets
 > where Supply and Demand meet
+
+- aka Equilibrium Price
 # Definition Game Theory
 > a situation where nobody wants to change anything, a resting point
 

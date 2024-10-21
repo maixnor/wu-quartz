@@ -15,8 +15,17 @@
 - [[Maynard Smith]]: evolutionary games 1972/82
 	- [[Coordination Games]]
 ## Nobel Prizes
-- 1994: Nash, Harsanyi, Selten
-- #todo DS lecture 1
+- 1944 [[John von Neumann|von Neumann]], [[Oskar Morgenstern]]
+- 1951: [[John Nash]] for [[Nash Equilibrium]]
+- 1965: [[Selten]] for [[Extensive Form#Subgame perfection|subgame perfection]]
+- 1967: [[Harsanyi]] for [[Incomplete Information Games]]
+- 1972/82: [[Maynard Smith]] for [[Evolutionary Games]]
+- 1994: [[John Nash]], [[Harsanyi]], [[Selten]]
+- 2005: [[Aumann]], [[Schelling]]
+- 2007: [[Hurwicz]], [[Maskin]], [[Myerson]]
+- 2012: [[Roth]], [[Shapley]]
+- 2014: [[Jean Tirole]]
+- 2017: [[Richard Thaler]]
 # Games and Competition
 - sequential or constant game
 ![[FM_game_theory.png]]
@@ -39,16 +48,19 @@
 - [[Nash Equilibrium]]
 - for all players the utility has been maximized
 	- i.e. sticking to the current (best) option, since every other option is inferior
-- #todo math notation
-- there can be more than one nash equilibrium, but there must always be one
+- there can be more than one [[nash equilibrium]], but there must always be one
+- [[Nash Equilibrium#Math|mathematical notation]]
+
 ## Payoff Matrix
 - [[Normal Form]]
+
 ## Types of Games
 - static/simultaneous vs dynamic/sequential
 - pure-strategy equilibrium vs mixed-strategy equilibrium
 - complete information vs incomplete information
 	- information asymmetry -> [[Economics of Information]]
 	- we will only cover complete information in [[FM Foundations in Microeconomics|Micro]]
+	- incomplete games in [[DS Decision Sciences]]
 # Solutions of a Static Game
 - find the possible strategies of all players
 - determine the payoffs
@@ -86,7 +98,7 @@
 - deviations from equilibrium are only possible, if the deviation is not punished in the next turn/state of the game
 - [[First Mover Advantage]] can be meaninful
 > [!info]
-> extensive form -> decision tree
+> [[extensive form]] -> decision tree
 > think about pre-move decisions in chess
 > [[Backward Induction]]
 ### Infinite Games

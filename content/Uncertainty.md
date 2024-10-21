@@ -1,12 +1,11 @@
-#todo get image from slides
-
+# People
 [[John von Neumann]]
-[[Oksar Morgenstern]]
+[[Oskar Morgenstern]]
 [[John Nash]] -> [[Nash Equilibrium]]
 [[Frank Knight]] -> [[Knightean Uncertainty]]
 
-[[Risk Management]]
-
+# General
+- [[Risk Management]]
 - [[Real Uncertainty]]
 	- unknown unknowns
 	- paradigm shift
