@@ -1,5 +1,5 @@
 # Examples
-- [[QuickShip Logistics AG]]
+- [[QuickShip Logistics AG]] #todo benedek notes
 # Carbon vs Climate Neutral vs Net Zero
 - mentioning [[GHG Emissions]]
 - carbon neutral ... offset just CO2 emissions

@@ -15,7 +15,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 - [[FM Foundations in Microeconomics]]
 - [[FS Foundations in Socioeconomics]] (online / offline)
 ### Semester 3
-- [[Business Analytics 1]]
+- [[BA Business Analytics 1]]
 - [[Business Analytics 2]]
 - [[Decision Making and Behaviour in Business]]
 - [[FMa Foundations in Macroeconomics]]
@@ -32,6 +32,7 @@ up till here at least 16 ECTS
 - [[BBE Bachelor Thesis]]
 ### All Time
 - [[BBE Internship + Seminar]]
+- [[BBE Double Degree]]
 - [[Free Electives]]
 - [[Latin Glossary]]
 - [[All the Economics]]

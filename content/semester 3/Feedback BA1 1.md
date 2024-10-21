@@ -1,0 +1,10 @@
+- emphasize HEX before doing anything in Binary 
+- include actual value of 0.3, then why 0.3 / 3 != 0.1
+- floating point numbers simpler
+	- explain by fractions of 1 -> 0.5, 0.25, 0.125, ...
+- lossy/lossless compression difference
+- explain pointers and addresses before talking about memory
+	- rerouting of parcel -> change address instead of moving your house
+	- nullpointer not as a side-note -> parcel not deliverable, what now?
+	- maybe also dangling objects right then and there
+- for array/linked list use actual 3 numbers to store into memory
