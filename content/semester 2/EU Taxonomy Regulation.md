@@ -83,13 +83,18 @@ mandatory after 2024
 - political
 	- some unsustainable practices deemed as sustainable and vice versa e.g. Germany and gas power generation
 - quite technical
-- strong focus on environment
-	- no social or governance aspects
+- only focus on environment
+	- very little social or governance aspects
 		- there are plans to integrate a social aspect as well
 			- would include: decent work, adequate living standards, inclusive & sustainable societies
 		- finalization not before 2025, probably later
 - minimal safeguards
+- does not prohibit unsustainable activities, only disclosure requirement
+	- [[Transparency Theory]] is a thing tho
 - exhaustive list
 	- economic activities can be missing -> [[All Activities in an Economy - Sustainable View]]
 	- e.g. company is reporting 50% not-aligned, 20% aligned, 30% not-eligible
 		- 30% not eligible **can** be sustainable, but are not even included, because exhaustive list
+
+# Empirical Evidence
+#todo L5 15-18
