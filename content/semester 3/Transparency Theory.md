@@ -1,8 +1,13 @@
  ![[transparency_theory.png]]
 - source: Hombach/Sellhorn (2019)
 
-- transparency reports regularly read by employees #todo ask about that
+- transparency reports regularly read by employees 
 	- #todo find study that confirms this, allegedly on canvas
+
+- is a political progress
+	- no clear mandate, just reporting, just information
+- no guarantee that the intended objectives are achieved
+- free market forces still apply, if the market doesn't care about sustainability they simply don't
 
 ## Channels
 - internal information channel
