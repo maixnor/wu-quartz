@@ -4,8 +4,11 @@
 	- 3 answers, at least 1 correct answer
 	- 10 questions, 20 minutes
 	- covers only 4 lectures (including october 17)
-- next homework: materiality assessment of own company (e.g. Ritter Sport for me)
-
+- in-class assignment
+	- read wiener stadtwerke sustainability report
+	- three thoughtful questions
+		- kind and friendly atmosphere
+		- no interrogation questions
 # Grading
 ## Introduction
 - 10% class participation
