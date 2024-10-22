@@ -28,5 +28,5 @@ I searched for short youtube videos, they explain it 10x better than I ever coul
 
 # Modelling
 ## ER Diagram
-#todo find youtube video
+- https://www.youtube.com/watch?v=xsg9BDiwiJE
 
