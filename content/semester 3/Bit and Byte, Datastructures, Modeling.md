@@ -24,6 +24,7 @@ I searched for short youtube videos, they explain it 10x better than I ever coul
 	- Array of Arrays
 - Dataframe
 	- Matrix but with multiple data types
+	- imagine matrix meets excel sheet, but programmatically
 - Graph
 
 # Modelling
