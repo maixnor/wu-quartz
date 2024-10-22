@@ -165,4 +165,4 @@ This data also shows the difference between the average offer (for Player A and 
 ## d) Differences between Nash Equilibrium and the Data
 In theory, both Player A and B would offer both 8/$. In Our data we have a few differences. In our previous experiments with multiple rounds, we oftentimes had a quick approach to the optimal strategy. Here however, it is (on average) never reached. The approach is still there, though.
 
- I think, this is for two main reasons. (1) The players switched their Role often, (1.1) so some mightve been in the same position for a long time and (1.2) didnt have enough rounds to converge to the Nash equilibrium. (2) Players A and B where hoping to collude in a way, as they
+ I think, this is for two main reasons. (1) The players switched their Role often, (1.1) so some might’ve been in the same position for a long time and (1.2) didn’t have enough rounds to converge to the Nash equilibrium. (2) Players A and B were hoping to collude in a way, as they saw how others didn't offer the maximum amount to Player C. In comparison, in our previous games the equilibrium was reached pretty fast by one, and then subsequently all players.
