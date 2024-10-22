@@ -14,6 +14,7 @@
 - [[GAR and BTAR]]
 - actual effect only on future loan negotiations
 	- bank can't cancel your loan bc one is not reporting energy consumption
+- very hard for personal investors to understand, not user-friendly
 - entity level report
 	- found on company website
 - product level report
@@ -23,4 +24,8 @@
 ![[sfdr_reporting.png]]
 
 # Glossary
+- sustainability factors
+- sustainability investments
+- sustainability risks
+- principle adverse impacts
 #todo L5 21
