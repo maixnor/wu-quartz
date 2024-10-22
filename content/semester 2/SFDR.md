@@ -8,3 +8,5 @@
 - reporting obligations:
 	- from 2024 onwards
 	- [[GAR and BTAR]]
+	- actual effect only on future loan negotiations
+		- bank can't cancel your loan bc one is not reporting energy consumption
