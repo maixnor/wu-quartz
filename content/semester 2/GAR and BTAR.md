@@ -12,4 +12,6 @@
 			- problem will be reduced if more companies are included in [[NFRD]] and [[CSRD]]
 
 # BTAR - Book Taxonomy Alignment Ratio
+- problem: companies which are not large enough do not report currently based on [[NFRD]] or [[CSRD]]
+- solution: just add the small companies to the nominator and do some sort of [[Materiality Assesment]] on them
 - 
