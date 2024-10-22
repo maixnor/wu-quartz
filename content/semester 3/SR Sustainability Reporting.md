@@ -42,6 +42,7 @@
 
 - [[Company Tasks]]
 - [[Sustainability Reporting Standards]]
+- [[Current EU Sustainability Projects]]
 
 # Lectures
 ## Intro

@@ -13,7 +13,7 @@
 			- rather report honest 0% alignment than fake 10%
 	- any kind of [[defense industry]] is not deemed as green
 		- [[defense industry]] will hopefully face higher financing costs therefore
-- have to report on
+- have to separately report on
 	- Revenue
 	- CAPEX
 	- OPEX
@@ -49,7 +49,7 @@
 	- + delegated act 2022/1214 (include nuclear and gas energy)
 		- transitional only
 - official tools
-	- EU Taxonomy Compass (very helpful)
+	- [[EU Taxonomy Compass]] (very helpful)
 		- [[NACE codes]]
 	- EU Taxonomy Calculator
 	- EU Taxonomy FAQs C/2023/305
@@ -78,3 +78,18 @@ mandatory after 2024
 	- to other [[#Environmental Objectives (art 9)|the objectives]] than the contributed to one
 - minimum safeguards
 - = taxonomy alignment
+
+# Shortcomings
+- political
+	- some unsustainable practices deemed as sustainable and vice versa e.g. Germany and gas power generation
+- quite technical
+- strong focus on environment
+	- no social or governance aspects
+		- there are plans to integrate a social aspect as well
+			- would include: decent work, adequate living standards, inclusive & sustainable societies
+		- finalization not before 2025, probably later
+- minimal safeguards
+- exhaustive list
+	- economic activities can be missing -> [[All Activities in an Economy - Sustainable View]]
+	- e.g. company is reporting 50% not-aligned, 20% aligned, 30% not-eligible
+		- 30% not eligible **can** be sustainable, but are not even included, because exhaustive list
