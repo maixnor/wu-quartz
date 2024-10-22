@@ -1,6 +1,9 @@
 # General
 - goal is redirecting capital flows 
 	- targeting banks and other investors when giving out loans
+- 2 parts
+	- [[SFDR]] for financial companies
+	- [[NFRD]] for producing companies
 - does not need to be transposed
 	- in effect since 2021
 - EU classifies what is green and what isn't
@@ -14,7 +17,7 @@
 	- Revenue
 	- CAPEX
 	- OPEX
-- generates a percentage on how much money is used or made for/from green endevours
+- generates a percentage on how much money is used or made for/from green endeavors
 	- problems: 
 		- perspectives change rapidly (e.g. is nuclear energy green or not?)
 		- laws are slow to change (technological advancements may be too fast)

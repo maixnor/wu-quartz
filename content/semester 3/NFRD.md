@@ -1,4 +1,4 @@
-- non-financial reporting [[directive]]
+- "non-financial reporting [[directive]]"
 	- transposition in Austria: [[NaDiVeG]]
 	- large companies only ([[PIEs]])
 	- member states could choose some details
