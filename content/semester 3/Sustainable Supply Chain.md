@@ -6,4 +6,13 @@
 
 - European Legislations do not necessarily target the reasons for these examples
 	- emphasis on supply chains more important 
-- 
+	- most [[GHG Emissions]] are actually scope 3 for most industries
+
+# Various Legislation
+- all across the world there are a few legislations
+- none are general
+![[supply_chain_legislations.png]]
+
+# CSDDD
+- [[CSDDD]]
+
