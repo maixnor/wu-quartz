@@ -8,11 +8,22 @@ I searched for short youtube videos, they explain it 10x better than I ever coul
 - Check out [this video](https://www.youtube.com/watch?v=PZRI1IfStY0) from computerphile, they explain it very well
 - [this other video](https://www.youtube.com/watch?v=ljRojiI3E3E) is a lot faster but requires I'd say a good idea of binary to grasp
 
+# Data Types
+- boolean
+- int
+- float (double)
+- string
+
 # Data Structures
+- https://www.youtube.com/watch?v=cQWr9DFE1ww
+	- not just the BA1 data structures, still very useful
+
 - Array
 - List/Vector
 - Matrix
+	- Array of Arrays
 - Dataframe
+	- Matrix but with multiple data types
 - Graph
 
 # Modelling
