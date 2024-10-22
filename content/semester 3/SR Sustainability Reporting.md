@@ -35,7 +35,7 @@
 - [[Mandatory Reporting Standards]]
 
 - [[GHG Emissions]]
-- [[ESRS]]
+- [[ESRS]] and [[EU Taxonomy Regulation]]
 - [[Double Materiality]]
 - [[Sustainability Taxonomy Regulations]]
 - [[Accounting for Greenhouse Gas Emissions]]

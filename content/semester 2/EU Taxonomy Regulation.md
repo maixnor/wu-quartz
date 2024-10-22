@@ -9,7 +9,7 @@
 		- activists challenge green washing
 			- rather report honest 0% alignment than fake 10%
 	- any kind of [[defense industry]] is not deemed as green
-		- [[defense industry]] will hopefully face higher financing costs therefore 
+		- [[defense industry]] will hopefully face higher financing costs therefore
 - have to report on
 	- Revenue
 	- CAPEX

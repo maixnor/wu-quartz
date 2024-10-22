@@ -3,6 +3,7 @@
 - [[Besedilo odstavka.pdf|introductory presentation]]
 - [[Rittersport Sustainability Analysis Data and Ideas]]
 - [[Rittersport Sustainability Report - IRO Analysis]]
+	- [[Feedback IRO Analysis]]
 
 ## Notes
 - chocolate producer

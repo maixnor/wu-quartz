@@ -18,6 +18,8 @@
 	- social information
 	- governance information
 - standard in [[EU]]
+	- there are lots of drafts - careful when searching online
+		- currently easy to see if a G2 is included, there is no G2 at the moment
 - [[Double Materiality]]
 
 ## Books
@@ -54,3 +56,4 @@
 - who did I ask for the data?
 	- only internal/employees or also externals?
 ### ESRS 2 SBM
+#todo
