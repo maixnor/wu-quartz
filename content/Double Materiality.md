@@ -1,11 +1,12 @@
-> what is material?
+# What is Material?
 
-#todo find good definition
+> Anything which can affect the company is material. Be that financial material (I can't produce anymore) to impact material (humans are suffering). Can be either or, can be both.
 
 - Dynamic Materiality
 	- impact materiality becoming financial materiality
 	- e.g. chocolate producer which has the impact materiality (climate change) turn into a financial materiality (loss of raw resource due to heatwaves/wildfires)
-
+- "Double Materiality" means that we take a look at both perspectives
+	- it does not need to be financial and impact to count as double
 # Perspectives
 ## outside-in perspective
 - aka "financial materiality"
