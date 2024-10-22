@@ -1,31 +1,29 @@
-# Experiment 8
-## a) Is this a „game” in game theory?
-#### Pro Arguments
-- 2 players
-- payoff allocation by player A
-- dependency of player B
-#### Contra Arguments
-- player A payoff does not depend on B, no uncertainty, no “strategy” needed, behavior of player B is irrelevant 
-- In [game theory](https://en.wikipedia.org/wiki/Strategy_(game_theory)), a move, action, or play is any one of the options which a player can choose in a setting where the optimal outcome depends not only on their own actions but on the actions of others. 
-## b) Strategy A
-Optimal Strategy for person A: should give person B 0.10$ (minimum value)
+by Matthaeus Engelbrecht, Elias Prackwieser, Benjamin Meixner
 
-## c) Conclusion
-- most players A follow the optimal strategy
-- Explanation for deviations: player A …
-	- misunderstanding the game
-	- values fairness
-	- does not care so much about his money, is not exact
-	- wants to be funny
+# Experiment 8
+## a) Is this a Game?
+for it to be considered as a Game in Game Theory, it needs to fulfill the following 3 criteria: (i) Players with (ii) potential strategies that have certain (iii) utility payoffs associated with combinations of strategies. 
+This game has two players, with payoffs, but not potential strategies, as only Person A is able to act in this game. Person B is only able to receive something. Therefore it is not a game.
+
+## b) Optimal Strategy of A
+The optimal strategy of Person A is, to offer B the lowest possible amount of money. This is because Person A has to assume full rationality of Person B. In this context this means that Person B will accept any amount, even if they see it as “unfair”, as the other option would be to get nothing. This is therefore an empty threat, and nothing for person A to worry about.
+To recap, the optimal strategy for Person A is to offer Person B **E$ 0.10**.
+
+## c) Actual Data
+The data represents the theory wonderfully. 
+The mode is 99.9 for Person A/0.10 for Person B. This happened a total of 17 out of 31 times. Another 8 Player A’s played, what 9 would call an almost optimal strategy, and gave player B everything between 0.11 and 10. I think these also saw the optimal strategy, but didn't want to push their luck too much. A total of three Players played it “fifty-fifty”. I would guess these did it either out of empathy, or a misunderstanding of the assignment. Two players gave away all of their money. These very probably didn't understand the assignment, or felt extra generous that day.
+
+When looking at the data, what is most surprising to me, is that not a single Player B rejected the offer. This underlines that player B, even if they might be unhappy with their price, will act rationally. 
+
+In conclusion most players played the optimal strategy and empty threats don't work.
 
 # 2. Experiment 9
-
 ## a) 
 sequential
 
 ## b)
-### possible strategies player A:
-- the possibilities are almost arbitrary with 1 cent jumps resulting in 10$ * 100 cents - 10 cents minimum = 1990 possbilities
+#### possible strategies player A:
+- the possibilities are almost arbitrary with 1 cent jumps resulting in 10$ * 100 cents - 10 cents minimum = 1990 possibilities
 - we reduce the options to 4 to reason better and derive insights easier, since they should be valid with wider sets
 
 A1: offer 0.10
@@ -51,7 +49,7 @@ A4: offer 75
 15. Accept 25, 50, and 75, reject the others: (R, A, A, A)
 16. **Accept all offers: (A, A, A, A)**
 
-BUT we can reduce it by setting a minimum for B and accepting any offer of A which is greater or equal to the minimum B will tolerate since anything above the threshold is "extra payoff" from the perspective of B
+BUT we can reduce it by setting a minimum for B and accepting any offer of A which is greater or equal to the minimum B will tolerate since anything above the threshold is "extra utility" from the perspective of B
 
 Offers of A: (0.10, 25, 50, 75)
 1. Accept = 0.10: (A, A, A, A)
@@ -139,3 +137,32 @@ Observations:
 - we see a rise in profitability over 10 rounds:
 	- but we can also see that B collectively always receives less than A
 ![](file:///tmp/lu87707l2tey.tmp/lu87707l2tf1_tmp_239ad910.png)
+
+# Experiment 11
+## a) Type of Game
+This is a simultaneous Game, as Players A and B act first with C following them
+## b) Find all subgame perfect Nash equilibria of the single round game. (10)
+To find the Nash equilibrium, we need to start with Player C’s optimal strategy:
+$$\text{Offer A}>\text{Offer B}\to \text{pick offer A}$$
+$$\text{Offer A}<\text{Offer B}\to \text{pick offer B}$$
+$$\text{Offer A}=\text{Offer B}\to \text{pick either offer}$$
+As both Player A and B are rational, they both know Player C’s strategy. Therefore, they will try to undercut each other until the maximum offer (for Player C), 8\$ is reached. 
+The best response for Player A and B is to offer 8\$. 8\$/8\$ is the subgame perfect Nash equilibrium.
+## c) Analyzing the Data 
+The average offer changed drastically over time.
+
+| Round | Avg Offer A_A | Avg Offer A_C | Avg Offer B_B | Avg Offer B_C | Avg offer | Profit A | Profit B | Profit C | Max offer X_C | Min offer X_C |
+| ----- | ------------- | ------------- | ------------- | ------------- | --------- | -------- | -------- | -------- | ------------- | ------------- |
+| 1     | 4,08          | 5,92          | 4,60          | 5,40          | 4,34      | 1,73     | 1,80     | 6,46     | 8             | 3             |
+| 2     | 3,41          | 6,59          | 3,64          | 6,36          | 3,53      | 1,89     | 0,87     | 7,24     | 8             | 3,5           |
+| 3     | 3,05          | 6,95          | 3,65          | 6,35          | 3,35      | 1,21     | 1,45     | 7,34     | 8             | 0,01          |
+| 4     | 3,21          | 6,79          | 2,89          | 7,11          | 3,05      | 1,30     | 0,93     | 7,30     | 8             | 4             |
+| 5     | 2,57          | 7,43          | 2,66          | 7,34          | 2,61      | 1,42     | 0,82     | 7,75     | 8             | 4             |
+
+In the first round the average offer from Player A and B was 4.34, which was still a somewhat “fair” split, but by the last round this offer almost halved to 2.61. This shows how the rejection by Player C taught A and B into lowering their own share. Player C was steadily doing better each round.
+
+This data also shows the difference between the average offer (for Player A and B’s own share) and the average profit for Player A and B beautifully. On Average the accepted offer was 40% of the proposed offer. This stayed steady throughout the rounds (Round 1-5: 41%, 39%, 40%, 36%, 43%).
+## d) Differences between Nash Equilibrium and the Data
+In theory, both Player A and B would offer both 8/$. In Our data we have a few differences. In our previous experiments with multiple rounds, we oftentimes had a quick approach to the optimal strategy. Here however, it is (on average) never reached. The approach is still there, though.
+
+ I think, this is for two main reasons. (1) The players switched their Role often, (1.1) so some mightve been in the same position for a long time and (1.2) didnt have enough rounds to converge to the Nash equilibrium. (2) Players A and B where hoping to collude in a way, as they
