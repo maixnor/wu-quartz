@@ -8,4 +8,4 @@ also called Quick Ratio
 - otherwise you are in big trouble
 
 Maixnor was here
-Yuliy was here 
+Yuliy was here
