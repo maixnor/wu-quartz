@@ -18,7 +18,7 @@
 	- found on company website
 - product level report
 	- all products
-	- art 8 products
+	- art 8 products (responsible vs integration)
 	- art 9 products
 ![[sfdr_reporting.png]]
 
