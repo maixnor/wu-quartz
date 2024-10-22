@@ -6,6 +6,3 @@ also called Quick Ratio
 - Short term assets should be covered by short term liabilities
 - Long term assets should be covered by long term liabilities
 - otherwise you are in big trouble
-
-Maixnor was here
-Yuliy was here
