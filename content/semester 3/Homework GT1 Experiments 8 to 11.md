@@ -1,4 +1,4 @@
-by Matthaeus Engelbrecht, Elias Prackwieser, Benjamin Meixner
+by Matthaeus Engelbrecht (12318768), Elias Prackwieser (12300748), Benjamin Meixner (12302260)
 
 # Experiment 8
 ## a) Is this a Game?
@@ -81,8 +81,7 @@ similarly for A3 = 50 and A4 = 75
 Finding SPNE at (0.10; A, A, A, A) with extensive form
 - accepting for B is always the better option than rejecting
 - therefore best strategy of A is to offer least i.e. 0.10$
-![](file:///tmp/lu87707l2tey.tmp/lu87707l2tf1_tmp_ae26f50.jpg)
-
+![[homework_gt1_1_1.png]]
 ## d) Data Set
 - only two players A followed the perfect strategy – the rest made “irrational” offers (the average offer to players B is 40,2 !!!)
 - players A seem particularly keen on making a “ok - fair” offer to player B because they fear that player B might reject their (not so fair) offer …
@@ -132,11 +131,11 @@ Observations:
 	- last round there is no basis for deviating from 0.10$ -> threat empty
 
 -> average payoff for player A in each round:
-![](file:///tmp/lu87707l2tey.tmp/lu87707l2tf1_tmp_bbf43506.png)
+![[homework_gt1_1_2.png]]
 
 - we see a rise in profitability over 10 rounds:
 	- but we can also see that B collectively always receives less than A
-![](file:///tmp/lu87707l2tey.tmp/lu87707l2tf1_tmp_239ad910.png)
+![[homework_gt1_1_3.png]]
 
 # Experiment 11
 ## a) Type of Game
