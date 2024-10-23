@@ -133,4 +133,5 @@
 	 - e.g. War - I don't care how much I lose, as long as it is less than you lose
 
 # Types of Games
-- 
+- [[Dictator Game]] 
+- [[Ultimatum Game]]

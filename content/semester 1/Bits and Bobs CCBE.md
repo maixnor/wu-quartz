@@ -33,7 +33,7 @@ a mathematical system about if it is worth it to always put down the toilet seat
 - huge controversy about who was the better vocalist
 
 They did:
-- played an [[Ultimatum Game Experiment]]
+- played an [[Ultimatum Game]] experiment
 - game was played in 2 rooms separately
 	- one room played music from Bon Scott
 	- one room played music from Brian Johnson
