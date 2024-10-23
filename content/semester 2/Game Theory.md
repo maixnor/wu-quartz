@@ -125,3 +125,12 @@
 		- threats against player with dominant strategy are futile
 		- they will always be on top of others, you can only reduce the overall social optimum
 - [[First Mover Advantage]] - if present
+
+# Utility
+ - the same value is not worth equal amounts to different people
+ - personal preferences
+	 - e.g. Rivalry - I don't care how much I earn, as long as it is more than you earn
+	 - e.g. War - I don't care how much I lose, as long as it is less than you lose
+
+# Types of Games
+- 

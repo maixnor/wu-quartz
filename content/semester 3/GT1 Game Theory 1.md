@@ -4,6 +4,7 @@
 - [[Markets]] and [[Monopoly]]
 	- [[Price Matching Policy]]
 	- [[Strategic Moves]]
+- [[Utility]]
 - [[Bargaining and Cooperation]]
 - [[Reputation]]
 - [[Auctions]]

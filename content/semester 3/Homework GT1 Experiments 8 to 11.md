@@ -1,6 +1,6 @@
 by Matthaeus Engelbrecht (12318768), Elias Prackwieser (12300748), Benjamin Meixner (12302260)
 
-# Experiment 8
+# Experiment 8 - Dictator Game
 ## a) Is this a Game?
 for it to be considered as a Game in Game Theory, it needs to fulfill the following 3 criteria: (i) Players with (ii) potential strategies that have certain (iii) utility payoffs associated with combinations of strategies. 
 This game has two players, with payoffs, but not potential strategies, as only Person A is able to act in this game. Person B is only able to receive something. Therefore it is not a game.
@@ -17,7 +17,7 @@ When looking at the data, what is most surprising to me, is that not a single Pl
 
 In conclusion most players played the optimal strategy and empty threats don't work.
 
-# 2. Experiment 9
+# 2. Experiment 9 - Ultimatum Game
 ## a) 
 sequential
 
@@ -99,7 +99,7 @@ in Data:
 
 E$ payoffs are not an optimal way to describe outcome utilities in this game. Why? Because money represented in numbers in some foreign currency is something very abstract. It would be interesting to see how the results of the experiment would change if something more tangible e.g. apples would be used as “outcome utilities”
 
-# 3. Experiment 10: Repeated Ultimatum Game
+# 3. Experiment 10: Repeated Ultimatum Game - Repeated Ultimatum Game
 
 ## a) 
 finding SPNE using rollback by **finding the** **best action for every possible point/subgame along the sequence**
@@ -137,7 +137,7 @@ Observations:
 	- but we can also see that B collectively always receives less than A
 ![[homework_gt1_1_3.png]]
 
-# Experiment 11
+# Experiment 11 - Market Game
 ## a) Type of Game
 This is a simultaneous Game, as Players A and B act first with C following them
 ## b) Find all subgame perfect Nash equilibria of the single round game. (10)
