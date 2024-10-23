@@ -4,7 +4,7 @@
 - [[Markets]] and [[Monopoly]]
 	- [[Price Matching Policy]]
 	- [[Strategic Moves]]
-- [[Utility]]
+- [[Behavioral Game Theory]]
 - [[Bargaining and Cooperation]]
 - [[Reputation]]
 - [[Auctions]]
