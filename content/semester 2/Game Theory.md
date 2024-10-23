@@ -134,4 +134,4 @@
 
 # Types of Games
 - [[Dictator Game]] 
-- [[Ultimatum Game]]
+- [[Ultimatum Game]] and [[Repeated Ultimatum Game]]
