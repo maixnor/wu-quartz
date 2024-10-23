@@ -16,7 +16,7 @@
 	- all actions of other agents are known/unknown
 
 # Analyse a Game
-- [[Analysing Games]]
+- [[Analyzing Games]]
 - determine, players, strategies, payoffs
 - write down game
 - find [[Nash Equilibrium|equilibria]]
