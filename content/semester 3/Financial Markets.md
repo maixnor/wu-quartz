@@ -16,6 +16,17 @@ E-->F(Money demand)
 E-->G(Other assets, eg bonds)
 ```
 
+## Fiscal Policy
+- issued by government
+- levels of government spending and taxes
+	- also where the spending and taxing is happening
+
+## Monetary Policy
+- issued by central bank
+- changes in money supply
+	- setting [[Interest Rate]] for a region
+
+# Market Operations
 ## Money Demand
 - the amount of money people want to hold, aggregated
 	- in personal finance: non-dispensable income
@@ -27,16 +38,14 @@ E-->G(Other assets, eg bonds)
 - equilibrium = $M^{s} = M^{d}$
 - therefore -> $M^{s} = Y * L(i)$
 
+## Open Market Operations
+- buying/selling bond
 - increase money supply: expansionary open market operation
-	- buying of bonds
-- decrease money supply: 
+	- lower [[Interest Rate]]
+	- buying of own bonds -> [[Share Buyback]], reducing available bonds
+- decrease money supply: contractionary open market operation
+	- higher [[Interest Rate]]
+	- selling of own bonds -> issuing additional bonds
+- no "setting" of [[interest rate]]
+	- just selling/buying enough bonds to adjust interest rate accordingly
 
-## Fiscal Policy
-- issued by government
-- levels of government spending and taxes
-	- also where the spending and taxing is happening
-
-## Monetary Policy
-- issued by central bank
-- changes in money supply
-	- setting [[Interest Rate]] for a region
