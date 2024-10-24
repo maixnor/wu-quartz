@@ -24,7 +24,7 @@
 - [[GHG Emissions]]
 - [[ESRS]] and [[EU Taxonomy Regulation]]
 - [[Double Materiality]]
-- [[Sustainable Supply Chain]]
+- [[Sustainable Supply Chain]] and [[CSDDD]]
 - [[Sustainability Taxonomy Regulations]]
 - [[Accounting for Greenhouse Gas Emissions]]
 
@@ -32,9 +32,4 @@
 - [[Sustainability Reporting Standards]]
 - [[Current EU Sustainability Projects]]
 
-# Lectures
-## Intro
-- [[Lecture SR 1]]
 # Exam
-
-# Additional
