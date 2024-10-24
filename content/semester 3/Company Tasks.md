@@ -4,6 +4,7 @@
 - [[Rittersport Sustainability Analysis Data and Ideas]]
 - [[Rittersport Sustainability Report - IRO Analysis]]
 	- [[Feedback IRO Analysis]]
+- [[Rittersport Sustainability Strategy]]
 
 ## Notes
 - chocolate producer
