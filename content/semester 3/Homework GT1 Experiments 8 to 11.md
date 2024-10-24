@@ -17,7 +17,7 @@ When looking at the data, what is most surprising to me, is that not a single Pl
 
 In conclusion most players played the optimal strategy and empty threats don't work.
 
-# 2. Experiment 9 - Ultimatum Game
+# 2. Experiment 9 - [[Ultimatum Game]]
 ## a) 
 sequential
 
@@ -85,7 +85,7 @@ Finding SPNE at (0.10; A, A, A, A) with extensive form
 ## d) Data Set
 - only two players A followed the perfect strategy – the rest made “irrational” offers (the average offer to players B is 40,2 !!!)
 - players A seem particularly keen on making a “ok - fair” offer to player B because they fear that player B might reject their (not so fair) offer …
-	- … however if player B would be perfectly rational there would be no reason to _not_ accept player A’s offer in this **one shot ultimatum game (**0.10 > 0) …
+	- … however if player B would be perfectly rational there would be no reason to _not_ accept player A’s offer in this **one shot [[ultimatum game]] (**0.10 > 0) …
 - players A might also just enjoy the "safety" of offering A a deal they cannot refuse to get a higher yield from the transaction as soon as we might expect B to be a little crazy
 - nonetheless, 8 out of 32 players B rejected the offers
 
@@ -99,7 +99,7 @@ in Data:
 
 E$ payoffs are not an optimal way to describe outcome utilities in this game. Why? Because money represented in numbers in some foreign currency is something very abstract. It would be interesting to see how the results of the experiment would change if something more tangible e.g. apples would be used as “outcome utilities”
 
-# 3. Experiment 10: Repeated Ultimatum Game - Repeated Ultimatum Game
+# 3. Experiment 10: Repeated Ultimatum Game - [[Repeated Ultimatum Game]]
 
 ## a) 
 finding SPNE using rollback by **finding the** **best action for every possible point/subgame along the sequence**
