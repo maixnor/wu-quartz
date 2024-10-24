@@ -25,6 +25,7 @@
 - [[ESRS]] and [[EU Taxonomy Regulation]]
 - [[Double Materiality]]
 - [[Sustainable Supply Chain]] and [[CSDDD]]
+- [[Strategy and Implementation]]
 - [[Sustainability Taxonomy Regulations]]
 - [[Accounting for Greenhouse Gas Emissions]]
 
