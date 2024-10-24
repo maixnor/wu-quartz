@@ -32,5 +32,8 @@
 # Organizational Embeddedness
 - general sustainability reporting lies with CEO
 	- finance department may do the data analysis and the "sustainability accounting", but actually implementing and improving their sustainability lies with other people
-- 
+
+# Empirical Evidence
+- #todo sr 6 18
+
 
