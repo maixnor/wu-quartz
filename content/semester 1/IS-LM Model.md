@@ -50,6 +50,7 @@ This will be a classic $y=x$ line
 Where both lines meet the equilibrium is located
 - line 1: $y = x$
 - line 2: $Y = Z$
+![[islm_model.png]]
 
 ## Equilibrium $I = S$
 - private saving: $S^{P} = Y - T - C \Longrightarrow C + I + G - T - C = I + G - T$
@@ -75,3 +76,4 @@ $\frac{c_1}{1-c_1}$ ... fiscal factor for taxes
 
 # Fiscal Multiplier
 There are economies where the fiscal multiplier is smaller than 1. 
+
