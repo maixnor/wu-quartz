@@ -16,12 +16,20 @@ E-->F(Money demand)
 E-->G(Other assets, eg bonds)
 ```
 
-### Money Demand
+## Money Demand
 - the amount of money people want to hold, aggregated
 	- in personal finance: non-dispensable income
 - dependent on income and [[Interest Rate]]
 	- $M^{d} = M^{d}(Y, i)$
-- 
+
+## Money Supply
+- decided by central bank
+- equilibrium = $M^{s} = M^{d}$
+- therefore -> $M^{s} = Y * L(i)$
+
+- increase money supply: expansionary open market operation
+	- buying of bonds
+- decrease money supply: 
 
 ## Fiscal Policy
 - issued by government
