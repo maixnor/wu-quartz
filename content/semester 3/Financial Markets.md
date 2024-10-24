@@ -39,7 +39,7 @@ E-->G(Other assets, eg bonds)
 - therefore -> $M^{s} = Y * L(i)$
 
 ## Open Market Operations
-- buying/selling bond
+- buying/selling own bonds
 - increase money supply: expansionary open market operation
 	- lower [[Interest Rate]]
 	- buying of own bonds -> [[Share Buyback]], reducing available bonds
@@ -48,4 +48,25 @@ E-->G(Other assets, eg bonds)
 	- selling of own bonds -> issuing additional bonds
 - no "setting" of [[interest rate]]
 	- just selling/buying enough bonds to adjust interest rate accordingly
+- interest rate increases when income $Y$ increases
+- interest rate decrease when money supply $M^{s}$ increases
+
+# Where does money come from
+### Central Banks
+- assets
+	- bonds ([[#Open Market Operations]])
+- liabilities
+	- central bank money (H)
+	- currency (CU)
+	- [[Federal Reserves|reserves]] (R)
+	- **NO EQUITY**
+	
+### Commercial Bank
+- assets
+	- loans
+	- bonds
+	- reserve at central bank
+- liabilities
+	- checkable deposits
+	- equity
 

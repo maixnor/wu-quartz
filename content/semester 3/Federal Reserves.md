@@ -1,0 +1,1 @@
+- commercial bank needs to keep a certain proportion of their checkable accounts (accounts of their customers) with the central bank for security
