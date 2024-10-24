@@ -42,7 +42,7 @@ $1 - c_1$ ... investment rate (because one can either spend or save income)
 # Putting it all together
 $GDP = I + G +c_0 - c_1 * T + c_1 * Y$
 
-## Equilibrium
+## Equilibrium $Z = Y$
 aggregate demand = aggregate supply
 $GDP = Y$
 This will be a classic $y=x$ line
@@ -50,6 +50,14 @@ This will be a classic $y=x$ line
 Where both lines meet the equilibrium is located
 - line 1: $y = x$
 - line 2: $Y = Z$
+
+## Equilibrium $I = S$
+- private saving: $S^{P} = Y - T - C \Longrightarrow C + I + G - T - C = I + G - T$
+	- income - taxes - consumption
+- government saving: $S^{G} = T - G$
+	- taxes - government spending
+- $S = S^{P} + S^{G} = I - T + G + T - G = I$
+- $S = I$
 
 # Transformations
 $Y^* = \frac{1}{1-c_1} (I + G + c_0 - c_1*T)$
