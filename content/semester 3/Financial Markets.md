@@ -70,3 +70,5 @@ E-->G(Other assets, eg bonds)
 	- checkable deposits
 	- equity
 
+### Money Multiplier
+![[money_multiplier.png]]
