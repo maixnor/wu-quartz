@@ -1,5 +1,6 @@
 # Rittersport
 - [[rittersport_sustainabilityreport_2020.pdf|sustainability report 2020]]
+- [[rittersport_sustainability_report_2021_2022.pdf|sustainability report 2021/22]]
 - [[Besedilo odstavka.pdf|introductory presentation]]
 - [[Rittersport Sustainability Analysis Data and Ideas]]
 - [[Rittersport Sustainability Report - IRO Analysis]]
