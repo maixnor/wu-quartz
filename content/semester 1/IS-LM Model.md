@@ -32,7 +32,7 @@ $1 - c_1$ ... investment rate (because one can either spend or save income)
 	- if borrowing money is more expensive I can borrow less, therefore invest less
 - $I = f(Y, i)$
 - assumption: linear investment function
-	- $d_{0} + d_{1} * Y - d_{2}*i$  #todo correct this
+	- $d_{0} + d_{1} * Y - d_{2}*i$ 
 
 ## Government Expenditure $G$
 - [[Exogenous Number]]
