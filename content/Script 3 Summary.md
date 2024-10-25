@@ -138,5 +138,5 @@
 - how to verify? [[Elasticity]] between output factor and coal price / coal availability
 	- conclusion: not fully substituteable (coal is not a dependent factor if no steam engine is involved)
 	- different measurements: coal usage, emissions, effective energy
-		- nice video on effective energy: https://www.youtube.com/watch?v=t-O-Qdh7VvQ
+		- nice video on effective energy (wanna find out how many cats you need to power Norway for a year?): https://www.youtube.com/watch?v=t-O-Qdh7VvQ
 	- 
