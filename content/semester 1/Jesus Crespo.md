@@ -1,6 +1,6 @@
 https://www.wu.ac.at/en/economics/people/crespo-j/
 
-- Mainly concerned with [[Poverty]], [[Inequality]] and [[Climate Change]]. See his part on [[CCBE Contemporary Challenges in Business and Economics||CCBE Lecture]].
+- Mainly concerned with Poverty, Inequality and Climate Change. See his part on [[CCBE Contemporary Challenges in Business and Economics||CCBE Lectures]].
 
 - Amazing Lecturer - easy to keep focus and can communicate well
 
