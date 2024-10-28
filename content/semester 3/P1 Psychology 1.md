@@ -5,10 +5,7 @@
 - [[Emotions]] #todo
 - [[Motivation & Incentives]]
 - [[Group Structure & Process]]
-- [[Interpersonal Communication & Conflict]]
-- [[Leadership Behavior & Power]]
 
-- [[Psychology Question Feedback]]
 ## Grading
 - 25% individual effort (canvas)
 - 25% group effort
