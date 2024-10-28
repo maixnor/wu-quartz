@@ -117,3 +117,32 @@ The forces that trigger motivation can be biological, emotional, cognitive or so
 - [[Maslov Hierachy]]
 - [[Herzberg Theory]]
 - [[VRoom's expectancy theory]]
+
+# Competition
+- Humans are achievement- seeking creatures: our effort can rise or fall as we benchmark ourselves against others
+
+## Rivalries
+- individuals are particularly motivated to defeat an opponent with whom they have a history
+- Rivalries are double-edged swords that can motivate high levels of effort but also counterproductive behaviors.
+	- raises the perceived stakes of a competition even though the actual stakes are the same, motivating people to work harder, smarter, and longer
+	- increases the motivation to achieve a gain & compel individuals to focus on goal attainment
+	- increases arousal and physiological response (e.g., faster heartbeat)
+	- increases the likelihood of taking risks
+	- sometimes motivates the violation of rules and unethical behavior (focus on the benefits of winning rather than on the costs of acting immorally )Rivalries are double-edged swords that can motivate high levels of effort but also counterproductive behaviors.
+
+## Forming Constructive Competition
+It is crucial to understand how to obtain the benefits without the costs
+
+- fairness promotes constructive competition (e.g., Tjosvold et al., 2003, 2006)
+- chances of winning should be equal for all employees if they put in the appropriate amount of effort (Johnson & Johnson, 2009)
+- clear rules and a clear time frame (Johnson & Johnson, 2009)
+- winning alone should not be of utmost importance (Johnson & Johnson, 2009)
+- Employees must have a vested interest in their rivals’ success as well as their own (Sheridan & Williams, 2011)
+- Incentives can temporarily encourage cooperation between competitors but, building a relationship can maintain cooperation (Sandvik et al., 2020)
+- The temporal order matters: Shifting from collective to individual rewards can foster friendly competition the reverse most likely leads counterproductive behaviors (Johnson et al., 2006)
+- The presence of a common outgroup promotes cooperation (Sonenshein et al., 2017)
+
+## 
+
+
+
