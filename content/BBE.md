@@ -16,7 +16,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 - [[FS Foundations in Socioeconomics]] (online / offline)
 ### Semester 3
 - [[BA1 Business Analytics 1]]
-- [[Business Analytics 2]]
+- [[BA2 Business Analytics 2]]
 - [[Decision Making and Behaviour in Business]]
 - [[FMa Foundations in Macroeconomics]]
 - [[HE History of Economics and the Economy]]
