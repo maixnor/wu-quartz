@@ -142,7 +142,32 @@ It is crucial to understand how to obtain the benefits without the costs
 - The temporal order matters: Shifting from collective to individual rewards can foster friendly competition the reverse most likely leads counterproductive behaviors (Johnson et al., 2006)
 - The presence of a common outgroup promotes cooperation (Sonenshein et al., 2017)
 
-## 
+## Improving Knowledge Flows
+- n = 653 sales agents
+- design
+	- structured meetings: instructed to meet up and share knowledge
+	- pair-incentives: pairs had joint boni
+	- control treatment: no intervention
+- results:
+	- structured meetings: 15% sales gain -> huge gain
+		- both partners increased, not just the one that learnt a lot
+	- pair-incentives: small increase during experiment, but not after experiment
+	- control group: nothing much changed
+
+## Prophecies
+### Self-Fulfilling Prophecy
+- when I think my girlfriend will break up with me I treat her badly until she does - I was right in the end
+
+### Self-Negating Prophecy
+- classic underdog evolution ark in any movie
+
+## Motivation of the Underdog
+- n = 596
+- design:
+	- underdog: You are not cut out for the task
+	- high performer: You are perfect for the task
+- result:
+	- 
 
 
 
