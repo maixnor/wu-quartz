@@ -56,4 +56,64 @@ The forces that trigger motivation can be biological, emotional, cognitive or so
 
 # Crowding-Out Effect
 - When external interventions (e.g., external rewards) undermine intrinsic motivation for an activity that is originally intrinsically motivated
-- 
+
+- According to the Cognitive Evaluation Theory (Deci & Ryan, 1985), the following conditions have to be fulfilled:
+	- the activity is originally intrinsically motivated &
+	- the external intervention diminishes a person’s sense of autonomy and / or sense of competence
+
+- External interventions which are perceived as controlling undermine a person’s sense of autonomy, e.g.: 
+	- Expected tangible rewards which are directly contingent on behavior
+	- Performance expectations that convey pressure 
+	- Strict deadlines
+
+- External interventions which are not perceived as controlling or to a lesser extent, e.g.:
+	- Tangible rewards which are not directly contingent on behavior
+	- Unexpected tangible rewards 
+	- Setting your own deadlines
+
+- External interventions undermining a person’s sense of competence, e.g.: 
+	- Negative feedback without any “informational” value
+	- Negative performance expectation without any “informational” value
+ 
+- External interventions strengthening a person’s sense of competence, e.g.:
+	- Positive feedback 
+	- Positive performance expectations
+	- “informational” feedback
+	- Workshops / training tailored to a person’s needs, helping to improve their skills / advancing their knowledge
+
+## Pay-for-Performance
+- e.g. commissions
+	- could earn infinite if one could work infinite
+- can incentivize the wrong thing
+	- e.g. reducing quality of sales for higher current sales count while sacrificing future sales count
+
+# Algorithmic vs Heuristic
+#todo 
+
+## Algorithmic Tasks
+- mostly extrinsic motivation
+- monetary bonus or promotion
+
+## Heuristic Tasks
+- mostly intrinsic motivation
+
+### Promoting Intrinsic Motivation
+- foster autonomy
+- acknowledge competence
+- opportunities to improve skills
+- create purpose and meaningful rationale
+
+#### Purpose-Driven Jobs
+- [[Purpose Driven Jobs]]
+
+# History
+- history is not exam relevant
+#todo p1 5 25
+
+## Away from Behaviorism
+- cognitive movement
+
+# Needs
+- [[Maslov Hierachy]]
+- [[Herzberg Theory]]
+- [[VRoom's expectancy theory]]
