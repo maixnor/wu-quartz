@@ -1,6 +1,0 @@
-# Create Table
-
-# Indexes
-- btree 
-
-# 
