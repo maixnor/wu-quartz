@@ -165,9 +165,71 @@ It is crucial to understand how to obtain the benefits without the costs
 - n = 596
 - design:
 	- underdog: You are not cut out for the task
-	- high performer: You are perfect for the task
+	- favorite: You are perfect for the task
 - result:
-	- 
+	- underdog: depending on source of bad feedback
+		- if source is credible: "they are probably right, I can't do that, I give up"
+		- if source is not credible: "they don't know anything about me, I will prove it to them"
+	- favorite: little impact
 
+## Prosocial Motivation
+- desire to help/benefit others
 
+### Benefits
+- increased social capital
+	- build status, trust, goodwill
+- working smarter
+	- boot productivity, more creative
+- working harder
+	- provide purpose
+- working safer
+	- encourage caution, discourage risk, consider consequences for others
 
+### Foster Prosocial Motivation
+- make it personal
+	- personalizing and humanizing
+	- highlight task significance
+- give the right incentives
+	- nonfinancial awards
+	- prosocial bonuses
+
+### Dark Side of Prosocial Motivation
+- more likely to escalate their commitment -> burnout
+- poor time management -> too much commitment at once -> burnout
+- rationalize otherwise indefensible actions and motivate unethical behavior
+	- e.g. stealing is not ok, unless you do it for charity
+
+## Passion
+- 20% of workers in US are passionate about their work (n=3000)
+- passion ... **Leiden**schaft -> being able to suffer for your work
+- focus on what you care about - not what you love
+- people passionate about their work are not good in the long run
+	- struggle taking breaks or days off -> burnout
+	- quitting more frequent, sick leaves are more frequent and for longer
+- stepping away from work sometimes is very important
+	- commit to 5 breaks today, when do you want to take them?
+		- they do matter -> breaks and productivity correlate strongly
+			- (Jachimowicz, 2019)
+
+## Passion & Achievement
+- total n=38.481
+- passion
+	- general passion
+	- dualistic model of passion
+	- role-based passion
+
+## Passion & Burnout
+- #todo high on hormonial passion ... low burnout risk
+- high on 
+
+## Effort = Meaningful
+- Inzlicht & Campbell, 2022
+- if it is not effortful to do it is mostly not worth doing it
+	- humans avoid mental and physical effort
+- BUT even in [[Universal Basic Income]] studies and lottery winners decide to keep working
+	- Effort can help to escape boredom and thus give meaning
+	- Effort might help to release cognitive dissonance
+	- The effort and meaning connection might be illusory and a way for organisms to make sense of past actions
+	- Or: effort’s meaningfulness is not illusory, but in fact a statistical property of the real world
+	- Effort’s perceived meaningfulness, then, might act as a system-justifying force
+	- Effort as a proxy for moral characteristics
