@@ -20,3 +20,40 @@ The forces that trigger motivation can be biological, emotional, cognitive or so
 
 # Candle
 - [[Dunckers Candle Problem Experiment]]
+
+# Intrinsic vs Extrinsic
+## Intrinsic
+- within the individual
+	- autonomy
+	- mastery
+	- purpose
+
+### Example
+- hobbies
+	- mastery of a skill
+	- purpose in pursuing a hobby
+
+## Extrinsic
+- outside the individual
+	- compensation
+	- punishment (or fear of)
+	- reward
+
+### Example
+- work
+- university
+
+## Combination
+- n = 51 kids, 40 to 63 months old
+- measure of intrinsic motivation: how long the children were drawing
+
+- 3 conditions
+	- expected reward: told before they receive a reward
+	- unexpected reward: not told before but still receive a reward
+	- nothing
+
+- intrinsic motivation (unexpected reward and no reward) > external motivation (told to receive a reward)
+
+# Crowding-Out Effect
+- When external interventions (e.g., external rewards) undermine intrinsic motivation for an activity that is originally intrinsically motivated
+- 
