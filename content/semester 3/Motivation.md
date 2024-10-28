@@ -233,3 +233,34 @@ It is crucial to understand how to obtain the benefits without the costs
 	- Or: effort’s meaningfulness is not illusory, but in fact a statistical property of the real world
 	- Effort’s perceived meaningfulness, then, might act as a system-justifying force
 	- Effort as a proxy for moral characteristics
+
+## Motivating yourself and others in group work
+- university: 1 shot project, work: repeated people
+	- random group assigning is demotivating
+		- if in random group: start with icebreaker questions, then talk about getting stuff done
+- you should pick 1 leader to organize meetings, take care of deadlines, etc
+	- if there is something nobody likes doing, randomize the assignment
+		- give some incentive (e.g. not doing as much with content part)
+- if you can't be bothered to do much, just do something
+	- if someone else is not motivated, don't require a lot from them, otherwise they will refrain completely
+	- if someone is procrastinating, set them earlier/tighter deadlines, work with peer pressure
+- how to handle spite? with a leader
+	- even if the leader is not actually superior (we are all students after all) they are "superior" because of their leader-role they are assigned
+		- better, if the leader is assigned (just another role), rather than the leader just stepping forward (dictator)
+
+## Motivation in Collaboration
+- dynamics of others are important
+	- if you are not motivated keep it to yourself
+	- otherwise you are bringing the rest of the group down
+
+## Remote Motivation
+- General effects of remote work:
+	- Positive effects: flexibility, reduction in commuting time, increases in productivity, employee retention, job satisfaction etc. (Martin & MacDonnell, 2012, Tavares, 2017).
+	- Negative effects: reduced job satisfaction and productivity, social isolation, higher stress, presenteeism, communication blocks (Bailey & Kurland, 2002, DiMartino & Wirth, 1990, Kim et al., 2021, Steidelmüller et al., 2020).
+- Remote Work and Motivation
+	- On the one hand: associated with lower levels of motivation, e.g., through professional isolation (Hitka et al., 2021, Imdad & Duffy, 2021, Romeo et al., 2022)
+	- On the other hand: home office as predictor of greater job motivation (Hill et al., 2003)
+- How does this go together?
+	- Having the flexibility and the autonomy to decide when to work remotely or when not to remotely is important (Hill et al., 2003) 
+	- Full-remote vs. only 2-3 days (Cailier et al., 2011, Shimura et al., 2021)
+
