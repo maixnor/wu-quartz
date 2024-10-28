@@ -6,7 +6,7 @@
 - increase [[Level of Processing|depth of processing]]
 - [[Mnemonics]]
 - [[Testing Effect]]
-- reduce cognitive load (stress/physical condition/hunger/fatigue)
+- reduce cognitive load ([[stress]]/physical condition/hunger/fatigue)
 	- [[Meditation]]
 	- [[Sleep]]
 - [[Memory Consolidation]]
