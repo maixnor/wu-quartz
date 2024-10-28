@@ -2,6 +2,7 @@
 - [[Intro Session Psych]]
 - [[Attitude Development and Perception]]
 - [[Memory & Learning]] #todo
+- [[Emotions]] #todo
 - [[Motivation & Incentives]]
 - [[Group Structure & Process]]
 - [[Interpersonal Communication & Conflict]]
@@ -10,6 +11,6 @@
 - [[Psychology Question Feedback]]
 ## Grading
 - 25% individual effort (canvas)
-- 25% group effort 
+- 25% group effort
 	- until 11.11.2024
 - 50% final exam
