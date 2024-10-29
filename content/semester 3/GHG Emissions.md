@@ -4,8 +4,8 @@
 	- directly caused by company by burning of fossil fuels
 	- e.g. steel production, company cars
 ## Scope 2
-- direct energy emissions
-	- e.g. electricity consumption, Fernwaerme
+- direct energy consumption
+	- e.g. electricity consumption, Fernwaerme, cooling, steaming
 ## Scope 3
 - indirect emissions
 	- bought in / [[Supply Chain]]
