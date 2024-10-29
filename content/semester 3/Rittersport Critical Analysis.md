@@ -1,5 +1,7 @@
 # Assignment
 - Analyze the overall structure of the company’s report
+	- lot's of colors, pretty pictures
+	- few KPIs, numbers, hard facts
 - Materiality: How does the company identify and address its material sustainability issues? (-> Exercise 2)
 - Strategy and governance: How does the company address its overall business strategy and responsibilities with regard to sustainability?
 - Value chain: How does the company address its value chain?
