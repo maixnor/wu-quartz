@@ -194,8 +194,8 @@ It is crucial to understand how to obtain the benefits without the costs
 	- prosocial bonuses
 
 ### Dark Side of Prosocial Motivation
-- more likely to escalate their commitment -> burnout
-- poor time management -> too much commitment at once -> burnout
+- more likely to escalate their commitment -> [[burnout]]
+- poor time management -> too much commitment at once -> [[burnout]]
 - rationalize otherwise indefensible actions and motivate unethical behavior
 	- e.g. stealing is not ok, unless you do it for charity
 
@@ -204,7 +204,7 @@ It is crucial to understand how to obtain the benefits without the costs
 - passion ... **Leiden**schaft -> being able to suffer for your work
 - focus on what you care about - not what you love
 - people passionate about their work are not good in the long run
-	- struggle taking breaks or days off -> burnout
+	- struggle taking breaks or days off -> [[burnout]]
 	- quitting more frequent, sick leaves are more frequent and for longer
 - stepping away from work sometimes is very important
 	- commit to 5 breaks today, when do you want to take them?
@@ -219,7 +219,7 @@ It is crucial to understand how to obtain the benefits without the costs
 	- role-based passion
 
 ## Passion & Burnout
-- #todo high on hormonial passion ... low burnout risk
+- #todo high on hormonial passion ... low [[burnout]] risk
 - high on 
 
 ## Effort = Meaningful
