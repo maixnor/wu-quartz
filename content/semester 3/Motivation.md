@@ -256,7 +256,7 @@ It is crucial to understand how to obtain the benefits without the costs
 ## Remote Motivation
 - General effects of remote work:
 	- Positive effects: flexibility, reduction in commuting time, increases in productivity, employee retention, job satisfaction etc. (Martin & MacDonnell, 2012, Tavares, 2017).
-	- Negative effects: reduced job satisfaction and productivity, social isolation, higher stress, presenteeism, communication blocks (Bailey & Kurland, 2002, DiMartino & Wirth, 1990, Kim et al., 2021, Steidelmüller et al., 2020).
+	- Negative effects: reduced job satisfaction and productivity, social isolation, higher [[stress]], presenteeism, communication blocks (Bailey & Kurland, 2002, DiMartino & Wirth, 1990, Kim et al., 2021, Steidelmüller et al., 2020).
 - Remote Work and Motivation
 	- On the one hand: associated with lower levels of motivation, e.g., through professional isolation (Hitka et al., 2021, Imdad & Duffy, 2021, Romeo et al., 2022)
 	- On the other hand: home office as predictor of greater job motivation (Hill et al., 2003)

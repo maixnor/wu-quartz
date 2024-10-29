@@ -10,8 +10,10 @@
 	- how to move
 
 # Biology
-- [[Engram]] #todo
-- 
+- special neurons called Engram 
+- built by strengthening synapses when recalling a memory
+	- mimicry of original experience
+![[engram.png]]
 
 # Working Memory
  ![[memory.png]]
@@ -32,13 +34,11 @@
 	- easier to remember phonetically dissimilar words than similar words
 - episodic buffer
 	- reason for a terrible theory
-		- eliminates a chance of falsifyability
+		- eliminates a chance of falsifyability -> [[Popper Logic]]
 	- "does everything not done by the others"
-	- 
 
 # Differences
 ## Declarative / Explicit
-- #todo
 - episodic memory
 	- storage for facts
 		- e.g. how tall is a penguin?

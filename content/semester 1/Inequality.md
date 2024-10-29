@@ -96,7 +96,7 @@
 - not on top of the monkey rock
 - low [[Social Status]]
 - social hierarchy / ladder
-- leading to stress, leading to poor health
+- leading to [[stress]], leading to poor health
 ### Others
 - [[Stress]] in the womb
 - parents socio-economic status
