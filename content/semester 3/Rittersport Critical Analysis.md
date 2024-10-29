@@ -16,6 +16,7 @@
 	- there seems to be some "sustainability management" (page 17, bottom right)
 		- what this is no clue - department, group of people, group within advisory board, single person?
 		- contact information provided (page 50, bottom left)
+	- otherwise no governance structure, no mention of departments, etc
 - Value chain: How does the company address its value chain?
 	- 100% traceable cocoa - not much about actual sustainability standards
 	- el cacao has 50 tonnes production (as of 2023) in it's lifetime
@@ -34,4 +35,8 @@
 		- scope 3 only mentioned once in beginning, no numbers
 		- emissions only mentioned with reduction, never with values
 		- only thing mentioned is the power consumption and share of own energy production (page 22)
+			- from that one can calculate that "acquesition of renewable energy sources" will in total stay about the same
+				- 2002: 17.15 GWh
+				- vision: 18 GWh
+			- main change is switching from natural gas to "own systems"
 
