@@ -1,3 +1,4 @@
 - reduced [[ESRS]] set for voluntary reporting
 	- easier to implement and transition
+- broadening [[ESRS]] from just large companies to [[LMSE]]
 - implementing social taxonomy into [[EU Taxonomy Regulation]]
