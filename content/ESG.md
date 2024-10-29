@@ -1,3 +1,4 @@
+# Overview
 - [[NaDiVeG]] (past)
 - [[CSDDD]] -> EU parlament 23rd of April 2024
 - [[GRI]] -> Global Reporting Initiative
@@ -13,7 +14,7 @@
 - [[EU Taxonomy Regulation]]
 - ISSB Standards -> [[IAASB]] and [[IAS]]
 
-
+# Why?
 - a standardized auditors opinion would be very helpful
 - who is this for?
 	- society -> society wants to know who is damaging the environment or at least is not helping
