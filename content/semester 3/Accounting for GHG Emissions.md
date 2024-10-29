@@ -69,6 +69,34 @@
 - apply calculation tools
 - roll-up data to corporate level
 
+### Scope 3 Emissions
+- GHG Protocol -> [[#GHG Protocol Standards]]
+- screening
+	- based on all 15 categories of [[#GHG Protocol Standards]]
+- calculation
+	- calculate and estimate as best as possible
+- update
+- not include
+	- don't include if not important
+#### Something else #todo
+- describe the value chain
+- data collection and initial assessment
+- materaility and screening -> [[Materiality Assesment]]
+- selection of relevant categories
+	- #todo sr 6 43
+- selection of calculation methods and calculation
+	- #todo sr 6 43
+	- depends on data available
+		- supplier-specific method
+			- aggregate of all suppliers
+		- hybrid method
+			- aggregate of supplier data you have, extrapolate for the rest
+		- average data method
+			- take average of data you have
+		- spend-base method
+			- take average of data you have, multiply/divide by expenses
+- results and interpretation
+
 ## Setting Operational Boundaries
 
 ## Identifying and calculating GHG emissions
