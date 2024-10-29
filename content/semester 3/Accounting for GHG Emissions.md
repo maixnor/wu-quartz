@@ -57,9 +57,23 @@
 - apply calculation tools
 - roll-up data to corporate level
 
+### Scope 2 Emissions
+- identify sources
+	- electricity, steam, heat, cooling
+- select calculation approach
+	- market based vs location based approach	
+		- location ... geographic location
+		- market ... contracts, purposeful decision
+- collect data and choose emissions factors
+#todo
+- apply calculation tools
+- roll-up data to corporate level
+
 ## Setting Operational Boundaries
 
 ## Identifying and calculating GHG emissions
 
 ## Reporting GHG emissions
+
+# 
 
