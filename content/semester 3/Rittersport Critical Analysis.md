@@ -23,12 +23,14 @@
 	- palm fats - some stats like FONAP or "segregated" level
 		- segregated ... not mixed with non-sustainable oil
 	- milk powder - just "Origin Green Standard", not much more
-	- hazelnuts - no real information
+	- hazelnuts - no real information, just goal of supplying 20% from own production
 - Metrics: Does the company disclose quantitative information?
 	- very little, the quantitive information they do disclose is not convincing
 		- lots of "noise" with numbers as they are not put into perspective and the numbers of impact are hidden
-			- e.g. el cacao - how many trees were planted is stated - how much yield they got from it is not 
+			- e.g. el cacao - how many trees were planted is stated - how much yield they got from it is not
+	- ratio child labor cases to households in own programmes in west africa: 3.97%
 - Climate-related reporting: How does the company disclose its scope 1, scope 2 and scope 3 GHG emissions and related reduction targets? (-> next week’s in-classroom exercise)
 	- no disclosure, just about offsetting scope 3 emissions
 		- scope 3 only mentioned once in beginning
 		- emissions only mentioned with reduction, never with values
+
