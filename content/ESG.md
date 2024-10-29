@@ -1,22 +1,22 @@
-- NADIVEG (past)
-- CSDDD -> EU parlament 23rd of April 2024
-- GRI -> Global Reporting Initiative
+- [[NaDiVeG]] (past)
+- [[CSDDD]] -> EU parlament 23rd of April 2024
+- [[GRI]] -> Global Reporting Initiative
 	- for voluntary use
 	- now collaborating with [[IAASB]]
 - [[ESRS]]
 - [[NFRD]]
 	- replaced / being replaced by [[CSRD]]
-- SDG -> [[SDGs]]
+- [[SDGs]]
 - [[CSRD]] -> Sustainability Reporting of EU -> [[ESRS]]
-- SFDR
-- NABEG
+	- transposition in Austria: NaBeG
+- [[SFDR]]
 - [[EU Taxonomy Regulation]]
 - ISSB Standards -> [[IAASB]] and [[IAS]]
 
 
 - a standardized auditors opinion would be very helpful
 - who is this for?
-	- society -> society wants to know who is damaging the environment or at least not helping
+	- society -> society wants to know who is damaging the environment or at least is not helping
 	- investors -> moral reasons and assessing impact of climate change for future
 		- e.g. will your production plant suffer from flooding?
 		- e.g. do your workers in Bangladesh have good working conditions?

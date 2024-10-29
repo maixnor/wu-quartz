@@ -5,7 +5,7 @@
 - applies within [[EU]]
 	- applies to all subsidiaries, even if not in EU
 	- parent companies which are not in EU are exempted
-- transposition: [[NaBeG]]
+- transposition: NaBeG
 
 #todo place better, link from here, maybe extract
 - how to look up which member states have implemented a directive
