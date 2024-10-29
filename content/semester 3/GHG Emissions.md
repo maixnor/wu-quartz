@@ -32,3 +32,10 @@
 # How they are important
 - most companies have high [[#Scope 3]] emissions
 	- therefore push to sustainability standards
+![[ghg_emissions_by_sector.png]]
+
+# But there is more than CO2
+- reporting only done in CO2eq
+- if there are other greenhouse gases (e.g. methane) they are translated into the equivalent CO2 amount
+- they are added up to be just 1 CO2 amount
+	- possible to have 0 actual CO2 emissions but still report high CO2 emissions which are translated methane

@@ -41,6 +41,22 @@
 - control approach
 	- if there is operational control the emissions of the controlled entity are 100% of the controlling entity
 
+### Scope 1 Emissions
+- identify sources
+	- stationary/mobile combustion, fugitive emissions, process emissions
+- select calculation approach
+	- direct measurement, stoichiometric calculations, estimates
+- collect data and choose emissions factors
+	- mostly emission data is written on the invoice
+	- just not integrated yet in the [[ERP system]] of most companies
+		- would allow for integrated calculations
+	- data levels
+		- primary: consumption in liters of fuel
+		- secondary: mileage of car
+		- tertiary: amount spent on fuel
+- apply calculation tools
+- roll-up data to corporate level
+
 ## Setting Operational Boundaries
 
 ## Identifying and calculating GHG emissions
