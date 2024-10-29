@@ -264,3 +264,29 @@ It is crucial to understand how to obtain the benefits without the costs
 	- Having the flexibility and the autonomy to decide when to work remotely or when not to remotely is important (Hill et al., 2003) 
 	- Full-remote vs. only 2-3 days (Cailier et al., 2011, Shimura et al., 2021)
 
+## Work From Home
+- n = 1612
+- Procedure: 
+	- Randomized control trial 
+	- Trip.com decided to evaluate hybrid WFH
+	- Employees with odd birthdays were randomized into the treatment group allowing hybrid-WFH
+- Results: 
+	- WFH reduced attrition rates by 35% and improved self-reported work satisfaction scores.
+	- WFH reduced hours worked on home days but increased it on other work-days and the weekend.
+	- WFH employees increased individual messaging and group video call communication, even when in the office.
+	- No impact on WFH performance reviews or promotions (BUT small, potentially positive impact on productivity).
+
+## Remote Work, Basic Needs
+- n = 199
+- Measures: 
+	- Work-related need satisfaction (competence, relatedness, autonomy) before/after working from home
+	- Personal and Organizational resources (e.g., role clarity, job control, social support)
+	- Daily assessment of work motivation and well-being
+- Results: 
+	- Lower relatedness when working from home 
+	- Positive influences of job control on autonomy/competence and of social support on relatedness
+	- Well-being and motivation were at acceptable levels and improved over the course of the study
+	- Feelings of competency were positively related to work engagement, flow and positive affect 
+
+## Implement Remote Work Correctly
+#todo
