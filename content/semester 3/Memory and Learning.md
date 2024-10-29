@@ -21,8 +21,8 @@
 # Reliability
 - [[Reliability of Memories]]
 - [[Memory Biases]]
-- why such an unreliable memory?
-	- imagination is in the same part as memory
+- why such an unreliable [[memory]]?
+	- imagination is in the same part as [[memory]]
 	- mental time travel
 	- allows for imagination
 
