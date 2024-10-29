@@ -1,4 +1,4 @@
-- Public Interest Entities
+- Public Interest Entities (AGs)
 - listed companies
 - definitions vary between countries
 
