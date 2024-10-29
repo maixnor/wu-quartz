@@ -28,9 +28,10 @@
 	- very little, the quantitive information they do disclose is not convincing
 		- lots of "noise" with numbers as they are not put into perspective and the numbers of impact are hidden
 			- e.g. el cacao - how many trees were planted is stated - how much yield they got from it is not
-	- ratio child labor cases to households in own programmes in west africa: 3.97%
+	- ratio child labor cases to households in own programmes in west africa: 3.97% (cocoa report 2023 - page 9 - calculated from table)
 - Climate-related reporting: How does the company disclose its scope 1, scope 2 and scope 3 GHG emissions and related reduction targets? (-> next week’s in-classroom exercise)
 	- no disclosure, just about offsetting scope 3 emissions
-		- scope 3 only mentioned once in beginning
+		- scope 3 only mentioned once in beginning, no numbers
 		- emissions only mentioned with reduction, never with values
+		- only thing mentioned is the power consumption and share of own energy production (page 22)
 
