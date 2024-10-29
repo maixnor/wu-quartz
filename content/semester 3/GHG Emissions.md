@@ -42,5 +42,8 @@
 - they are added up to be just 1 CO2 amount
 	- possible to have 0 actual CO2 emissions but still report high CO2 emissions which are translated methane
 
-## Example Car Fleet
+## Example Scope 1 - Car Fleet
 #todo
+
+## Example Scope 2 - Electricity in USA
+#todo 
