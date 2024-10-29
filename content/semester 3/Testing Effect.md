@@ -9,7 +9,6 @@
 
 - Roediger & Karpicke (2006)
 	- n = 120
-	- #todo slide 40/41
 	- repeated study (4x)
 	- simple recall (3x read, 1x recall)
 	- multiple recall (1x read, 3x recall)
@@ -18,10 +17,11 @@
 		- 50% better than repeated
 		- recalling = long-term memory
 
-- answer first or google first
+- Giebl et al. (2021) - answer first or google first
 	- n = 240
 	- no-pretest group: immediately access to external information
 	- pretest group: access to external information only later
+		- significantly better performance, especially for people with some experience
 	- asking the questions first primes the brain to take in the info
 		- finding the correct questions to ask
-		- 
+		- forces brain to identify the missing information, incorporated easier when supplied

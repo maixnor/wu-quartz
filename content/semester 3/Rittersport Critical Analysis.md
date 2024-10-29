@@ -7,3 +7,36 @@
 - Climate-related reporting: How does the company disclose its scope 1, scope 2 and scope 3 GHG emissions and related reduction targets? (-> next week’s in-classroom exercise)
 
 # Task
+- Analyze the overall structure of the company’s report
+	- lot's of colors, pretty pictures
+	- few KPIs, numbers, hard facts
+- Materiality: How does the company identify and address its material sustainability issues? (-> Exercise 2)
+	- no materaility assesment in report -> not ESRS compliant
+- Strategy and governance: How does the company address its overall business strategy and responsibilities with regard to sustainability?
+	- there seems to be some "sustainability management" (page 17, bottom right)
+		- what this is no clue - department, group of people, group within advisory board, single person?
+		- contact information provided (page 50, bottom left)
+	- otherwise no governance structure, no mention of departments, etc
+- Value chain: How does the company address its value chain?
+	- 100% traceable cocoa - not much about actual sustainability standards
+	- el cacao has 50 tonnes production (as of 2023) in it's lifetime
+		- ~0.1% of annual demand
+	- palm fats - some stats like FONAP or "segregated" level
+		- segregated ... not mixed with non-sustainable oil
+	- milk powder - just "Origin Green Standard", not much more
+	- hazelnuts - no real information, just goal of supplying 20% from own production
+- Metrics: Does the company disclose quantitative information?
+	- very little, the quantitive information they do disclose is not convincing
+		- lots of "noise" with numbers as they are not put into perspective and the numbers of impact are hidden
+			- e.g. el cacao - how many trees were planted is stated - how much yield they got from it is not
+	- ratio child labor cases to households in own programmes in west africa: 3.97% (cocoa report 2023 - page 9 - calculated from table)
+- Climate-related reporting: How does the company disclose its scope 1, scope 2 and scope 3 GHG emissions and related reduction targets? (-> next week’s in-classroom exercise)
+	- no disclosure, just about offsetting scope 3 emissions
+		- scope 3 only mentioned once in beginning, no numbers
+		- emissions only mentioned with reduction, never with values
+		- only thing mentioned is the power consumption and share of own energy production (page 22)
+			- from that one can calculate that "acquesition of renewable energy sources" will in total stay about the same
+				- 2002: 17.15 GWh
+				- vision: 18 GWh
+			- main change is switching from natural gas to "own systems"
+

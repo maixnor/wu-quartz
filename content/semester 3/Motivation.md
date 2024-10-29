@@ -194,8 +194,8 @@ It is crucial to understand how to obtain the benefits without the costs
 	- prosocial bonuses
 
 ### Dark Side of Prosocial Motivation
-- more likely to escalate their commitment -> burnout
-- poor time management -> too much commitment at once -> burnout
+- more likely to escalate their commitment -> [[burnout]]
+- poor time management -> too much commitment at once -> [[burnout]]
 - rationalize otherwise indefensible actions and motivate unethical behavior
 	- e.g. stealing is not ok, unless you do it for charity
 
@@ -204,7 +204,7 @@ It is crucial to understand how to obtain the benefits without the costs
 - passion ... **Leiden**schaft -> being able to suffer for your work
 - focus on what you care about - not what you love
 - people passionate about their work are not good in the long run
-	- struggle taking breaks or days off -> burnout
+	- struggle taking breaks or days off -> [[burnout]]
 	- quitting more frequent, sick leaves are more frequent and for longer
 - stepping away from work sometimes is very important
 	- commit to 5 breaks today, when do you want to take them?
@@ -219,7 +219,7 @@ It is crucial to understand how to obtain the benefits without the costs
 	- role-based passion
 
 ## Passion & Burnout
-- #todo high on hormonial passion ... low burnout risk
+- #todo high on hormonial passion ... low [[burnout]] risk
 - high on 
 
 ## Effort = Meaningful
@@ -256,7 +256,7 @@ It is crucial to understand how to obtain the benefits without the costs
 ## Remote Motivation
 - General effects of remote work:
 	- Positive effects: flexibility, reduction in commuting time, increases in productivity, employee retention, job satisfaction etc. (Martin & MacDonnell, 2012, Tavares, 2017).
-	- Negative effects: reduced job satisfaction and productivity, social isolation, higher stress, presenteeism, communication blocks (Bailey & Kurland, 2002, DiMartino & Wirth, 1990, Kim et al., 2021, Steidelmüller et al., 2020).
+	- Negative effects: reduced job satisfaction and productivity, social isolation, higher [[stress]], presenteeism, communication blocks (Bailey & Kurland, 2002, DiMartino & Wirth, 1990, Kim et al., 2021, Steidelmüller et al., 2020).
 - Remote Work and Motivation
 	- On the one hand: associated with lower levels of motivation, e.g., through professional isolation (Hitka et al., 2021, Imdad & Duffy, 2021, Romeo et al., 2022)
 	- On the other hand: home office as predictor of greater job motivation (Hill et al., 2003)

@@ -1,11 +1,13 @@
-momentary stress boosts immune system
+# General
+## Momentary Stress
+-  boosts immune system
 
-permanent stress leads to
+## Permanent Stress
 - fight/flight response
 	- higher blood pressure
 	- cardiovascular disease
 - high hormone levels
-	- slow recovery from acute stress
+	- slow recovery from acute/momentary stress
 - impaired memory
 - increased risk of depression
 - deteriorated immune response
@@ -13,6 +15,7 @@ permanent stress leads to
 - good vs bad stress
 	- good: just pressure, but no breaking
 	- bad: overwhelming and breaking pressure
+		- -> [[Burnout]]
 # Measures
 - cortisol levels are stored in the hair
 - cortisol levels generally
