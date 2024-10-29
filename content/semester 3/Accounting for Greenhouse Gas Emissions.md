@@ -30,8 +30,16 @@
 	- but the goal is to remove uncertainties and not over/underrepresent emissions
 
 # Accounting Process Steps
+#todo
+- get data
+- decide on boundaries and calculation schemes
+	- also dependent on data available
+- stick to it and report
+
 ## Setting Organizational Boundaries
-- 
+- equity share approach
+- control approach
+	- if there is operational control the emissions of the controlled entity are 100% of the controlling entity
 
 ## Setting Operational Boundaries
 
