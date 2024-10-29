@@ -103,5 +103,25 @@
 
 ## Reporting GHG emissions
 
-# 
+# Climate Transition Plan
+- [[E1]]-1 #todo sr 6 50
+- compatibility with paris agreement
+- decarbonization levers
+- quantification of investments
+- locked-in [[GHG Emissions]]
+	- e.g. a new plant has been built 5 years ago which is running on gas-generators
+		- that plant will not be touched in the next 20 years probably
+- taxonomy regulation
+- business strategy
+
+# SBTi
+- [[SBTi]] #todo sr 7 53-56
+
+# Offsetting
+- [[Carbon Capture]] #todo
+- [[Emission Offsetting]] #todo
+
+# Afforestation
+- [[Afforestation]]
+
 
