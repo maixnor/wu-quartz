@@ -37,5 +37,9 @@
 # But there is more than CO2
 - reporting only done in CO2eq
 - if there are other greenhouse gases (e.g. methane) they are translated into the equivalent CO2 amount
+	- multiply by global warming potential
+		- e.g. currently x27 for methane CH4, x273 for nitrous oxide N2O
 - they are added up to be just 1 CO2 amount
 	- possible to have 0 actual CO2 emissions but still report high CO2 emissions which are translated methane
+
+## Example Car Fleet
