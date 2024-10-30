@@ -3,6 +3,7 @@
 
 ## Solving
 - 5 players becomes very large to write down
+	- almost a [[Prisoners Dilemma]], but with 5 prisoners instead of 2
 - simplification: players 2-5 are expected to have the same strategies, therefore we can focus on only 2 players and their interactions
 
 - [[Nash Equilibrium]]: 30 cents / 30 cents

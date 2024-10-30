@@ -26,17 +26,22 @@
 		- race to the top with k-level ... higher k is better
 	- #todo gt 5 
 
-# Experiment 13
+## Experiment 13
 - finite repeated game
 - solution
 	- [[Backward Induction]]
 	- NE of last round is 0.8/0.8, therefore all the rounds before too
-## Punishing Strategies
+- classic [[Prisoners Dilemma]]
+- why did this work better than [[Experiment 2 and 3 GT1#Setting 2 - simultaneous|Experiment 2]]?
+	- only 2 partners - easier to collude and communicate
+	- 
+### Punishing Strategies
 - "I start higher and undercut when I am being undercut"
 - incentive of last round: undercut
 	- again via [[Backward Induction]]: SPNE is always to undercut
 
-## Tit-for-Tat Strategies
+### Tit-for-Tat Strategies
 - if you undercut me once, I will undercut the next time
 - if you come back up again I will too
 - punish once, then up for cooperation again
+
