@@ -56,7 +56,10 @@
 - G ... n-person static game, complete information
 - e ... payoff vector
 - x ... feasible vector in G
-	
+- if any player wants to deviate from $\forall i | x_{i} > e_{i}$ then the players can just return to the NE by either Tit4Tat or Grim Trigger strategies
+	- threat of going back to NE is always credible
+#todo gt 5 53
+- why "Folk Theorem" - everybody knew about it but nobody published it / wrote it down in notation
 
 ## Experiment 14
 - infinite repeated game
