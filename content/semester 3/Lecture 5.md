@@ -59,3 +59,4 @@
 - "I will start with cooperation, cheat me once and I will cheat you always"
 - with fixed discounting I can calculate the [[Diminishing Marginal Returns]] of every further route
 - #todo gt 5 41
+- threat is credible, the one-shot Nash
