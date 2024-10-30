@@ -44,6 +44,7 @@
 - if you undercut me once, I will undercut the next time
 - if you come back up again I will too
 - punish once, then up for cooperation again
+- outcome: I play the safe option in the first round, then whatever the other player played in the last round
 
 ## Experiment 14
 - infinite repeated game
