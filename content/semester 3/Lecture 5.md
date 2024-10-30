@@ -20,7 +20,10 @@
 	- https://en.wikipedia.org/wiki/Keynesian_beauty_contest
 - issues
 	- all depends on level-0 players choice
+		- random? intuitive choices? 
 	- frequency can be econometrically estimated, but should be constant across games
 	- it's not an equilibrium concept
 		- race to the top with k-level ... higher k is better
-	- 
+	- #todo gt 5 
+
+# Experiment 13

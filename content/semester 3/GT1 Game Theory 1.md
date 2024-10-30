@@ -5,7 +5,7 @@
 	- [[Price Matching Policy]]
 	- [[Strategic Moves]]
 - [[Behavioral Game Theory]]
-- [[Lecture 6]]
+- [[Lecture 5]]
 - [[Bargaining and Cooperation]]
 - [[Reputation]]
 - [[Auctions]]
