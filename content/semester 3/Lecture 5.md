@@ -60,3 +60,8 @@
 - with fixed discounting I can calculate the [[Diminishing Marginal Returns]] of every further route
 - #todo gt 5 41
 - threat is credible, the one-shot Nash
+	- discount rate < 1 ... easy
+	- discount rate = 1 #todo think about that, find out some proof maybe
+		- why not treat it as a one-shot game always?
+	- discount rate > 1 #todo think about that, find some proof maybe
+		- is there any way to rationalize taking the lower price
