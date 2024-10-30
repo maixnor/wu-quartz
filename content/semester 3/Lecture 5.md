@@ -57,7 +57,8 @@
 
 ### Grim Trigger
 - "I will start with cooperation, cheat me once and I will cheat you always"
-- with fixed discounting I can calculate the [[Diminishing Marginal Returns]] of every further route
+- with fixed [[Discounting]] rate I can calculate the [[Diminishing Marginal Returns]] of every further route
+	- also called "under the shadow of the future"
 - #todo gt 5 41
 - threat is credible, the one-shot Nash
 	- discount rate < 1 ... easy
