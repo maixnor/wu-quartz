@@ -17,7 +17,7 @@ But:
 - #todo gt1 5 52
 
 ## Ultimatum vs Dictator
-- dictator game was invented to show how much of the [[ultimatum game]] was due to nice offers and how much due to the offerer being afraid of the offer being refused
+- [[dictator game]] was invented to show how much of the [[ultimatum game]] was due to nice offers and how much due to the offerer being afraid of the offer being refused
 
 # A better Explanation
 ## Utility & Social Preferences
