@@ -27,3 +27,12 @@
 	- #todo gt 5 
 
 # Experiment 13
+- finite repeated game
+- solution
+	- [[Backward Induction]]
+	- NE of last round is 0.8/0.8, therefore all the rounds before too
+## Punishing Strategies
+- "I start higher and undercut when I am being undercut"
+- incentive of last round: undercut
+	- again via [[Backward Induction]]: SPNE is always to undercut
+- 
