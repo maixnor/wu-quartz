@@ -46,6 +46,11 @@
 - punish once, then up for cooperation again
 - outcome: I play the safe option in the first round, then whatever the other player played in the last round
 
+#### One-Time Defection
+#todo gt 5 50
+
+#### All-Time Defection
+
 ## Experiment 14
 - infinite repeated game
 - no [[Backward Induction]] possible - there is no last round to roll back from
