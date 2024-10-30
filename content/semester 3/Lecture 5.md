@@ -45,3 +45,6 @@
 - if you come back up again I will too
 - punish once, then up for cooperation again
 
+# Experiment 14
+- infinite repeated game
+- 
