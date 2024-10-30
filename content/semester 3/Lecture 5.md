@@ -50,6 +50,13 @@
 #todo gt 5 50
 
 #### All-Time Defection
+#todo gt 5 51
+
+#### Folk Theorem
+- G ... n-person static game, complete information
+- e ... payoff vector
+- x ... feasible vector in G
+	
 
 ## Experiment 14
 - infinite repeated game
