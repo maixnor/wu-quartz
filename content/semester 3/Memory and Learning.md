@@ -1,6 +1,7 @@
 # Definitions
 - [[Memory]]
 - [[Knowledge]]
+- [[Memory Consolidation]]
 
 # Improve Memory Performance
 - increase [[Level of Processing|depth of processing]]
@@ -9,7 +10,6 @@
 - reduce cognitive load ([[stress]]/physical condition/hunger/fatigue)
 	- [[Meditation]]
 	- [[Sleep]]
-- [[Memory Consolidation]]
 
 # Forgetting
 - [[Memory Decay over Time]]

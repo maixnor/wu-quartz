@@ -1,6 +1,6 @@
 - Dumay (2016)
 	- n = 72
-	- #todo slides 46
-
-- after 12h sleep the recollection was better
-- sleep promotes [[memory]]-forming
+	- after 12h sleep the recollection was better than after 12h wakefullness
+	- sleep promotes memory-forming -> [[Memory Consolidation]]
+		- better access to declarative memory
+		- memories "sharpened" over night
