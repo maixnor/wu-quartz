@@ -35,4 +35,8 @@
 - "I start higher and undercut when I am being undercut"
 - incentive of last round: undercut
 	- again via [[Backward Induction]]: SPNE is always to undercut
-- 
+
+## Tit-for-Tat Strategies
+- if you undercut me once, I will undercut the next time
+- if you come back up again I will too
+- punish once, then up for cooperation again
