@@ -45,6 +45,17 @@
 - if you come back up again I will too
 - punish once, then up for cooperation again
 
-# Experiment 14
+## Experiment 14
 - infinite repeated game
-- 
+- no [[Backward Induction]] possible - there is no last round to roll back from
+- any round is equal, probability of each run being the last round is the same
+- NE of 0.08/0.08 still valid
+	- subgames look line the actual game, i.e. no real subgames
+- important factors:
+	- fixed [[Discounting]] factor $\delta$ .... $\sum\limits^{\infty}_{t=1} \delta^{t} = \frac{\delta}{1-\delta}$
+	- continuation probability
+
+### Grim Trigger
+- "I will start with cooperation, cheat me once and I will cheat you always"
+- with fixed discounting I can calculate the [[Diminishing Marginal Returns]] of every further route
+- #todo gt 5 41
