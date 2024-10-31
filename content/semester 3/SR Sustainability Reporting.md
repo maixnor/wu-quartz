@@ -6,6 +6,7 @@
 - 30% class exercises
 - 20% quiz
 - 40% final exam
+	- #cursor
 
 # Content
 - [[Intro into Sustainability Reporting]]
@@ -21,6 +22,7 @@
 
 - [[Company Tasks]]
 - [[Sustainability Reporting Standards]]
+	- [[ESG]]
 - [[Current EU Sustainability Projects]]
 
 # Exam
