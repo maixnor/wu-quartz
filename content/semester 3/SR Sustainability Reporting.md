@@ -1,6 +1,5 @@
 # General
 - last lecture: Wiener Stadtwerke
-	- you started in 2004 and have some experience already - how would the current methodologies be different if you started later?
 # Grading
 ## Introduction
 - 10% class participation
