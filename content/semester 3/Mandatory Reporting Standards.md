@@ -19,7 +19,7 @@
 - digital tagging with [[ESEF]]
 	- digital reporting standard
 	- comparing 50 companies means importing 50 digital reports
-	- then a simple comparison
+	- then a simple comparison with alike-tagged data
 
 # Levels of Regulation
 - supranational
