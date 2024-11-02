@@ -25,5 +25,12 @@
 	- crash ratio in experiment: 21.5% -> indicates more risk averse than if picked randomly
 - profit ratio:
 	- profit ratio in random distribution: 50% (1/4 + 1/4)
-	- profit ratio in experiment: 52% -> indicates players which took advantage of risk aversion of other players
-- 
+	- profit ratio in experiment: 52.7% -> indicates players which took advantage of risk aversion of other players
+- overall stay decisions per round (out of 62)
+	- 1: 30, 2: 31, 3: 28 (symmetric each round)
+	- about half of individual decisions was to stay
+- profit per round
+	- 1: -800, 2: -1800, 3: -1400 (must by symmetric too)
+	- hypothesis
+		- by pure chance in round 2 the non-steering players were matched
+		- stay/steer decisions mostly unchanged through all rounds
