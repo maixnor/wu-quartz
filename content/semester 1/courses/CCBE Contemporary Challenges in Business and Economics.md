@@ -32,7 +32,6 @@
 - [[Bits and Bobs CCBE]]
 - [[A Tiny Introduction to Economics]]
 - [[Globalization - An Introduction]]
-- [[Contemporary Problems of Economics]]
 - [[Globalization]]
 - [[Economic Approaches and Socio-Economics]]
 - [[Climate Change, Justice and Policy]]
@@ -55,7 +54,7 @@
 # Homeworks
 ## First Homework
 There will be a quiz on all 6 resources
-write a bit (200 words) about: 
+write 200 words about: 
 - [[Making sense of Globalization in the 21st Century]]
 - [[The future of developing countries and globalization after the pandemic]]
 - [[Orientation, Exploring Economics]]

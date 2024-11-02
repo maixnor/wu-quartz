@@ -1,0 +1,27 @@
+- The Great Accelerations
+	- everything is growing exponentially
+	- good as bad equally
+- great achievements in global quality of life
+- significant accelerators
+	- [[industrial revolution]] -> fossil-based fuels
+	- welfare capitalism -> mass production for mass consumption
+	- China and India rising
+- consequences
+	- rising mean temperature
+		- 2023: highest ocean temperature record (bad)
+		- 2023: hottest day record
+		- 2023: antarctic sea-ice extent lower than usual
+	- point-of-no-return might be closer than thought
+	- more droughts, more heat
+		- positive feedback loops
+	- mass-migration because of
+		- degration of water
+		- degration of food
+	- disasters happen more frequency
+		- natural and man-made (e.g. wars)
+		- total 28.3 million people
+- [[Great Decoupling]] vs [[Great Collapse]]
+	- signes for both, cannot differentiate
+	- by 2050 things will be clear
+	- cannot predict the future yet, can just talk about probabilities
+- there is still hope, it is still a challenge, not a problem

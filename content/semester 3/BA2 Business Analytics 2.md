@@ -10,7 +10,7 @@
 - 20% in-class participation
 	- single choice test after lecture part
 - 40% homework
-	- groups 4-6 #todo find group and email to professor
+	- groups 4-6 
 	- indicate which exercise you solved
 	- present solutions next class (random selection)
 		- presentation with PDF, not with own device
