@@ -9,13 +9,13 @@
 - [[Globalization#History]]
 	- fast growth between 1840 and 1900 - idea of progress
 	- 1918 - 1950 doubt about progress idea
-- globalization = market integration
-	- [[Market Integration]]
+- globalization
+	- globalization measured in [[Market Integration]]
 	- [[Movement of X]] goods, labor, capital, land more/easier
 		- movement of land ... conquest of settlement, [[Colonialization]], migration
 	- political, social, cultural, regulatory, etc implications
-- 
 ## Specialization - What?
+- [[Great Specialzation]]
 
 ## Glob and Spec - Why?
 
