@@ -15,7 +15,7 @@
 		- movement of land ... conquest of settlement, [[Colonialization]], migration
 	- political, social, cultural, regulatory, etc implications
 ## Specialization - What?
-- [[Great Specialzation]]
+- [[Great Specialization]]
 
 ## Glob and Spec - Why?
 
