@@ -13,14 +13,14 @@ Relevant Cases to know are the ones with their own links or which are mentioned 
 	- [[Dassonville Case]]
 	- [[Cassis Case]]
 	- [[Keck Case]]
-	- [[Free Movement of Goods]]
+	- [[Movement of X]]
 ## Forms of Economic Integration
 >an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured in accordance with the provisions of the Treaties.
 - [[Free Trade Area]] - FTA
 - [[Customs Union]]
 - [[Internal Market]] or "common market" or "single market"
 - part of [[TFEU]]
-- [[Free Movement of Goods]]
+- [[Movement of X]]
 - should **stabilize Europe**
 	- military conflict close to impossible
 ## The Creation of the Internal Market: Positive and Negative Integration 

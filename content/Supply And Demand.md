@@ -42,7 +42,7 @@
 ### Market Mechanism
 - there is only too little supply or too little demand
 - ![[FM_market_mechanism.png]]
-### Movement of Equilibrium
+### Shift Equilibrium
 - change of supply inversely affects price
 - change of demand directly affects price
 ## Price Elasticity
