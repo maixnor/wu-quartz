@@ -72,12 +72,23 @@
 	- North America, Europe, Latin America (Argentina Brazil), Ozeania
 - 43% from Britain, 20% Franc, 13% Germany
 - invenstments went where the migration went
-	- mostly Europe, US, Latin America
-	- a bit of Asia too
+	- mostly Europe, US, Latin America; a bit of Asia too
+	- institutions similar to investment source
 - Why invest abroad?
 	- higher returns on capital for increased uncertainty/risk
-- 
+- migrating population younger than average, no/little savings
+	- if savings, spent on travel and setup
+- high fertility rate, low savings in migrated locations -> [[Script 2 Summary]]
+- high need for infrastructure -> high interest rates
+	- abundant land, secure institutions and good productivity -> benefits of investments high too
 
 ## Glob and Spec - Consequences
 ### Prices converging
 ![[prices_converging.png]]
+
+### Consequences
+- spread of industrialization
+	- source of growth
+- core countries had 80% of the market
+- core countries determined development of the rest of the world
+- periphery countries were dependent on core countries and their relation to them
