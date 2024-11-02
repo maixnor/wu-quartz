@@ -12,7 +12,7 @@
 - globalization
 	- globalization measured in [[Market Integration]]
 	- [[Movement of X]] goods, labor, capital, land more/easier
-		- movement of land ... conquest of settlement, [[Colonialization]], migration
+		- movement of land ... conquest of settlement, [[Imperialism]], migration
 	- political, social, cultural, regulatory, etc implications
 	
 ## Specialization - What?
@@ -50,6 +50,15 @@
 ### Gold Standard
 - [[Gold Standard]]
 
+### Peace in Europe
+- before 1815 europe in war all the time
+	- embargoes -> cant trade with enemy
+	- privateering -> private pirates instead of actual navies
+	- wartime -> merchant ships converted into warships
+	- uncertainty
+
+### Imperialism
+- [[Imperialism]]
 ## Glob and Spec - Consequences
 ### Prices converging
 ![[prices_converging.png]]
