@@ -1,3 +1,12 @@
+# Experiment 17
+## Nash Equilibria Normal Form
+
+
+## Comparison with previous 2
+
+
+## Analysis Problems and Long-Term Thinking
+
 
 # Experiment 18
 ## Nash Equilibria Normal Form
