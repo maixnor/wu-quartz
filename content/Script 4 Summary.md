@@ -59,6 +59,9 @@
 
 ### Imperialism
 - [[Imperialism]]
+
+### International Migration
+- suitable cultivation areas used productively
 ## Glob and Spec - Consequences
 ### Prices converging
 ![[prices_converging.png]]
