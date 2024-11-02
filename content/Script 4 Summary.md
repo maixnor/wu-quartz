@@ -62,6 +62,22 @@
 
 ### International Migration
 - suitable cultivation areas used productively
+- larger share of transnational vs national migration and greater total migration
+- mostly from Britain (40%) to US (60%)
+
+### International Investment
+![[international_investment.png]]
+- >90% of those investments from industrializing European areas which need raw materials
+	- exporting population for imports of raw materials
+	- North America, Europe, Latin America (Argentina Brazil), Ozeania
+- 43% from Britain, 20% Franc, 13% Germany
+- invenstments went where the migration went
+	- mostly Europe, US, Latin America
+	- a bit of Asia too
+- Why invest abroad?
+	- higher returns on capital for increased uncertainty/risk
+- 
+
 ## Glob and Spec - Consequences
 ### Prices converging
 ![[prices_converging.png]]
