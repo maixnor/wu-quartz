@@ -1,10 +1,10 @@
 - [[Adam Smith]] has first written about division of labor
 - Breaking a complex task (e.g. building a car) into smaller steps
 	- Specialization
-- greatly helps with [[Economcy of Scale]]
+- greatly helps with [[Economy of Scale]]
 - Allows for great optimizations of each small step
 	- reduction in production costs
-	- called [[Taylorism]] by Frederick Taylor
+	- called [[Taylorism]] by [[Frederick Taylor]]
 - [[Fordism]] ... [[Taylorism]] for car production
 	- one type of car -> simpler process
 - McDonalds ... [[Taylorism]] for food production

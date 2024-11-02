@@ -3,7 +3,7 @@
 	- greater world trade, broader range of goods
 - [[Division of Labor]]
 - industrial vs peripheral economies
-	- "Great Specializtion"
+	- "[[Great Specialization]]"
 
 ## Globalization - What?
 - [[Globalization#History]]
