@@ -21,5 +21,9 @@
 
 ## Analyze data
 - crash ratio:
-	- ratio of crashes in random distribution: 25% (1/4)
-	- ratio in experiment: 
+	- crash ratio of crashes in random distribution: 25% (1/4)
+	- crash ratio in experiment: 21.5% -> indicates more risk averse than if picked randomly
+- profit ratio:
+	- profit ratio in random distribution: 50% (1/4 + 1/4)
+	- profit ratio in experiment: 52% -> indicates players which took advantage of risk aversion of other players
+- 
