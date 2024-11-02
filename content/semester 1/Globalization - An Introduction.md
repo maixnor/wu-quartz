@@ -9,12 +9,7 @@
 ### What is?
 #wontfix get quotes from slides
 ### The cost of overcoming distance
-- With increased technology the "size" of the world decreases
-	- e.g. I can reach a server in China in 150ms
-	- e.g. I can travel to Australia in 24h, on foot I can travel max 100km in 24h
-- time-space compression
-- faster turnover time
-- capitalism causes the geographical expansion
+- [[Distance Cost]]
 ### Enablers of Globalization
 After [[Baldwin]]:
 

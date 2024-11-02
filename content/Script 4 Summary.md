@@ -23,6 +23,33 @@
 - industrialization slow in the rest of the world
 	- value of 16 ... industrialization level of UK in 1800
 ![[industrialization_outside_uk.png]]
-- 
-## Glob and Spec - Consequences
+### Role of Trade
+- raw materials and food for core countries
+	- e.g. raw cotton to UK
+- consume produced products
+	- e.g. cotton cloth from UK
+- -> [[Market Integration]]
+- can overproduce locally and sell to other countries
+	- actively search for new markets
+- slightly higher export prices over time
 
+### Trade and Transaction Costs
+- [[Distance Cost]]
+
+### Trade Policy Liberalization
+- lowered import/export tariffs (first in UK, then the rest)
+- AVE ... tariffs
+![[tariffs_vs_import.png]]
+#### example: japan opening after 1853
+- Harris treaty of 1858
+- [[Comparative Advantage]] emerged naturally
+	- Silk, silkworm eggs, tea exported
+	- cotton yarn, sugar, rice imported
+- industrialization happening after opening
+
+### Gold Standard
+- [[Gold Standard]]
+
+## Glob and Spec - Consequences
+### Prices converging
+![[prices_converging.png]]
