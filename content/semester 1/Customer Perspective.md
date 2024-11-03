@@ -4,7 +4,7 @@
 	- later increasing complexity
 	- anything goes as long as the USP (cheap car) is held
 - [[Maslov Hierachy]] obeyed
-- [[Marketing Mix]], but Speckbacher
+- [[Marketing Mix or 4Ps]], but Speckbacher
 - Customer Journey
 	- Awareness
 		- how the customer first gets into contact with product
