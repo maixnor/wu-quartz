@@ -14,6 +14,7 @@
 		- local test: check with single/some IVs but not all of them
 			- can help isolate correlated IVs
 - $p$-Value < $\alpha$ ... $\alpha$ is normally 0.05 ... 5%
+- simple regression (only 1 IV) vs multiple regression (multiple IVs)
 
 ## Assumption
 - linear relationship between DVs and IVs
