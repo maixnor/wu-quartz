@@ -140,4 +140,41 @@
 ### Idea Production
 - Diehl and Stroebe (1987)
 - #todo 
-- 
+- individual brainstorming and disregard are best
+
+- production blocking
+	- 
+- if I have to wait I have time to forget and to overthink and therefore not share my ideas
+	- they might not be the best, but quantity finds by chance a good idea
+
+#### Avoid
+- nominal group technique
+	-  leader introduces the problem, group members silently write down ideas concerning the issue, approx 10 to 15 minuts
+	- sharing ideas
+	- discussion of each idea
+	- each member ranks the five most preferred solutions, writes the ranking down on a card, laeder collects cards, averages the rankings and informs
+- electronic brainstorming
+	- write down ideas at the same time
+		- just typing and reading, no talking
+		- gathering huge amounts of ideas and thoughts
+	- advantages:
+		- no production blocking
+		- online exposure to other's ideas can stimulate production of additional ideas
+		- equal to nominal groups under 8 people
+	- GPT: can also brainstorm with a LLM
+
+### Information Sharing
+- stasser & thus
+- #todo p1 6 38,39
+- some got all of the positive information, some only a few positive facts
+- talking about things "they all know" - the negative
+	- we are never figuring out about all the good stuff, because only the bad is shared
+- shared information bias #todo 
+
+#### Avoid
+- length of group discussions long enough
+- members should not share their initial preferences
+- transactive memory: specific areas of expertise to every member - everybody knows who has access to which information
+
+### Conformity or Groupthink
+
