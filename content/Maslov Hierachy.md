@@ -34,3 +34,5 @@
 # Criticism
 - subjective
 - cannot explain all phenomena in psychology
+- we know he was wrong nowadays, or at least very incomplete
+	- babies die if you just feed them and give them no social interaction
