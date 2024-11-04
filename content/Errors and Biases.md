@@ -21,3 +21,5 @@
 - statements and proposals are rejected because from an antagonist
 - even when logically and factually sound argumentation
 - "a nazi said it, so it must be wrong"
+# In-Group Bias
+- favoring characteristics of own group over other groups
