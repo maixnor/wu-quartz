@@ -46,4 +46,10 @@
 - some correlations will change
 - some correlations might flip signs
 
-### 
+### Model Assumptions
+- #todo 4 plots of `plot(mreg2)`
+- [[Cook's Distance]]
+
+## Predict using Regression Analysis
+- `preduct(mreg4, newdata=new)`
+- 
