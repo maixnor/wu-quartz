@@ -32,5 +32,11 @@
 - no multi-column linearity
 	- IVs are independent of one another
 
-## Interpret a Simple Regression Analysis
+## Interpret Simple Regression Analysis
 #todo get a sample regression summary
+
+## Interpret Multiple Regression Analysis
+
+### Z-Transformation
+- doing a z-transformation scales all values along the same mean with a standard deviation of 1
+- allows us to also use the coefficient of the regression analysis to base our assumption of the data instead of just the p-value
