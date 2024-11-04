@@ -135,7 +135,7 @@
 	- shared information bias
 	- production blocking
 	- groupthink
-	- #todo last one
+	- ingroup favoritism
 
 ### Idea Production
 - Diehl and Stroebe (1987)
@@ -177,4 +177,7 @@
 - transactive memory: specific areas of expertise to every member - everybody knows who has access to which information
 
 ### Conformity or Groupthink
+#todo 
 
+### Ingroup Favoritism
+#todo
