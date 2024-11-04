@@ -1,7 +1,9 @@
 # Experiment 17
 ## Nash Equilibria Normal Form
-
-
+![[ne_experiment_17.png]]
+- 2 opposite NE
+	- both opera or both football
+- best as long as both choose the same, no incentive to deviate
 ## Comparison with previous 2
 
 
@@ -11,7 +13,7 @@
 # Experiment 18
 ## Nash Equilibria Normal Form
 ![[exp_18_normal_form.png]]
-- 2 opposite NE 
+- 2 opposite NE with incentive to deviate
 	- 1 stay, 2 steer
 	- 1 steer, 2 stay
 - I can only gain what you loose (opportunity cost)
