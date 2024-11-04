@@ -36,6 +36,7 @@
 #todo get a sample regression summary
 
 ## Interpret Multiple Regression Analysis
+#todo get a multiple regression summary
 
 ### Z-Transformation
 - doing a z-transformation scales all values along the same mean with a standard deviation of 1
@@ -44,3 +45,5 @@
 ### Adding another IV / Predictor
 - some correlations will change
 - some correlations might flip signs
+
+### 
