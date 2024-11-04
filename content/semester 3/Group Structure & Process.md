@@ -115,4 +115,29 @@
 	- better performance for complex task when "payed" together
 		- not for simple tasks
 
-## 
+## Distribute Tasks and Organize Teams
+- hard tasks to groups -> ability to relax, lay back and try out
+- simple tasks to individuals -> more attribution, higher performance
+	- boring tasks to people with cheerleaders, maybe even open room offices
+- open room offices are bad for more complex tasks, they require peace, privacy and time
+	- even amazon warehouses installed privacy screens to improve working conditions
+
+# Performance
+- general assumptions: groups are better at decision making
+	- legal decision, steering groups, consultants
+	- more brains make better decision
+- groups are better if ...
+	- individuals can contribute their opinion
+	- #todo p1 6 30
+
+## Process Loss
+- any aspect of group interaction that inhibits good problem solving
+	- shared information bias
+	- production blocking
+	- groupthink
+	- #todo last one
+
+### Idea Production
+- Diehl and Stroebe (1987)
+- #todo 
+- 
