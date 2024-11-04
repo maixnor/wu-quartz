@@ -83,3 +83,36 @@
 	- biases already formed
 	- stereotypes were assigned to whole groups, even to individuals which are in the group but do not share the same characteristics
 
+
+# Social Facilitation
+## Cockroaches
+- Zajonc 1969
+- n = 72
+	- solving a simple and complex maze either with or without an audience
+	- other cockroaches placed in glass containers around the maze
+	- in a simple maze the audience improves the performance, in the complex maze not
+
+## Social Facilitation & Social Loafing
+- presence of others
+	- individual efforts can be evaluated (Facilitation)
+	- alertness, evaluation apprehension
+	- arousal
+		- enhanced performance on simple task
+		- impaired performance on complex task
+- presence of others
+	- individual efforts **cannot** be evaluated (Loafing)
+	- no evaluation apprehension
+		- I am not in the focus, but the group
+	- relaxation
+		- impaired performance on simple task
+		- enhanced performance on complex task
+
+### Empirical Study 
+- Jackson & Williams 1985
+- n = 48
+	- #todo p1 6 27
+	- similar to cockroaches, simple and complex maze
+	- better performance for complex task when "payed" together
+		- not for simple tasks
+
+## 
