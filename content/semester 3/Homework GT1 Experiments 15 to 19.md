@@ -13,8 +13,8 @@
 - analysis
 	- #todo 
 - long-term marriage
-	- one can think of colluding to always go to either venue together (both opera or both football)
-	- in reality there will be some arrangement of alternating the venue either each time or occasionally to take  
+	- one can think of colluding to always go to either venue together (both opera or both football) which will leave one of the players with a higher payoff
+	- in reality there will be some arrangement of alternating the venue either each time or occasionally to create equal payoffs for both partners  
 
 # Experiment 18
 ## Nash Equilibria Normal Form
