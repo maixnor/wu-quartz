@@ -220,6 +220,48 @@
 ## Groupthink
 - the group and it's consensus is the most important body
 	- not the decisions it is taking or the facts it's members are viewing
+- #todo just everything here is flawed
 
-### Management
-- 
+### Dangerous for Management
+- innovation is hard with groups set in their way
+- common hatred can keep unsustainable groups together
+
+
+### Ways to Avoid Groupthink
+- #todo 
+- critical evaluator
+	- check in regularly - who is the devils advocate? do we need outside counselling?
+- leaders impartial
+- parallel groups
+	- same policy questions, but different leaders
+- privately discuss
+- outside experts
+	- challenge core ideas
+- devils advocate
+	- one person asks "What if?"
+		- nobody wants to be the devils advocate -> randomize
+- second chance meetings
+	- are we still okay with this?
+
+### Group Polarization
+- #todo 
+- extremify own preferences to fit into the group
+	- much more moderate when asked in isolation than within a group
+- #todo p1 6 64
+- positive but also negative decisions
+- skew of group consensus
+
+#### Empirical edvidence
+- #todo
+- groups have less risk aversion
+- #todo 
+
+#### Avoid Group Polarization
+- #todo
+- rely more on data - increase education
+### I am Done, my brain is fried
+- #todo p1 6 60 onwards
+
+
+# Deindividualization
+- not exam relevant
