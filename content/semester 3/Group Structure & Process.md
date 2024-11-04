@@ -210,3 +210,16 @@
 	- get in way of optimal performance
 		- if group itself is the goal of the group occasional conflict is necessary but often avoided
 	- systematic biases
+
+### Diversity
+- [[Diversity]]
+- homogeneous group - nicer group dynamics
+- heterogeneous group - better decisions - more feasible, sustainable
+- #todo
+
+## Groupthink
+- the group and it's consensus is the most important body
+	- not the decisions it is taking or the facts it's members are viewing
+
+### Management
+- 
