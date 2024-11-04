@@ -3,8 +3,8 @@
 - [[Attitude Development and Perception]]
 - [[Memory and Learning]] #todo
 - [[Emotions]] #todo
-- [[Motivation & Incentives]]
-- [[Group Structure & Process]]
+- [[Motivation & Incentives]] #todo
+- [[Group Structure & Process]] #todo
 
 ## Grading
 - 25% individual effort (canvas)

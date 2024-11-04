@@ -181,3 +181,32 @@
 
 ### Ingroup Favoritism
 #todo
+
+### Social Identity Theory
+#todo 
+
+#### Stereotype Threat
+- fear of confirming others negative stereotipe of your own group
+	- salience of social identity
+	- #todo 
+
+##### Empirical Evidence
+- Steele & Aronson (1995)
+	- #todo 
+	- there are stereotypes which label good/bad on people
+		- especially with negative stereotypes
+- Shih, Pttinsky & Ambady (1999)
+	- #todo 
+	- positive stereotypes can also increase performance
+
+## Group Cohesiveness
+- unity of a group
+- benefits #todo
+	- less conflicts
+	- encourages cooperation
+	- following norms
+	- attract and keep valued members
+- negatives
+	- get in way of optimal performance
+		- if group itself is the goal of the group occasional conflict is necessary but often avoided
+	- systematic biases
