@@ -12,4 +12,11 @@
 
 ![[multiplactory factor visual.png]]
 
-# 
+# 6
+## a) nominal vs real
+- nominal interest rate is always measured in current units of currency
+- downside: inflation is not taken into account with nominal interest rate
+- real interest rate always references a fixed price level in the past such that interest rates can be compared without inflation. This is done by discounting for the inflation of the past
+
+## b) investment and consumption decisions
+- only the real interest rate is of interest
