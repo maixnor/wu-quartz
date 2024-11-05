@@ -17,7 +17,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 ### Semester 3
 - [[BA1 Business Analytics 1]]
 - [[BA2 Business Analytics 2]]
-- [[Decision Making and Behaviour in Business]]
+- [[DMBB Decision Making and Behaviour in Business]]
 - [[FMa Foundations in Macroeconomics]]
 - [[HE History of Economics and the Economy]]
 - [[Specializations]] - onwards
