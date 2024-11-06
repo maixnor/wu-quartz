@@ -61,4 +61,19 @@
 
 ## Value at Risk
 - "what is the worst that could happen?"
-- 
+- $\alpha$ ... chance of the worst case happening
+- #todo 
+
+### Expected Shortall
+- "when the worst is happening, how bad is it?"
+- if the value falls below x% then the average return will be y%
+
+## Skewness
+- are there more extreme values at the left or the right
+	- positive ... right tail
+	- negative ... left tail
+
+## Sharpe-Ratio
+- combine Risk and Return
+- $r_f$ ... risk free rate
+- result: amount of excess return per unit of risk
