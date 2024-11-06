@@ -24,11 +24,41 @@
 ### Aggregate Returns
 - simple returns: [[compounding]]
 - log returns can be simply added up
-#### Example
-
+- per annuum (p.a.)
+	- "stock return in May was 12.68% p.a."
+	- extrapolate the e.g. monthly return for a whole year
+	- $r_{May} = 1.1268^{\frac{1}{12}} = 0.01 = 1\%$
 
 ### Cross-Section Portfolio
 - simple returns: weighted sum
 - log returns: impossible
 	- convert to simple returns for weights, log the weights, then multiply everything #todo check that
 
+### Excess Returns
+- investment increases in value additional to the cash flow it provides
+- extra "benefit" of taking on risk
+- expressed relative to [[EURIBOR]] or [[FED]] fund rate
+	- almost 0-risk, the risk of the USA defaulting is very low
+	- portfolio manager are payed relative to an index
+		- e.g. S&P 500
+
+## Measure Risk
+- volatility/variance
+	- [[Describing Qualitative and Quantitative Data#Variability|QM2 math]]
+	- sample estimate of volatility
+		- #todo ba2 2 48
+	- measures dispersion in returns
+- covariance
+- correlation
+	- if correlation or covariance is positive, then 2 stocks tend to improve together
+- $\mathbb{V}$ is not a linear #todo ba2 2 50 
+### Examples
+- #todo type some math
+- no correlation
+	- is just weighted sum
+- negative correlation
+	- increases risk of portfolio
+
+## Value at Risk
+- "what is the worst that could happen?"
+- 
