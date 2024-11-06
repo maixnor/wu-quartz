@@ -22,15 +22,16 @@ Since the $Y \equiv Z$ function is sloped less than the reference line $y=x$ eve
 $$
 \begin{align}
 Y &= C + I + G \\
-\text{with:} \quad C \equiv a + mpc * (Y-T) \\
-Y &= a + mpc * (Y-T) + I + G \\
-Y &= a + mpc*Y - mpc*T + I + G \\
-Y - mpc*Y &= a - mpc*T + I + G \\
-Y(1-mpc) &= a - mpc*T + I + G \\
-Y &= \frac{a - mpc*T + I + G}{1-mpc} \\
-\text{derive Y with respect for T:} \\
-\partial Y &= \frac{-mpc*\partial T}{1-mpc} \\
-\frac{\partial Y}{\partial T} &= - \frac{mpc}{1-mpc}
+& \text{with:} \quad C \equiv c_{0} + c_1 * (Y-T) \\
+Y &= c_{0} + c_1 * (Y-T) + I + G \\
+Y &= c_{0} + c_1*Y - c_1*T + I + G \\
+Y - c_1*Y &= c_{0} - c_1*T + I + G \\
+Y(1-c_1) &= c_{0} - c_1*T + I + G \\
+Y &= \frac{c_{0} - c_1*T + I + G}{1-c_1} \\
+& \text{derive Y with respect for T:} \\
+\partial Y &= \frac{-c_1*\partial T}{1-c_1} \\
+\frac{\partial Y}{\partial T} &= - \frac{c_1}{1-c_{1}} \\
+c_{1} &... \text{marginal propensity to consume}
 \end{align}
 $$
 
