@@ -19,6 +19,21 @@ Since the $Y \equiv Z$ function is sloped less than the reference line $y=x$ eve
 
 [[multiplactory factor visual.png]]
 
+$$
+\begin{align}
+Y &= C + I + G \\
+\text{with:} \quad C \equiv a + mpc * (Y-T) \\
+Y &= a + mpc * (Y-T) + I + G \\
+Y &= a + mpc*Y - mpc*T + I + G \\
+Y - mpc*Y &= a - mpc*T + I + G \\
+Y(1-mpc) &= a - mpc*T + I + G \\
+Y &= \frac{a - mpc*T + I + G}{1-mpc} \\
+\text{derive Y with respect for T:} \\
+\partial Y &= \frac{-mpc*\partial T}{1-mpc} \\
+\frac{\partial Y}{\partial T} &= - \frac{mpc}{1-mpc}
+\end{align}
+$$
+
 # 6 Nominal and Real Interest
 ## a) nominal vs real
 Nominal interest rate is measured in absolute units of currency, which has a downside: inflation is not taken into account. Real interest rate always references a fixed price level in the past such that interest rates can be compared without inflation. This is done by discounting for the inflation of the past. We will explore this more in 6c.
