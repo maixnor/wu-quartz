@@ -43,9 +43,13 @@ E-->G(Other assets, eg bonds)
 - increase money supply: expansionary open market operation
 	- lower [[Interest Rate]]
 	- buying of own bonds -> [[Share Buyback]], reducing available bonds
-- decrease money supply: contractionary open market operation
+	- $\uparrow T$ and/or $\downarrow G$ -> $\downarrow Z$ -> $\downarrow Y$ -> $\downarrow C,I$ -> loop
+		- government budget credit -> lower [[GDP]]
+- decrease money supply: consolidation/contractionary open market operation
 	- higher [[Interest Rate]]
 	- selling of own bonds -> issuing additional bonds
+	- $\uparrow G$ and/or $\downarrow T$ -> $\uparrow Z$ -> $\uparrow Y$ -> $\uparrow C,I$ -> loop
+		- government budget debt -> higher [[GDP]]
 - no "setting" of [[interest rate]]
 	- just selling/buying enough bonds to adjust interest rate accordingly
 - interest rate increases when income $Y$ increases
