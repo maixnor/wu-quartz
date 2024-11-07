@@ -23,15 +23,17 @@ $$
 \begin{align}
 Y &= C + I + G \\
 & \text{with:} \quad C \equiv c_{0} + c_1 * (Y-T) \\
-Y &= c_{0} + c_1 * (Y-T) + I + G \\
-Y &= c_{0} + c_1*Y - c_1*T + I + G \\
-Y - c_1*Y &= c_{0} - c_1*T + I + G \\
-Y(1-c_1) &= c_{0} - c_1*T + I + G \\
-Y &= \frac{c_{0} - c_1*T + I + G}{1-c_1} \\
-& \text{derive Y with respect for T:} \\
-\partial Y &= \frac{-c_1*\partial T}{1-c_1} \\
-\frac{\partial Y}{\partial T} &= - \frac{c_1}{1-c_{1}} \\
-c_{1} &... \text{marginal propensity to consume}
+& \text{with:} \quad I \equiv d_{0} + d_{1}Y - d_{2}r \\
+Y &= c_{0} + c_1  (Y-T) + d_{0} + d_{1}Y - d_{2}r + G \\
+Y &= c_{0} + c_1Y - c_{1}T + d_{0} + d_{1}Y - d_{2}r + G \\
+Y - c_{1}Y - d_{1}Y &= c_{0} - c_{1}T + d_{0} + d_{2}r + G \\
+Y(1-c_{1}-d_{1}) &= c_{0} - c_{1}T + d_{0} + d_{2}r + G \\
+Y &= \frac{c_{0} - c_{1}T + d_{0} + d_{2}r + G}{1-c_1-d_1} \\
+& \text{derive Y with respect to T:} \\
+\partial Y &= \frac{-c_1*\partial T}{1-c_1-d_1} \\
+\frac{\partial Y}{\partial T} &= - \frac{c_1}{1-c_{1}-d_1} \\
+c_{1} &... \text{marginal propensity to consume} \\
+d_{1} &... \text{marginal propensity to invest} \\
 \end{align}
 $$
 
