@@ -1,6 +1,7 @@
 # Macroeconomics
 - [[Macroeconomics]]
 - [[IS-LM Model]]
+- [[Investment Trap]]
 # GDP
 - [[GDP]] and [[GDP per Capita]]
 
