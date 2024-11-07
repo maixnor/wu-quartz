@@ -55,6 +55,26 @@ E-->G(Other assets, eg bonds)
 - interest rate increases when income $Y$ increases
 - interest rate decrease when money supply $M^{s}$ increases
 
+# Fischer Equation
+$$r = i - \pi^e$$
+$r$ ... real interest rate
+$i$ ... nominal interest rate
+$\pi^e$ ... expected inflation
+
+## Negative Real Interest
+- $i$ can never be less than 0 -> lower bound
+- $r$ can only ever be negative (deflation) when $i < \pi^e$
+
+## Financial Crisis
+- risk premium $x$ ... #todo 
+- response: fiscal policy and monetary rate
+
+# Unconventional Methods
+- qualitative easing
+- quantitative easing
+	- buying bonds -> more money in the economy
+	- 
+
 # Where does money come from
 ### Central Banks
 - assets
