@@ -1,4 +1,7 @@
-```mermaid
+![[mermaid-diagram-2024-11-08-121621.svg]]
+
+
+```
 erDiagram
     Warehouse {
 
