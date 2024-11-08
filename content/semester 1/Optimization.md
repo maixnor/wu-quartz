@@ -76,7 +76,7 @@ solve for $y=24, x = 40$ ... one candidate point at $(x^*,y^*) = (40,24)$
 Direct Derivatives:
 $\pi_{xx} = -4, \pi_{yy} = -8$ ... maximum
 Check with cross derivatives:
-$\pi_{xy} = 4, \pi_{yx} = 4$
+$\pi_{xy} = \pi_{yx} = 4$
 
 $\pi_{xx} * \pi_{yy} > \pi_{xy} * \pi_{yx}$
 $(-4) * (-8) > 4 * 4$ ... true
