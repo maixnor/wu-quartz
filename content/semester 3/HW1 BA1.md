@@ -1,6 +1,5 @@
 ```mermaid
 erDiagram
-
     Warehouse {
 
         int id PK
