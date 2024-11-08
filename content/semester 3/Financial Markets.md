@@ -73,7 +73,7 @@ $\pi^e$ ... expected inflation
 - qualitative easing
 - quantitative easing
 	- buying bonds -> more money in the economy
-	- 
+	- selling bonds -> less money in the economy
 
 # Where does money come from
 ### Central Banks
