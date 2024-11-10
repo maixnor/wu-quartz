@@ -19,3 +19,9 @@
 	- unemployment no large political issue
 - prohibition of labor unions
 - long period of peace helped in forming contracts and made coordination easier
+
+# Self Stabilizing Mechanisms
+![[gold_standard_methods.png]]
+
+# Credibility Matters
+![[gold_standard_credibility.png]]

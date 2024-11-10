@@ -68,4 +68,14 @@
 
 # Postwar Stabilization
 - return to [[Gold Standard]]
+	- figured out [[Gold Standard#Self Stabilizing Mechanisms]]
+	- limit of interest rates -> might depress economy
+	- dependent on trust in the gold standard
+		- many core countries were not trusted, had to build trust again
+			- tight monetary policy
+			- no money printing
+			- intependent central banks
+			- balanced government budgets
+		- if [[IS-LM Model]] did not have monetary and fiscal policy, since need to abide the rules, available during crisis the model fails
+			- [[Macroeconomics]] only invented after this period
 - 
