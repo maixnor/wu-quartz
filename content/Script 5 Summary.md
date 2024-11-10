@@ -4,9 +4,6 @@
 - [[Hyperinflation]]
 - deflation after 1929
 
-# Great Depression
-
-
 # Interwar period
 - no world trade during WW1
 	- won't trade with my enemies
@@ -76,6 +73,30 @@
 			- no money printing
 			- intependent central banks
 			- balanced government budgets
-		- if [[IS-LM Model]] did not have monetary and fiscal policy, since need to abide the rules, available during crisis the model fails
+		- if [[IS-LM Model]] did not have monetary and fiscal policy, since need to abide the rules, available during crisis the model fails and so does the economy
 			- [[Macroeconomics]] only invented after this period
-- 
+
+# Rise of US as new economic leader
+- economic boom in 20s
+	- tractors, [[Taylorism]], electricity, consumer credit, modern marketing
+- central capital provider for Europe
+- stock market boom + crash in 1929
+	- taking creditors away from Germany
+	- hard for Germany to find funding
+- link to [[#Great Depression]] a year later -> connection is not as direct as it may seem
+
+# Great Depression
+- monetary reasons
+	- stock market crash
+	- deflation
+	- banking crisis
+	- countries defaulting (public debt too high)
+- real economy reasons
+	- industrial production falls
+	- agriculture crisis
+	- employment and world trade falls
+- institutional reasons
+	- [[Gold Standard]] abandoned
+	- protectionism
+
+# #TODO continue of Page 18 of script 5
