@@ -13,6 +13,8 @@
 
 
 # Components
+## Stereotypes
+- 
 
 # Theories
 ## Good Person Theory
