@@ -14,7 +14,12 @@
 
 # Components
 ## Stereotypes
-- 
+- talkativeness
+	- information is not important, just frequency
+- dominance & assertiveness
+	- nonverbal signs included
+	- 
+- embodiment of group stereotypes
 
 # Theories
 ## Good Person Theory
