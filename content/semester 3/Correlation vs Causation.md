@@ -1,3 +1,9 @@
+# Reasons for Correlation
+- Causality 		        x -> y
+- Reverse causality	        y -> x
+- Simultaneity		        x -> y and y -> x
+- Omitted variable bias	z -> x and z -> y, but x !-> y
+
 # Ice Cream and Sharks
 - ice cream is often eaten at beaches
 - ice cream consumption is higher on hotter days
@@ -9,12 +15,6 @@
 	
 # Science and Suicide
 ![[sciencen_suicide.png]]
-
-# Reasons for Correlation
-- Causality 		x -> y
-- Reverse causality	y -> x
-- Simultaneity		        x -> y and y -> x
-- Omitted variable bias	z -> x and z -> y
 
 # Do Storks deliver Babies?
 - storks and fertility rate are correlated
