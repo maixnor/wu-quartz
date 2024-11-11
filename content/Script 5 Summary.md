@@ -99,4 +99,4 @@
 	- [[Gold Standard]] abandoned
 	- protectionism
 
-# #TODO continue of Page 18 of script 5
+# #wontfix continue of Page 18 of script 5
