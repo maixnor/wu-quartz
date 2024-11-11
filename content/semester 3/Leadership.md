@@ -15,6 +15,12 @@
 # Components
 
 # Theories
+## Good Person Theory
+ - leaders are born, not made
+ - it is wrong*
+	 - * not quite wrong, but the correlation is only 0.3, so rather weak
+- IQ is also only 0.27 correlated
+- 
 
 # Types
 
