@@ -1,0 +1,1 @@
+https://www.globalreporting.org/news/news-center/global-expert-in-corporate-sustainability-to-chair-gssb/

@@ -5,17 +5,23 @@
 	- not many of them
 - topic standards
 	- certain sector relative points
-- current chair: Caroll Adams #todo find out about her
+- current chair: [[Caroll Adams]]
 - fighting in [[EU]] for importance, after [[ESRS]]
 
 ### Key Concepts
 - impact
 	- impact materiality, not financial materiality
+	- short/long term
+	- reversible/irreversible
 - material topics
 	- materiality assessment process
+	- summary by theme
+	- allows for prioritizing matters
 - stakeholder
+	- directly/indirectly affected 
+	- affected and potentially affected
 - [[due diligence]]
-	- [[CSDDD]]
+	- similar [[CSDDD]]
 	
 ### Goals
 - accuracy
