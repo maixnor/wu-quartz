@@ -14,3 +14,7 @@
 - characteristics of decision-maker and options
 - incidental influences (bodily condition, mood, weather, carryover effects)
 
+# Emotions and interaction between people
+
+# Dealing with Emotions
+

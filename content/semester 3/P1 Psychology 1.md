@@ -14,6 +14,7 @@
 - 50% final exam
 	- multiple choice + open-ended questions
 		- 12 questions in total - different points each
+		- look at slides well - what is deep enough to have a 5 mark question on it
 		- enough time to think - if you're done leave
 			- people are more likely to change something correct
 		- open-ended
