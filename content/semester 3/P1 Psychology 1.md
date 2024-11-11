@@ -15,5 +15,6 @@
 	- multiple choice + open-ended questions
 		- open-ended
 			- keep it short - wrong information within correct information will deduct points
-			- special keywords are important ... e.g. [[Correlation vs Causation#Reasons for Correlation]]
+			- special keywords are important
+				- e.g. [[Correlation vs Causation#Reasons for Correlation]]
 	- does not have to be positive on it's own, just overall percentage >50%
