@@ -33,9 +33,12 @@
 - transformational
 	- focus on common, long-term goals
 	- think outside the box
-	- 
 - not mutually exclusive
 - not dependent on personal traits
+
+## universal traits
+- team-orientation
+- charisma
 
 ## effectiveness
 - depending if the style is fitting the situation
