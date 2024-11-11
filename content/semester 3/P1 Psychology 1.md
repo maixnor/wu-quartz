@@ -5,7 +5,7 @@
 - [[Emotions]] #todo
 - [[Motivation & Incentives]]
 - [[Group Structure & Process]] #todo
-- [[Leadership]]
+- [[Leadership]] #todo
 
 ## Grading
 - 25% individual effort (quizzes on canvas)
