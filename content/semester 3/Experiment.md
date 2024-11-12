@@ -39,7 +39,7 @@
 		- more robust, just not solving the missing [[counter factual]] 
 		
 # Potential Solutions for Missing Counter Factuals
-- [[Counter Factual]]
+- [[Counter Factual]] #todo find examples for each
 - Propensity Score Matching (PSM)
 - Instrumental Variables (IV)
 - Regression Discontinuity Design (RDD)
@@ -52,3 +52,5 @@
 	- becomes more quantitative since the invention of LLMs
 - [[Correlation Studies]]
 	- [[Survey Design]]
+- #todo extract 
+- #todo p1 1 74
