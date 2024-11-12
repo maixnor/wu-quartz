@@ -7,7 +7,7 @@
 - article 8 vs article 9 product
 	- art 8: promoting environmental or social characteristics
 	- art 9: sustainable investment product
-		- e.g. ESG fund
+		- e.g. [[ESG]] fund
 
 # Reporting Obligations
 - from 2024 onwards

@@ -75,6 +75,3 @@
 	- [[ESRS]] is mandatory, [[EU]] still happy
 - Case C - implementation after 30.4.2025
 	- only [[NaDiVeG]]/[[NFRD]] mandatory, [[EU]] may issue sanctions
-
-## Empirical Evidence
-- #todo SR 25

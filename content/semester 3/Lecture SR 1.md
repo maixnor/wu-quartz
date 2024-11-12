@@ -27,7 +27,7 @@ TED take action on climate change
 	- investors which are supporting e.g. oil
 	- industry hard to change to be sustainable 
 - sustainable investors
-	- e.g. ESG investors
+	- e.g. [[ESG]] investors
 ### net-zero definition
 - within a country all CO2 is absorbed by nature
 - also includes [[Industries which will never be Carbon Neutral]]

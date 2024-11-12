@@ -4,7 +4,7 @@
 - 2 parts
 	- [[SFDR]] for financial companies
 	- [[NFRD]] for producing companies
-- does not need to be transposed
+- does not need to be transposed -> [[Treaty vs Regulation vs Directive#Regulation|regulation]]
 	- in effect since 2021
 - EU classifies what is green and what isn't
 	- addresses [[Green Washing]] -> less approved
@@ -32,7 +32,7 @@
 - double counting
 	- methodology to avoid double counting
 - economic activities
-	- explanation of relevant activities
+	- explanation of relevant activities and weights
 - additional information
 	- relevant background information
 
@@ -64,10 +64,10 @@
 mandatory before 2024
 ---
 mandatory after 2024
-4. sustainable use and protection of water and marine resources -> similar to [[E3]]
-5. transition to a circular economy #todo finish ESRS similarities
-6. pollution prevention and control
-7. protection and restoration of biodiversity
+3. sustainable use and protection of water and marine resources -> similar to [[E3]]
+4. transition to a circular economy -> similar to [[E5]]
+5. pollution prevention and control -> similar to [[E2]]
+6. protection and restoration of biodiversity -> similar to [[E4]]
 
 ## What to do?
 - **Taxonomy Eligibility**: screening of economic activities
@@ -77,7 +77,11 @@ mandatory after 2024
 - do no significant harm
 	- to other [[#Environmental Objectives (art 9)|the objectives]] than the contributed to one
 - minimum safeguards
-- = taxonomy alignment
+- = taxonomy alignment in % for each economic activities
+
+- then sum up alignments of activities by weight of economic expenditure
+- = total taxonomy alignment in %
+	- for CAPEX/OPEX/Revenue separately (influences weights)
 
 # Shortcomings
 - political
@@ -90,7 +94,7 @@ mandatory after 2024
 		- finalization not before 2025, probably later
 - minimal safeguards
 - does not prohibit unsustainable activities, only disclosure requirement
-	- [[Transparency Theory]] is a thing tho
+	- [[Transparency Theory]] still applies
 - exhaustive list
 	- economic activities can be missing -> [[All Activities in an Economy - Sustainable View]]
 	- e.g. company is reporting 50% not-aligned, 20% aligned, 30% not-eligible

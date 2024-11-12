@@ -4,7 +4,7 @@ by Group 5 - Farkas Benedek, Horvat Zellhofer Paulina, Meixner Benjamin
 
 ## **Introduction**
 
-This report presents the findings of an Impacts, Risks, and Opportunities (IRO) analysis conducted for a chocolate producer, focusing on sustainability matters. The analysis assesses the materiality of various environmental, social, and governance (ESG) factors, identifies key risks and opportunities, and highlights stakeholder perspectives. The objective is to provide a comprehensive overview that informs strategic sustainability initiatives and reporting efforts.
+This report presents the findings of an Impacts, Risks, and Opportunities (IRO) analysis conducted for a chocolate producer, focusing on sustainability matters. The analysis assesses the materiality of various environmental, social, and governance ([[ESG]]) factors, identifies key risks and opportunities, and highlights stakeholder perspectives. The objective is to provide a comprehensive overview that informs strategic sustainability initiatives and reporting efforts.
 
 ## **Materiality Assessment**
 

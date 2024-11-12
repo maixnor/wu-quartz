@@ -13,7 +13,7 @@ Topics:
 	- Development
 - Business Ethics
 - Human Rights
-- ESG management
+- [[ESG]] management
 - Stakeholder management
 
 EU rules require large companies to publish regular reports on the social and environmental imports of their activities.
