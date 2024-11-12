@@ -33,9 +33,17 @@
 - working memory
 - levels of processing
 - improving memory performance
+- forgetting
+- remembering personal experiences
+- cognitive memory biases
 
 ## MC 
 - components of memory organization
 - components of working memory
 - word-length effect
 - memory decay over time
+- components of forgetting
+- memory consolidation
+- components of remembering personal experiences
+- overconfidence
+- source monitoring
