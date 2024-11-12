@@ -17,6 +17,7 @@
 - [[Double Materiality]]
 - [[Sustainable Supply Chain]] and [[CSDDD]]
 - [[Strategy and Implementation]]
+	- [[Sustainability Governance]]
 - [[Accounting for GHG Emissions]]
 
 - [[Company Tasks]]

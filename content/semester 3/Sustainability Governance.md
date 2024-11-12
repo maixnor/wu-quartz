@@ -35,13 +35,13 @@
 	- finance department may do the data analysis and the "sustainability accounting", but actually implementing and improving their sustainability lies with other people
 
 ## Empirical Evidence
-- #todo sr 6 18
+- #wontfix sr 6 18
 
 # Incentive Schemes
 - applicable renumeration for management level
 	- creates incentive for board members to care about sustainability
 ## Empirical Evidence
-#todo sr 6 20
+#wontfix sr 6 20
 
 # Sustainability Strategy
 ## Ambition Levels
@@ -126,4 +126,4 @@
 - Potential sustainability-related datapoints
 
 ## Empirical Evidence
-- #todo sr 6 34
+- #wontfix sr 6 34
