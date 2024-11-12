@@ -31,7 +31,10 @@
 ## Open
 - memory organization
 - working memory
+- levels of processing
 
 ## MC 
 - components of memory organization
 - components of working memory
+- word-length effect
+- 
