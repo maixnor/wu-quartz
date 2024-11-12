@@ -1,14 +1,16 @@
 # Steps to Implement Sustainability
 - organizational embeddedness
 - [[Materiality Assesment]]
-- Strategy
+- Strategy -> [[Scenario Planning]], [[Strategic Foresight]]
 - [[KPI]]s, targets and measures
 - [[Managerial Accounting]]
-- Reporting 
+- Reporting
 
 # Systems
 - everything included in [[ESRS 2]]
-![[sustainable_strategy.png]]
 - [[Sustainability Governance]] and [[Incentive Schemes]]
 - [[Data Manangent]] and [[KPI]]s
 - also enforces [[Risk Management]]
+
+- sustainable strategy:
+![[sustainable_strategy.png]]
