@@ -32,9 +32,10 @@
 - memory organization
 - working memory
 - levels of processing
+- improving memory performance
 
 ## MC 
 - components of memory organization
 - components of working memory
 - word-length effect
-- 
+- memory decay over time
