@@ -12,29 +12,37 @@
 - #todo
 
 # Corporate vs Product Carbon Footprint
-- #todo
 - product carbon footprint
 	- technically hard to calculate
 - 2 different perspectives on the same emissions
 	- e.g. apple, emissions of the whole company vs emissions per iPhone produced
-	- not double-counting, since it is the same emissions
+	- not double-counting, since it is the same emissions, but different perspective
+		- one could also argue everything is double counted...
 
 # Generally Accepted GHG Accounting Principles
-#todo 
 - relevance
+	- report must reflect the actual emissions
 - completeness
+	- include all emissions
 - consistency
+	- consistency over time to allow for easy comparison
 - transparency
+	- data sources
+	- assumptions
+	- calculations
 - accuracy
 	- everything is an estimation
 	- but the goal is to remove uncertainties and not over/underrepresent emissions
 
-# Accounting Process Steps
+# GHG Accounting Process Steps
 #todo
 - get data
 - decide on boundaries and calculation schemes
 	- also dependent on data available
-- stick to it and report
+	- boundaries for organization and for operations
+		- scopes 1, 2, 3 
+- analyse data and calculate [[GHG Emissions]]
+- stick to it and report correctly
 
 ## Setting Organizational Boundaries
 - equity share approach
