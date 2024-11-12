@@ -43,20 +43,20 @@
 ## Empirical Evidence
 #wontfix sr 6 20
 
-# Sustainability Strategy
+# # Sustainability Strategy
 ## Ambition Levels
 ![[sust_strategy.png]]
-- compliance-driven:
-	- rather comply than face sanctions
-- risk-driven:
-	- risk of public/shareholder pressure
-	- risk of effects of [[climate change]] and environmental damage 
-- opportunities-driven:
-	- use [[EU Taxonomy Regulation]] for innovation ideas, not just for mandatory reporting
 - purpose-driven:
 	- going above and beyond
 	- (hopefully) positive stakeholder reaction
-
+- opportunities-driven:
+	- use [[EU Taxonomy Regulation]] for innovation ideas, not just for mandatory reporting
+- risk-driven:
+	- risk of public/shareholder pressure
+	- risk of effects of [[climate change]] and environmental damage 
+- compliance-driven:
+	- rather comply than face sanctions
+	
 ## Strategy
 ### Stakeholder Engagement
 - determine material sustainability matters
@@ -74,14 +74,15 @@
 	- percentage of renewable energy
 	- percentage of EVs in fleet
 - define actions
-	- jointing [[SBTi]]
-	- reduction of leakage in operations
-	- purchase of renewable energy
-	- installment of PVs
-	- purchase of EVs
+	- examples:
+		- joining [[SBTi]]
+		- reduction of leakage in operations
+		- purchase of renewable energy
+		- installment of PVs
+		- purchase of EVs
 - monitoring
-	- establish internal systems to regularly monitor progress and achievments
-	- adjus tthe strategy as needed to respond to changing conditions
+	- establish internal systems to regularly monitor progress and achievements
+	- adjust the strategy as needed to respond to changing conditions
 
 ## Define Targets
 - key characteristics
@@ -98,12 +99,12 @@
 ## Define Actions
 - employee engagement
 	- awareness, awards, prizes
-	- culture of sustainability
+	- culture of sustainability -> [[corporate culture]]
 - technology and innovation
 	- new technologies, artificial intelligence maybe?
 - cross-functional collaboration
 	- alignment across departments
-	- integrated solutions 
+	- integrated solutions
 - evaluation of actions
 	- criteria for effective measures
 	- confidence level, strategic relevance, time-horizon, reputation ([[greenwashing]]), etc
@@ -111,14 +112,19 @@
 # Data Management and [[KPI]]s
 ## The Issue
 ![[sust_data.png]]
+
 > You can't manage what you aren't measuring
 
 - data aspect is very bad in most companies
 	- most use spreadsheets
 	- mostly about missing standardization efforts 
 - not included in forecasting and budgeting either
+	- missing out on [[Strategic Foresight]] and [[Scenario Planning]] improvements
+- if data was measured efficiently one could imagine a "race to the top" to optimize for emissions, etc
+	- fueled by right [[#Incentive Schemes]] for C-suite and competition
 
 ## Data Pyramid
+- first ... most important but fewest data points, last ... inverse
 - [[KPI]]s
 	- Revenue, CAPEX, OPEX -> [[EU Taxonomy Regulation]]
 - Datapoints require external assurance
@@ -127,3 +133,4 @@
 
 ## Empirical Evidence
 - #wontfix sr 6 34
+
