@@ -17,7 +17,12 @@
 	- change of behavior of employees
 - bike ride example, but different
 	- reinforcement/punishment
+- persuasion
 ## MC
 - explicit vs implicit attitudes
+- attitude behavior gap
+- persuasion immunity
+- attitude accessibility
+- reactance theory
 - conditioning
 	- best guess: operant (skinner)
