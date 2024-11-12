@@ -26,3 +26,12 @@
 - reactance theory
 - conditioning
 	- best guess: operant (skinner)
+
+# Lecture 3 Memory
+## Open
+- memory organization
+- working memory
+
+## MC 
+- components of memory organization
+- components of working memory
