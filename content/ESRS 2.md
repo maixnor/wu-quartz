@@ -5,6 +5,8 @@
 	- strategy
 	- impact, risk and opportunity management
 	- metrics and targets
-	
-#todo SR 49
+
+
+- image not exam relevant - just for info and completeness
+![[sus_esrs2.png]]
 #tood SR 51

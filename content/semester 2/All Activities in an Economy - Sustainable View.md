@@ -1,4 +1,4 @@
-![[sr_all_activities.png]]
+![[sus_all_activities.png]]
 
 - SH ... significant harm
 - SC ... substantial substitution

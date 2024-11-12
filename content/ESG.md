@@ -1,15 +1,15 @@
 # Overview
-- [[NaDiVeG]] (past)
+- [[NFRD]] with [[NaDiVeG]] (past)
+- [[ESRS]] standard with implementation of [[CSRD]]
+	- [[CSRD]] is just saying: "you have to comply with [[ESRS]]"
+	- transposition in Austria: NaBeG (pending)
 - [[CSDDD]] -> EU parlament 23rd of April 2024
+	- not yet transposed in Austria
+
 - [[GRI]] -> Global Reporting Initiative
 	- for voluntary use
 	- now collaborating with [[IAASB]]
-- [[ESRS]]
-- [[NFRD]]
-	- replaced / being replaced by [[CSRD]]
 - [[SDGs]]
-- [[CSRD]] -> Sustainability Reporting of EU -> [[ESRS]]
-	- transposition in Austria: NaBeG
 - [[SFDR]]
 - [[EU Taxonomy Regulation]]
 - ISSB Standards -> [[IAASB]] and [[IAS]]
@@ -17,7 +17,7 @@
 # Why?
 - a standardized auditors opinion would be very helpful
 - who is this for?
-	- society -> society wants to know who is damaging the environment or at least is not helping
+	- society -> society wants to know who is damaging the environment or at least is not helping 
 	- investors -> moral reasons and assessing impact of climate change for future
 		- e.g. will your production plant suffer from flooding?
 		- e.g. do your workers in Bangladesh have good working conditions?

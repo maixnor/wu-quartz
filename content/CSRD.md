@@ -1,25 +1,28 @@
+## General
 - not yet implemented in Austria, deadline 6.7.2024 (already passed)
 	- implementation till 1.1.2025 questionable -> [[#Sanctions/Further Deadlines]]
 - replaces the [[NFRD]] in essence
-	- [[NFRD]] still mandatory
+	- [[NFRD]] still mandatory for large companies
 - applies within [[EU]]
 	- applies to all subsidiaries, even if not in EU
 	- parent companies which are not in EU are exempted
 - transposition: NaBeG
 
-#todo place better, link from here, maybe extract
 - how to look up which member states have implemented a directive
 	- eur-lex.europa.eu
 	- under national transposition there is a list of implemetations 
 
 ## Reporting Changes
 - uniform EU-Standards [[ESRS]] 
-	- [[CSRD]] is just saying: "you have to comply with [[ESRS]]"
 	- [[directive]] needs to be implemented into domestic laws
 - increases requirements for disclosure
-	- now part of [[Management Report]]
+	- now part of Management Report
 	- must be in digital and in machine readable format
-		- same as [[Financial Statement]] 
+		- same as Financial Statement 
+		- [[Digital Tagging]]
+- have to comply in contrast to [[NFRD]]
+	- no explanations anymore, qualitative/quantitative data
+- environment, social, governance covered
 
 - concept of [[Double Materiality]]
 	- related to [[EU Taxonomy Regulation]]
@@ -35,11 +38,20 @@
 		- EY Austria acquired sustainability reporting auditing firms, others in the [[The Big 4]] do the same
 
 ## Topics
-#todo SR 20
 - qualitative and quantitave information
 - environment
+	- similar to [[EU Taxonomy Regulation]]
 - social
+	- equal opportunities
+	- working conditions
+	- [[human rights]]
 - governance
+	- role & composition of board/management
+	- ethics (bribery/corruption and corp. culture)
+	- political engagements
+	- business relatioships
+	- control & risk
+	- management
 
 ## Scope
 - impacts 50.000 firms in [[EU]]
@@ -52,10 +64,9 @@
 	- even if subsidiary not in [[EU]]
 
 ### Temporal Scope
-#todo SR 21
+![[sus_time_scale_scrd.png]]
 
 ## Sanctions/Further Deadlines
-#todo SR 23
 - possibility of high sanctions
 	- since alignment with financial reporting sanctions (which are very strict)
 - Case A - implementation before 1.1.2025

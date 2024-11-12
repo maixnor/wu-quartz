@@ -24,6 +24,7 @@
 - check multiple ratings, not just one, for a better understanding
 
 ## Reasons to disclose
-- [[voluntary disclosure theory]]
+- [[Transparency Theory]]
+	- also known as [[voluntary disclosure theory]]
 - [[stakeholder theory]]
 - [[legitimacy theory]]

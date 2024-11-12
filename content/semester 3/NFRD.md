@@ -4,17 +4,17 @@
 	- member states could choose some details
 - adopted in 2014, first applicable 2017
 - 2 non-binding guidelines
-	- in 2017 further non-binding guidelines about reporting methodology
-	- in 2019 further non-binding guidelines about climate-related information
+	- in 2017 further non-binding guidelines about **reporting methodology**
+	- in 2019 further non-binding guidelines about **climate-related** information
 		- [[Double Materiality]]
 - also includes 
-	- #todo SR 13
 	- environment
-	- social
+	- social matters
 	- employees
 	- human rights
 	- corruption and bribery
 	- diversity ([[PIEs]] only)
+- comply or explain why not
 - [[CH]] has developed a similar standard in 2024
 
 ## Actual Affects
@@ -22,11 +22,17 @@
 - [[supervisory board]] examines content
 	- can be offloaded to external auditor
 - free choice of [[Sustainability Reporting Standards|reporting standard]]
+- choice between separate report or section in management report
 - wording change
 	- non-financial report -> sustainability report
 
 ## Transpositions
-- #todo SR 15
+- some countries require further topics
+- differences in 
+	- [[PIEs]] definition
+	- separate report allowed
+	- independent assurance mandatory
+	- consistency requirements
 
 ## Requirements
 - disclosure requirements
@@ -36,6 +42,7 @@
 	- [[Risks]] and [[Risk Management]]
 - non-requirements
 	- [[KPI]]s -> cherry-picking possible in report
+	- [[diversity]] information for listed companies
 
 ## Goals
 - enhance the consistency and comparability of non-financial information
@@ -47,6 +54,7 @@
 - enables [[Green Washing]] too much
 	- no requirement for reporting standard
 - comparability and consistency is not mandatory
+	- e.g. not part of management report but separate
 - missing validation/reliability proof
 - only companies in scope ([[PIEs]])
 - missing [[Sanctions]]/enforcement

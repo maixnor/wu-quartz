@@ -2,10 +2,10 @@
 - source: Hombach/Sellhorn (2019)
 
 - transparency reports regularly read by employees 
-	- #todo find study that confirms this, allegedly on canvas
 
 - is a political progress
 	- no clear mandate, just reporting, just information
+	- peer pressure from stakeholders and competitors
 - no guarantee that the intended objectives are achieved
 - free market forces still apply, if the market doesn't care about sustainability they simply don't
 
@@ -25,6 +25,5 @@
 	- [[Difference in Difference]] method
 
 ## Intermediaries
- - rating agencies #todo find link
+ - rating agencies -> [[Intro into Sustainability Reporting#Rating Suppliers]]
 	 - AAA, AA, A, etc 
-- 
