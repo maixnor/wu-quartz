@@ -9,7 +9,7 @@
 - [[ESRS]] [[E1]]
 
 # GHG Protocol Standards
-- #todo
+- [[E1#Sub Topics]]
 
 # Corporate vs Product Carbon Footprint
 - product carbon footprint
@@ -35,7 +35,6 @@
 	- but the goal is to remove uncertainties and not over/underrepresent emissions
 
 # GHG Accounting Process Steps
-#todo
 - get data
 - decide on boundaries and calculation schemes
 	- also dependent on data available
@@ -62,7 +61,8 @@
 		- primary: consumption in liters of fuel
 		- secondary: mileage of car
 		- tertiary: amount spent on fuel
-- apply calculation tools
+- apply calculation tool
+	- convert all emissions to CO2eq
 - roll-up data to corporate level
 
 ### Scope 2 Emissions
@@ -73,63 +73,73 @@
 		- location ... geographic location
 		- market ... contracts, purposeful decision
 - collect data and choose emissions factors
-#todo
+	- metered electricity, utility bills
+	- consumption in kWh
+	- emissions per kWh from different energy providers
 - apply calculation tools
+	- convert all emissions into CO2eq
 - roll-up data to corporate level
 
 ### Scope 3 Emissions
 - GHG Protocol -> [[#GHG Protocol Standards]]
 - screening
-	- based on all 15 categories of [[#GHG Protocol Standards]]
+	- based on all 15 categories of [[GHG Protocol]]
+	- identify significant categories based on estimated emissions
 - calculation
 	- calculate and estimate as best as possible
 - update
+	- update scope 3 every year
+	- full inventory (scope 1 and 2 too) only every 3 years
+		- or when significant change
 - not include
-	- don't include if not important
-#### Something else #todo
+	- emission offsetting / emission trading -> transparency
+	- reflect actual emissions
+#### Process
 - describe the value chain
 - data collection and initial assessment
+	- supplier data
+		- on invoice of supplier
+	- hybrid data
+	- average data (secondary process data)
+		- e.g. aggregate miles of flights booked
+	- spend-based data (tertiary accounting data)
+		- e.g. aggregate of cost of flights booked
 - materaility and screening -> [[Materiality Assesment]]
 - selection of relevant categories
-	- #todo sr 6 43
+	- based on data collected
 - selection of calculation methods and calculation
-	- #todo sr 6 43
 	- depends on data available
 		- supplier-specific method
 			- aggregate of all suppliers
 		- hybrid method
 			- aggregate of supplier data you have, extrapolate for the rest
 		- average data method
-			- take average of data you have
+			- take average of emissions per unit consumed you have, multiply by consumption 
 		- spend-base method
-			- take average of data you have, multiply/divide by expenses
+			- take average of emissions per expenses you have, multiply by expenses
 - results and interpretation
 
-## Setting Operational Boundaries
+![[sus_categories.png]]
 
-## Identifying and calculating GHG emissions
-
-## Reporting GHG emissions
+# Neutrality vs Net Zero
+- [[Neutrality vs Net Zero]]
 
 # Climate Transition Plan
-- [[E1]]-1 #todo sr 6 50
 - compatibility with paris agreement
 - decarbonization levers
+	- emission reduction
 - quantification of investments
+	- climate change mitigation actions
 - locked-in [[GHG Emissions]]
 	- e.g. a new plant has been built 5 years ago which is running on gas-generators
 		- that plant will not be touched in the next 20 years probably
 - taxonomy regulation
+	- plans on reaching higher alignment
 - business strategy
+	- how sustainability is embedded in [[Strategic Foresight]]
 
 # SBTi
-- [[SBTi]] #todo sr 7 53-56
-
-# Offsetting
-- [[Carbon Capture]] #todo
-- [[Emission Offsetting]] #todo
-
-# Afforestation
-- [[Afforestation]]
+- [[SBTi]]
+- [[Emission Offsetting]] 
 
 
