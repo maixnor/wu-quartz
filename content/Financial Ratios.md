@@ -54,7 +54,6 @@
 - DY = dividend per share / price per share
 - normally between 2% and 5%
 - [[Electricity Industry]] doing really great between 2023 and 2024 -> energy price increased
-- only dividend, not taking share price fluctuations into considerations
 ### Inventory Turnover
 - IT = Cost of Sales / Inventory
 - should be high
@@ -81,6 +80,13 @@
 
 - debt to equity ratio, leverage ratio
 - Gearing of 1 ... 50% equity, 50% liabilities
-# Dump from [[Profitability]]
 
-### Return on net assets
+### Book to Market Ratio
+ - comparing book value from [[Balance Sheet]] and compare it to [[Market Capitalization]]
+ - is normally a multiplier of book value to get to market cap
+	- book value of equity / market value of equity
+ - #todo FMa 3 68
+ - 
+
+### Financial Leverage
+- 
