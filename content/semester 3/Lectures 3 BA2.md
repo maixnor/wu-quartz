@@ -1,0 +1,16 @@
+- [[Financial Ratios]]
+- useless on their own, only comparable across time and sector
+	- accounting rules/legislation may be different across the world
+		- ratios can change because of that
+	- companies can also polish their ratios
+		- easy to misuse and manipulate
+- used to predict
+	- imprecise and hard to make
+	- hard to predict, since everyone is thinking about the same financial ratios
+
+- [[market efficiency]]
+	- pricing of stocks is immediate
+- [[momentum effect]]
+	- momentum in stock prices
+- [[jaunuary effect]]
+	- assets outperform in January

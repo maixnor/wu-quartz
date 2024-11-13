@@ -89,4 +89,5 @@
  - 
 
 ### Financial Leverage
-- 
+- #todo Fma 3 69
+- different leverages can/cannot be evaluated easily
