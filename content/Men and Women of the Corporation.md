@@ -12,7 +12,7 @@ by [[Kanter]]
 - Kanter introduces the concept of "[[tokenism]]" and explores how being a minority in a particular gender can affect an individual's experience within an organization.
 
 **Power Dynamics:**
-- Power dynamics within organizations are analyzed, with a focus on how gender influences access to power, decision-making, and leadership roles.
+- Power dynamics within organizations are analyzed, with a focus on how gender influences access to power, decision-making, and [[leadership]] roles.
 
 **Impact of Work Environment:**
 - The work environment and its impact on women's career advancement are discussed, including the role of organizational culture in shaping gender relations.

@@ -7,7 +7,7 @@ how do creditors deal with [[Limited Liability#Shady Shareholder Tactics|Shareho
 	- [[Collateral]] or personal guarantee of shareholders
  - [[Covenants]]
  - Accelerated Debt
-	 - if there is a large change in e.g. leadership the entire liability is due
+	 - if there is a large change in e.g. [[leadership]] the entire liability is due
 
 why is legal restriction still needed?
 - some creditors lack the bargaining power or experience

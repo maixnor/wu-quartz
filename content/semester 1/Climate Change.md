@@ -69,21 +69,4 @@
 		- give one plot to a poor country, the other plot to a rich country
 		- after X years analyse the difference in land use
 ### Cross Border Deforestation
-- Cross-Border Deforestation Index
-	- https://pure.iiasa.ac.at/id/eprint/9056/
-- Satellite Images for forest cover
-	- difference trees from bushes and barren land
-- measure Forest Cover from both countries close to border
-	- issue: [[External Validity]]
-	- across the border the regional difference in GDP per capita might not be as different as the rest of the country
-	- borders are likely to run along a natural change in geography (e.g. mountain ranges)
-	- land is not perfectly comparable on both sides of the border
-	- solution: colonial borders -> straight lines
-	- another issue: most areas with colonial borders forests are not a big thing
-	- solution: another project mapping areas of homogenious response units:
-		- same slope, terrain, resources across borders
-	- after combining response units with deforestation data we have enough data points for a good [[experiment]]
-		- Brazil vs Bolivia is good example
-		- China: depending on which border the difference is great
-		- Dominican Republic: Wild Fires during Slave Revolts decimated forest cover 
-- Forest cover decreases until ~Brazils GDP per capita and increases from then onwards
+![[Cross Border Deforestation]]

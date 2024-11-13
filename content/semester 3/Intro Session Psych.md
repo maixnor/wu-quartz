@@ -33,6 +33,6 @@
 - [[Replication Crisis]]
 - [[Experiment]]
 - [[Reliability and Validity]]
-- [[Lab Experiments]]
+- [[Lab Experiment]]
 - [[Quasi Experiments]]
 - [[Statistical Analysis]]

@@ -60,11 +60,17 @@
  - it is wrong*
 	 - not quite wrong, but the correlation is only 0.3, so rather weak
 	 - IQ is also only 0.27 correlated
-
-# Types
+#wontfix what is the correct/currently correct theory
 
 # Destructive Leadership
-- #todo p1 7 23
+- effects of bad/destructive leadership
+	- members withdraw from the group
+	- stronger intention to quit
+	- lower job satisfaction, commitment, motivation, performance
+	- counterproductive behavior (resistance, aggression)
+	- high cost (loss of productivity, sickness, absenteeism)
+	- increased stress, negative health impact
+- in military: life and death decisions mishandled resulting in more deaths than necessary
 
 # Culture vs Leadership
 ## Introduce a new and diverse Leader

@@ -1,3 +1,7 @@
+---
+contributed-by:
+  - GPT-4
+---
 by [[Kanter]]
 # Key Insights
 

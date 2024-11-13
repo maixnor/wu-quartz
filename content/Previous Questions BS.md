@@ -120,7 +120,7 @@
 	1. Correct
 29. When a company invests money to build up a brand then such investment always decreases overall [[profit]] in the long run, since brand name capital is an intangible asset that cannot be listed in the [[balance sheet]].
 	1. False
-30. [[Taylorism]] emphasizes the role of intrinsic [[motivation]]
+30. [[Taylorism]] emphasizes the role of intrinsic [[Motivation]]
 	1. False
 31. Bureaucracy is characterized by centralized authority, rules and defined procedures
 	1. True
@@ -159,7 +159,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	1. Correct
 48. When a company pays back a loan, then [[EBIT]] increases
 	1. False
-49. Herzberg's theory explains the importance of extrinsic [[motivation]]
+49. Herzberg's theory explains the importance of extrinsic [[Motivation]]
 	50. False
 50. The "[[Taylorism|Taylorism]]" approach emphasizes the important role of [[leadership]].
 	1. False
@@ -189,7 +189,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	1. Correct
 63. A production function associates produced output with the cost necessary to produce this output.
 	1. False
-64. Piece rate bay is an example for extrinsic [[motivation]]
+64. Piece rate bay is an example for extrinsic [[Motivation]]
 	1. Correct
 
 # BS Final 2020
@@ -231,7 +231,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 3. [[Employee Perspective]]
 	1. The "Hawthorne effect" shows the importance of incentives in business firms
 		1. False
-	2. Herzberg's theory explains the importance of extrinsic [[motivation]]
+	2. Herzberg's theory explains the importance of extrinsic [[Motivation]]
 		1. False
 	3. The "[[Taylorism|Scientific Management]]" approach emphasizes the important role of [[leadership]]
 		1. False
@@ -317,7 +317,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. Correct
 	2. When Red Bull decides on whether product distribution should be organized "in-house" or organized by another firm, then this is a make-or-buy decision
 		1. Correct
-	3. [[Taylorism]] emphasizes the role of intrinsic [[motivation]]
+	3. [[Taylorism]] emphasizes the role of intrinsic [[Motivation]]
 		1. False
 	4. When a company invests money to build up a brand than such investment always decreases [[profit]] in the long run, since brand name capital is an intangible asset that cannot be listed in the [[balance sheet]].
 		1. False
@@ -342,7 +342,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	4. Apple´s market [[share]] is 120/500=21% 
 		1. False
 3. Which statement/s on the [[Employee Perspective]] is/are correct?
-	1. Herzberg´s theory explains the importance of extrinsic [[motivation]] 
+	1. Herzberg´s theory explains the importance of extrinsic [[Motivation]] 
 		1. False
 	2. The “Hawthorne effect” shows the importance of incentives in business firms. 
 		1. False
@@ -427,7 +427,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. False
 	2. When the price of a product is increased then it can be expected that less units of the product will be sold but revenues may still increase 
 		1. Correct
-[[Taylorism|	3. Taylo]]rism emphasizes the role of intrinsic [[motivation]] 
+[[Taylorism|	3. Taylo]]rism emphasizes the role of intrinsic [[Motivation]] 
 		1. False
 	4. From a [[Taylorism]] perspective, management deals with the optimal division of the production process into individual tasks, in order to economize on the benefits of specialization 
 		1. Correct

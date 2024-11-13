@@ -1,4 +1,4 @@
-Rafael Ramirez is a distinguished figure in the business world, known for his impactful contributions to strategy and leadership. As an accomplished academic and practitioner, Ramirez has excelled in various roles.
+Rafael Ramirez is a distinguished figure in the business world, known for his impactful contributions to strategy and [[leadership]]. As an accomplished academic and practitioner, Ramirez has excelled in various roles.
 
 ## Academic Leadership
 With a background in business education, Ramirez has held esteemed positions at top institutions. Notably, he served as the Director of the Oxford Scenarios Programme at the [[Saïd Business School]], where he pioneered research on scenario planning.
