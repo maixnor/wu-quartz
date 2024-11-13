@@ -11,3 +11,6 @@
 - might be part of (some) [[equilibrium]]
 
 ## weakly dominated strategy
+- <= than all others
+- might even be part of (some) [[equilibrium]]
+	- although unlikely
