@@ -1,0 +1,2 @@
+- we tend to forget the source of an information faster than the information
+- information from uncredible source can become credible when forgetting source, but not information itself

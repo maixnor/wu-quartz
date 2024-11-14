@@ -1,3 +1,23 @@
+# Implicit vs Explicit
+- implicit memory decays slower, explicit faster
+
+## Empirical
+- Mitchell (2006)
+	- n = 33
+	- 17 years ago shown pictures for 1-3 seconds
+	- test now: 12.5% better memory for implicit, no improvement in explicit memory of those pictures
+	- subjects could not remember anything from 17 years ago explicitly when asked, but still remembered having seen those images before
+		- [[Source Monitoring]]
+
+- Mitchell, Kelly & Brown (2017) (replication)
+	- n = 28
+	- 11-14 years, pictures and words
+	- 12.3% better for pictures, 20.9% better for words, no improvement with explicit memory
+
+## Source Monitoring
+![[Source Monitoring]]
+
+# Ebbinghaus
 - Ebbinghaus 1885/1913
 	- n = 1
 	- memorize nonsense syllables to find out about forgetting
