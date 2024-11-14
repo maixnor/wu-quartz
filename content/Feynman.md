@@ -1,3 +1,7 @@
+---
+contributed-by:
+  - GPT-4
+---
 # Key Contributions
 
 **Quantum Electrodynamics (QED):**
@@ -24,7 +28,7 @@
 **Popularization of Physics:**
 - Feynman was known for his exceptional ability to communicate complex scientific concepts to a broader audience. His lectures, books, and public talks contributed to the popularization of physics and science in general.
 
-**Adventures in Physics Education:**
+**Adventures in Physics Education:** ^f78d1a
 - Feynman's innovative teaching methods and engaging approach to physics education have left a lasting impact. He believed in fostering curiosity, critical thinking, and a deep understanding of the subject.
 
 **Bongo Drum Playing and Art:**

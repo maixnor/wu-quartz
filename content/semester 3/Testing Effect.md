@@ -1,12 +1,14 @@
+# General
 > retrieval practice of material to-be-remebered during learning improves learning success (and more than subjectively expected)
 
 - retrieval effort hypothesis
-	- when retrieving memory there is a deeper trace than just reading
+	- when retrieving memory there is a deeper trace than when just reading
 	- the harder it is to retrieve the longer it will stay in memory
-		- the pathway is really strong
+		- the pathway is strengthened more then
 - can be used regardless of the material
+	- reproduction > rehearsing
 
-
+## Empirical
 - Roediger & Karpicke (2006)
 	- n = 120
 	- repeated study (4x)
