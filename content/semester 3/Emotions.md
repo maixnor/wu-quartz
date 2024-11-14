@@ -1,5 +1,43 @@
-# Definition
-#todo 
+# Definitions
+- Emotion - indicates a subjective, affective state ( reaction pattern) that is relatively intense and that occurs in response to something we experience
+- Mood - prolonged, less intense, affective state that does not occur in response to something we experience
+
+# Process of Emotions
+## Old Theories
+- James-Lange theory
+	- arousal -> heart pounding -> fear (emotion)
+- Canon-Bard theory
+	- arousal -> { heart pounding + fear (emotion) }
+- Schachter-Singer two factor theory
+	- arousal -> { heart pounding + cognitive label (I'm scared) } -> fear (emotion)
+
+## Current Theory
+- subjective experience
+	- While basic emotions are expressed by all individuals regardless of culture or upbringing, the experience that produces them can be highly subjective
+- physiological response
+	- This physiological response is the result of the autonomic nervous system’s reaction to the emotion we’re experiencing. The autonomic nervous system controls our involuntary bodily responses and regulates our fight-or-flight response
+- behavioral response
+	- The behavioral response aspect of the emotional response is the actual expression of the emotion. Behavioral responses can include a smile, a grimace, a laugh or a sigh, along with many other reactions depending on societal norms and personality
+
+## Misattribution of Arousal
+- arousal can be generally within situation, not with specific sources
+	- it doesn't matter where the arousal comes from, all arousal is equal
+- Dutton & Aaron (1974)
+	- n = 85
+	- setup 
+		- arousing chain bridge (swaying, tilting, etc... feeling of falling off)
+		- vs. non-arousing solid bridge
+		- doing a questionnaire on the bridge
+	- result
+		- men on the arousing bridge produced more sexual imagery in their stories, called the interviewer more often afterwards (50% vs 12.5% control group)
+
+# Primary vs Secondary
+- primary emotion
+	- directly triggered by event
+	- love, joy, anger, sadness, surprise, fear
+- secondary emotion
+	- depending on situation and primary emotion
+	- passion, optimism, irritation, disgust, shame, nervousness
 
 # Perspectives
 - #todo
