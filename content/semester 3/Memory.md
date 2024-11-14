@@ -15,8 +15,8 @@
 	- mimicry of original experience
 ![[engram.png]]
 
-# Working Memory
- ![[memory.png]]
+# Working Memory 
+![[memory.png]]
 - goal is getting everything into long-term memory
 	- effortless
 - working-memory takes effort
@@ -37,16 +37,18 @@
 		- eliminates a chance of falsifyability -> [[Popper Logic]]
 	- "does everything not done by the others"
 
-# Differences
+# Organization
+
+![[memory_organization.png]]
 ## Declarative / Explicit
 - episodic memory
 	- storage for facts
 		- e.g. how tall is a penguin?
 	- developed rather late in evolution
-		- kids get that later than other capabilities, old people lose it quite early
+		- kids get that later than other capabilities, elderly lose it quite early
 - semantic memory
 	- general knowledge
-		- e.g. language
+		- e.g. language, what a penguin looks like
 	- unlimited capacity
 		- BUT we don't learn everything we see
 		- BUT we cannot retrieve everything
@@ -56,9 +58,11 @@
 
 ## Non-Declarative / Implicit
 - procedural memory
-	- e.g. cycling, walking, running
+	- anything that happens without active thought
+	- e.g. cycling, walking, running, balance
 - priming 
 	- recognition
 		- e.g. bird vs cat
 			- when shown the bird first the bird parts of your brain are activated
-			- when then shown a cat with the outline of a bird
+			- when then shown a cat with the outline of a bird the bird is seen 
+			- when shown a cat first the cat is seen first with the second picture
