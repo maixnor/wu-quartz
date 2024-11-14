@@ -27,9 +27,10 @@
 	- setup 
 		- arousing chain bridge (swaying, tilting, etc... feeling of falling off)
 		- vs. non-arousing solid bridge
-		- doing a questionnaire on the bridge
+		- doing a questionnaire on the bridge with some sexual content
 	- result
 		- men on the arousing bridge produced more sexual imagery in their stories, called the interviewer more often afterwards (50% vs 12.5% control group)
+		- arousal of bridge (fear) transposed to sexual arousal
 
 # Primary vs Secondary
 - primary emotion
@@ -40,17 +41,24 @@
 	- passion, optimism, irritation, disgust, shame, nervousness
 
 # Perspectives
-- #todo
 - pessimistic view
+	- bring about impulsive decisions
+	- adversely affect decision-making process by influencing informed beliefs
+	- emotions can be in the way of rationality
 - optimistic view
+	- emotions play a positive role in the decision-making process
+	- emotions show information about aspects that cannot be inferred consciously
 
 # Affect Integrated Model of Decision Making
-- #todo understand the model, don't replicate the model visually
+![[affect_integrated_model.png]]
 - current emotions influence the situation and the expected outcomes
 - what I expect influences my current emotions and my evaluation
 	- if I'm sad I won't have a good expectation and therefore a bad evaluation
 - characteristics of decision-maker and options
 - incidental influences (bodily condition, mood, weather, carryover effects)
+
+## Effects of Fear and Anger
+- 
 
 # Emotions and interaction between people
 
