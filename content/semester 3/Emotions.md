@@ -83,7 +83,33 @@
 ## Emotions at Work
 - influence belief about value of job, company or team
 - affects behavior at work
-	- 
+	- events cause different emotions in different people
+	- symmetrical emotions -> self-reinforcing in both positive/negative aspects
+		- positive emotions produce more positive emotion-inducing behavior
+		- negative emotions produce more negative emotion-inducing behavior
+- **pride:**
+	- self-focused positive emotion
+	- appraisal of self-success, status and competence
+- **interest:**
+	- being engaged, caught up, fascinated, curious
+	- creates sustained motivation
+- **guilt:**
+	- moral emotion, violating social norms
+	- triggers reparatory behavior - apologizing, changing own behavior
+- **boredom:**
+	- “the aversive experience of having an unfulfilled desire to be engaged in a satisfying activity”
+
+## Emotions & Decision-Making
+- Integral emotions influence decision making
+	- Integral emotion as beneficial guide
+	- Integral emotion as bias. 
+	- Moderating factors. 
+- Incidental emotions influence decision making
+	- Incidental emotion as bias. Spillovers (Han et al, 2007, Keltner & Lerner 2010)
+	- Negative (vs. positive) newspaper stories -> pessimistic estimates of fatalities (e.g. frequency of hart disease, Johnson & Tversky, 1983)
+- Beyond valence: Specific emotions influence decision making
+	- Emotions of the same valence, such as anger and sadness, are associated with different antecedent appraisals (Smith & Ellsworth 1985)
+	- Predictive power of models including specific emotions exceeds valance based models.
 
 # Dealing with Emotions
 
