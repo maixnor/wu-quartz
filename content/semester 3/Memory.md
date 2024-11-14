@@ -15,37 +15,51 @@
 	- mimicry of original experience
 ![[engram.png]]
 
-# Working Memory 
+# Working Memory Model
 ![[memory.png]]
+- model replaces classic "short-term memory"
 - goal is getting everything into long-term memory
-	- effortless
+	- mostly effortful, there are tricks
 - working-memory takes effort
-- all of those parts can be blocked
+- all of those parts can be blocked/suppressed
 	- [[Chess Player Distractions]]
 - central executive
 	- what to pay attention to?
+		- multitasking also done here
 	- CPU/scheduling tasks
 	- demanding tasks
 		- e.g. chess
 - visuo-spational sketchpad
 	- close your eyes, imagine an apple
+	- anything visual or spacial (playing minecraft)
 - phonological loop
-	- the "inner voice"
-	- easier to remember phonetically dissimilar words than similar words
+	- the "inner voice" when talking to yourself or reading
+	- speech recognition when listening
+	- articulating own speech
+	- phonological similarity effect
+		- easier to remember phonetically dissimilar words than similar words
+	- word-length effect
+		- capacity of phonetic loop is limited by time it takes to pronounce (not amount of letters)
+		- articulatory suppression eliminates this effect
 - episodic buffer
+	- "does everything not done by the others"
+	- limited capacity - 4 chunks
+	- buffer for PL, VSSP, perception, long-term memory
+	- active information integration (combining information)
+	- explains how long-term influences short-term memory
 	- reason for a terrible theory
 		- eliminates a chance of falsifyability -> [[Popper Logic]]
-	- "does everything not done by the others"
 
 # Organization
 
 ![[memory_organization.png]]
+	
 ## Declarative / Explicit
 - episodic memory
 	- storage for facts
 		- e.g. how tall is a penguin?
 	- developed rather late in evolution
-		- kids get that later than other capabilities, elderly lose it quite early
+		- kids get it later than other capabilities, elderly lose it quite early
 - semantic memory
 	- general knowledge
 		- e.g. language, what a penguin looks like
