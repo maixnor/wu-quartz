@@ -56,7 +56,7 @@
 
 ## Non-Declarative / Implicit
 - procedural memory
-	- e.g. cycling
+	- e.g. cycling, walking, running
 - priming 
 	- recognition
 		- e.g. bird vs cat
