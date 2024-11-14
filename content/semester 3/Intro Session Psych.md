@@ -34,5 +34,5 @@
 - [[Experiment]]
 - [[Reliability and Validity]]
 - [[Lab Experiment]]
-- [[Quasi Experiments]]
+- [[Quasi Experiment]]
 - [[Statistical Analysis]]

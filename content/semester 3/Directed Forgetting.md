@@ -1,2 +1,8 @@
 - used in psychology to rewire phobias
-#todo psych 58
+- always work with trigger/memory combination
+- thought substitution: 
+	- think of trigger, then think of different thing
+	- effect: overwrite (substitute) old memory
+- direct suppression:
+	- think of trigger, keep resulting thing out of your head
+	- effect: remove memory/make it inaccessible by trigger

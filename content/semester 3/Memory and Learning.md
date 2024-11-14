@@ -20,7 +20,7 @@
 
 # Reliability
 - [[Reliability of Memories]]
-- [[Memory Biases]]
+- [[Cognitive Memory Biases]]
 - why such an unreliable [[memory]]?
 	- imagination is in the same part as [[memory]]
 	- mental time travel

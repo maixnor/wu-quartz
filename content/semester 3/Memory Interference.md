@@ -1,2 +1,11 @@
-- #todo psych 57
-- friend has a new boyfriend/girlfriend. Always mixing up previous/current name
+- competition between correct/incorrect information
+	- similar activation/context
+	- e.g. person has a new boyfriend/girlfriend. Always mixing up previous/current name
+- proactive interference (forward)
+	- previous is clashing with new knowledge
+- retroactive interference (backward)
+	- old knowledge overwritten by new knowledge
+	- forgetting triggered by learning or processing new information
+- interference works only on simple memories
+	- complex memories are immune to interference
+	- enough connections = no simple interference
