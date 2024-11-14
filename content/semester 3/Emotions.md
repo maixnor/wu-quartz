@@ -100,6 +100,7 @@
 	- “the aversive experience of having an unfulfilled desire to be engaged in a satisfying activity”
 
 ## Emotions & Decision-Making
+pasted from slides
 - Integral emotions influence decision making
 	- Integral emotion as beneficial guide
 	- Integral emotion as bias. 
@@ -110,6 +111,19 @@
 - Beyond valence: Specific emotions influence decision making
 	- Emotions of the same valence, such as anger and sadness, are associated with different antecedent appraisals (Smith & Ellsworth 1985)
 	- Predictive power of models including specific emotions exceeds valance based models.
+- Emotions shape decisions via the content of thought
+	- E.g., angry people will view negative events through a lens that regards them as predictably caused by, and under the control of, other individuals. In contrast, fear involves low certainty and a low sense of control, which are likely to produce a perception of negative events as unpredictable and the result of situations rather than individual failings
+- Emotions shape the depth of thought 
+	- Emotions signal that a situation demands additional attention (Schwarz, 1990, Schwarz & Bless, 1991)
+	- In a positive mood, greater use of heuristic cues (Bless et al.1996, Bodenhausen et al 1994)
+- Emotions shape decisions via goal activation 
+	- Discrete emotions trigger discrete implicit goals
+	- According to the “Feeling is for doing” model, the adaptive function of emotion is defined by the behaviors that specific states motivate. 
+- Emotions influence interpersonal decision making
+	- Emotions = inherently social & complex in their nature
+	- E.g., people derive happiness merely from opportunities to help and give to others with no expectation of concrete gains (Dunn et al 2008, Dunn et al 2011
+
+
 
 # Dealing with Emotions
 
