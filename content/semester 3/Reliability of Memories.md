@@ -17,9 +17,9 @@
 	- memory should reflect the true experience
 - coherence
 	- we like consistence and being predictable
-	- a stupid rebellion can change motivation afterwards
+	- a stupid rebellion can change motivation afterwards, even if facts have changed
+		- "I was feeling right back then, so I must be right now"
 	- a period when we were not acting out our desired values are conveniently forgotten
-	- over time coherence wins
 - over time coherence wins over correspondence, creating false memories
 	- memories about 10th birthday, amazing vacation 2 years ago, first love, summer job are not as accurate as people believe them to be
 	- not just about oneself - also about everyone/everything else

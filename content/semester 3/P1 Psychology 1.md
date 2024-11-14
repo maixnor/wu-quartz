@@ -2,7 +2,7 @@
 - [[Intro Session Psych]]
 - [[Attitude Development and Perception]]
 - [[Memory and Learning]]
-- [[Emotions]] #todo
+- [[Emotions]]
 - [[Motivation]] and incentives #todo
 - [[Group Structure & Process]] #todo
 - [[Leadership]] #wontfix

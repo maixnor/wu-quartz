@@ -5,5 +5,5 @@
 - **NOT** love your work, just don't hate it
 
 # Motivators
-- increasing motivation, if and only if hygiene factors are fulfilled
-- love your work
+- increasing [[motivation]], if and only if hygiene factors are fulfilled
+- enables to love your work

@@ -132,11 +132,55 @@ pasted from slides
 	- may help inform sense makers of when their new model makes enough sense
 
 ## Emotional labor
- - 
+ - regulating feelings and expressions to meet organizational standards
+ - surface acting: just displaying different emotions - same internal feelings
+ - deep acting: effortfully changing internally felt emotions
+	 - more natural and genuine emotional displays
 
-## Intelligence
+## Emotional Intelligence
+- recognize and understand own emotions and those of others
+- 4 pillars
+	- self-awareness - accurately perceive, evaluate, display emotions
+	- self-management - control and direct emotions when necessary
+	- social awareness - understand how others feel
+	- relationship management - getting help from others
 
 ## Emotional contagion
+- spillover of emotions between situations or people
+- team members influence each other
+	- negative emotions last longer than positive emotions
+
+### Empirical
+- Johnson 2008
+	- n = 16 principals, 122 teachers
+	- setup
+		- ask teachers about their perception of the principal
+		- study principles in leadership style / attitude
+	- result
+		- positive leaders have less follower turnover
+		- positive leaders create positive attitudes of followers at work
+
+## Effects of daily workload and affect on Work-Family conflict
+- Ilies et al (2007)
+	- n = 106
+	- setup
+		- evaluate work load/attitude during the day
+		- evaluate family time in the evening
+		- spouse also evaluates family time in the evening
+	- result
+		- workload (both in terms of hours worked and employee perceptions of workload) was related to negative affect (both at work and at home) and employee
+		- perceptions of work-to-family conflict. Moreover, employee social behaviors at home were predicted by both work-to-family conflict and home positive affect
 
 # Dealing with Emotions
+## Minimize emotional response
+- time delay
+- suppression/down-regulation of negative emotion display
+	- and increase in positive emotion display
+- reappraisal ... looking on the bright side, being optimistic
+- inducing counteracting emotional state
 
+## Insulate the decision process from the emotion
+- create financial incentives -> increases cognitive effort
+- crowding out emotion (saturate with cognitive/logical facts) (doesn't work reliably)
+- increase awareness of misattribution
+- choice architecture

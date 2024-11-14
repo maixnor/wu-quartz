@@ -66,7 +66,7 @@
 - effects of bad/destructive leadership
 	- members withdraw from the group
 	- stronger intention to quit
-	- lower job satisfaction, commitment, motivation, performance
+	- lower job satisfaction, commitment, [[motivation]], performance
 	- counterproductive behavior (resistance, aggression)
 	- high cost (loss of productivity, sickness, absenteeism)
 	- increased stress, negative health impact
