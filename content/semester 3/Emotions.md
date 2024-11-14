@@ -58,9 +58,30 @@
 - incidental influences (bodily condition, mood, weather, carryover effects)
 
 ## Effects of Fear and Anger
-- 
+- fear ... generally applicable security measures
+- anger ... more optimism, specific security measures
+
+## Expected vs Immediate Affect
+| ref               | expected affect                                              | immediate affect                                                                             |
+| ----------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| **definition**    | Prediction about how I will feel when a certain event occurs | Affect felt during the decision (due to the expectation or due to other influencing factors) |
+| **time**          | future                                                       | today                                                                                        |
+| **advantages**    | Best way to ensure long-term well-being                      | Prioritizes information processing and fosters important considerations                      |
+| **disadvantages** | Expectations might be wrong                                  | Might lead to a decision which goes against our own interests                                |
+
+## Financial Cost of Sadness
+- Lerner & Weber (2013)
+	- n = 202
+	- setup
+		- first watch a clip (neutral, disgusting, sad)
+		- then decide between receive money now and receive more money in 1-6 weeks
+	- result
+		- sadness reduces patience
+		- 13% to 43% less money to skip period of 3 months until payment
 
 # Emotions and interaction between people
+## Emotions at Work
+- 
 
 # Dealing with Emotions
 
