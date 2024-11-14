@@ -82,7 +82,8 @@
 # Emotions and interaction between people
 ## Emotions at Work
 - influence belief about value of job, company or team
-- 
+- affects behavior at work
+	- 
 
 # Dealing with Emotions
 
