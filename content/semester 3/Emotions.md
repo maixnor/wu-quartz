@@ -123,7 +123,20 @@ pasted from slides
 	- Emotions = inherently social & complex in their nature
 	- E.g., people derive happiness merely from opportunities to help and give to others with no expectation of concrete gains (Dunn et al 2008, Dunn et al 2011
 
+## Sensemaking
+> the process by which individuals create meaning in the uncertain or ambiguous situations often found in organizations
 
+- emotions affect 3 stages of sense making process
+	- help initiate sense making
+	- may influence results by the kind of cognitive processing they trigger
+	- may help inform sense makers of when their new model makes enough sense
+
+## Emotional labor
+ - 
+
+## Intelligence
+
+## Emotional contagion
 
 # Dealing with Emotions
 
