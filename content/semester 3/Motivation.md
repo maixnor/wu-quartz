@@ -119,7 +119,7 @@ The forces that trigger motivation can be biological, emotional, cognitive or so
 - [[VRoom's expectancy theory]]
 
 # Competition
-- Humans are achievement- seeking creatures: our effort can rise or fall as we benchmark ourselves against others
+- Humans are achievement-seeking creatures: our effort can rise or fall as we benchmark ourselves against others
 
 ## Rivalries
 - individuals are particularly motivated to defeat an opponent with whom they have a history
