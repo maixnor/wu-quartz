@@ -4,7 +4,7 @@
 - [[Memory and Learning]]
 - [[Emotions]]
 - [[Motivation]] and incentives
-- [[Group Structure & Process]] #todo
+- [[Group Structure & Process]]
 - [[Leadership]] #wontfix
 
 ## Grading

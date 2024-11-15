@@ -28,8 +28,8 @@
 	- recognizing work - making employees visible
 	- provide clear career promotions
 - self-actualization
-	- promotion
-	- #todo p1 5 29
+	- promotion, creative/challenging work
+	- autonomy
 
 # Criticism
 - subjective

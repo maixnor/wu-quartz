@@ -153,7 +153,7 @@
 	- if I have to wait I have time to forget and to overthink and therefore not share my ideas
 		- they might not be the best, but quantity finds by chance a good idea
 
-#### How to do better
+#### Avoid Production Blocking
 - nominal group technique
 	- leader introduces the problem, group members silently write down ideas concerning the issue, approx 10 to 15 minuts
 	- sharing ideas
@@ -169,7 +169,7 @@
 		- equal to nominal groups under 8 people
 	- GPT: can also brainstorm with a LLM
 
-### Information Sharing
+### Shared Information Bias 
 - stasser & thus
 - #todo p1 6 38,39
 - some got all of the positive information, some only a few positive facts
@@ -177,7 +177,7 @@
 	- we are never figuring out about all the good stuff, because only the bad is shared
 - shared information bias #todo 
 
-#### Avoid
+#### Avoid shared information bias
 - long enough discussions
 	- more time = better information sharing in the end
 - members should not share their initial preferences
@@ -209,7 +209,7 @@
 
 ## Group Cohesiveness
 - unity of a group
-- benefits #todo
+- benefits
 	- less conflicts
 	- encourages cooperation
 	- following norms
@@ -225,17 +225,16 @@
 - heterogeneous group - better decisions - more feasible, sustainable
 - #todo
 
-## Groupthink
+### Groupthink
 - the group and it's consensus is the most important body
 	- not the decisions it is taking or the facts it's members are viewing
 - #todo just everything here is flawed
 
-### Dangerous for Management
+#### Dangerous for Management
 - innovation is hard with groups set in their way
 - common hatred can keep unsustainable groups together
 
-
-### Ways to Avoid Groupthink
+#### Ways to Avoid Groupthink
 - #todo 
 - critical evaluator
 	- check in regularly - who is the devils advocate? do we need outside counselling?
@@ -267,7 +266,7 @@
 #### Avoid Group Polarization
 - #todo
 - rely more on data - increase education
-### I am Done, my brain is fried
+# I am Done, my brain is fried
 - #todo p1 6 60 onwards
 
 
