@@ -110,10 +110,15 @@
 ### Empirical Study 
 - Jackson & Williams 1985
 - n = 48
-	- #todo p1 6 27
-	- similar to cockroaches, simple and complex maze
-	- better performance for complex task when "payed" together
-		- not for simple tasks
+	- setup
+		- alone: working alone
+		- co-worker: working together, scored individually
+		- collective co-worker: working together, scored together
+	- result
+		- similar to cockroaches, simple and complex maze
+		- better performance for complex task when working together
+			- simple task -> individual work is better
+		- co-worker condition good for simple, bad for complex task
 
 ## Distribute Tasks and Organize Teams
 - hard tasks to groups -> ability to relax, lay back and try out
@@ -128,28 +133,29 @@
 	- more brains make better decision
 - groups are better if ...
 	- individuals can contribute their opinion
-	- #todo p1 6 30
+	- various perspectives are taken into account
+	- motivated to find the (objectively) best solution
+	- expert knowledge is shared and considered
 
 ## Process Loss
 - any aspect of group interaction that inhibits good problem solving
-	- shared information bias
 	- production blocking
+	- shared information bias
 	- groupthink
 	- ingroup favoritism
 
-### Idea Production
+### Production Blocking - Idea Production
 - Diehl and Stroebe (1987)
 - #todo 
 - individual brainstorming and disregard are best
 
 - production blocking
-	- 
-- if I have to wait I have time to forget and to overthink and therefore not share my ideas
-	- they might not be the best, but quantity finds by chance a good idea
+	- if I have to wait I have time to forget and to overthink and therefore not share my ideas
+		- they might not be the best, but quantity finds by chance a good idea
 
-#### Avoid
+#### How to do better
 - nominal group technique
-	-  leader introduces the problem, group members silently write down ideas concerning the issue, approx 10 to 15 minuts
+	- leader introduces the problem, group members silently write down ideas concerning the issue, approx 10 to 15 minuts
 	- sharing ideas
 	- discussion of each idea
 	- each member ranks the five most preferred solutions, writes the ranking down on a card, laeder collects cards, averages the rankings and informs
@@ -172,9 +178,11 @@
 - shared information bias #todo 
 
 #### Avoid
-- length of group discussions long enough
+- long enough discussions
+	- more time = better information sharing in the end
 - members should not share their initial preferences
-- transactive memory: specific areas of expertise to every member - everybody knows who has access to which information
+- transactive memory: specific areas of expertise to every member - everybody should share all his information of area
+	- 
 
 ### Conformity or Groupthink
 #todo 
@@ -182,10 +190,10 @@
 ### Ingroup Favoritism
 #todo
 
-### Social Identity Theory
+## Social Identity Theory
 #todo 
 
-#### Stereotype Threat
+### Stereotype Threat
 - fear of confirming others negative stereotipe of your own group
 	- salience of social identity
 	- #todo 
@@ -251,7 +259,7 @@
 - positive but also negative decisions
 - skew of group consensus
 
-#### Empirical edvidence
+#### Empirical evidence
 - #todo
 - groups have less risk aversion
 - #todo 

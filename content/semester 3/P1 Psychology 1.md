@@ -3,7 +3,7 @@
 - [[Attitude Development and Perception]]
 - [[Memory and Learning]]
 - [[Emotions]]
-- [[Motivation]] and incentives #todo
+- [[Motivation]] and incentives
 - [[Group Structure & Process]] #todo
 - [[Leadership]] #wontfix
 

@@ -88,14 +88,16 @@ The forces that trigger motivation can be biological, emotional, cognitive or so
 	- e.g. reducing quality of sales for higher current sales count while sacrificing future sales count
 
 # Algorithmic vs Heuristic
-#todo 
-
 ## Algorithmic Tasks
+- e.g. assembly line work
 - mostly extrinsic motivation
 - monetary bonus or promotion
+- goal is high quantity
 
 ## Heuristic Tasks
+- e.g. coming up with ad campaign
 - mostly intrinsic motivation
+- goal is high quality
 
 ### Promoting Intrinsic Motivation
 - foster autonomy
@@ -108,7 +110,7 @@ The forces that trigger motivation can be biological, emotional, cognitive or so
 
 # History
 - history is not exam relevant
-#todo p1 5 25
+#wontfix p1 5 25
 
 ## Away from Behaviorism
 - cognitive movement
@@ -172,10 +174,10 @@ It is crucial to understand how to obtain the benefits without the costs
 		- if source is not credible: "they don't know anything about me, I will prove it to them"
 	- favorite: little impact
 
-## Prosocial Motivation
+# Prosocial Motivation
 - desire to help/benefit others
 
-### Benefits
+## Benefits
 - increased social capital
 	- build status, trust, goodwill
 - working smarter
@@ -185,7 +187,7 @@ It is crucial to understand how to obtain the benefits without the costs
 - working safer
 	- encourage caution, discourage risk, consider consequences for others
 
-### Foster Prosocial Motivation
+## Foster Prosocial Motivation
 - make it personal
 	- personalizing and humanizing
 	- highlight task significance
@@ -193,13 +195,13 @@ It is crucial to understand how to obtain the benefits without the costs
 	- nonfinancial awards
 	- prosocial bonuses
 
-### Dark Side of Prosocial Motivation
+## Dark Side of Prosocial Motivation
 - more likely to escalate their commitment -> [[burnout]]
 - poor time management -> too much commitment at once -> [[burnout]]
 - rationalize otherwise indefensible actions and motivate unethical behavior
 	- e.g. stealing is not ok, unless you do it for charity
 
-## Passion
+# Passion
 - 20% of workers in US are passionate about their work (n=3000)
 - passion ... **Leiden**schaft -> being able to suffer for your work
 - focus on what you care about - not what you love
@@ -211,6 +213,17 @@ It is crucial to understand how to obtain the benefits without the costs
 		- they do matter -> breaks and productivity correlate strongly
 			- (Jachimowicz, 2019)
 
+## Dualistic model of Passion
+![[passion.png]]
+
+- passion
+	- strong inclination toward an activity that people like, that they find important, and in which they invest time and energy
+- harmonious passion
+	- Remains under individual control (no conflicts with other life spheres)
+- obsessive passion
+	- Internalized due to intra- and/or interpersonal contingencies (e.g., self-esteem, social acceptance)
+	- Activity controls the individual (conflicts with other life spheres)
+		- work-life balance is not good
 ## Passion & Achievement
 - total n=38.481
 - passion
@@ -219,9 +232,21 @@ It is crucial to understand how to obtain the benefits without the costs
 	- role-based passion
 
 ## Passion & Burnout
-- #todo high on hormonial passion ... low [[burnout]] risk
-- high on 
+- Fernet et al (2014)
+	- n = 246 + 589
+	- setup
+		- answer to single survey or to 2 surveys with 12 months gap
+	- measures
+		- obsessive & harmonial passion
+		- burnout (emotional exhaustion, depersonalization, accomplishment)
+		- job autonomy (decision autonomy, control over job tasks)
+	- result
+		- obsessive passion correlates with [[burnout]]
+		- harmonious passion correlates negatively with [[burnout]]
+			- correlates with accomplishment
+		- job autonomy relates with harmonious passion, negatively with obsessive passion
 
+# Effort
 ## Effort = Meaningful
 - Inzlicht & Campbell, 2022
 - if it is not effortful to do it is mostly not worth doing it
@@ -234,6 +259,7 @@ It is crucial to understand how to obtain the benefits without the costs
 	- Effort’s perceived meaningfulness, then, might act as a system-justifying force
 	- Effort as a proxy for moral characteristics
 
+# Collaboration
 ## Motivating yourself and others in group work
 - university: 1 shot project, work: repeated people
 	- random group assigning is demotivating
@@ -289,4 +315,4 @@ It is crucial to understand how to obtain the benefits without the costs
 	- Feelings of competency were positively related to work engagement, flow and positive affect 
 
 ## Implement Remote Work Correctly
-#todo
+#wontfix not exam relevant
