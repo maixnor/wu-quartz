@@ -1,3 +1,8 @@
+---
+contributed-by:
+  - Me
+  - GPT-4o
+---
 # 30 year crisis (1914-1945)
 - impact of [[#First World War (1914-1918)]]
 - influenza pandemic 1918-1920
