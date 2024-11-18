@@ -90,4 +90,59 @@ contributed-by:
 	- hard for Germany to find funding
 - link to [[#Great Depression]] a year later -> connection is not as direct as it may seem
 
-# #todo continue on page 18
+# Great Depression
+- monetary reasons
+	- stock market crash
+	- deflation
+	- banking crisis
+	- countries defaulting (public debt too high)
+- real economy reasons
+	- industrial production falls
+	- agriculture crisis
+	- employment and world trade falls
+- institutional reasons
+	- [[Gold Standard]] abandoned
+	- protectionism
+
+## Debt Deflation and Banking Crises
+- Crisis led to lower prices and increased debt burden
+- Rise in credit defaults
+    - US banks hit due to short-term deposit base
+    - Banks' liquidity and solvency challenges -> caused bank runs
+    - Europe: struggles with foreign loan recalls
+- Default in primary product exporting governments due to price drops
+- Several banking crises globally (1930-33)
+
+## Causes of the Great Depression
+- The gold standard's restrictions
+    - Prevented effective monetary/fiscal solutions
+    - International distrust spread due to recall of loans
+- Governments cut budgets amidst revenue falls
+    - Protectionism worsened global trade
+
+## Gold Standard and Deflationary Policies
+- Countries adhering saw 20% price drops (1929-31)
+- Leaving gold standard helped stop deflation
+    - UK left in 1931; US in 1933; France in 1936
+- Spain unaffected by gold standard woes
+
+## Economic Recovery Strategies
+- Leaving gold standard allowed focused fiscal/monetary policies
+- Political and trade blocks instead of open markets
+- Notable countries left gold, helping curb deflation
+    - UK experienced economic recovery earlier than others
+- US initiated recovery via the New Deal under Roosevelt
+    - Focus on public works and social security
+
+## Consequences of Abandoning the Gold Standard
+- UK devalued currency, aiding economic resurgence
+- Other countries followed suit facilitating recovery from depression
+
+## Political Implications
+- Austerity in Germany impacted democracy, aiding Nazi rise
+- Extremism in other nations linked to economic stress and poor policy response
+
+## Summary of Depression Causes
+- Deflation due to gold standard and stringent monetary policies
+- Demand and supply imbalances post-WWI
+- Protectionism hindered international recovery
