@@ -9,4 +9,11 @@ Goal 770 words total
 
 # Text
 
-about: 
+about: pay negotiations at post: [[Post#Ich will Geld]]
+distribution: 99% with opponent, because of negotiation agreements within Post contraction
+succ/fail: failure, I did not get what I wanted - selling myself under my value
+different: ask what I would have to do to get what I want / what their needs are and how I can fulfill them
+
+My selected past negotiation experience is the classic: pay negotiations. My negotiation partner was the head of HR of Austrian Post AG. Not only did I want to negotiate my paycheck but also my initial title, since at the time I was valuing the prestige of a better title quite significantly. Currently the value of the title is zero for me, so that is the first thing I would leave out today.
+
+For the distribution I believe that the bargaining power was almost entirely at their side - 95% percent if I would have to put a number on it. It was my first corporate job and I was not aware of the rigidity of the corporate world and did not yet understand how power dynamics in larger organizations worked. Furthermore, the policies at Post were anything but negotiation friendly.
