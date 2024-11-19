@@ -1,0 +1,6 @@
+- Don't be the first to set the initial offer
+	- your reaction should reveal as little about your reservation price as possible
+	- first offer really high, but not too high to blow the deal
+- Make sure the agent acts in your interest
+	- e.g. offer extra 1% provision if above higher than market value
+- 

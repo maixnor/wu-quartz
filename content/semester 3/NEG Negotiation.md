@@ -6,6 +6,9 @@
 - [[Lecture 1 NEG]]
 - influence a group decision by setting the agenda
 
+
+- [[Main Negotiation Takeaways]]
+
 # Grading
 - 10% pre-assignment
 - 40% preparation/participation

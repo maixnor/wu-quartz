@@ -23,11 +23,16 @@
 	- adding just a single party on one side changes everything to the opposing side
 	- you are "priced" at your [[Opportunity Cost]]
 
-
-
 # Case Study: One-Issue Negotiation
+- BATNA - best alternative to negotiated agreement
+	- the better the BATNA the stronger your [[bargaining power]]
+- ZOPA - 
+- [[Principle-Agent Problem]]
 
 # Game Theory: Bargaining
 ## Asymmetric Information
+- [[Open Book Accounting]]
+	- just open up the books and skip the finding the equilibrium to just figuring out the equilibrium and work accordingly
+- 
 
 ## Patience
