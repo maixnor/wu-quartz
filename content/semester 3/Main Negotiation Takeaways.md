@@ -5,3 +5,6 @@
 	- e.g. offer extra 1% provision if above higher than market value
 - Cheap Talk works
 	- most people buy into cheap talk, even tho it should not change anything about the negotiation terms
+- Time works
+	- the longer you can keep the deal off over the other party the better your deal will be
+	- ask to put the deal off for a week to figure out about their patience level

@@ -42,9 +42,14 @@
 
 ## Patience
 - patience ... aversion against delays
-- [[Rubensteins Bargaining Model]]
+- [[Rubinstein Bargaining Model]]
 	- value of patience 0 < p < 1 ... [[Discounting]] value
 	- kind of a [[Repeated Ultimatum Game]], but with discounting
+	- ex: $p_{1}= 0.5, p_{2} = 0.9 \Longrightarrow d_{1}=0.18, d_{2}=0.82$
+	- as patience increases the split converges to 50/50
+	- with lower patience the first mover advantage is stronger
+		- with higher patience the first mover advantage is weaker
+	- 
 
 ### Example Trump vs Pelosi
 - #todo l1 
