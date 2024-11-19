@@ -8,7 +8,7 @@
 - [[Nash Equilibrium]] shifts from 500/250 to 333/333
 - many first movers wanted to "cheat" by committing to 600, then changing to something lower
 
-- I can make [[#DS Experiment 5]] into 6 by P2 not looking at the commitment P1 has done
+- I can make [[#DS Experiment 5]] into 6 by P2 not looking at the commitment P1 has done and communicating that to P1
 	- also from [[Stackelberg Model]] to [[Cournot Model]]
 
 ![[experiment_6_gt1.png]]
