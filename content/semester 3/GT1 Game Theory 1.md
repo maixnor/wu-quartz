@@ -1,7 +1,7 @@
 ## Game Theory I
 - [[Intro Session Game Theory]]
 - [[Game Theory]] -> [[Analyzing Games]]
-- [[Markets]] and [[Monopoly]]
+- Markets and [[Monopoly]]
 	- [[Price Matching Policy]]
 	- [[Strategic Moves]]
 - [[Behavioral Game Theory]]

@@ -1,9 +1,9 @@
 # Experiments
-## Experiment 12
-- centipede game
-- SPNE for both players it to always choose down
-	- not just first decision of A, since a strategy includes all possiblities
+- [[Experiment 12 GT1]]
+- [[Experiment 13 GT1]]
+- [[Experiment 14 GT1]]
 
+## K-Level Reasoning
 ### Limited depth of Reasoning
 - how far can you think?
 - k-level thinking models
@@ -12,6 +12,7 @@
 		- e.g. random, just cooperate, just copy other person
 	- comparable to the strength of a chess engine
 		- how many moves will the computer think ahead?
+		- chess engine measured in "depth"
 - methodology
 	- you as a k-level thinker think about how (k-1..0)-level thinkers think and predict their decisions and play the best response based on that estimate
 	- everyone believes they are the smartest person in the room
@@ -24,17 +25,9 @@
 	- frequency can be econometrically estimated, but should be constant across games
 	- it's not an equilibrium concept
 		- race to the top with k-level ... higher k is better
-	- #todo gt 5 
+		- think of chess engines -> higher depth = stronger
+	- #todo gt 5
 
-## Experiment 13
-- finite repeated game
-- solution
-	- [[Backward Induction]]
-	- NE of last round is 0.8/0.8, therefore all the rounds before too
-- classic [[Prisoners Dilemma]]
-- why did this work better than [[Experiment 2 and 3 GT1#Setting 2 - simultaneous|Experiment 2]]?
-	- only 2 partners - easier to collude and communicate
-	- 
 ### Punishing Strategies
 - "I start higher and undercut when I am being undercut"
 - incentive of last round: undercut
@@ -60,16 +53,6 @@
 	- threat of going back to NE is always credible
 #todo gt 5 53
 - why "Folk Theorem" - everybody knew about it but nobody published it / wrote it down in notation
-
-## Experiment 14
-- infinite repeated game
-- no [[Backward Induction]] possible - there is no last round to roll back from
-- any round is equal, probability of each run being the last round is the same
-- NE of 0.08/0.08 still valid
-	- subgames look line the actual game, i.e. no real subgames
-- important factors:
-	- fixed [[Discounting]] factor $\delta$ .... $\sum\limits^{\infty}_{t=1} \delta^{t} = \frac{\delta}{1-\delta}$
-	- continuation probability
 
 ### Grim Trigger
 - "I will start with cooperation, cheat me once and I will cheat you always"

@@ -8,3 +8,8 @@
 - also known as [[Nash Equilibrium]]
 - [[Game Theory]] is about searching for equilibria
 
+## Types of Equilibrium
+- [[Nash Equilibrium]]
+- Subgame Perfect Equilbrium like in [[Extensive Form#Subgame perfection]]
+- [[Mixed Strategies]] Equilibria
+- [[Coordination Games]]
