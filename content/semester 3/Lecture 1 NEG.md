@@ -33,6 +33,18 @@
 ## Asymmetric Information
 - [[Open Book Accounting]]
 	- just open up the books and skip the finding the equilibrium to just figuring out the equilibrium and work accordingly
-- 
+- Cummnication
+	- Cheap Talk works
+		- works better than expected
+		- most people buy into cheap talk, even tho it should not change anything about the negotiation terms
+	- credible information is almost as effective as cheap talk, 
+		- works less than expected
 
 ## Patience
+- patience ... aversion against delays
+- [[Rubensteins Bargaining Model]]
+	- value of patience 0 < p < 1 ... [[Discounting]] value
+	- kind of a [[Repeated Ultimatum Game]], but with discounting
+
+### Example Trump vs Pelosi
+- #todo l1 

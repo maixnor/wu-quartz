@@ -3,4 +3,5 @@
 	- first offer really high, but not too high to blow the deal
 - Make sure the agent acts in your interest
 	- e.g. offer extra 1% provision if above higher than market value
-- 
+- Cheap Talk works
+	- most people buy into cheap talk, even tho it should not change anything about the negotiation terms
