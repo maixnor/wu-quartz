@@ -5,11 +5,25 @@
 
 # Recap Game Theory
 
-## Fixed Pie 
+## Fixed Pie Bargaining
 - only a fixed size pie available
 	- no win-win outcomes
 	- my win, their loss and vice versa
-- 
+- [[Dictator Game]], [[Ultimatum Game]]
+- preferences matter
+	- is there more than money which is important?
+	- fairness, reputation, promises, etc
+- repetition matters
+	- [[Repeated Ultimatum Game]]
+	- [[Backward Induction]]
+	- "you always meet twice in life"
+- competition matters
+	- [[Market Game]]
+		- power from offering to accepting side
+	- adding just a single party on one side changes everything to the opposing side
+	- you are "priced" at your [[Opportunity Cost]]
+
+
 
 # Case Study: One-Issue Negotiation
 
