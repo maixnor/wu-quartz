@@ -14,5 +14,5 @@
 	- no [[Nash Equilibrium]] since the optimum (both not confessing) cannot be reached
 	- both players have dominant strategy of confessing -> both will confess
 
-- resource: Murder by Numbers video on Youtube
+- resource: Murder by Numbers video on YouTube
 	- https://www.youtube.com/results?search_query=murder+by+numbers

@@ -10,8 +10,8 @@
 ![[experiment_5_gt1.png]]
 
 ## Math Expressions
-- $\Pi_{2}= P * Q^{*} = (1-0.0001(Q_{1} + Q_{2})) * Q_{2}$
+- $\Pi_{2}= P * Q^{*} = (1-0.001(Q_{1} + Q_{2})) * Q_{2}$
 	- maximize -> [[Optimization]]
-- $\Pi_{1}= P * Q^{*} = (1-0.0001(Q_{1} + 500-0.5Q_{1})) * Q_{1}$
+- $\Pi_{1}= P * Q^{*} = (1-0.001(Q_{1} + 500-0.5Q_{1})) * Q_{1}$
 	- maximize -> [[Optimization]]
 - [[Nash Equilibrium]] at 500, 250

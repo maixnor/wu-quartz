@@ -77,8 +77,10 @@
 - 2nd order decision
 	- if there are multiple equilibria i.e. equally well for me
 	- then I can choose the equilibrium which hurts other player(s) the most
+- [[Football vs Opera Game]]
 ## Prisoners Dilemma
 - [[Dilemma Games]]
+- [[Prisoners Dilemma Game]]
 - [[Bertrand Model]]
 ## Maximin Strategy
 - no complete rationality or not fully informed players

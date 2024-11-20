@@ -39,19 +39,31 @@
 - punish once, then up for cooperation again
 - outcome: I play the safe option in the first round, then whatever the other player played in the last round
 
+>[!info]
+>If the future is important enough (i.e., $\delta$ sufficiently large), then given that all players play a trigger strategy, deviation is not profitable. Thus, those trigger strategies are an equilibrium.
+
 #### One-Time Deflection
-#todo gt 5 50
+  - deflect once - then other player deflects once, then collude all time
+  - important part is that the sum is multiplied with 6 ... colluding payoff
+  $$ 
+  6 + \delta \cdot 1 + \sum_{t=2}^{\infty} \delta^t \cdot 5 > 5 + \delta \cdot 5 + \sum_{t=2}^{\infty} \delta^t \cdot 5 \Rightarrow \delta < \frac{1}{4} 
+  $$
 
 #### All-Time Deflection
-#todo gt 5 51
+- deflect once - then other player deflects too, deflect all time
+- important part is that the sum is multiplied with 2 ... non-colluding payoff
+  $$ 
+  6 + \sum_{t=1}^{\infty} \delta^t \cdot 2 > 5 + \sum_{t=1}^{\infty} \delta^t \cdot 5 \Rightarrow \delta < \frac{1}{4} 
+  $$
 
 #### Folk Theorem
+![[folk_theorem.png]]
 - G ... n-person static game, complete information
 - e ... payoff vector
 - x ... feasible vector in G
 - if any player wants to deviate from $\forall i | x_{i} > e_{i}$ then the players can just return to the NE by either Tit4Tat or Grim Trigger strategies
 	- threat of going back to NE is always credible
-#todo gt 5 53
+	- any strategy in the green region is feasible, therefore can be sustained
 - why "Folk Theorem" - everybody knew about it but nobody published it / wrote it down in notation
 
 ### Grim Trigger
