@@ -7,9 +7,9 @@
 - [[Behavioral Game Theory]]
 - [[Lecture 5]]
 - [[Lecture 6]]
-- [[Auctions]]
-- [[Information]]
 - [[Limits of Game Theory]]
+
+- [[Types of Games]]
 ## Grading
 - 30% preparation
 - 2x10% written homework

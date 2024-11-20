@@ -14,7 +14,8 @@
 	- if offer of other player was known just 1-upping other player would be best
 - C accepts higher offer, if both offers are the same -> chose any
 - solved again via Backwards Induction
-- SPNE: (A: 8, B: 8, C: a>b: a; a<b: b, a=b: a or b)
+- SPNE: (A: MC, B: MC, C: a>b: a; a<b: b, a=b: a or b)
+	- MC ... marginal cost
 
 ## Extensive Form
 - #todo gt1 5 36
