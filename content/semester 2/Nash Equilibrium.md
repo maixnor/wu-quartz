@@ -4,6 +4,21 @@
 - Everyone is playing the best response
 - there is **always** at least 1 equilibrium in pure or mixed strategies
 
+# Solving
+## Best Response
+- for each player look the best responses to every action of every other player
+	- players with the same strategies and payoffs can be grouped
+
+## Elimination of Dominated Strategies
+- find a [[Strategies#dominated strategy]] which will never be picked
+- eliminate
+- take another look at now changed strategies for everyone else
+- find another [[Strategies#dominated strategy]] which will never be picked
+- repeat until only the Nash(es) are present
+
+- [[normal form]]: remove a row or column from the matrix
+- [[extensive form]]: cut off a branch completely
+
 # History
 - a 10-page paper
 - definition, existence, applications
