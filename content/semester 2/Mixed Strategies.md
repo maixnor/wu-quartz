@@ -1,7 +1,11 @@
+# Requirements
 - 0-sum game
-- e.g. rock-paper-scissors
-	- there is no clear profit-maximizing strategy
-	- any response is the best response in pure strategies
+- indifference condition
+	- agents must be indifferent to which strategy they use
+	- e.g. rock-paper-scissors
+		- there is no clear profit-maximizing strategy
+		- any response is the best response in pure strategies
+# Equilibrium
 - no [[Nash Equilibrium]] in pure strategies
 - **BUT** there is an [[equilibrium]] with **mixed strategies**
 	- mixed strategy ... taking probabilities of actions into account

@@ -1,6 +1,6 @@
 # Definition
 - defined by
-	- players
+	- players/agents
 	- potential strategies
 	- utility payoffs
 

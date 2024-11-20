@@ -1,0 +1,5 @@
+- common pool resources
+	- fishes in a pond, each fisherman can fish as many as he wants, if too much fish is fished then the fish will die out
+	- individual: I fish as much as possible, nobody else fishes anything
+	- group: fish as much as possible together in long term
+	- outcome: everyone wants to fish a bit more than average, therefore the fish die out

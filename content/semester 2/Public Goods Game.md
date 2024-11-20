@@ -1,0 +1,7 @@
+- provision of public goods
+	- non-excludable: nobody can be executed
+	- non-rival: one's consumption does not hurt the others
+	- public transport
+	- group: everybody profits if provided
+	- individual: profit of freeriding
+	- outcome: nobody provides, the street is not built

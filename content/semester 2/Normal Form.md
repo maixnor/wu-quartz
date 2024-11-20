@@ -1,3 +1,4 @@
+![[normal_form.png]]
 ## Payoff Matrix
 - $N$ - dimensional -> $N$ ... number of players
 - $m \times m$ matrix -> $m$ ... number of strategies of players

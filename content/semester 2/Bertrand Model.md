@@ -34,6 +34,6 @@ $$
 ## Graphically
 ![[FM_bertrand.png]]
 - Collusion ... Cartel price setting
-- related to [[Prisoners Dilemma]]
+- related to [[Dilemma Games]]
 	- it would be best (highest profit) for both companies to collude
 	- but competing is always the dominant strategy

@@ -12,8 +12,11 @@
 
 # Math
 $$
-s^* = (s_1^*, s_2^*, \dots, s_n^*) \text{ is a Nash equilibrium if }
-\forall i \in \{1, 2, \dots, n\}, \quad u_i(s_i^*, s_{-i}^*) \geq u_i(s_i, s_{-i}^*) \quad \forall s_i \in S_i
+\begin{matrix}
+s^* = (s_1^*, s_2^*, \dots, s_n^*) \text{ is a Nash equilibrium if } \\
+\forall i \in \{1, 2, \dots, n\} |
+u_i(s_i^*, s_{-i}^*) \geq u_i(s_i, s_{-i}^*) \quad \forall s_i \in S_i
+\end{matrix}
 $$
 - $s^* = (s_1^*, s_2^*, \dots, s_n^*)$ represents the strategy profile, where $s_i^*$ is the strategy chosen by player $i$.
 - $s_{-i}^*$ denotes the strategies of all players except player $i$.

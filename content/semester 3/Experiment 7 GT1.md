@@ -1,7 +1,7 @@
 - almost [[Cartel]] competition - [[Price Matching Policy]]
 	- signal of price matching: "You undercutting me does not benefit you"
 - Collusion is now the Equilibrium
-	- [[Prisoners Dilemma]]
+	- [[Dilemma Games]]
 	- [[Nash Equilibrium]] at 80 cents for everyone (was 30 cents before)
 - only me setting the price matching is not enough
 	- price matching policy setter does not lose out, even if undercut

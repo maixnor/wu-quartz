@@ -46,9 +46,9 @@
 - not all players have all knowledge
 ## Nash Equilibrium
 - [[Nash Equilibrium]]
-- for all players the utility has been maximized
-	- i.e. sticking to the current (best) option, since every other option is inferior
-- there can be more than one [[nash equilibrium]], but there must always be one
+- for all players the utility has been maximized given the actions of the other players
+	- i.e. sticking to the current (best) option, since every other option is inferior for every player
+- there can be more than one [[nash equilibrium]], but there must always be at least one
 - [[Nash Equilibrium#Math|mathematical notation]]
 
 ## Payoff Matrix
@@ -78,10 +78,10 @@
 	- if there are multiple equilibria i.e. equally well for me
 	- then I can choose the equilibrium which hurts other player(s) the most
 ## Prisoners Dilemma
-- [[Prisoners Dilemma]]
+- [[Dilemma Games]]
 - [[Bertrand Model]]
 ## Maximin Strategy
-- no complete rationality or not folly informed players
+- no complete rationality or not fully informed players
 - even tho a [[Nash Equilibrium]] may be possible there is still the risk that the other player does not follow the optimal strategy
 	- when e.g. an investment is risky then it might be better to leave the dominant strategy and choose the risk-averse strategy
 	- risk-averse strategy -> maximin strategy
@@ -91,21 +91,23 @@
 - [[Mixed Strategies]]
 # Solutions of a Dynamic Game
 ## Repeated Games
-- giving a new spin to [[Prisoners Dilemma]]
+- giving a new spin to [[Dilemma Games]]
 ### Finite Games
 - game is played a number of times
 - last-move optimization -> state at last move will be [[nash equilibrium]]
 - deviations from equilibrium are only possible, if the deviation is not punished in the next turn/state of the game
-- [[First Mover Advantage]] can be meaninful
+- [[First Mover Advantage]] can be meaningful
 > [!info]
-> [[extensive form]] -> decision tree
-> think about pre-move decisions in chess
-> [[Backward Induction]]
+> - [[extensive form]] -> decision tree
+> - think about pre-move decisions in chess
+> - [[Backward Induction]]
 ### Infinite Games
 - a game is not just played once, but infinitely many times
 	- i.e. there is no last move -> no last-move optimization
-- genuine repetition can flourish
-- [[First Mover Advantage]] only limited applicable
+- genuine repetition dynamics can flourish
+	- e.g. cooperation
+- [[Discounting]] for future earnings
+- [[First Mover Advantage]] only limited
 #### Tit-for-Tat Strategy
 - I do what you did to me last time
 - this can sustain collusion for long times, even when there are disruptions
@@ -117,6 +119,7 @@
 # Goals of Firms
 > Which actions give me an edge in the market?
 - make entry unattractive -> [[Market Entry Barriers]]
+	- best case: [[Monopoly]]
 - hurting competitors
 	- reduce output
 	- stop producing entirely (exit market)
@@ -127,7 +130,4 @@
 - [[First Mover Advantage]] - if present
 
 # Types of Games
-- [[Dictator Game]] 
-- [[Ultimatum Game]]
-	- [[Repeated Ultimatum Game]]
-- [[Market Game]]
+- [[Types of Games]]
