@@ -11,6 +11,6 @@
 - [[Football vs Opera Game]]
 
 # Others
-- [[Chicken Game]] also known as "Hawk and Dove"
+- [[Chicken Game]] also known as [[Hawk and Dove Game]]
 - [[Public Goods Game]]
 - [[Fishpond Game]]

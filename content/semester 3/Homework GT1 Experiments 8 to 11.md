@@ -99,7 +99,8 @@ in Data:
 
 E$ payoffs are not an optimal way to describe outcome utilities in this game. Why? Because money represented in numbers in some foreign currency is something very abstract. It would be interesting to see how the results of the experiment would change if something more tangible e.g. apples would be used as “outcome utilities”
 
-# 3. Experiment 10: Repeated Ultimatum Game - [[Repeated Ultimatum Game]]
+# 3. Experiment 10: Repeated Ultimatum Game
+- [[Repeated Ultimatum Game]]
 
 ## a) 
 finding SPNE using rollback by **finding the** **best action for every possible point/subgame along the sequence**
@@ -140,6 +141,7 @@ Observations:
 # Experiment 11 - Market Game
 ## a) Type of Game
 This is a simultaneous Game, as Players A and B act first with C following them
+
 ## b) Find all subgame perfect Nash equilibria of the single round game. (10)
 To find the Nash equilibrium, we need to start with Player C’s optimal strategy:
 $$\text{Offer A}>\text{Offer B}\to \text{pick offer A}$$
@@ -147,6 +149,7 @@ $$\text{Offer A}<\text{Offer B}\to \text{pick offer B}$$
 $$\text{Offer A}=\text{Offer B}\to \text{pick either offer}$$
 As both Player A and B are rational, they both know Player C’s strategy. Therefore, they will try to undercut each other until the maximum offer (for Player C), 8\$ is reached. 
 The best response for Player A and B is to offer 8\$. 8\$/8\$ is the subgame perfect Nash equilibrium.
+
 ## c) Analyzing the Data 
 The average offer changed drastically over time.
 

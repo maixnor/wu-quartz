@@ -1,3 +1,4 @@
+![[dictator_game.png]]
 # Rules
 - 1 interaction
 - player A decides on an amount to player B

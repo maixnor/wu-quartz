@@ -15,11 +15,9 @@ In the lab: a lot of rejections
 - example: [[Homework GT1 Experiments 8 to 11#2. Experiment 9 - Ultimatum Game]]
 
 ## Extensive Form
-- [[Extensive Form]]
-- #todo GT1 5 15
-
 - 1 subgame equilibrium
 	- minimum given to player 2, they have to accept
+![[ultimatum_game.png]]
 
 ## Real Life Example
 - any price offering which cannot be haggled for
@@ -29,4 +27,4 @@ In the lab: a lot of rejections
 - same equilibrium as in [[Dictator Game]]
 - behavior tells a different story
 - in an Ultimatum Game the offers are much higher
-- #todo gt1 5 20
+![[ultimatum_vs_dictator_game.png]]
