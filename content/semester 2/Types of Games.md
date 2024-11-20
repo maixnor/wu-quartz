@@ -14,3 +14,4 @@
 - [[Chicken Game]] also known as [[Hawk and Dove Game]]
 - [[Public Goods Game]]
 - [[Fishpond Game]]
+- [[Median Game]]
