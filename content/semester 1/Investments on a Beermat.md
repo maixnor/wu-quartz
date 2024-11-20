@@ -15,7 +15,7 @@ beermat ... de: Bierdeckel, a cardboard sheet to place your drink on so the tabl
 - it depends...
 - what strategy is the company following?
 	- cash method: [[Discounting]], [[Net Present Value]]
-	- annuity method: #todo get from slides
+	- annuity method: [[Annuity Accounting]]
 	- [[Internal Rate of Return]]: [[Newtons Approximation]] 
 		- rather not use this model, it tends to be misleading
 - [[Amortization#Dynamic Amortization]]
