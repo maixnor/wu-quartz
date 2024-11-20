@@ -22,7 +22,7 @@ $q_{2}^*=7.5$
 ## First Mover Advantage of the Stackelberg Model
 Conclusions for symmetric firms:
 - The output of Firm 1 is two times larger than that of Firm 2
-- The profit of Firm 1 is two times larger than that of Firm 2 (first mover advantage)
+- The profit of Firm 1 is two times larger than that of Firm 2 ([[first mover advantage]])
 [[Nash Equilibrium]] reached
 
 > This is only true for symmetric firms and constant marginal costs!
