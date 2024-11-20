@@ -3,7 +3,7 @@
 - [[Experiment 13 GT1]]
 - [[Experiment 14 GT1]]
 
-## K-Level Reasoning
+## Bounded Rationality / K-Level Reasoning
 ### Limited depth of Reasoning
 - how far can you think?
 - k-level thinking models
