@@ -2,6 +2,10 @@
 contributed-by:
   - Matthaeus Engelbrecht
 ---
+
+>[!important]
+>Give me 2 lines and I will solve the world for you
+
 # Definition
 > Economics from a birds eye view
 
@@ -13,4 +17,7 @@ contributed-by:
 - figuring out
 	- [[GDP per Capita]]
 	- Price Level
-	- Exchange Rate
+	- Exchange Rates
+	- [[inflation]]
+	- [[labor market]]
+		- e.g. [[unemployment]]
