@@ -6,12 +6,12 @@
 
 # Dilemmas
 - [[Prisoners Dilemma Game]]
+- [[Public Goods Game]]
+- [[Fishpond Game]]
 
 # Battle of the Sexes
 - [[Football vs Opera Game]]
 
-# Others
+# Cooperative
 - [[Chicken Game]] also known as [[Hawk and Dove Game]]
-- [[Public Goods Game]]
-- [[Fishpond Game]]
 - [[Median Game]]
