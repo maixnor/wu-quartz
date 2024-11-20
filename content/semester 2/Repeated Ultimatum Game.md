@@ -11,4 +11,3 @@
 		- as soon as there are more than 1 SPNE anymore this does not hold anymore
 	- also applies to [[Dilemma Games]], even if it is repeated
 - offers are larger than in non-repeated [[Ultimatum Game]]
-- 

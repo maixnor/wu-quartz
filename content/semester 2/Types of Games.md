@@ -5,7 +5,7 @@
 
 
 # 
-- Public Goods Game
-- Fishpond Game
-- Hawk and Dove Game
+- [[Public Goods Game]]
+- [[Fishpond Game]]
+- [[Hawk and Dove Game]]
 - 
