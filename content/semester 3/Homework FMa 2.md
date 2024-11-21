@@ -117,16 +117,16 @@ Now lets do the same for $\frac{P_{t}^e}{P_{t-1}}$ with $\pi^e_{t} \equiv \frac{
 
 Now let's replace $\frac{P_{t}}{P_{t-1}}$ and $\frac{P_{t}^e}{P_{t-1}}$ in the Equation we got to after the time modification we get:
 $$(1+\pi_{t}) = (1+\pi_{t}^e)(1 + m)(1- \alpha_{t + z})$$
-This results in a relationship between inflation ($$p_t$$), expected inflation ($$pe_t$$), and the unemployment rate ($$u_t$$), with subsequent steps refining this relation to appear more user-friendly.
+This results in a relationship between inflation ($p_t$), expected inflation ($pe_t$), and the unemployment rate ($u_t$), with subsequent steps refining this relation to appear more user-friendly.
 
 Now we divide both sides by $(1 + \pi t^e)(1 + m)$:
 $$\frac{(1+\pi_{t})}{(1+\pi_{t}^e)(1+m)}=1-\alpha u_{t}+z$$
 
-As long as inflation, expected inflation, and the markup remain reasonably small, a satisfactory approximation for the left side of the equation is $$1 + \pi_t - p_t^e - m$$. Substituting this into the previous equation and rearranging yields:
+As long as inflation, expected inflation, and the markup remain reasonably small, a satisfactory approximation for the left side of the equation is $1 + \pi_t - p_t^e - m$. Substituting this into the previous equation and rearranging yields:
 
 $$\pi_{t}=\pi_{t}^e+(m+z)-\alpha u_{t}$$
 
-Removing the time indexes, this can be referred to as the original Philips curve. Including the time indexes ($\pi^e_{t}=\bar{\pi}$) simplifies it as well. The inflation rate, represented as $$\pi_t$$, is influenced by the expected inflation rate, denoted as $$\pi^e_t$$, and the unemployment rate, $$u_t$$. Additionally, this relationship is contingent on the markup, $$m$$, factors influencing wage setting, $$z$$, and the impact of the unemployment rate on wages, $$a$$.
+Removing the time indexes, this can be referred to as the original Philips curve. Including the time indexes ($\pi^e_{t}=\bar{\pi}$) simplifies it as well. The inflation rate, represented as $\pi_t$, is influenced by the expected inflation rate, denoted as $\pi^e_t$, and the unemployment rate, $u_t$. Additionally, this relationship is contingent on the markup, $m$, factors influencing wage setting, $z$, and the impact of the unemployment rate on wages, $a$.
 
 $$\pi_{t}=\bar{\pi}+(m+z)-\alpha u_{t}$$
 
