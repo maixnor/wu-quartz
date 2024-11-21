@@ -13,7 +13,12 @@ The "out of labor force" consists of those people who are of working age (15-64)
 
 The employment rate is defined as the percentage of the labor force who have a job. 
 
+$$\text{Employment Rate} = \frac{\text{Employed}}{\text{Labor Force}} * 100$$
+
 Similarly, the unemployment rate is defined as a percentage of the labor force who do not have jobs but are actively seeking work.
+
+$$\text{Unemployment Rate} = \frac{\text{Unemployed}}{\text{Labor Force}} * 100$$
+
 
 ## Task 3: Explain the concept of the reservation wage.
 
@@ -33,23 +38,27 @@ The bargaining power of workers depends on the following factors:
 
 3. **Labor rights determined by the legal and institutional framework**: Employee protection such as minimum wage, strong labor unions, and higher unemployment benefits increases the collective bargaining power of workers.
 
+The mentioned factors affect labour supply and/or demand: when supply is lower, and industry demand is higher, the bargaining power of workers increases, or vice versa. The bargaining power of workers, in turn, affects the amount of wage they are willing to accept (reservation wages).
+
 ## Task 6: What is the value of the price premium $m$ in a market with perfect competition?
 
-The price premium $m$ is defined as the markup of the price over the marginal cost that businesses can charge due to possessing some market power as a result of imperfect competition. In a market with perfect competition, firms do not have market power due to the large number of buyers and sellers with complete knowledge of the market, and free exit and entry of firms selling a homogeneous good. This results in firms being 'price takers', meaning they must accept the equilibrium price where $P = MC$ at which goods are sold in the market. If a perfectly competitive firm attempts to charge even a tiny amount more than the market price, it will be unable to make any sales, indicating the value of $m$ is zero.
+The price premium $m$ is defined as the markup of the price over the marginal cost that businesses can charge due to possessing some market power as a result of imperfect competition. 
+
+In a market with perfect competition, firms do not have market power due to the large number of buyers and sellers with complete knowledge of the market, and free exit and entry of firms selling a homogeneous good. 
+
+This results in firms being 'price takers', meaning they must accept the equilibrium price where $P = MC$ at which goods are sold in the market. If a perfectly competitive firm attempts to charge even a tiny amount more than the market price, it will be unable to make any sales, indicating the value of $m$ is zero.
 
 ## Task 7: What is the relationship between the natural rate of unemployment and the natural level of production?
 
 The natural rate of unemployment is the unemployment rate at which the actual price level is equal to the expected price level. For a given labor force, the natural unemployment rate determines the level of employment, and given the production function, the level of employment determines the level of output. 
 
-Expressed mathematically, when the unemployment rate is equal to the natural rate $u_n$, employment is given by 
+Expressed mathematically, when the unemployment rate is equal to the natural rate $u_n$, employment is given by $N_{n} = L \times (1-u_{n})$ and the output is equal to:
 
-$$L = L_n$$ 
+$$Y_{n}= A \times N_{n} = A \times L \times (1-u_{n})$$
 
-(where $L_n$ is the natural level of employment), and output is equal to 
+(where $N_n$ is the natural level of employment, $A$ is labor productivity and $Y_{n}$ is the natural level of production). Consequently, a lower natural rate of unemployment is associated with a higher natural level of production $Y_n$, and vice versa. 
 
-$$Y_n = L_n \cdot Y_p$$ 
-
-(where $Y_p$ is the labor productivity). Consequently, a lower natural rate of unemployment is associated with a higher natural level of production $Y_n$, and vice versa. This relationship makes sense logically; a lower natural unemployment rate implies that more workers are employed in productive activities, boosting economic output.
+It makes logical sense as well: a lower natural unemployment rate implies that more workers are employed in productive activities, boosting economic output. The natural level of production grows when more workers are employed, assuming labor productivity remains constant.
 
 ## Task 8: Present the wage-setting curve verbally and graphically.
 
@@ -165,7 +174,10 @@ where:
 - $m$ is the markup,
 - $z$ is other factors affecting wages, and
 - $\alpha$ is the sensitivity of inflation with respect to unemployment.
+### Expected Inflation Rate
+The expected inflation rate is dependent on how people form their expectations about inflation. It can be formed by either of these two scenarios:
 
-### Expected Inflation Formation
-
-Expected inflation can also be influenced by how people form their inflation expectations, either by anchoring them to a stable target or by relying on past inflation rates.
+1. If people's expectations of inflation are anchored ($\theta = 0$), we return to the original Phillips curve:
+   $$\pi_t = \pi + (m - z) - \alpha u_t$$
+2. If the current year's inflation rate completely depends on the previous year's ($\theta = 1$), the function adjusts accordingly.
+   $$\pi_t = \pi + (m - z) - \alpha u_{t} \Longrightarrow \pi_{t}- \pi_{t-1} = (m-z) - \alpha u$$
