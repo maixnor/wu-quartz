@@ -80,14 +80,14 @@
 
 - debt to equity ratio, leverage ratio
 - Gearing of 1 ... 50% equity, 50% liabilities
+- can be compared to [[leverage]]
 
 ### Book to Market Ratio
- - comparing book value from [[Balance Sheet]] and compare it to [[Market Capitalization]]
- - is normally a multiplier of book value to get to market cap
-	- book value of equity / market value of equity
- - #todo FMa 3 68
- - 
-
-### Financial Leverage
-- #todo Fma 3 69
-- different leverages can/cannot be evaluated easily
+ - P/B = market cap / balance sheet sum
+ 
+ - a.k.a. price to book ratio
+ - comparing book value from [[Balance Sheet]] to [[Market Capitalization]]
+ - used as part of evaluating the risk factor of a stock/investment 
+	 - P/B < 1 ... worth less on stock market than in the books
+	 - P/B can also be seen as a hype measurement -> more hype (higher price), but same company value means higher P/B
+	 - often basis for a stock being "undervalue"/"overvalued"
