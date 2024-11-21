@@ -1,0 +1,2 @@
+# Methods
+- [[ABC Method]]
