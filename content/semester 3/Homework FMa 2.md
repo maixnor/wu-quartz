@@ -73,6 +73,8 @@ The wage-setting curve is typically downward sloping because a higher unemployme
 
 The expected price level affects wage-setting because higher expected prices lead to higher wage demands from employees. Factors that can shift the wage-setting curve include changes in minimum wage laws, the strength of labor unions, and variations in unemployment benefits.
 
+![[hw2_fma_pc.png]]
+
 ## Task 9: Assume that unemployment benefits decrease. Analyze this change verbally and graphically.
 
 A decrease in unemployment benefits, represented by a decrease in $z$, affects the labor market as follows:
@@ -81,26 +83,71 @@ A decrease in unemployment benefits, represented by a decrease in $z$, affects t
 - **Movement Along the Price-Setting Curve**: The price-setting curve (PS) remains unchanged as it is determined by firms' markup decisions.
 - **New Equilibrium with Lower Unemployment**: The new equilibrium point occurs at a lower real wage and a lower unemployment rate. The reduced bargaining power of workers leads them to accept lower real wages, allowing firms to hire more workers.
 
-## Task 10: Derive the original Phillips curve from the wage and price setting equations. How is expected inflation formed?
+![[hw2_fma_shift.jpeg]]
 
-The Phillips Curve relationship involves:
+## 10. Derive the original Phillips curve from the wage and price setting equations. How is expected inflation formed? Explain how the actual inflation is related to $π^e$, $m$ and $u$. 
+The original Phillips curve can be **derived** from the wage **and** price **setting equations**, highlighting the **relationship between inflation, expected inflation, and unemployment**.
 
-$$\pi = \pi^e + (m + z) - \alpha u$$
+- **Wage Setting Equation**: The nominal wage ($W$) set by wage setters depends on the expected price level ($P^e$), the unemployment rate ($u$), and other factors ($z$) that affect wage determination:
+- $W = P^eF(u, z)$
+	- For simplicity, we assume a specific form for the function F(u, z): $F(u, z) = 1 - αu + z$ where α captures the effect of unemployment on wages.
+	- Substituting this form into the wage setting equation, we get: $W = P^e(1 - αu + z)$
 
-where:
-- $\pi$ is actual inflation,
-- $\pi^e$ is expected inflation,
-- $m$ is markup,
-- $z$ represents other factors affecting wage determination, and
-- $u$ is unemployment.
+- **Price Setting Equation**: The price level (P) set by firms depends on the nominal wage (W) and the markup (m):
+- $P = (1 + m)W$
+
+- **Combining the Equations**: Substituting the nominal wage from the wage setting equation into the price setting equation, we get a relationship between the price level, the expected price level, and the unemployment rate:
+- $P = P^e (1 + m)(1 - αu + z)$
+- Expressing in Terms of Inflation: This equation can be rewritten in terms of inflation ($π$) and expected inflation ($π^e$):
+- $π = π^e + (m + z) - αu$
+	- This equation shows that actual inflation is influenced by expected inflation, the markup, other factors affecting wage determination, and the unemployment rate.
+
+##### Detailed Derivation of the Phillips Curve
+$$P = P^e (1 + m)(1 - αu + z)$$
+We now use time subscripts for the price level (P_t), the expected price level (Pe_t), and the unemployment rate (u_t) to indicate their values in year $t$, which modifies the above Equation accordingly.
+$$P_t = P^e_t(1 + m)(1- \alpha_{t + z})$$
+
+Next, we transition the expression from price levels to inflation rates by dividing both sides of the equation by last year’s price level, $P_{t-1}$.
+$$\frac{P_t}{P_{t-1}} = \frac{P^e_t}{P_{t-1}}(1 + m)(1- \alpha_t + z)$$
+
+Rewriting the fraction $\frac{P_{t}}{P_{t-1}}$ as:
+$\frac{P_{t}}{P_{t-1}}=\frac{P_{t}-P_{t-1}+P_{t-1}}{P_{t-1}}=1+\frac{P_{t}-P_{t-1}}{P_{t-1}}=1+\pi_{t}$. Here its important to remember the inflation rate $\pi_{t} \equiv \frac{P_{t}-P_{t-1}}{P_{t-1}}$
+
+Now lets do the same for $\frac{P_{t}^e}{P_{t-1}}$ with $\pi^e_{t} \equiv \frac{P_{t}-P_{t-1}}{P_{t-1}}$: $\frac{P_{t}^e}{P_{t-1}}=\frac{P_{t}^e-P_{t-1}+P_{t-1}}{P_{t-1}}=1+\frac{P_{t}^e-P_{t-1}}{P_{t-1}}=1+\pi_{t}^e$
+
+Now let's replace $\frac{P_{t}}{P_{t-1}}$ and $\frac{P_{t}^e}{P_{t-1}}$ in the Equation we got to after the time modification we get:
+$$(1+\pi_{t}) = (1+\pi_{t}^e)(1 + m)(1- \alpha_{t + z})$$
+This results in a relationship between inflation ($$p_t$$), expected inflation ($$pe_t$$), and the unemployment rate ($$u_t$$), with subsequent steps refining this relation to appear more user-friendly.
+
+Now we divide both sides by $(1 + \pi t^e)(1 + m)$:
+$$\frac{(1+\pi_{t})}{(1+\pi_{t}^e)(1+m)}=1-\alpha u_{t}+z$$
+
+As long as inflation, expected inflation, and the markup remain reasonably small, a satisfactory approximation for the left side of the equation is $$1 + \pi_t - p_t^e - m$$. Substituting this into the previous equation and rearranging yields:
+
+$$\pi_{t}=\pi_{t}^e+(m+z)-\alpha u_{t}$$
+
+Removing the time indexes, this can be referred to as the original Philips curve. Including the time indexes ($\pi^e_{t}=\bar{\pi}$) simplifies it as well. The inflation rate, represented as $$\pi_t$$, is influenced by the expected inflation rate, denoted as $$\pi^e_t$$, and the unemployment rate, $$u_t$$. Additionally, this relationship is contingent on the markup, $$m$$, factors influencing wage setting, $$z$$, and the impact of the unemployment rate on wages, $$a$$.
+
+$$\pi_{t}=\bar{\pi}+(m+z)-\alpha u_{t}$$
 
 ### Expected Inflation Formation
-
-Expected inflation, $\pi^e$, is formed based on past inflation experiences. If people form their expectations around past inflation rates, it leads to:
-
-$$\pi^e_t = (1 - \theta) \pi + \theta \pi_{t-1}$$
-
-This function establishes the relationship between current inflation expectations and past inflation outcomes.
+Expected inflation formation depends on how anchored expectations are.
+- Anchored Expectations: If inflation is stable (relatively constant over time)and not persistent (with a increasing or decreasing trend), wage setters might expect this year's inflation to be similar to a long-term average ($\bar{\pi}$):
+- $π^e_t = \bar{\pi}$
+	- This was the case in the period studied by Phillips, Samuelson, and Solow, leading to the original Phillips curve.
+- De-anchored Expectations: If inflation becomes more persistent, wage setters might base their expectations on past inflation:
+- $π^e_t = (1 - \theta)\bar{\pi} + \theta π_{t-1}$
+	- Here, θ captures how much weight is given to last year's inflation ($\pi^e$).
+	- When $\theta$ equals zero, we get the original Phillips curve, a relation between the inflation rate and the unemployment rate
+### Relating Actual Inflation to Expected Inflation, Markup, and Unemployment
+- Equation: The relationship between actual inflation ($\pi$), expected inflation ($\pi^e$), markup ($m$), and unemployment ($u$) is given by:
+- $π = π^e + (m + z) - αu$
+- Explanation:
+	- Expected Inflation ($\pi^e$): An increase in expected inflation leads to higher wage demands, pushing up prices and actual inflation.
+	- Markup ($m$): A higher markup increases prices directly, leading to higher inflation.
+	- Unemployment ($u$): Lower unemployment means a tighter labor market, leading to higher wages and prices, thus increasing inflation.
+	- Other Factors ($z$): Any factors that increase wage demands (e.g., more generous unemployment benefits) will also lead to higher inflation.
+This equation summarizes the key dynamics of the Phillips curve, illustrating how these factors interact to determine the level of inflation in the economy.
 
 ## Task 11: What relationship does the modified Phillips curve represent?
 
@@ -120,4 +167,3 @@ where:
 ### Expected Inflation Formation
 
 Expected inflation can also be influenced by how people form their inflation expectations, either by anchoring them to a stable target or by relying on past inflation rates.
-
