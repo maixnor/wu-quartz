@@ -8,4 +8,5 @@ $$
 - following that: $Y-Y_{n} = -L(u-u_{n})$
 	- when output gap positive: overheated economy
 		- inflationary pressure 
+		- overheated economy ... more demand than supply
 	- when output gap negative: recession
