@@ -55,25 +55,27 @@ $$Y_n = L_n \cdot Y_p$$
 
 The wage-setting equation is given by:
 
-$$\frac{W}{P} = F(u, z)$$
+$$\frac{W}{P} = F(u_{+}, z_{-})$$
 
 where:
 - $W$ is the nominal wage,
 - $P$ is the price level,
-- $u$ is the unemployment rate, and
-- $z$ represents other factors that may affect wage setting (such as unemployment benefits).
+- $u_+$ is the unemployment rate, and
+- $z_-$ represents other factors that may affect wage setting (such as unemployment benefits).
 
-The equilibrium unemployment rate, $u_n$, is where the real wage chosen in wage setting is equal to the real wage implied by price setting. This is called the natural rate of unemployment. 
+The price level, $P^{e}$ , affects nominal wages because employers and employees care about real wages, not nominal. Real wages deal with the purchasing power, simply, the two parties care about how much money they can pay or receive, relative to the goods that they sell or buy. For instance, if workers expect the prices of the goods that they buy to double, they will demand double the amount of their nominal wages to maintain their real income. The same logic applies to employers; they would be willing to double the nominal wages. Wage-setting reflects economic conditions, hence why they concern price levels. 
 
-### Downward Sloping Curve
+The unemployment rate, u, has an indirect relationship with real wages; as u↑, nominal wages decrease, vice versa. When the rate of unemployment is low, this gives workers a higher bargaining power than employers, as they can easily replace the job with another and can obtain higher wages. Conversely, when the rate is high, this gives workers a lower bargaining power because the firms can easily replace them with others whereas it will be hard for the workers to find another job. Additionally, this variable causes a movement along the WS curve. 
 
-The wage-setting curve is typically downward sloping because a higher unemployment rate corresponds to lower wages. As unemployment increases, workers have less bargaining power, which leads to a decrease in wages that employers are willing to pay.
-
-### Shifting the Curve
-
-The expected price level affects wage-setting because higher expected prices lead to higher wage demands from employees. Factors that can shift the wage-setting curve include changes in minimum wage laws, the strength of labor unions, and variations in unemployment benefits.
-
+The catch-all variable, z, has a direct relationship with wages; as z↑, nominal wages increase.
+This too can be illustrated below with $\frac{W}{P} = F(u, z)$ where:
 ![[hw2_fma_pc.png]]
+- $PS$ = the price-setting relation,
+- $WS$ = the wage-setting relation, and
+- $A$ = the natural rate of unemployment ($U_n$).
+
+When $z$ increases (increase in unemployment benefits), this leads to a rightward shift from $WS$ to $WS_1$ as workers demand higher real wages, $W/P$. Consequently, this sets the new equilibrium, $A$ , and an increase in the natural rate of unemployment $U_{1} → U_{n-1}$ . $z$ is the only variable that can cause shifts of the WS curve.
+
 
 ## Task 9: Assume that unemployment benefits decrease. Analyze this change verbally and graphically.
 
