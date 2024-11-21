@@ -24,9 +24,9 @@
 		- random? intuitive choices? 
 	- frequency can be econometrically estimated, but should be constant across games
 	- it's not an equilibrium concept
-		- race to the top with k-level ... higher k is better
+		- race to the top with k-level ... higher $k$ is better
 		- think of chess engines -> higher depth = stronger
-	- #todo gt 5
+		- can be an equilibrium if $k$ is infinite
 
 ### Punishing Strategies
 - "I start higher and undercut when I am being undercut"
@@ -70,7 +70,7 @@
 - "I will start with cooperation, cheat me once and I will cheat you always"
 - with fixed [[Discounting]] rate I can calculate the [[Diminishing Marginal Returns]] of every further route
 	- also called "under the shadow of the future"
-- #todo gt 5 41
+- #wontfix gt 5 41
 - threat is credible, the one-shot Nash
 	- discount rate < 1 ... easy
 	- discount rate = 1 #todo think about that, find out some proof maybe

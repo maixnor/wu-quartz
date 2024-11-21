@@ -14,7 +14,7 @@
 
 But:
 - Greed leads to monopolies to use their power
-- #todo gt1 5 52
+- #wontfix gt1 5 52
 
 ## Ultimatum vs Dictator
 - [[dictator game]] was invented to show how much of the [[ultimatum game]] was due to nice offers and how much due to the offerer being afraid of the offer being refused
@@ -37,11 +37,11 @@ But:
 	- If I am already worse off I don't want the others to have even more
 	- If I am already better off I don't want to have more than other others
 - asymmetry: might care more about me being worse off than better off
-- #todo gt1 5 61
+- #wontfix gt1 5 61
 
 ### Intentions and Reciprocity
 - how nice were they to me and how nice I was to them
-- #todo gt1 5 62-
+- #wontfix gt1 5 62-
 - not just result but also intentions matter and the beliefs of both players about each others intentions
 - 2 [[Nash Equilibrium|equilibria]] (unkind/unkind) and (kind/kind)
 	- what will be played is dependent of player A's action
@@ -52,10 +52,10 @@ But:
 - people work harder if they get more money
 
 ## Altruism and Spite
-#todo gt1 5 58
+#wontfix gt1 5 58
 
 # Economist Effect
-- #todo gt1 5 67
+- #wontfix gt1 5 67
 - result: "Economists are born, not made"
 
 ## Oxytocin and Brain Scan

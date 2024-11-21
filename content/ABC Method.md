@@ -1,3 +1,7 @@
+---
+contributed-by:
+  - GPT-4o
+---
 ## Overview
 - **Activity-Based Costing (ABC)**
 - Allocation of costs to activities
