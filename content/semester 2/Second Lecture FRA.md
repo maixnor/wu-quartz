@@ -22,7 +22,7 @@
 	- impressive increase, especially at this scale
 - [[Meta]] made 135 Billion USD (only +16% from previous year)
 - [[ByteDance]] declined to comment on financial data -> private company
-	- publicly held = listed on stock exchange
+	- publicly held = listed on stock exchange, privately held = not listed
 - [[TikTok]] remains unprofitable -> huge sales, yet no profit
 	- strong focus on growth -> investments lower profit
 	- similar to if not purely R&D costs
