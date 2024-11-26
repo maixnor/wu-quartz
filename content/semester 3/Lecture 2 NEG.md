@@ -33,3 +33,7 @@
 	- negative of approval voting
 		- anti-vote
 	- winner: preference not acceptable to least 
+
+#todo strategic non-truthful voting
+- put your nemesis at the beginning, then your actual preference at the last point
+	- agendas matter
