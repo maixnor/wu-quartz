@@ -4,7 +4,8 @@
 - ignore the rooms, listen to what teachers are saying
 # Content
 - [[Lecture 1 NEG]]
-- influence a group decision by setting the agenda
+	- influence a group decision by setting the agenda
+- [[Lecture 2 NEG]]
 
 
 - [[Main Negotiation Takeaways]]
