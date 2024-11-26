@@ -8,3 +8,7 @@
 - Time works
 	- the longer you can keep the deal off over the other party the better your deal will be
 	- ask to put the deal off for a week to figure out about their patience level
+- BATNA
+	- improve your BATNA by bringing competition to the table
+	- think about both own and opponents BATNA
+- 
