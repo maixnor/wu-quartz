@@ -11,4 +11,5 @@
 - BATNA
 	- improve your BATNA by bringing competition to the table
 	- think about both own and opponents BATNA
-- 
+- explore non-monetary interests
+	- 
