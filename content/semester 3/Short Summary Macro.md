@@ -4,6 +4,9 @@ contributed-by:
 ---
 # Comprehensive Overview of IS, LM, and PC Models in Macroeconomics
 
+>[!info]
+>shorter summary and also exam questions/answers below :)
+
 ## I. IS Curve
 ### Definition:
 - Represents **Investment-Savings (IS)** equilibrium in the goods market.
@@ -112,6 +115,78 @@ contributed-by:
 ### Policies:
 - Central banks execute monetary policies targeting both output and inflation through interest rate adjustments, influencing all three curves holistically.
 
-# Conclusion
+## Conclusion
 - Understanding the IS, LM, and PC models encompasses critical macroeconomic concepts such as nominal and real interest rates, inflation expectations, and their intricate impacts on equilibrium.
 - Central banks play a pivotal role in shaping economic outcomes through monetary and fiscal policies, influencing the IS-LM-PC interaction to achieve objectives of growth, stability, and low unemployment.
+
+
+# Summary of Key Concepts and Models
+
+## 1. IS-LM Model
+- **Definitions**:
+  - **IS Curve**: Represents the equilibrium in the goods market where total spending (C + I + G + (X - M)) equals total output (Y). Downward sloping.
+  - **LM Curve**: Represents the equilibrium in the money market, showing the relationship between interest rate (r) and output (Y). Upward sloping.
+
+- **Mathematical Representation**:
+  - IS: $Y = C(Y - T) + I(r) + G$
+  - LM: $M/P = L(Y, r)$
+  
+- **Factors Influencing the Curves**:
+  - **IS Shift**: 
+    - **Positive**: Increase in government spending (G) shifts IS to the right.
+    - **Negative**: Increase in taxes (T) shifts IS to the left.
+  - **LM Shift**: 
+    - **Positive**: Increase in money supply (M) shifts LM to the right.
+    - **Negative**: Increase in price level (P) shifts LM to the left.
+  
+- **Policies**: 
+  - **Fiscal Policy**: Adjusting government spending and taxation.
+  - **Monetary Policy**: Adjusting the money supply to influence interest rates.
+
+## 2. Phillips Curve (PC)
+- **Definition**: Shows the inverse relationship between inflation and unemployment. 
+
+- **Influences**:
+  - **Short-run trade-off**: Lower unemployment can lead to higher inflation.
+  - **Long-run**: No trade-off; inflation expectations become anchored, leading to a vertical curve at the natural rate of unemployment.
+
+## 3. Multiplier Effect
+- **Definition**: The change in economic output resulting from an initial change in spending.
+- **Key Equation**:
+  $$
+  \text{Multiplier} = \frac{1}{1 - c(1 - t)}
+  $$
+  where $c$ is the marginal propensity to consume and $t$ is the tax rate.
+
+## 4. Risk Premium in IS-LM
+- **Definition**: Higher risk premiums can lead to a leftward shift of the IS curve as borrowing costs increase.
+
+---
+
+# Question/Answer Pairs
+
+1. **Question**: What is the IS curve, and how does fiscal policy affect it?
+   - **Answer**: The IS curve represents equilibrium in the goods market. Fiscal policy affects it by changing government spending (G) and taxes (T). Increasing G shifts the IS curve to the right, while increasing T shifts it left.
+
+2. **Question**: What happens to the LM curve when the central bank increases the money supply?
+   - **Answer**: An increase in the money supply shifts the LM curve to the right, leading to lower interest rates and higher output.
+
+3. **Question**: Explain how an increase in the risk premium affects the IS curve.
+   - **Answer**: An increase in the risk premium raises borrowing costs, causing a leftward shift of the IS curve. This results in lower equilibrium output.
+
+4. **Question**: Describe the Phillips Curve and its implications for inflation and unemployment.
+   - **Answer**: The Phillips Curve illustrates an inverse relationship between inflation and unemployment in the short run. It suggests that decreasing unemployment can lead to higher inflation.
+
+5. **Question**: How does government spending impact the economy through the multiplier effect?
+   - **Answer**: An increase in government spending leads to a larger overall increase in income (Y) due to the multiplier effect, which reflects that one person's spending becomes another's income.
+
+6. **Question**: What are some fiscal policies available to offset a decrease in output?
+   - **Answer**: Fiscal policies include decreasing taxes to increase disposable income or increasing government spending to directly boost aggregate demand.
+
+7. **Question**: How does a higher expected inflation rate affect real interest rates?
+   - **Answer**: A higher expected inflation rate decreases the real interest rate if the nominal rate remains constant, as:
+   $$ r = i - \pi^e $$
+
+### Additional Notes:
+- Ensure to review any corrections based on the specific exam content to align with your understanding or correct errors noted in the answers.
+- Understanding the interplay between these models is essential for grasping macroeconomic dynamics and policy implications.
