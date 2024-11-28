@@ -1,9 +1,9 @@
 # Overview
 - [[Goods Markets]]
-- [[IS-LM Model]]
 - [[Financial Markets]]
-- [[IS-LM-PC Model]]
-- [[IS-LM-IP Model]]
+- [[IS-LM Model]] (Goods + Financial)
+- [[Labor Markets]]
+- [[IS-LM-PC Model]] (Goods + Financial + Labor)
 
 # Content
 - [[Equiibria over Time]]

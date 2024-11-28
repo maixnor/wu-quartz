@@ -12,5 +12,5 @@
 - goods, financial and labor markets
 - [[IS-LM-PC Model]]
 
-### long run (decades)
+### long run (10+ years)
 - output determined by human capital (education) and quality in government
