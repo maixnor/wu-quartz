@@ -5,6 +5,7 @@
 - [[Labor Markets]]
 - [[IS-LM-PC Model]] (Goods + Financial + Labor)
 
+- [[Short Summary]]
 # Content
 - [[Equiibria over Time]]
 
