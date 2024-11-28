@@ -5,7 +5,7 @@ contributed-by:
 # Comprehensive Overview of IS, LM, and PC Models in Macroeconomics
 
 >[!info]
->shorter summary and also exam questions/answers below :)
+>shorter summary and also exam questions/answers [[#Summary of Key Concepts and Models|below]] :)
 
 ## I. IS Curve
 ### Definition:
