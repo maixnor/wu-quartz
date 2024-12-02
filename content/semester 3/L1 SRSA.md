@@ -72,7 +72,7 @@
 	- international recognition
 	- cross-border operations
 - performance measurement and improvement
-	- help by LLMs -> turning qualitative into quantitive
+	- help by LLMs -> turning qualitative into quantitative
 	- benchmarking
 	- continuous improvement
 
@@ -86,6 +86,19 @@
 - [[board of directors]]
 - [[audit committee]]
 - responsibilities:
-	- 
+	- ethical standards: tone at the top
+		- it's always the people that make the business - not the decisions
+
+# #slides 36/37
+
+- difference assurance providers and auditors
+	- assurance providers are just doing quality assessments, not doing any financial reporting
+	- handing out certifications, no financial stuff
+	- assurance providers ... technical
+	- auditor ... financial
+	- all technical should also be seen from a financial perspective
+
+## Internal Audit Department
+- 
 
 
