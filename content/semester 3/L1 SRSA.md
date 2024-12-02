@@ -1,0 +1,7 @@
+- [[Auditing]]
+- cash flow vs earnings
+	- cash flow = hard facts
+	- earnings = matter of opinion
+- [[EU Taxonomy Regulation#Incentives]]
+- [[CBAM]] #slides 1 16
+- 

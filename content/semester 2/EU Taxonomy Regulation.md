@@ -26,6 +26,10 @@
 		- data collection (finding out about data points)
 		- [[Digital Tagging]]
 
+## Incentives
+- since incentives are only in full (e.g. all of a plant is powered by hydrogen) the incentive if 100% coverage is not possible to just not indulge in it anyways
+- a razor blade separating into feasible and non-feasible options, no mix between them possible
+
 ## Qualitative Reporting Requirements
 - accounting method
 	- how was aligned Revenue/CAPEX/OPEX determined
