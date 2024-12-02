@@ -79,7 +79,13 @@
 ## Reptation
 - reputation is most important good
 	- activism and public opinion (also through share value) can build pressure - legislation not so much
-- 
 
+# Supervisory Board and Audit Committee
+- #slides 1 35
+- [[supervisory board]]
+- [[board of directors]]
+- [[audit committee]]
+- responsibilities:
+	- 
 
 
