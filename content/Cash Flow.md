@@ -57,3 +57,8 @@ or another variant of writing it down
 
 ### Included/Excluded?
 - EBT (operating profit) already includes interest earnings and dividend earnings
+
+# Startup Cash Flow scheme
+- future investments need to be subtracted from company values
+	- therefore profit is not worth anything
+- goal: invest more and more until operations carry the investments themselves or investments can be lowered without reducing operation profit
