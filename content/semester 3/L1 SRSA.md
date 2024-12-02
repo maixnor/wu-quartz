@@ -12,5 +12,14 @@
 
 # CSR Reporting Key Features
 #slides 1 24
+- difference between "ESG performance" and "ESG reporting"
+
+# Effects of CSR Reporting
+- enhanced transparency and accountability
+- improved stakeholder relationships
+- reputation and brand enhancement
+
+
+
 
 

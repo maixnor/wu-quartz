@@ -11,6 +11,10 @@ division between "perceived quality" and "actual quality"
 - threshold of reasonability: $\pm 1\%$
 
 # Missing Auditing
-## 
+## 2008
+- [[Financial Crisis 2008]]
+- banks did not have transparency over liability within each other
+- stopped them from starting business with one another
+- 1 factor of why 2008 happened
 
 
