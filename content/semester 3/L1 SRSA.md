@@ -26,6 +26,17 @@
 	- customer loyalty
 	- employee engagement
 - reputation and brand enhancement
+- operational efficiency and cost savings
+	- is already captured by the companies themselves - not necessary to be included in CSR
+	- resources optimization
+	- innovation stimulation
+- risk management
+	- not driving business actively -> more of a hygiene factor -> [[Herzberg Theory]]
+	- identifying risks
+	- regulatory compliance
+- access to capital
+	- sustainable financing
+	- lower cost of capital
 
 
 
