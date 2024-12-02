@@ -27,4 +27,4 @@
 - [[Transparency Theory]]
 	- also known as [[voluntary disclosure theory]]
 - [[stakeholder theory]]
-- [[legitimacy theory]]
+- [[Legitimacy Theory]]
