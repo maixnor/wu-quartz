@@ -1,3 +1,9 @@
+## Politics and Reporting
+- is inherently about evaluating a company
+- based on different requirements different schemes have emerged
+	- [[IFRS]], US GAP, EU GAP
+- is mostly about trust in the evaluation of companies
+
 ## Triangular Relationship
 - [[Financial Statement]]
 - [[Balance Sheet]]

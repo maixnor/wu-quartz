@@ -35,6 +35,9 @@
 	- identifying risks
 	- regulatory compliance
 - access to capital
+	- no tangible difference in cost of capital based on ESG score
+		- no penalties yet based on ESG score
+	- impact on future cash flows -> future customers care (hopefully) more about sustainability 
 	- sustainable financing
 	- lower cost of capital
 
