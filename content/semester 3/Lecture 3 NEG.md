@@ -8,4 +8,7 @@
 - set of players $N$
 - characteristic function $v$ 
 	- assigns a value to each (sub-)coalition
-- 
+- properties
+	- monotonicity: larger coaltition -> larger payoff
+	- superadditivity: any 2 coalitions combined >= both coalitions separately 
+
