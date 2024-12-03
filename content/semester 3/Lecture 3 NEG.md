@@ -12,3 +12,12 @@
 	- monotonicity: larger coaltition -> larger payoff
 	- superadditivity: any 2 coalitions combined >= both coalitions separately 
 
+## Solution: The Core
+- no agent wants to deviate
+- #slides 3 13
+- may be ...
+	- not fair
+	- empty
+	- hard to compute
+- any agreement within core is **stable**
+- no coalition or sub-agreement would brake away
