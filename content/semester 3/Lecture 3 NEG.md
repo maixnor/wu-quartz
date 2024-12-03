@@ -21,3 +21,8 @@
 	- hard to compute
 - any agreement within core is **stable**
 - no coalition or sub-agreement would brake away
+
+## Shapley Value
+- award based on marginal contribution
+	- [[Marginal Changes]]
+- depends on what is already present in a coalition
