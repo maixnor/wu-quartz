@@ -3,11 +3,11 @@
 	- more fun if not informed - not graded anyways
 - ignore the rooms, listen to what teachers are saying
 # Content
-- [[Lecture 1 NEG]]
+- [[L1 NEG]]
 	- influence a group decision by setting the agenda
-- [[Lecture 2 NEG]]
-- [[Case Study Harborco]]
-- [[Lecture 3 NEG]]
+- [[L2 NEG]]
+- [[L3 NEG Case Study Harborco]]
+- [[L4 NEG]]
 
 - [[Main Negotiation Takeaways]]
 

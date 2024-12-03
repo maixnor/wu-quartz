@@ -139,6 +139,7 @@ Observations:
 ![[homework_gt1_1_3.png]]
 
 # Experiment 11 - Market Game
+- [[Market Game]]
 ## a) Type of Game
 This is a simultaneous Game, as Players A and B act first with C following them
 
