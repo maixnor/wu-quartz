@@ -80,7 +80,8 @@
 - reputation is most important good
 	- activism and public opinion (also through share value) can build pressure - legislation not so much
 
-# Supervisory Board and Audit Committee
+# Official Stuff  #todo find name
+## Supervisory Board and Audit Committee
 - #slides 1 35
 - [[supervisory board]]
 - [[board of directors]]
@@ -89,7 +90,8 @@
 	- ethical standards: tone at the top
 		- it's always the people that make the business - not the decisions
 
-# #slides 36/37
+# #todo find title
+#slides 1 36/37
 
 - difference assurance providers and auditors
 	- assurance providers are just doing quality assessments, not doing any financial reporting
@@ -99,6 +101,20 @@
 	- all technical should also be seen from a financial perspective
 
 ## Internal Audit Department
+- #slides 1 38
+- external auditors - independence = internal audit department (but more expensive)
+- making sure that information they get is reliable
+
+## ESG Rating Agencies
+- #slides 1 39
+- ESG rated funds and ETFs might have poorer performance since the information analyzed is new and interpretation is not yet at the level of the financial information interpertation
+	- financial information is also "uncertain" - just like ESG data
+	- with time the ESG funds may be equal if not surpass e.g. the [[SnP 500]] since the ESG information may be analyzed better
 - 
+
+## Regulatory Authorities
+#slides 1 40
+
+- [[Audit Circle]]
 
 
