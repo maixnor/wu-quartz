@@ -7,6 +7,7 @@
 - [[L2 NEG]]
 - [[L3 NEG Case Study Harborco]]
 - [[L4 NEG]]
+- [[L5 NEG]]
 
 - [[Main Negotiation Takeaways]]
 - [[Job Negotiation Takeaways]]
