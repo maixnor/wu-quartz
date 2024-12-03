@@ -4,7 +4,6 @@
 - ignore the rooms, listen to what teachers are saying
 # Content
 - [[L1 NEG]]
-	- influence a group decision by setting the agenda
 - [[L2 NEG]]
 - [[L3 NEG Case Study Harborco]]
 - [[L4 NEG]]

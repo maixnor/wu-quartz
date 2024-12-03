@@ -12,4 +12,5 @@
 	- improve your BATNA by bringing competition to the table
 	- think about both own and opponents BATNA
 - explore non-monetary interests
-	- 
+	- give away something cheap to you, but valuable to others
+- influence group decisions by setting the agenda
