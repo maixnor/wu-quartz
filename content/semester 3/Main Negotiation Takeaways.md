@@ -14,3 +14,5 @@
 - explore non-monetary interests
 	- give away something cheap to you, but valuable to others
 - influence group decisions by setting the agenda
+- losing is normal and expected
+	- don't let that stop you to start negotiations
