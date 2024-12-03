@@ -9,6 +9,7 @@
 - [[L4 NEG]]
 
 - [[Main Negotiation Takeaways]]
+- [[Job Negotiation Takeaways]]
 
 # Grading
 - 10% pre-assignment
