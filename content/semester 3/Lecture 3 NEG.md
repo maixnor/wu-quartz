@@ -26,3 +26,13 @@
 - award based on marginal contribution
 	- [[Marginal Changes]]
 - depends on what is already present in a coalition
+- expression after minus ... [[Opportunity Cost]] of the coalition if the coalition does not include you
+- shapley value may be outside of core -> feasible, but not stable
+
+### Politics
+- contribution power only takes into account the amount to reach majority
+	- if only 5% is missing to >50% then only 5% are actually meaningful
+	- anything over 5% is just hot air
+- smaller coalitions partners are more meaningful than their vote share would suggest
+	- smaller parties get higher share of e.g. minister spots than their share of votes
+
