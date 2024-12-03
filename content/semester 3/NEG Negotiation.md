@@ -7,6 +7,7 @@
 	- influence a group decision by setting the agenda
 - [[Lecture 2 NEG]]
 - [[Case Study Harborco]]
+- [[Lecture 3 NEG]]
 
 - [[Main Negotiation Takeaways]]
 
