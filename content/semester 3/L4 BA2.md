@@ -26,5 +26,7 @@
 - Covariance #slides 82
 
 #### Portfolio Frontier
-- 
+- perfect correlation ... line between 2 portfolios
+- perfect non-correlation ... line between a ... y-axis and y-axis b
+- non-extreme correlation ... curved line between 
 
