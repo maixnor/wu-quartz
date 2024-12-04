@@ -4,9 +4,10 @@
 - attendance mandatory
 
 # Content
-- [[Lecture 1 BA2]]
-- [[Lecture 2 BA2]]
-- [[Lectures 3 BA2]]
+- [[L1 BA2]]
+- [[L2 BA2]]
+- [[L3 BA2]]
+- [[L4 BA2]]
 
 # Grading
 - 20% in-class participation

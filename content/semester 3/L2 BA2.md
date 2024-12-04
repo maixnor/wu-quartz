@@ -13,7 +13,7 @@
 	- we can analyse historical data and extrapolate into the future
 
 ### Historical Returns
-- non-dividend paying stock: [[Lecture 1 BA2#Prices to Returns|simple return]]
+- non-dividend paying stock: [[L1 BA2#Prices to Returns|simple return]]
 - with paying dividends:
 	- simple return: $r_{t}= \frac{p_t-p_{t-1}}{p_{t-1}} = \frac{p_t}{p_{t-1}} - 1$ #todo add dividend
 - simple vs log-return
