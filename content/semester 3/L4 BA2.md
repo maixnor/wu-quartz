@@ -26,7 +26,17 @@
 - Covariance #slides 82
 
 #### Portfolio Frontier
-- perfect correlation ... line between 2 portfolios
-- perfect non-correlation ... line between a ... y-axis and y-axis b
-- non-extreme correlation ... curved line between 
+- only 2 stocks
+	- perfect correlation ... line between 2 portfolios
+	- perfect non-correlation ... line between a ... y-axis and y-axis b
+	- non-extreme correlation ... curved line between a and b to the left of perfect correlation function
+- more than 2 stocks
+	- a region encompassing all stocks
+	- looks a bit like a right/left flipped D
+- efficient frontier
+	- only part of the portfolio frontier is efficient (optimal)
+	- part is the monotonously increasing (upper) part of the portfolio frontier curve
+	- 
+
+
 
