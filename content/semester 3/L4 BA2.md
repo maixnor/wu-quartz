@@ -36,7 +36,14 @@
 - efficient frontier
 	- only part of the portfolio frontier is efficient (optimal)
 	- part is the monotonously increasing (upper) part of the portfolio frontier curve
-	- 
+
+#### Investor Preference
+- [[Indifference Curve]] and efficient portfolio line are tangent
+	- indifference curve dependent on preferences of investor
+- the intersection is the optimal choice of an investor
+- called a "tangency portolio"
+
+
 
 
 

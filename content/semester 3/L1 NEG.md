@@ -24,8 +24,8 @@
 	- you are "priced" at your [[Opportunity Cost]]
 
 # Case Study: One-Issue Negotiation
-- BATNA - best alternative to negotiated agreement
-	- the better the BATNA the stronger your [[bargaining power]]
+- [[BATNA]] - best alternative to negotiated agreement
+	- the better the [[BATNA]] the stronger your [[bargaining power]]
 	- in game theory called: "outside option"
 - ZOPA - 
 - [[Principle-Agent Problem]]
