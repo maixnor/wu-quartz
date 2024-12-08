@@ -22,4 +22,8 @@
 
 ---
 
-# 
+![[help_me.png]]
+
+---
+## Third Party - Why
+- 
