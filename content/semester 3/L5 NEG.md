@@ -3,7 +3,7 @@
 28 - when does it make sense to involve a third party
 
 ---
-# The Manager
+# Reverse Karen
 ---
 ## Use of higher Authority
 - buying car
