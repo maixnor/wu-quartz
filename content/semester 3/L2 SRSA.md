@@ -16,4 +16,17 @@
 
 - [[Audit Trail]] #slides 3
 	- even alterations must be traceable
-- 
+	- comes from accounting software
+	- Excel sheets don't have traceability
+
+- [[Materiality Assesment]]
+	- not stable over time - can change quickly over time by change in stakeholder preferences
+	- fast-paced changes
+		- investments cannot be adapted to quickly - hard tradeoffs
+
+- technological - cybersecurity
+	- sustainability data is valuable to competitors - lot's of information on production capabilities and actual production amounts
+- technological - documentation
+	- most costs are internal - auditing company is the cheap part
+	- a lot of change which needs to be documented well
+	- 

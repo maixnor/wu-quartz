@@ -33,7 +33,6 @@
 # Game Theory: Bargaining
 ## Asymmetric Information
 - [[Open Book Accounting]]
-	- just open up the books and skip the finding the equilibrium to just figuring out the equilibrium and work accordingly
 - Cummnication
 	- Cheap Talk works
 		- works better than expected
