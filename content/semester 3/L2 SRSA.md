@@ -67,4 +67,6 @@
 - necessary inputs
 	- address
 	- energy certificate
+- [[copernicus]] - space and satallite data
+	- recommendation from EU
 - 
