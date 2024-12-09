@@ -69,4 +69,10 @@
 	- energy certificate
 - [[copernicus]] - space and satallite data
 	- recommendation from EU
+- assumptions shape the results
+	- only top 1% of precipitation or top 0.1% is relevant for you
+	- one has to explain that to auditors afterwards
+- currently no personal [[incentive]] for a green deal
+	- if there was a discount on interest rate on green loans banks could refinance cheaper and therefore prefer a green loan over a non-green loan
+	- good auditor needed then - cheating must be impossible
 - 
