@@ -58,4 +58,13 @@
 	- because of independence - independence conflict
 - [[RegTech]] - Regulatory Tech
 - Customers are banks - evaluating their portfolio based on [[European Green Deal]]
+- thresholds for what is green and what is not is dropping every 5 years
+	- what is green today might not be in a few years anymore
+- where do you get data for:
+	- hail chance
+	- flooding possibility
+	- temperature ranges
+- necessary inputs
+	- address
+	- energy certificate
 - 
