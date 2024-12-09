@@ -34,4 +34,11 @@
 	- reasonable assurance - supplier needs to be audited to be trustworthy
 		- not trustworthy until proven otherwise
 	- trust issue - untrustworthy data may through off complete report
-	- 
+
+- controversies and reputational risks
+	- legal implications
+		- auditors need to self-assess whether they have the competences to do a sustainability report assessment
+		- is it even enough for limited assurance?
+		- learning by doing currently
+
+
