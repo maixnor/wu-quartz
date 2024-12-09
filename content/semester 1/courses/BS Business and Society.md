@@ -21,7 +21,7 @@ Final Exam (50%) on 2023-11-14
 - [[Market]]
 - [[Finances]]
 - [[Profitability]]
-- [[Accounting]]
+- [[Accounting Service]]
 - [[Human Resources]]
 - [[Social Matters]]
 # Speckbacher

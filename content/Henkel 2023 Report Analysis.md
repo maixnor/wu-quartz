@@ -42,6 +42,6 @@
 	- 14 additions, 9 mergers, 9 disposals
 - divestments -> information on Russia -> Henkel has option of buying back the business
 - currency rates used in calculations
-- [[accounting]] estimates
+- [[Accounting]] estimates
 - useful life for [[depreciation]] -> [[IFRS#Depreciation]]
 - 

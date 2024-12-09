@@ -4,18 +4,18 @@ Main benefit is with protecting creditors (banks, suppliers, state).
 > Accounting is never **correct** it is based on judgments and estimates. Accounting is not about truth, it's about drawing the picture of the company.
 
 ### Types of Accounting
-- Cost Accounting
-	- Kostenrechnung basically
-	- what the company is actually worth
-		- e.g. actual market prices of real estate
-- Managerial Accounting
-	- providing information for the management 
 - Financial Accounting
 	- external decision makers
 		- Tax authorities
 		- investors
 		- banks
 		- B2B partners
+- Cost Accounting
+	- Kostenrechnung in German
+	- what the company is actually worth
+		- e.g. actual market prices of real estate
+- Managerial Accounting
+	- providing information for the management 
 - Auditing
 	- reviewing the accuracy of financial reports
 

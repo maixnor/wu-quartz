@@ -29,4 +29,9 @@
 - technological - documentation
 	- most costs are internal - auditing company is the cheap part
 	- a lot of change which needs to be documented well
+
+- third party data
+	- reasonable assurance - supplier needs to be audited to be trustworthy
+		- not trustworthy until proven otherwise
+	- trust issue - untrustworthy data may through off complete report
 	- 
