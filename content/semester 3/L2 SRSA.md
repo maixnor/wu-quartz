@@ -51,4 +51,11 @@
 	- interrelation to [[Risk Management]] and [[Scenario Planning]]
 - stakeholder trust
 	- in tune with [[Legitimacy Theory]] - legitimacy violated
+
+# Guest: Climcyle
+- Fabius Lenhart
+- [[KPMG]] - their software solution is "outsourced" to a new company
+	- because of independence - independence conflict
+- [[RegTech]] - Regulatory Tech
+- Customers are banks - evaluating their portfolio based on [[European Green Deal]]
 - 
