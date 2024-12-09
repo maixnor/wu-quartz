@@ -41,4 +41,14 @@
 		- is it even enough for limited assurance?
 		- learning by doing currently
 
-
+# Conclusion VW Dieselgate
+- [[Dieselgate]]
+- accountability
+	- management
+	- supervisory board
+	- auditors
+- risk management
+	- interrelation to [[Risk Management]] and [[Scenario Planning]]
+- stakeholder trust
+	- in tune with [[Legitimacy Theory]] - legitimacy violated
+- 
