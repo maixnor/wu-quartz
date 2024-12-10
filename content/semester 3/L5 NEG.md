@@ -1,0 +1,50 @@
+# Closing the deal
+- provide alternatives
+	- works great with kids
+	- if they have the feeling the deal is closed they are more likely to agree
+- assume the close
+	- "shall I start the paperwork"?
+- split the difference
+	- stop by "fair" meeting in the middle
+- exploding offers
+	- create strong time pressure
+	- "by tonight you agree or you don't"
+- sweeteners
+	- save something special for the end of the deal
+	- e.g. winter tires
+
+# Trumps Strategy
+- think big
+	- be creative, create lot's of options
+- protect the downside and the upside will take care of itself
+	- never decrease your [[BATNA]] -> more bargaining power
+	- the upside will not come on it's own
+- maximize the options
+	- invent options without committing -> "let's see"
+	- at some point you have to start committing
+- know your market
+	- preparation is critical
+	- ask people that know more
+- use your leverage
+	- #slides 102 quote 
+	- think about interests, leverage your knowledge
+- enhance your location
+	- improve your [[BATNA]]
+	- make surrounding area better in real estate
+		- don't take it as given, everything can be changed
+- get the word out
+	- only if publicity is good for your business
+		- high chance for backfiring
+	- otherwise: keep quiet until settlement
+- fight back
+	- don't, foster long-term collaborative partnerships
+	- unless you don't care about the people
+		- "you always meet twice"
+- deliver the goods
+	- "You can't con people, at least not for long"
+	- reputation matters
+- contain the costs
+	- true by definition
+- have fun
+	- collaborate - it is nice to from a deal
+

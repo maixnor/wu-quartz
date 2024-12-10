@@ -8,10 +8,20 @@
 - [[L3 NEG Case Study Harborco]]
 - [[L4 NEG]]
 - [[NEG - Presentation]]
+- [[L5 NEG]]
 
 - [[Main Negotiation Takeaways]]
 - [[Job Negotiation Takeaways]]
 
+- Cases
+	- Book Contact
+	- Sally Soprano 1 + 2
+	- Harborco
+	- Job Offer (via Mail)
+
+- Books
+	- "Getting to Yes" - Fisher & Ury
+	- 
 # Grading
 - 10% pre-assignment
 - 40% preparation/participation
