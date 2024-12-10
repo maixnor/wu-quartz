@@ -21,7 +21,19 @@
 
 - Books
 	- "Getting to Yes" - Fisher & Ury
-	- 
+
+## Exam
+- 2 parts: 1-2pm + 2-3pm
+- each with a larger question, come by email
+	- just reply to the email with an attachment or just the text in the email
+	- BE REACHABLE VIA EMAIL
+- open book / internet
+- maybe everyone gets a different assignment/question
+- no sources needed when pulling information from internet
+
+- preparation
+	- work through slides
+	- try to recap out discussions
 # Grading
 - 10% pre-assignment
 - 40% preparation/participation
