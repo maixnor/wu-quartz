@@ -1,0 +1,8 @@
+- $\mathbb E[r_{i}] = r_{f} + \beta^{\text{eff}}_{i}(\mathbb E[r_{\text{eff}}]-r_{f})$
+- tangent portfolio ... best portfolio for any and all investors
+	- best risk/return tradeoff for all portfolios
+	- highest [[sharpe ratio]]
+	- shorting the risk-free assets can improve the return even past the efficient frontier
+		- scaling the portfolio by risk-factor
+			- higher risk-factor = higher returns
+- 
