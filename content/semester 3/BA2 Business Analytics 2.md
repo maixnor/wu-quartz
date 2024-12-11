@@ -23,4 +23,3 @@
 	- interpretation of results important
 	- different data sets for each person
 	- open-book + internet
-	- /sy
