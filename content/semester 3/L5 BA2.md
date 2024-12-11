@@ -8,4 +8,6 @@
 		- scaling the portfolio by risk-factor
 			- higher risk-factor = higher returns
 - [[CAPM]] #slides 96 #todo
-- 
+	- base on very strong assumptions
+	- conclusions are not completely accurate
+	- [[cost of capital]] is not included in the model
