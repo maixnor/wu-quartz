@@ -5,6 +5,7 @@
 - [[Labor Markets]]
 - [[IS-LM-PC Model]] (Goods + Financial + Labor)
 - [[Deflationary Spiral]] #todo L5
+- [[Marshall-Lerner Condition]] #examinfo
 
 - [[Short Summary Macro]]
 # Content
