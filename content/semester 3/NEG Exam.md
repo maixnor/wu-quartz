@@ -12,6 +12,7 @@ _Benjamin engaged in a negotiation with the head of HR at Austrian Post AG regar
 	- or do something incredible the week before to show off my skill
 - use my technical expertise to snow job HR guy
 - befriend the HR people first - never be aggressive
+	- go out to lunch with them
 
 - if all fails: chicken
 	- "I will behave like a junior then, I will stuff I am assigned and go home"
@@ -24,7 +25,7 @@ _Benjamin engaged in a negotiation with the head of HR at Austrian Post AG regar
 - both parties have high sunk cost
 	- Post: 3 salaries, 3 months of training me
 	- Me: 3 months of wasted time with training I can't use elsewhere
-- Post has lots of sweeteners I don't want
+- Post has lots of sweeteners I don't want and can't exclude
 	- food coupons nobody uses
 	- bicycles nobody uses
 	- other stuff nobody uses or values but still something they provide to create "value"
