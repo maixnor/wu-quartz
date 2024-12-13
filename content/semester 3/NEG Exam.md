@@ -45,7 +45,17 @@ If that fails too I would still be willing to work as  a contractor instead of o
 - I would use snow job tactic since I have technical expertise
 
 # Part 2
-## Assignment
+## Evaluation
+I was at first not on track with my results of achieving a 50% pay increase. Then I was able to find out about the head of HR needing to pass this decision by upper management so I helped him to run the decision past them and how to advocate for my cause. I adapted and improvised accordingly and still achieved my (hopefully 50%) increase.
 
+What is bugging me is that we could not form an agreement right then and there, but I don't think there is any way around that. But apart from that I am please with the outcome. I am still expecting not quite a 50% increase, more like 30% since the involvement of the higher authority will not work in my favor.
 
-## Answer
+I did make a mistake by calling out the hardball tactic of higher authority even tho it was justified. I should have done that less aggressively. I think it was good to not have to default to chicken or threaten with quitting or "behaving like a junior", that would have probably not worked out well. I think I navigated through the "policies" quite well and came to a satisfactory outcome.
+
+Was negbot a worthy partner? I think that the negotiation was fine but a lot of information which would be crucial to the actual negotiation that I had in mind. With a bit more information, e.g. the complete document we handed in in the beginning, it would be much better. I also think that you could fool the negbot in funny ways, I would quite like to explore breaking the system actually.
+
+To answer briefly:
+- I did adapt to include pleasing the higher authority and working with the head of HR instead of against him
+- I did use the tactics I planned on using, except for the more agressive hardball tactives as the last resort
+- I would have shifted more quickly to cooperation, but overall I am okay with my style
+- NegBot was a mediocre partner which would be a very good partner with more information about the negotiation
