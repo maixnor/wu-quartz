@@ -43,3 +43,9 @@ If that fails too I would still be willing to work as  a contractor instead of o
 	- only as second step after they have made a more reasonable offer
 - company policies are just a trick - empty threat
 - I would use snow job tactic since I have technical expertise
+
+# Part 2
+## Assignment
+
+
+## Answer
