@@ -5,31 +5,24 @@ _Benjamin engaged in a negotiation with the head of HR at Austrian Post AG regar
 
 ## Answer
 ### Plan
-- start off by listing responsibilities
-	- use my technical expertise to snow job HR guy
-	- compare to "market average responsibilities"
-	- then let them make a first offer and highball them for 500E-1000E above their offer
-- find people and voices to support me in the company
-	- colleagues or a boss that speaks highly of me
-	- internal letter of recommendation basically
-- find definite selling points of my skills
-	- or do something incredible the week before to show off my skills
-- non-monetary options
-	- willingness to work on the weekends or during the night in case of emergency -> cheap to me, valuable to Post
-	- prestigious title (bogey)
-		- first act like it's a big issue for me
-		- then settle for same title with yet a higher pay
+My plan has 3 parts.
 
+I will start off by listing responsibilities. I use my my technical expertise to snow job HR person and compare myself to "market average responsibilities" which is significantly higher. I emphasize my extra commitment to the company. I then let them make a first offer so they anchor their minimum higher and then I would highball them for 500E - 1000E above their offer to anchor the maximum even higher. Then we would hopefully meet in the middle for an increase of about 20%-35% than before as baseline. Then I can still nibble upwards towards my goal of a 50% pay increase.
 
-- befriend the HR people first
-	- go out to lunch with them
-	- never be aggressive during negotiations
+Next up to underline my point I will find people and voices to support me within the company, like colleagues or a boss that speaks highly of me and using that basically as an internal letter of recommendation.
+I would also definite selling points of my skills or do something incredible the week before to show off my skills to further my point.
 
-- if all fails: chicken
-	- "I will behave like a junior then, I will stuff I am assigned and go home"
-	- willingness to work as a contractor instead of on their payroll or quit entirely for some other job
-- if that fails too:
-	- quiet quitting after some time
+Lastly I would explore non-monetary options like my willingness to work on the weekends or during the night in case of emergency -> cheap to me, valuable to Post and also do a bogey tactic with the prestigious title. I would first act like it's a big issue for me but then settle for same title with yet a higher pay. 
+
+Like this I would like to achieve my 50% increase of pay from 3000E to 4500E fulltime.
+
+---
+
+To make sure this works I would like to befriend the HR people first via going out to lunch with them and never be aggressive during negotiations to stay on a good personal basis. I am also aware that the empty threat of the company policies is just cheap talk and let time play in my favor by requesting more "time to think" before finally signing to get even more out of them. I am also aware of the "company benefits" which have no value to me and I will also signal that I have no interest in using them and therefore have no value to me.
+
+If all fails I would advance to my last tactic: chicken. I would almost blackmail them with phrases like: "I will behave like a junior then, I will stuff I am assigned and go home". 
+
+If that fails too I would still be willing to work as  a contractor instead of on their payroll for a higher hourly rate or quit entirely for some other job since my sunk cost is not as high as for them. It would also be feasible to do quiet quitting after some time to gain more payoff for me without extra cost (work) since I am not planning on staying with this company for longer periods of time anyways.
 
 ### Commentary
 - BATNA low for Post, low for me -> not much bargaining power, but also not much power differences
@@ -46,7 +39,7 @@ _Benjamin engaged in a negotiation with the head of HR at Austrian Post AG regar
 		- other stuff nobody uses or values but still something they provide to create "value"
 
 - away from positional to cooperative bargaining
-	- don't start off with way too high salary and meet in the middle
+	- don't start off with way too high salary (anchoring) and meet in the middle
 	- only as second step after they have made a more reasonable offer
 - company policies are just a trick - empty threat
 - I would use snow job tactic since I have technical expertise
