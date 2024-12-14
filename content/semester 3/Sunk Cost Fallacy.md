@@ -1,3 +1,4 @@
 - when the fear of losing [[Past Sunk Cost]] which cannot be recovered is greater than the fear of pumping ever more costs into a failing idea
 - unrational in essence, deeply human non the less
 - more: https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect
+- example: concorde project
