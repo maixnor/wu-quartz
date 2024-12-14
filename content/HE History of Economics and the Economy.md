@@ -7,5 +7,6 @@
 - [[Script 4 Summary]]
 - [[Script 5 Summary]]
 - [[Script 6 Summary]]
-
+- [[Script 7 Summary]]
+- [[Script 8 Summary]]
 # Grading
