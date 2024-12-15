@@ -16,4 +16,5 @@
 - [[Caribbean slavery and British growth]]
 - [[Slavery, Atlantic trade and skills_ a response to Mokyr]]
 - [[Slavery and the British Industrial Revolution]]
+- [[The Caribbean and the Atlantic World Economy]]
 # Grading
