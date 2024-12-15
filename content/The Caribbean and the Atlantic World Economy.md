@@ -1,4 +1,4 @@
-source: `https://source.com/of/paper/goes/here`
+source: `https://link.springer.com/book/10.1057/9781137432728`
 #paper
 # ### The Caribbean and the Atlantic World Economy: Circuits of Trade, Money, and Knowledge, 1650-1914
 The Caribbean was not an isolated or peripheral region but rather a pivotal node in the global economic networks established during the age of colonialism. The interconnectedness of trade, labor, finance, and culture shaped both the Caribbean identity and the broader Atlantic economy. 
