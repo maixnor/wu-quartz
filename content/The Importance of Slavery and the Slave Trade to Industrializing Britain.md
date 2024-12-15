@@ -13,14 +13,14 @@ This paper explores the complex interplay between slavery, the slave trade, and 
 
 ## 👁️ Key Findings
 - **Economic Context:**
-  - The sugar industry was visible in trade statistics but was just one of many industries contributing to Britain's economy.
-  - Profit potential from slavery may not have been extraordinary compared to other sectors.
+	- The sugar industry was visible in trade statistics but was just one of many industries contributing to Britain's economy.
+	- Profit potential from slavery may not have been extraordinary compared to other sectors.
 
 - **Impact of Slave Labor:**
-  - Slave labor was efficient, but alternative labor systems could have evolved in its absence, preventing a complete economic halt.
+	- Slave labor was efficient, but alternative labor systems could have evolved in its absence, preventing a complete economic halt.
 
 - **Ideological Implications:**
-  - The coexistence of slavery and an ideology of freedom is significant; anti-slavery movements emerged from cultural shifts rather than economic factors alone.
+	- The coexistence of slavery and an ideology of freedom is significant; anti-slavery movements emerged from cultural shifts rather than economic factors alone.
 
 ## ❗Conclusion
 - The analysis suggests that while slavery contributed to economic processes in Britain, it did not singularly cause the Industrial Revolution. The interplay of various industries and ideological developments played equally significant roles in shaping the modern economy.

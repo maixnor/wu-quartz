@@ -40,13 +40,13 @@ The paper concludes that colonial slavery increased British national income, boo
 
 ### 3: Critiques of the Williams Hypothesis
 - Examination of various criticisms directed at Williams’s work:
-  - Anstey (1968), Thomas (1968), Coetho (1973): damaging effects on Williams’s thesis.
-  - Engerman (1972, 1975) and Drescher (1977): continued critiques focusing on the significance of the British West Indies' contribution.
+	- Anstey (1968), Thomas (1968), Coetho (1973): damaging effects on Williams’s thesis.
+	- Engerman (1972, 1975) and Drescher (1977): continued critiques focusing on the significance of the British West Indies' contribution.
 
 ### 4: Insights from the Darity Model
 - Introduction of Darity's model emphasizing:
-  - Mercantilism in Marxian primitive accumulation.
-  - Distinctions between wage labor and slave labor.
+	- Mercantilism in Marxian primitive accumulation.
+	- Distinctions between wage labor and slave labor.
 - Learning curve for European technology derived from the transatlantic slave trade.
 - Retrogression in Africa due to social disruption and depopulation.
 
@@ -54,8 +54,8 @@ The paper concludes that colonial slavery increased British national income, boo
 - Analysis of the triangular trade's role in British economic prosperity.
 - Reference to the Navigation Acts and their influence on commercial policy.
 - The ambiguity in defining the 'something about slavery' in relation to British economic growth:
-  - Profits from the slave trade.
-  - Overall value derived from the British West Indies.
+	- Profits from the slave trade.
+	- Overall value derived from the British West Indies.
 
 ### 6: Broader Implications
 - Summary of how Williams's thesis relates to the rise of mature capitalism.
