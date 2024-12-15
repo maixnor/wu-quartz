@@ -9,7 +9,7 @@ source: https://doi.org/10.5871/jba/009.259
 [[Slavery]] and the Atlantic trade played a critical role in shaping the skills and economic structures that contributed to the [[Industrial Revolution]] in Britain. 
 
 ## 📎 Executive Summary
-The paper critiques and expands upon [[Mokyr]]'s notion of the [Industrial Revolution]], particularly focusing on the role of [[slavery]] and the Atlantic trade in shaping industrial skills and economic structures. It emphasizes the interconnectedness of these historical elements and their impact on Britain's development. Industrial advancements were closely linked to the market and [[raw materials]] supply revolution centered on Atlantic trade, which was underpinned by plantation slavery.
+The paper critiques and expands upon [[Mokyr]]'s notion of the [[Industrial Revolution]], particularly focusing on the role of [[slavery]] and the Atlantic trade in shaping industrial skills and economic structures. It emphasizes the interconnectedness of these historical elements and their impact on Britain's development. Industrial advancements were closely linked to the market and [[raw materials]] supply revolution centered on Atlantic trade, which was underpinned by plantation slavery.
 
 ## ❗ Conclusion
 Recognition of [[slavery]] and the Atlantic trade's critical contributions to the [[Industrial Revolution]]. It challenges traditional narratives that downplay these factors and underscores their importance in understanding economic history.
