@@ -1,0 +1,12 @@
+---
+contributed-by:
+  - GPT-4o
+---
+- **Williams Hypothesis**: Relates [[slavery]] to [[economic growth]] in Great Britain.
+- **Key Elements**: Profits from the slave trade, triangular trade value, British West Indies contributions, profits fueling investments.
+- **[[Counter factual]] Analysis**: Compares returns on capital in colonies versus alternatives.
+- **Critiques**: 
+  - [[Engerman]]: Colonies too small to impact British growth; net loss instead of gain.
+  - Response: Challenges validity of these criticisms.
+- **Darity Model**: Consistent with Caribbean School, highlights learning curve of European technology and retrogression in Africa.
+- **Complexity**: Ambiguity in defining the Williams thesis complicates testing.

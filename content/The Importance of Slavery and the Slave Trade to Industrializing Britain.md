@@ -1,3 +1,7 @@
+---
+contributed-by:
+  - GPT-4o
+---
 #paper
 source: https://www.jstor.org/stable/2566799
 

@@ -23,7 +23,7 @@
 	- cotton greatest relative growth
 
 # Productivity/Efficiency Growth
-- [[Cobb-Douglas Production Function]]
+- [[Cobb-Douglas]] model
 	- large population growth -> large labor increase
 	- capital per worker only grew after ind. rev., not during
 		- land per worker decreased

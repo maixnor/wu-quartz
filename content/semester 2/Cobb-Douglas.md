@@ -1,4 +1,4 @@
-# Base
+# Base Model
 $$Y = A * L^{1-a} * K^{a}$$
 Y ... output
 L ... labor

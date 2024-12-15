@@ -47,7 +47,7 @@
 	- decreasing then a split into many small companies is beneficial for society
 - $F(L,K) = A*L^{\alpha}*K^{\beta}$
 - scaling by factor $\lambda > 1$ : $F(\lambda L, \lambda K) = \lambda^{\alpha + \beta} * F(L,K)$
-	- [[Cobb-Douglas Production Function]]
+	- [[Cobb-Douglas]] production function
 ## Production Costs
 - cost function
 	- cost minimization for given
