@@ -1,4 +1,4 @@
-# NBER WORKING PAPER SERIES
+#paper
 source: `http://www.nber.org/papers/w30451`
 # Slavery and the British Industrial Revolution
 The wealth generated from slavery significantly contributed to Britain's economic development prior to the abolition of slavery in 1833.
