@@ -22,4 +22,6 @@
 
 ## Materiality
 - [[Double Materiality]]
-- 
+- materiality assesment of 4-airlines looks good, specific double materiality evaluation is missing
+
+## 
