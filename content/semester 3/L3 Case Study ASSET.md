@@ -19,3 +19,7 @@
 - crisis management
 - anti-corruption
 - cybersecurity
+
+## Materiality
+- [[Double Materiality]]
+- 
