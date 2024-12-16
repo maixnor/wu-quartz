@@ -15,6 +15,7 @@
 ### Governance
 - regulatory compliance
 - risk management
+	- extreme weather events
 - crisis management
 - anti-corruption
 - cybersecurity
