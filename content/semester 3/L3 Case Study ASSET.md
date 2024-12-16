@@ -1,7 +1,7 @@
 # Build expectations
 ## Factors
-### Enviromental
-- CO2 emissons from aircraft operations
+### Environmental
+- CO2 emissions from aircraft operations
 - fuel efficiency
 - noise pollution
 - airport construction -> biodiversity
