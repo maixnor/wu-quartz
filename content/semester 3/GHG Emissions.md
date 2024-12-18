@@ -1,4 +1,6 @@
 # Scopes
+- scopes have not been introduced to avoid [[double counting]] of emissions
+- 
 ## Scope 1
 - direct emissions
 	- directly caused by company by burning of fossil fuels
