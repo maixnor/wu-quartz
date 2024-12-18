@@ -5,4 +5,11 @@
 - different interest rates based on when a loan is taken on
 - sovereign/country bond -> risk free
 	- risk of e.g. Germany defaulting is basically 0
-- 
+
+## link to monetary policy
+- [[monetary policy]] from macro
+- goal of ECB: inflation of about 2% -> [[2 percent]] #todo find out where the 2% comes from
+	- ECB inflation dashboard
+- in recent years (since 2021) inflation was too high
+	- before inflation was too low
+		- stimulated lending/economic activity
