@@ -5,3 +5,4 @@
 - switch from [[EY]] to [[KPMG]]
 	- KPMG could not confirm a lot of information
 	- qualified audit opinion -> ringing alarm bells
+- auditors: [[BaFin]]
