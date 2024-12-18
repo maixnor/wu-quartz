@@ -8,8 +8,9 @@
 
 ## link to monetary policy
 - [[monetary policy]] from macro
-- goal of ECB: inflation of about 2% -> [[2 percent]] #todo find out where the 2% comes from
-	- ECB inflation dashboard
+- goal of ECB: inflation of about 2% -> [[2 percent]] 
+	- ![ECB inflation dashboard](https://www.ecb.europa.eu/stats/macroeconomic_and_sectoral/hicp/more/html/data.en.html})
 - in recent years (since 2021) inflation was too high
 	- before inflation was too low
 		- stimulated lending/economic activity
+- [[PCA Principle Component Analysis]]
