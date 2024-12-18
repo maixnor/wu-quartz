@@ -8,13 +8,10 @@ division between "perceived quality" and "actual quality"
 - actual quality can only be improved over time
 
 # Assurance
-## Limited Assurance
-
-## Reasonable Assurance
-- threshold of reasonability: $\pm 1\%$
+- [[Assurance]]
 
 # Enforcing
-- 
+- #todo how is auditing (financial especially) enforced
 
 # When Auditing is Missing
 ## 2008

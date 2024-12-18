@@ -1,0 +1,3 @@
+- kind of [[Incentive Scheme]]
+- administrative, management and supervisory bodies compensations linked to [[GHG Emissions]] targets.
+- extra bonus if they meet those targets / penalty if they don't

@@ -54,7 +54,7 @@
 	- no civil liability if harm solely caused by business partners within the supply chain
 
 # Climate Transition Plan
-- goal: compatibility with the Paris 1.5 target and climate neutrality
+- goal: compatibility with the [[Paris Agreement]] target and climate neutrality
 - actual steps which need to be defined
 	- climate targets for 2030 and 5 year steps until 2050 regarding [[GHG Emissions]]
 	- decarbonization levers identified

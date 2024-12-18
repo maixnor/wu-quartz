@@ -8,7 +8,7 @@
 
 # Systems
 - everything included in [[ESRS 2]]
-- [[Sustainability Governance]] and [[Incentive Schemes]]
+- [[Sustainability Governance]] and [[Sustainability Incentive Schemes]]
 - [[Data Manangent]] and [[KPI]]s
 - also enforces [[Risk Management]]
 

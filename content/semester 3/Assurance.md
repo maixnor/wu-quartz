@@ -6,3 +6,4 @@
 # Reasonable
 - auditors need to check for correctness
 - auditor not liable for wrong information deemed correct
+- threshold of reasonability: $\pm 1\%$
