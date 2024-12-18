@@ -18,4 +18,4 @@
 - consumption and generation very detailed, units in MWh correct
 - emissions look fine / intensity too
 	- emission units in k tonnes CO2
-- 
+---
