@@ -11,3 +11,8 @@
 - E1-5.53 met -> revenue/production related 1:1 to emissions
 - no mention of mitigation/removal strategy
 - net zero target was already above
+
+# Feedback Orsted
+- 99% renewable until 2025
+- no clear tables
+- units in kt of CO2
