@@ -15,4 +15,7 @@
 # Feedback Orsted
 - 99% renewable until 2025
 - no clear tables
-- units in kt of CO2
+- consumption and generation very detailed, units in MWh correct
+- emissions look fine / intensity too
+	- emission units in k tonnes CO2
+- 
