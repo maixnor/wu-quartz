@@ -1,6 +1,6 @@
 # Scopes
 - scopes have not been introduced to avoid [[double counting]] of emissions
-- 
+
 ## Scope 1
 - direct emissions
 	- directly caused by company by burning of fossil fuels
@@ -12,6 +12,10 @@
 - indirect emissions
 	- bought in / [[Supply Chain]]
 	- e.g. employee travel (flights)
+- scope 3 cannot be calculated directly
+	- information has to be given from suppliers
+	- some suppliers don't even have that data
+
 ### Upstream
 - purchased goods
 - capital goods
