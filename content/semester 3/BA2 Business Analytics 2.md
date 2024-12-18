@@ -9,6 +9,7 @@
 - [[L3 BA2]]
 - [[L4 BA2]]
 - [[L5 BA2]]
+- [[L6 BA2]]
 
 # Grading
 - 20% in-class participation
