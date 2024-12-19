@@ -17,7 +17,10 @@
 - higher interest rate -> higher exchange rate ... less exports
 	- if my goods become more expensive via exchange rate the world will buy less
 - [[Interest Parity Condition]]
-	- 
+- change in expected interest rate (and therefore exchange rate) immediately affect attractiveness of domestic assets
+	- expected increase in exchange rate -> more attractive domestically
+	- expected decrease in exchange rate -> less attractive domestically
+	- buying a 10-year bond involves a lot of expectations 
 
 # Runescape Gold in Venezuela
 - [[Runescape Gold in Venezuela]]
