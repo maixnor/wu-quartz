@@ -16,4 +16,5 @@
 		- counter example: USD in series Narcos
 - higher exchange rate ... less exports
 	- if my goods become more expensive via exchange rate the world will buy less
+- [[Interest Parity Condition]]
 - 
