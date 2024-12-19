@@ -21,6 +21,27 @@
 	- expected increase in exchange rate -> more attractive domestically
 	- expected decrease in exchange rate -> less attractive domestically
 	- buying a 10-year bond involves a lot of expectations 
+- changes in IS curve have no change on mundell-fleming model
+	- but the [[DD-curve]] still affects the net exports
+		- higher Y -> you are richer -> more imports
+
+## Monetary Policy
+#slides 
+#todo
+
+## Fiscal Policy
+#slides 
+#todo 
+- more government spending -> larger Y -> more exports
+- government spending wants to stabilize own economy
+	- when just increasing government spending customers can also buy/invest into foreign products -> money leaves country
+	- how to circumvent that?
+		- more gov spending together with tariffs -> domestic more attractive
+		- targeting domestic producers/products
+			- e.g. restaurant vouchers, reparaturbonus
+
+- 
+
 
 # Runescape Gold in Venezuela
 - [[Runescape Gold in Venezuela]]
