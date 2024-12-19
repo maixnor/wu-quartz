@@ -5,4 +5,13 @@
 - foreign wealth increases with excess exports
 - less wealth within own economy
 	- leads to deterioration of country, see Deutsche Bahn
+
+# Mundell-Fleming model
+- [[Mundell-Fleming Model]]
+- assumptions: 
+	- prices are constant, both domestic and foreign prices
+	- no inflation -> can use nominal instead of real interest rate
+	- can use nominal exchange rate rather than real exchange rate
+- higher exchange rate ... less exports
+	- if my goods become more expensive via exchange rate the world will buy less
 - 
