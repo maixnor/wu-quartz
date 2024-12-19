@@ -12,6 +12,8 @@
 	- prices are constant, both domestic and foreign prices
 	- no inflation -> can use nominal instead of real interest rate
 	- can use nominal exchange rate rather than real exchange rate
+	- domestic currency is only demanded within own country
+		- counter example: USD in series Narcos
 - higher exchange rate ... less exports
 	- if my goods become more expensive via exchange rate the world will buy less
 - 
