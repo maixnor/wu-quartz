@@ -39,7 +39,6 @@
 		- more gov spending together with tariffs -> domestic more attractive
 		- targeting domestic producers/products
 			- e.g. restaurant vouchers, reparaturbonus
-
 - 
 
 
