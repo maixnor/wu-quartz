@@ -8,7 +8,7 @@ Code Quality and Readability are subjective. Therefore most issues with code are
 ### Duplicates
 Duplication is the enemy of long-term projects. If you have the same code in 2 or more places put it inside a function. Otherwise changes in one place are not necessarily applied in the other place(s).
 
-No example here, check out [[#Everything together]]
+No example here, check out [[#Everything at once]]
 ### Names
 Variables and functions should be named properly. They signal what things are doing and what they are. I recommend to name variables with nouns and functions with verbs.
 
