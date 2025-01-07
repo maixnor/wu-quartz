@@ -1,3 +1,6 @@
+# Fancy Plots
+- https://r-graph-gallery.com
+
 # Code Quality
 or Readability / Understandability
 
