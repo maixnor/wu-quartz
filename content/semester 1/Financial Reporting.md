@@ -1,13 +1,13 @@
 ## Politics and Reporting
 - is inherently about evaluating a company
 - based on different requirements different schemes have emerged
-	- [[IFRS]], US GAP, EU GAP
+	- [[IFRS]], US GAAP, AT GAAP
 - is mostly about trust in the evaluation of companies
 
 ## Triangular Relationship
-- [[Financial Statement]]
 - [[Balance Sheet]]
-- [[Cash Flow Statement]] or [[Profit and Loss Statement]]
+- [[Profit and Loss Statement]]
+- [[Cash Flow Statement]] 
 ## Equity
 - Covering losses
 - What owners and stock holders have contributed
