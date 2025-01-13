@@ -10,3 +10,9 @@
 		- it's easy to forget something or not be crystal clear of the meaning
 	- finalize and publish
 
+- when a new standard is published it is never "complete" - it can never be
+	- "good enough" is a good way to think about it
+
+> Just like in literature:
+> "A piece of writing is never done - it's just due"
+
