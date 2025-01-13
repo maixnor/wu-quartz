@@ -13,7 +13,9 @@
 - content: 
 	- all slides + all case study material
 	- + details from KPMG experts on Wednesday (20240115)
-- 
+
+- Slide 116! Perfect question there regarding financial and impact materiality
+	- maybe: [[IFRS SDS]] does not have double materiality, but has both impact and financial - just separately instead of together
 
 # Case Studies
 - [[L3 Case Study ASSET]]
