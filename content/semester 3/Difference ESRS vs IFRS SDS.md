@@ -1,5 +1,6 @@
 - [[ESRS]] vs [[IFRS SDS]]
 	- [[ISSB]] taking care of [[IFRS SDS]] is also thinking about Asia, not just European like the [[EFRAG]]
+	- [[IFRS SDS]] is again about delivering information to investors and creditors, rather than the public or the government
 - [[ESRS]] can be seen as superset of [[IFRS SDS]]
 	- ESRS is a lot more more in-depth
 	- only [[ESRS]]:
