@@ -1,5 +1,3 @@
-
-
 # Historical Value
 - purchase price
 - does not change, ever
@@ -17,7 +15,7 @@
 	- active market -> stock price, copper price
 	- compare to market -> my glass sphere tells me price X if I would sell now
 	- formulas -> [[Discounting#discounted]] Cash Flow of the next years (e.g. with buildings it would be rent) 
-
+- not allowed in most European GAAPs (AT, DE, etc)
 
 # Signa Overvalue Case
 - Donald Trump did not do the same, he probably just made up numbers for the banks

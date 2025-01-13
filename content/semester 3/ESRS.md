@@ -66,6 +66,6 @@
 - basis is [[Digital Tagging]]
 - [[GRI]] and [[ESRS]] are very similar
 	- even joint statement possible
-- [[IFRS S]] also mostly compatible
-	- mapping table of [[ESRS]] matters to [[IFRS S]]
+- [[IFRS SDS]] also mostly compatible
+	- mapping table of [[ESRS]] matters to [[IFRS SDS]]
 	- efforts to be more global and interoperable

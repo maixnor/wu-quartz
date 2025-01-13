@@ -1,7 +1,7 @@
 - [[ESRS]]
 - [[TCFD]] / [[TNFD]]
-- [[IFRS S]]
-	- [[IFRS S]] = [[VRF]] + [[CDSB]]
+- [[IFRS SDS]]
+	- [[IFRS SDS]] = [[VRF]] + [[CDSB]]
 	- [[VRF]] = [[IIRC]] + [[SASB]]
 - [[IIRC]] (deprecading)
 - [[SASB]]

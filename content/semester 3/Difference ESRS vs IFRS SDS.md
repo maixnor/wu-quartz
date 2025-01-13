@@ -1,0 +1,12 @@
+- [[ESRS]] vs [[IFRS SDS]]
+	- [[ISSB]] taking care of [[IFRS SDS]] is also thinking about Asia, not just European like the [[EFRAG]]
+- [[ESRS]] can be seen as superset of [[IFRS SDS]]
+	- ESRS is a lot more more in-depth
+	- only [[ESRS]]:
+		- [[Double Materiality]]
+		- social standards
+- Substituatibility
+	- if a company applies one of them also providing the other it is easy
+	- if you already publish information on either - the other is not far off
+- Value Chain Compatibility
+	- a company reporting in [[IFRS SDS]] should not have a hard time giving information to a company reporting with [[ESRS]] and vice versa to support trans-supranational trade

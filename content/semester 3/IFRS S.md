@@ -1,5 +1,0 @@
-- should overlap with [[ESRS]]
-- in cooperation with [[GRI]]
-- 2 climate related disclosures
-- has to be implemented by a country/jurisdiction, does not apply on it's own
-	- only implemented in [[Turkey]]

@@ -9,7 +9,7 @@
 # Exam
 - single choice (similar to quiz we had)
 - + open end (checking for understanding, not learning by heart)
-	- e.g.: what is the difference between ESRS and IFRS S 
+	- e.g.: what is the difference between [[ESRS]] and [[IFRS SDS]] 
 - content: 
 	- all slides + all case study material
 	- + details from KPMG experts on Wednesday (20240115)

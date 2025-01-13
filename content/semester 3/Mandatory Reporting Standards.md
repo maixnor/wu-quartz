@@ -14,8 +14,8 @@
 	- only really works between 
 - comparability will be even more difficult when different countries have different mandatory reporting standards
 	- [[Interoperability]]
-	- [[IFRS S]] and [[ESRS]] are mainly aligned
-		- e.g. [[IFRS S]] has financed emissions / [[ESRS]] has non-shareholder impacts
+	- [[IFRS SDS]] and [[ESRS]] are mainly aligned
+		- e.g. [[IFRS SDS]] has financed emissions / [[ESRS]] has non-shareholder impacts
 - digital tagging with [[ESEF]]
 	- digital reporting standard
 	- comparing 50 companies means importing 50 digital reports
@@ -25,7 +25,7 @@
 - supranational
 	- e.g. [[ESRS]] in whole of [[EU]]
 - country level
-	- e.g. [[IFRS S]] in just [[Turkey]]
+	- e.g. [[IFRS SDS]] in just [[Turkey]]
 - exchange level
 	- e.g. just a single [[stock exchange]]
 
@@ -37,7 +37,7 @@ timeline:
 - 2020 [[EU Taxonomy Regulation]]
 - 2022 [[CSRD]] -> [[NFRD]] overhauled
 - 2023 [[CBAM]] regulation
-- 2023 [[IFRS S]]
+- 2023 [[IFRS SDS]]
 - 2023 [[ESRS]]
 - 2024 [[CSDDD]]
 

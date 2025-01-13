@@ -5,7 +5,7 @@
 	- no stock exchange has implemented the [[ESRS]] as a requirements
 	- e.g. [[TCFD]] / [[TNFD]] is mandatory in Switzerland and UK
 	- e.g. [[SASB]] is done in Northern America 
-	- e.g. [[IFRS S]] is done in Turkey 
+	- e.g. [[IFRS SDS]] is done in Turkey 
 - [[GRI]] was the first standard
 
 - a lot of standards, hard to compare between them
