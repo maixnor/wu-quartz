@@ -64,11 +64,28 @@
 		- googling "company + issue"
 		- e.g. "Microsoft greenwashing"
 		- if not included in report -> questions
-	- 
+
+## Double Materiality Approach
+- general questions - understand scope
+- how whey have done [[Due Diligence]]
+	- [[Value Chain]], [[Shareholder Engagement]]
+- identify [[IRO]]s and [[KPI]]s
+- find out how [[IRO]]s are captured and transferred into [[KPI]]s
+- asses [[KPI]] outcome
 
 # Key challenges - practical examples
+- under [[ESRS]] no quantitative data may have omissions
+	- check for completeness required
 
 # Q&A / Discussion
+- who are you talking to exactly in the companies?
+	- C-suite (whoever is responsible for sustainability)
+	- different managers - whoever has important information
+		- e.g. won't ask finance dept about biodiversity
+		- mostly those people are spread across a lot of departments - there is normally not 1 sustainability department
+	- HR does social matters mostly
+- The better you can read a persons mind the better of an auditor you are
+- 
 
 
 
