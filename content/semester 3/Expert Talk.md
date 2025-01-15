@@ -30,6 +30,13 @@
 	- do you have processes and systems in place to support reasonable assurance someday?
 	- no guarantee that reasonable assurance will work out when the deadline hits
 - [[Assurance]]
+- Sustainability Reporting has the power to close companies
+	- lying about sustainabiltiy to get further credit
+	- having to repay financing after fraud becomes public
+	- insolvency
+- when reasonable assurance fails a lot of government regulation will follow
+	- if there should be a serious case of [[Greenwashing]] in ESG reporting the regulations would be revisited
+- 
 
 ## Politics
 - important for companies: should they prepare reports (a lot of costs are involved)

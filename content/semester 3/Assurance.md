@@ -15,5 +15,7 @@
 ## Positive
 - "everything looks good"
 
-# Differene
-- 
+# Difference
+- changes of finding problems are way higher with reasonable assurance
+- limited assurance: something must be very wrong to show up here
+- reasonable assurance: ability to find also small issues and discrepancies
