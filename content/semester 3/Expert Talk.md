@@ -38,8 +38,11 @@
 	- if there should be a serious case of [[Greenwashing]] in ESG reporting the regulations would be revisited
 - site visits
 	- where is data coming from - really understanding how the process works and what data is coming from where
+	- depends on regional differences and on the people
+		- can be friendly and open with some topics, but not with others
+		- some just want to get it over with and don't want to work with you at all
+	- e.g. measure waste water values to proof the values of the client are correct
 - sustainability auditing requires a lot more travelling than financial audits
-- 
 
 ## Politics
 - important for companies: should they prepare reports (a lot of costs are involved)
@@ -54,6 +57,9 @@
 		- possibility that new government(s) requests changes from EU
 
 # Auditors approach & conclusion
+- forming conclusion is very structured and formal
+	- processed by lawyers and experts how to formulate every single detail
+- 
 
 # Key challenges - practical examples
 

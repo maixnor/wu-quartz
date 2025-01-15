@@ -15,6 +15,11 @@
 ## Positive
 - "everything looks good"
 
+# Independence
+- auditor and audited company have to be independent of one another
+	- also all people involved in the assessment
+- without independence the report is worthless
+
 # Difference
 - changes of finding problems are way higher with reasonable assurance
 - limited assurance: something must be very wrong to show up here
