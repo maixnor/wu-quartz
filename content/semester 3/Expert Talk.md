@@ -36,6 +36,9 @@
 	- insolvency
 - when reasonable assurance fails a lot of government regulation will follow
 	- if there should be a serious case of [[Greenwashing]] in ESG reporting the regulations would be revisited
+- site visits
+	- where is data coming from - really understanding how the process works and what data is coming from where
+- sustainability auditing requires a lot more travelling than financial audits
 - 
 
 ## Politics
