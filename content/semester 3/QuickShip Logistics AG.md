@@ -20,7 +20,7 @@
 	- in 2024 not mandatory, since only [[PIEs]] are mandatory
 
 ## What are the relevant economic activities for the company’s main business area?
-- Freight by Road -> [[EU Taxonomy Compass]]
+- Freight by Road -> [[EU Taxonomy Regulation Compass]]
 
 ## What environmental objectives could these economic activities contribute to?
 Credit from here on: Benedek Farkas

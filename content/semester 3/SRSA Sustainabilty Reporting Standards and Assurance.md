@@ -5,6 +5,7 @@
 [[L2 SRSA]] - only the parts we covered are relevant for the exam
 [[L4 SRSA]]
 [[L5 SRSA]]
+[[Expert Talk]]
 
 # Exam
 - single choice (similar to quiz we had)

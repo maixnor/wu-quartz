@@ -38,15 +38,15 @@
 - [[E1]] - climate change
 	- if climate change is not material a detailed explanation is necessary
 	- others just are/aren't, no explanation required
-- [[E2]] - [[pollution]]
-- [[E3]] - water and marine resources
-- [[E4]] - biodiversity and ecosystems
-- [[E5]] - resource use and [[circular economy]]
-- [[S1]] - own workforces
-- [[S2]] - workers in [[value chain]]
-- [[S3]] - affected communities
-- [[S4]] - consumers
-- [[G1]] - business conduct
+- E2 - [[pollution]]
+- E3 - water and marine resources
+- E4 - biodiversity and ecosystems
+- E5 - resource use and [[circular economy]]
+- S1 - own workforces
+- S2 - workers in [[value chain]]
+- S3 - affected communities
+- S4 - consumers
+- G1 - business conduct
 
 ## The Report
 - requirements defined in [[ESRS 1]]

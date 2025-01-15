@@ -53,7 +53,7 @@
 	- + delegated act 2022/1214 (include nuclear and gas energy)
 		- transitional only
 - official tools
-	- [[EU Taxonomy Compass]] (very helpful)
+	- [[EU Taxonomy Regulation Compass]] (very helpful)
 		- [[NACE codes]]
 	- EU Taxonomy Calculator
 	- EU Taxonomy FAQs C/2023/305
