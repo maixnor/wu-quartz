@@ -85,7 +85,10 @@
 		- mostly those people are spread across a lot of departments - there is normally not 1 sustainability department
 	- HR does social matters mostly
 - The better you can read a persons mind the better of an auditor you are
-- 
+- for the change to reasonable assurance to happen one needs to proof that being sustainable has benefits - otherwise the companies will protest heavily because of extra incurred costs for no benefit
+- different ways to enforce reasonable assurance other than just requirements for everything
+	- e.g. if CEO renumeration is linked to sustainability KPIs
+	- e.g. if green bonds are listed on the stock market
 
 
 
