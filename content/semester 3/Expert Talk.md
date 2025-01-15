@@ -59,7 +59,12 @@
 # Auditors approach & conclusion
 - forming conclusion is very structured and formal
 	- processed by lawyers and experts how to formulate every single detail
-- 
+- [[Risk Management]]
+	- media research
+		- googling "company + issue"
+		- e.g. "Microsoft greenwashing"
+		- if not included in report -> questions
+	- 
 
 # Key challenges - practical examples
 
