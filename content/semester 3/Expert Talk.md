@@ -19,10 +19,23 @@
 - [[CSRD]] is a directive -> no obligation until transposed into national law
 	- citizens and companies not affected until transposition is done
 - new [[CSRD]] give a lot more structure over [[ISAE 3000]]
-- 
-- 
+- IT tools for ESG are numerous
+	- a lot will die out - there is a tool for everything
+	- not yet 1 dominant tool or 1 industry standard
+	- interesting stuff
+		- just a file explorer/archiving solution or is much more data processing happening?
+		- e.g. a carbon footprint processing tool
+			- what are the inputs and the calculations/processes
+- reasonable assurance readiness assessment
+	- do you have processes and systems in place to support reasonable assurance someday?
+	- no guarantee that reasonable assurance will work out when the deadline hits
+- [[Assurance]]
+
 ## Politics
+- important for companies: should they prepare reports (a lot of costs are involved)
+	- if it is not mandatory I might as well wait for a year
 - focus is currently on bigger issues: taxes and budgets
+	- no wins/losses with doing something you would have to anyways
 - sustainability reporting is low on the priority list
 	- possibility that nobody will talk about it and it will just be passed
 		- minimum requirements - resources needed in other places
