@@ -1,3 +1,4 @@
+- [[Financial Ratios]]
 - ROI is: Income + interest expense / investment
 	- normally not included - but for this course it needs to be
-- [[Financial Ratios]]
+	- also for residual income

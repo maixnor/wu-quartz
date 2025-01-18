@@ -81,7 +81,6 @@
 - debt to equity ratio, leverage ratio
 - Gearing of 1 ... 50% equity, 50% liabilities
 - can be compared to [[leverage]]
-
 ### Book to Market Ratio
  - P/B = market cap / balance sheet sum
  
