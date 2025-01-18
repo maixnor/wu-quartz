@@ -2,3 +2,5 @@
 - ROI is: Income + interest expense / investment
 	- normally not included - but for this course it needs to be
 	- also for residual income
+- "Final Exam: IF there is profit and interest expense then we need to add interest expense back into profit"
+- investment center manager: residual income is best ratio
