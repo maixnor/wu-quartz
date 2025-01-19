@@ -120,7 +120,9 @@ don't do simulation if
 	- e.g. 17.48
 
 # SQL
+
 ## Create Table
+**important:** `NOT NULL` omitted for brevity
 ```sql
 CREATE TABLE Professor (
     empnr INT PRIMARY KEY,

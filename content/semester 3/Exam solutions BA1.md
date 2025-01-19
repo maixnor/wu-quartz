@@ -117,6 +117,7 @@ Imagine, you are dealing with a data set that contains a lot of highly correlate
 Visualization: First, you look at the following two graphs to explore revenue’s distribution (left graph, red line: mean(revenue)) and development over time (right graph, blue line: revenue ~ time, with 95% error margins). Describe what you see. What does this mean for the management?
 
 ![[ba1_exam_regression.png]]
+
 lower chart is cut off
 
 >[!info]
@@ -129,6 +130,7 @@ lower chart is cut off
 Regression: To find out, what makes a banner ad more successful in terms of revenue, you are running the following regression model. You include clicks, ad price (cost per mile), number of display ads on the website (including yours), the ads view rate, as well as a dummy variable indicating if the ad was displayed in a contextually fitting website environment (i.e., dummy is 1 if website was sports or health related, 0 otherwise, note: non-contextual the baseline). Please note down the regression equation. Interpret the model. What does the output tell you about your model’s usefulness?
 
 ![[ba1_exam_regression_calc.png]]
+
 lower charts are cut off
 
 >[!info]
