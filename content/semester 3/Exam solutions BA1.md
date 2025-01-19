@@ -20,10 +20,10 @@ Use a significance level of alpha=5%.
 ## 2
 
 >[!info]
-> x The test is not valid because it should have compared refurbished and not refurbished cars with otherwise similar (or identical) features.
-> o The test is valid because it compares the prices of two groups distinguished by the only relevant criterion.
-> x A necessary condition for this test to be valid is that other features of cars must not be related to the need for refurbishing.
-> o This test design excludes the possibility of a sample-selection bias
+> - x The test is not valid because it should have compared refurbished and not refurbished cars with otherwise similar (or identical) features.
+> - o The test is valid because it compares the prices of two groups distinguished by the only relevant criterion.
+> - x A necessary condition for this test to be valid is that other features of cars must not be related to the need for refurbishing.
+> - o This test design excludes the possibility of a sample-selection bias
 
 # Exploratory Factor Analysis
 ## 1
@@ -56,8 +56,8 @@ calories       0.69    0.31
 ```
 
 >[!info]
-> o without rotation is better
->x with rotation is better
+>- o without rotation is better
+>- x with rotation is better
 >
 >why? 
 >	only positive values with rotation
@@ -108,8 +108,8 @@ price saturated fats vitamins storage life calories
 Imagine, you are dealing with a data set that contains a lot of highly correlated variables. If your overall goal is to reduce the variables into a smaller subset of uncorrelated variables which method should you ideally choose in order to accomplish the task?
 
 >[!info]
->o Common Factor Analysis
->x Principal Component Analysis
+>- o Common Factor Analysis
+>- x Principal Component Analysis
 
 # Regression
 ## 1
@@ -170,11 +170,11 @@ b) `10 + 20*runif(1,0,1)`
 
 ## 3
 >[!info]
-> o Using inverse transformation sampling, it is possible to turn uniformly distributed random numbers into random numbers from any other probability distribution.
-> x The normal distribution is quite tricky to simulate demand data because it can take on any continuous values from minus infinity to infinity.
-> x The sampling distribution can be created by repeatedly taking samples from a population, calculating the mean of each sample and then taking the mean of those means.
-> x In order to reduce the length of the confidence interval in a simulation, more simulation runs need to be carried out (ceteris paribus).
-> x Given a large number of simulation repetitions, the sampling distribution is roughly normally distributed with a mean of $\mu$ and standard deviation of $\frac{\sigma}{\sqrt{n}}$
+> - o Using inverse transformation sampling, it is possible to turn uniformly distributed random numbers into random numbers from any other probability distribution.
+> - x The normal distribution is quite tricky to simulate demand data because it can take on any continuous values from minus infinity to infinity.
+> - x The sampling distribution can be created by repeatedly taking samples from a population, calculating the mean of each sample and then taking the mean of those means.
+> - x In order to reduce the length of the confidence interval in a simulation, more simulation runs need to be carried out (ceteris paribus).
+> - x Given a large number of simulation repetitions, the sampling distribution is roughly normally distributed with a mean of $\mu$ and standard deviation of $\frac{\sigma}{\sqrt{n}}$
 
 # Linear Programming
 The Garden Shop mixes two types of grass seed into a blend and sells it in packages of 300 pounds. Each type of grass seed has been rated (per pound)  according to its shade tolerance and its ability to stand up to traffic, as shown in  the table. Type A seed costs $1 and Type B seed costs $2. The blend needs to score at least 320 points for shade tolerance and 400 points for traffic resistance. Develop an LP model that can be used to determine 
@@ -202,34 +202,34 @@ Traffic Resistance (points per pound) 2      1
 mark **NOT TRUE** regarding linear programming
 
 >[!info]
->  o An optimal solution always satisfies all constraints.
->  x An infeasible solution always violates all constraints.
->  o A feasible solution point does not have to lie on the boundary of the feasible region.
->  o A feasible solution always satisfies all constraints.
+>  - o An optimal solution always satisfies all constraints.
+>  - x An infeasible solution always violates all constraints.
+>  - o A feasible solution point does not have to lie on the boundary of the feasible region.
+>  - o A feasible solution always satisfies all constraints.
 
 ## 3
 All linear programming problems have all of the following properties **EXCEPT**
 
 >[!info]
-> o a linear objective function that is to be maximized or minimized.
-> o a set of linear constraints.
-> x alternative optimal solutions.
-> o variables that are all restricted to nonnegative values.
+> - o a linear objective function that is to be maximized or minimized.
+> - o a set of linear constraints.
+> - x alternative optimal solutions.
+> - o variables that are all restricted to nonnegative values.
 
 ## 4
 Which of the following is **not true** regarding the linear programming formulation of a transportation problem?
 
 >[!info]
-o The number of variables is (number of origins) x (number of destinations).
-x The number of constraints is (number of origins) x (number of destinations).
-o The constraints' left-hand side coefficients are either 0 or 1.
-o Costs appear only in the objective function
+> - o The number of variables is (number of origins) x (number of destinations).
+> - x The number of constraints is (number of origins) x (number of destinations).
+> - o The constraints' left-hand side coefficients are either 0 or 1.
+> - o Costs appear only in the objective function
 
 ## 5
 Let x, y and z be decision variables. Which of the following is a valid objective function for a linear programming problem?
 
 >[!info]
-> x $min \; 4x + 3y + 2/3z$
-> o $min \; 5x^2 + 6y^2$
-> o $min \; \frac{x+y}{z}$
-> o $max \; 5xy$
+> - x $min \; 4x + 3y + 2/3z$
+> - o $min \; 5x^2 + 6y^2$
+> - o $min \; \frac{x+y}{z}$
+> - o $max \; 5xy$
