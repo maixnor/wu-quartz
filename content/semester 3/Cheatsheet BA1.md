@@ -26,7 +26,7 @@ With rotation is always better - it adjusts the values accordingly to be easier 
 ## Factors
 anything with a value above `0.4` is explanatory: "factor x is explaining variable y"
 
-factor values should all be positive and not a single factor should be responsible for all variables.
+not a single factor should be responsible for all variables.
 
 figuring out how many factors you need: [[Eigenvalues]] for each number greater than 1. There will be as many eigenvalues as there are variables - but not all of them are relevant.
 
