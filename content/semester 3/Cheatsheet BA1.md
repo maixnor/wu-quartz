@@ -32,6 +32,7 @@ eigen(corr.itsButter.sc)[1]
 number of eigenvalues = number of factors needed to explain model
 
 ## Bartlett
+shows if the dataset has correlations between the variables.
 ```r
 cortest.bartlett(corr.brand.sc,n=nrow(brand.ratings.itsNOTbutter))
 $chisq
