@@ -117,6 +117,7 @@ Imagine, you are dealing with a data set that contains a lot of highly correlate
 Visualization: First, you look at the following two graphs to explore revenue’s distribution (left graph, red line: mean(revenue)) and development over time (right graph, blue line: revenue ~ time, with 95% error margins). Describe what you see. What does this mean for the management?
 
 ![[ba1_exam_regression.png]]
+lower chart is cut off
 
 >[!info]
 >- histogram. Most of the revenues mean is higher than o but lower than 5000 ( i would assume around 2000) with the high count. but the increase of revenue indicates the decrease of count.
@@ -128,9 +129,10 @@ Visualization: First, you look at the following two graphs to explore revenue’
 Regression: To find out, what makes a banner ad more successful in terms of revenue, you are running the following regression model. You include clicks, ad price (cost per mile), number of display ads on the website (including yours), the ads view rate, as well as a dummy variable indicating if the ad was displayed in a contextually fitting website environment (i.e., dummy is 1 if website was sports or health related, 0 otherwise, note: non-contextual the baseline). Please note down the regression equation. Interpret the model. What does the output tell you about your model’s usefulness?
 
 ![[ba1_exam_regression_calc.png]]
+lower charts are cut off
 
 >[!info]
->y - revenue
+>y ... revenue
 >y = -1603.183 + 22.967x1+ 612.735x2+ 530.049x3- 4746.065x4 - 618.183x5
 >the intercept is -1603.183
 >there are 5 dummies and each dummy can be increased by units,
@@ -138,10 +140,10 @@ Regression: To find out, what makes a banner ad more successful in terms of reve
 >with the increase of price cost per mile, the revenue increses by 612.735.
 >with the increase of number of ads by 1, the revenue increase by 530.049
 >with the increase of view rate by 1 the revenue decreases by 4746.065
->if contextual fitting is 1 then the revenue decreases by 618.183
+>with the increase of contextual by 1 the revenue decreases by 618.183
 >overall the model is alright, the worst variable `contextual` is still significant with p<0.05.
 >55.74% of the data can be described by the model.
->However i think the problem of the model is that view rate decreases the revenue which should be otherwise. the same goes with contextuallity fitting
+>However i think the problem of the model is that view rate decreases the revenue which should be otherwise. the same goes with contextually fitting ads
 
 ## 3
 Implications: Based on these results, what are your suggestions or considerations about your model? What would you advise your marketing manager to do or change about their banner ad strategy given your output? (2 points)

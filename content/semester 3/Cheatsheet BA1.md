@@ -56,3 +56,37 @@ price saturated fats vitamins storage life calories
 ## Common Factor vs Principal Component
 #todo idk either
 
+# Regression
+```r
+Call:
+lm(formula = revenue ~ clicks + price_cpm + number_ads + view_rate + contextual, data = site)
+
+Residuals:
+     Min       1Q    Median        3Q         Max
+-14836.6  -1705.7    -569.4    1336.5     24812.1
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)
+(Intercept)    -1603.183    487.421  -3.289  0.00103 **
+clicks            22.967      1.369  16.776  < 2e-16 ***
+price_cpm        612.735    117.953   5.195 2.40e-07 ***
+number_ads       530.049     32.681  16.219  < 2e-16 ***
+view_rate      -4747.065    732.422  -6.480 1.33e-10 ***
+contextual      -618.183    258.135  -2.395  0.01678 *
+
+Residual standard error: 3135 on 1209 degrees of freedom
+Multiple R-squared:  0.5574,    Adjusted R-squared:  0.5555
+F-statistic: 304.5 on 5 and 1209 DF, p-value: < 2.2e-16
+```
+
+
+- y ... revenue
+- y = -1603.183 + 22.967x1+ 612.735x2+ 530.049x3- 4746.065x4 - 618.183x5
+- the intercept is -1603.183
+- there are 5 dummies and each dummy can be increased by units,
+- with the increase of clicks by 1, the revenue increase by 22.967.
+- with the increase of price cost per mile, the revenue increses by 612.735.
+- with the increase of number of ads by 1, the revenue increase by 530.049
+- with the increase of view rate by 1 the revenue decreases by 4746.065
+- with the increase of contextual by 1 the revenue decreases by 618.183
+- overall the model is alright, the worst variable `contextual` is still significant with p<0.05.
