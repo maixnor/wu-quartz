@@ -90,6 +90,7 @@ $p.value
 [1] 0.1396076
 $df
 [1] 10
+
 KMO(brand.ratings.itsNOTbutter)
 Kaiser-Meyer-Olkin factor adequacy
 Call: KMO(r = brand.ratings.itsNOTbutter)
