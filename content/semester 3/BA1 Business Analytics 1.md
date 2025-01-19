@@ -6,3 +6,4 @@
 
 # Exam
 - [[Exam solutions BA1]]
+- [[Cheatsheet BA1]]
