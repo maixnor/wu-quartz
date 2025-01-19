@@ -113,8 +113,74 @@ don't do simulation if
 	- e.g. 17.48
 
 # SQL
+## Create Table
+```sql
+CREATE TABLE Professor (
+    empnr INT PRIMARY KEY,
+    name VARCHAR
+);
 
+CREATE TABLE Course (
+    matnr INT PRIMARY KEY,
+    title VARCHAR,
+    year INT,
+    professor_empnr INT,
+    FOREIGN KEY (professor_empnr) REFERENCES Professor(empnr)
+);
 
+CREATE TABLE Student (
+    matnr INT PRIMARY KEY,
+    name VARCHAR
+);
+
+CREATE TABLE Enrollment (
+    student_matnr INT,
+    course_title VARCHAR,
+    course_year INT,
+    grade INT,
+    PRIMARY KEY (course_title, course_year, student_matnr),
+    FOREIGN KEY (student_matnr) REFERENCES Student(matnr),
+    FOREIGN KEY (course_title) REFERENCES Course(title),
+    FOREIGN KEY (course_year) REFERENCES Course(year)
+);
+```
+
+## Insert Into
+```sql
+-- Insert Professors
+INSERT INTO Professor (empnr, name) VALUES (1, 'Dr. Smith');
+INSERT INTO Professor (empnr, name) VALUES (2, 'Prof. Jane');
+
+-- Insert Courses
+INSERT INTO Course (matnr, title, year, professor_empnr) VALUES (101, 'Mathematics', 2023, 1);
+INSERT INTO Course (matnr, title, year, professor_empnr) VALUES (102, 'Physics', 2023, 2);
+
+-- Insert Students
+INSERT INTO Student (matnr, name) VALUES (1001, 'Alice');
+INSERT INTO Student (matnr, name) VALUES (1002, 'Bob');
+INSERT INTO Student (matnr, name) VALUES (1003, 'Charlie');
+
+-- Insert Enrollments
+INSERT INTO Enrollment (student_matnr, course_title, course_year, grade) VALUES (1001, 'Mathematics', 2023, 1);
+INSERT INTO Enrollment (student_matnr, course_title, course_year, grade) VALUES (1002, 'Mathematics', 2023, 1);
+INSERT INTO Enrollment (student_matnr, course_title, course_year, grade) VALUES (1003, 'Mathematics', 2023, 2);
+INSERT INTO Enrollment (student_matnr, course_title, course_year, grade) VALUES (1001, 'Physics', 2023, 1);
+INSERT INTO Enrollment (student_matnr, course_title, course_year, grade) VALUES (1002, 'Physics', 2023, 2);
+```
+
+## Select with Count
+```sql
+SELECT
+	course_title,
+	course_year,
+    COUNT(student_matnr) AS number_of_students_with_grade_1
+FROM
+    Enrollment
+WHERE
+	grade = 1
+GROUP BY
+    course_title;
+```
 
 
 
