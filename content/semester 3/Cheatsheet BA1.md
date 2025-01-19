@@ -22,8 +22,7 @@ anything with a value above `0.4` is explanatory: "factor x is explaining variab
 
 factor values should all be positive and not a single factor should be responsible for all variables.
 
-figuring out how many factors you need: [[Eigenvalues]] for each number greater than 1
-#todo I don't get this "for each number greater than 1" quite either
+figuring out how many factors you need: [[Eigenvalues]] for each number greater than 1. There will be as many eigenvalues as there are variables - but not all of them are relevant.
 
 ```r
 eigen(corr.itsButter.sc)[1]
@@ -55,7 +54,12 @@ price saturated fats vitamins storage life calories
 #todo MSA, KMO, MSA for each item
 
 ## Common Factor vs Principal Component
-#todo idk either
+- common factor
+	- understanding relationships between variables
+	- loading factors to find correlations between variables
+- principal component
+	- reducing number of variables while keeping variance high
+	- finding components to reduce variables and therefore complexity
 
 # Regression
 ```r
@@ -102,7 +106,7 @@ don't do simulation if
 - `10 + 20*runif(1,0,1)` generates decimal number between 10 and 30 
 	- e.g. 17.48
 
-# 
+# SQL
 
 
 
