@@ -25,6 +25,7 @@ factanal(x = itsButter, factors = 2, scores = "Bartlett", rotation = "varimax")
 With rotation is always better - it adjusts the values accordingly to be easier correlated.
 ## Factors
 anything with a value above `0.4` is explanatory: "factor x is explaining variable y"
+- keep in mind: `abs(x) > 0.4` ... -0.4 is also significant
 
 not a single factor should be responsible for all variables.
 
