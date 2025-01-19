@@ -34,13 +34,24 @@
 	- = Household extended Income
 
 ## Based Justice(s)
-- #wontfix fill from slides
 ### Needs Based Justice
+- Inequality-focused
+- resource allocation based on necessity
 ### Performance Based Justice
+- Merit-oriented
+- rewards based on achievement and contribution
 ### Market Based Justice
+- Supply-demand influenced -> [[Supply And Demand]]
+- driven by economic transactions and value
 ### Opportunity Based Justice
+- Access-focused
+- emphasizes equal chances for success
 ### Participatory Justice
+- Involvement-centric
+- encourages community engagement in decision-making
 ### Environmental Justice
+- Sustainability-oriented
+- addresses ecological equity and rights
 
 ## Measure Inequality
 - [[GINI Index]]
