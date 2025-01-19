@@ -1,6 +1,7 @@
 # Giffen Paradox
 - after [[Robert Giffen]]
 - a good affected by this phenomenon is called a **Giffen Good**
+	- in German: "Goschen Gut" or "Giffen Gut"
 - a good becomes cheaper -> increased demand
 - relative income increases therefore
 - increased relative income -> negative effect in demand
