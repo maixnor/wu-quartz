@@ -3,7 +3,7 @@
 	1. False
 2. According to the cost-of-production method, [[profit]] equals the monetary value of the goods/services sold during a time period (revenues) minus the monetary value of resources consumed to produce these goods/services ([[expenses]]). 
 	1. False
-3. When a company distributes its profits of the year 2021 to its owners at the end of the year, then the company's net value (according to the [[balance sheet]]) at the end of 2021 equals its net value at the beginning of the year. 
+3. When a company distributes its profits of the year 2021 to its owners at the end of the year, then the company's net value (according to the [[Balance Sheet]]) at the end of 2021 equals its net value at the beginning of the year. 
 	1. Correct
 4. When a taxi company buys a new car by lending money then this transaction leads to a lower ROI because capital increases while profits do not change (they only change once the taxi gets used) 
 	1. Correct
@@ -29,15 +29,15 @@
 	1. False
 15. From a [[financial perspective]], a [[marketing]] campaign can be seen as an investment that aims at generating higher revenues in the future 
 	1. Correct
-16. When a company invests money to build up a brand then such investment always decreases overall [[profit]] since brand name capital is an intangible asset that cannot be listed in the [[balance sheet]]. 
+16. When a company invests money to build up a brand then such investment always decreases overall [[profit]] since brand name capital is an intangible asset that cannot be listed in the [[Balance Sheet]]. 
 	1. False
 17. From a P&L-perspective employees cause [[expenses]] (salary), but with their expertise and knowhow they help to generate revenues. 
 	1. Correct
-18. When a company borrows money to buy a new car, then both sides of the [[balance sheet]] ([[submodules/wu-quartz/content/Assets|assets]] and claims) increase. 
+18. When a company borrows money to buy a new car, then both sides of the [[Balance Sheet]] ([[submodules/wu-quartz/content/Assets|assets]] and claims) increase. 
 	1. Correct
 19. When the price of a product is increased then it can be expected that less units of the product will be sold but revenues may still increase. 
 	1. Correct
-20. When a company buys machinery from its cash reserves then this does not change the overall monetary value of [[submodules/wu-quartz/content/Assets|assets]] in the [[balance sheet]]. 
+20. When a company buys machinery from its cash reserves then this does not change the overall monetary value of [[submodules/wu-quartz/content/Assets|assets]] in the [[Balance Sheet]]. 
 	1. Correct
 21. When a company pays the interest for a bank loan, then this is no expense because there is no 'resource consumption". 
 	1. False
@@ -106,19 +106,19 @@
 	1. False
 22. In the long run, investors' returns on a company's [[equity]] should be lower than their returns on bonds issued by the same company.
 	1. False
-23. When a company distributes its profits of the year 2021 to its owners at the end of the year, then the company's net value (according to the [[balance sheet]]) at the end of 2021 equals its net value at the beginning of the year. 
+23. When a company distributes its profits of the year 2021 to its owners at the end of the year, then the company's net value (according to the [[Balance Sheet]]) at the end of 2021 equals its net value at the beginning of the year. 
 	1. Correct
-24. The fact that balance sheets do not contain most [[intangible assets]] is one main reason why the [[market capitalization]] of companies is very often higher than their net value ([[equity]]) according to the [[balance sheet]].
+24. The fact that balance sheets do not contain most [[intangible assets]] is one main reason why the [[market capitalization]] of companies is very often higher than their net value ([[equity]]) according to the [[Balance Sheet]].
 	1. Correct
 25. When a company pays the interest for a bank loan, then this is no expense because there is no "resource consumption".
 	1. False
-26. When a company buys machinery from its cash reserves then this does not change the overall monetary value of [[submodules/wu-quartz/content/Assets|assets]] in the [[balance sheet]].
+26. When a company buys machinery from its cash reserves then this does not change the overall monetary value of [[submodules/wu-quartz/content/Assets|assets]] in the [[Balance Sheet]].
 	1. Correct
 27. When a company pays back a loan by using its cash reserves, then this is an expense because cash money is consumed.
 	1. False
 28. Paying salary to employees is an expense
 	1. Correct
-29. When a company invests money to build up a brand then such investment always decreases overall [[profit]] in the long run, since brand name capital is an intangible asset that cannot be listed in the [[balance sheet]].
+29. When a company invests money to build up a brand then such investment always decreases overall [[profit]] in the long run, since brand name capital is an intangible asset that cannot be listed in the [[Balance Sheet]].
 	1. False
 30. [[Taylorism]] emphasizes the role of intrinsic [[Motivation]]
 	1. False
@@ -145,7 +145,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	1. Correct
 41. A [[profit]] margin of 0.3 means that one Euro of revenue generates on average 3 cents of [[profit]]
 	1. False
-42. According to the [[balance sheet]] logic the (net) [[value of a company]] is determined by its [[equity]].
+42. According to the [[Balance Sheet]] logic the (net) [[value of a company]] is determined by its [[equity]].
 	1. Correct
 43. Companies can raise [[equity]] by issuing bonds
 	1. False
@@ -238,7 +238,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	4. From a [[Taylorism]] perspective, management deals with the optimal division of the production process into individual tasks, in order to economize on the benefits of specialization.
 		1. Correct
 4. [[Financial Perspective]]
-	1. According to the [[balance sheet]] logic the [[value of a company]] is determined by its [[equity]].
+	1. According to the [[Balance Sheet]] logic the [[value of a company]] is determined by its [[equity]].
 		1. Correct
 	2. Investment decisions are decisions about business transactions with an initial cash inflow, in the expectation of future cash outflows
 		1. False
@@ -250,15 +250,15 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. Correct
 	6. When a taxi company buys a new taxi for 40,000 EUR then this transaction is an expense.
 		1. False
-	7. When a taxi company sells an unused car above its (book) value in the [[balance sheet]], then ROI increases.
+	7. When a taxi company sells an unused car above its (book) value in the [[Balance Sheet]], then ROI increases.
 		1. Correct
 	8. When a taxi company buys a new taxi for 40,000 EUR then this transaction is a capital expenditure.
 		1. Correct
 	9. According to the cost-of-production method, [[profit]] equals the monetary value of the goods/services sold during a time period (revenues) minus the monetary value of resources consumed to produce these goods/services ([[expenses]])
 		1. False
-	10. When a company distributes its profits of the year 2020 to its owners at the end of the year, then the company's net value (according to [[balance sheet]]) at the end of 2020 equals its value at the beginning of the year.
+	10. When a company distributes its profits of the year 2020 to its owners at the end of the year, then the company's net value (according to [[Balance Sheet]]) at the end of 2020 equals its value at the beginning of the year.
 		1. Correct
-	11. When a company borrows money to buy a new car, then both sides of the [[balance sheet]] ([[submodules/wu-quartz/content/Assets|assets]] and claims) increase.
+	11. When a company borrows money to buy a new car, then both sides of the [[Balance Sheet]] ([[submodules/wu-quartz/content/Assets|assets]] and claims) increase.
 		1. Correct
 	12. On average, investors' returns on a company's [[equity]] should be lower than their returns on bonds issued by the same company.
 		1. False
@@ -279,7 +279,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. Correct
 	20. The [[value of a company]] can be determined by calculating the [[net present value]] of [[cash flow]] streams generated by the company.
 		1. Correct
-	21. The fact that balance sheets do not contain most [[intangible assets]] is one main reason why the [[market capitalization]] of companies is very often higher than their net valu[[Equity|e (=eq]]uity) according to the [[balance sheet]].
+	21. The fact that balance sheets do not contain most [[intangible assets]] is one main reason why the [[market capitalization]] of companies is very often higher than their net valu[[Equity|e (=eq]]uity) according to the [[Balance Sheet]].
 		1. Correct
 	22. The [[value of a company]] can be determined from its [[market capitalization]]
 		1. Correct
@@ -319,7 +319,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. Correct
 	3. [[Taylorism]] emphasizes the role of intrinsic [[Motivation]]
 		1. False
-	4. When a company invests money to build up a brand than such investment always decreases [[profit]] in the long run, since brand name capital is an intangible asset that cannot be listed in the [[balance sheet]].
+	4. When a company invests money to build up a brand than such investment always decreases [[profit]] in the long run, since brand name capital is an intangible asset that cannot be listed in the [[Balance Sheet]].
 		1. False
 # BS Final 2019
 1. Which statements about “Customer Perceptive” are correct?
@@ -387,11 +387,11 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	4. In the [[BCG portfolio]] cash cow generates [[Cash Flow]] which can be used to finance question marks or growth of stars. 
 		1. Correct
 8. Which statement/s on the “[[Financial Perspective]]” is/are correct?
-	1. When a company distributes its profits of the year 2018 to its owners at the end of the year, then the company´s net value (according to [[balance sheet]]) at the end of 2018 equals it´s value at the beginning of the year
+	1. When a company distributes its profits of the year 2018 to its owners at the end of the year, then the company´s net value (according to [[Balance Sheet]]) at the end of 2018 equals it´s value at the beginning of the year
 		1. Correct
-	2. When a company uses debt to buy a new car, then then both sides of the [[balance sheet]] ([[submodules/wu-quartz/content/Assets|assets]] and claims) increase. 
+	2. When a company uses debt to buy a new car, then then both sides of the [[Balance Sheet]] ([[submodules/wu-quartz/content/Assets|assets]] and claims) increase. 
 		1. Correct
-	3. When a taxi company sells an unused car above its (book)value in the [[balance sheet]] than the ROI increases
+	3. When a taxi company sells an unused car above its (book)value in the [[Balance Sheet]] than the ROI increases
 		1. Correct
 	4. Long term debt means that such capital only creates [[profit]] in the long term 
 		1. False
@@ -405,7 +405,7 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 	4. Patents and brand names are [[intangible assets]] 
 		1. Correct
 10. Which statement/s on the “[[Financial Perspective]]” is/are correct?
-	1. According to the [[balance sheet]] logic the [[value of a company]] is determined by its [[equity]]. 
+	1. According to the [[Balance Sheet]] logic the [[value of a company]] is determined by its [[equity]]. 
 		1. Correct
 	2. Investment decisions are decisions about business transactions with an initial cash inflow in the expectation of future cash outflows. 
 		1. False
@@ -420,10 +420,10 @@ $$-1,000 + \frac {10}{1+r}+ \frac {10}{(1+r)^2}\frac {1,015}{(1+r)^3}=0$$
 		1. False
 	3. When it is possible for a company to invest cash money at 5% per year and to lend money at the same interest rate of 5% then the value of [[cash flow]] of 1.000 Euro one year in the future from the viewpoint of today is 1000/1.05. 
 		1. Correct
-	4. The fact that balance sheets do not contain most [[intangible assets]] is one main reason why the [[market capitalization]] of companies is very often higher than their net value=equity according to the [[balance sheet]]. 
+	4. The fact that balance sheets do not contain most [[intangible assets]] is one main reason why the [[market capitalization]] of companies is very often higher than their net value=equity according to the [[Balance Sheet]]. 
 		1. Correct
 12. Which statement is/are correct?
-	1. When a company invests money to build up a brand than such investments always decrease [[profit]] since brand name capital is an intangible asset that cannot be listed in the [[balance sheet]] 
+	1. When a company invests money to build up a brand than such investments always decrease [[profit]] since brand name capital is an intangible asset that cannot be listed in the [[Balance Sheet]] 
 		1. False
 	2. When the price of a product is increased then it can be expected that less units of the product will be sold but revenues may still increase 
 		1. Correct
