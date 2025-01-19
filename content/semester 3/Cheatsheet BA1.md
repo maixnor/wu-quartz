@@ -79,14 +79,31 @@ Multiple R-squared:  0.5574,    Adjusted R-squared:  0.5555
 F-statistic: 304.5 on 5 and 1209 DF, p-value: < 2.2e-16
 ```
 
-
 - y ... revenue
 - y = -1603.183 + 22.967x1+ 612.735x2+ 530.049x3- 4746.065x4 - 618.183x5
-- the intercept is -1603.183
-- there are 5 dummies and each dummy can be increased by units,
+- the intercept y(0) is -1603.183
 - with the increase of clicks by 1, the revenue increase by 22.967.
 - with the increase of price cost per mile, the revenue increses by 612.735.
 - with the increase of number of ads by 1, the revenue increase by 530.049
 - with the increase of view rate by 1 the revenue decreases by 4746.065
 - with the increase of contextual by 1 the revenue decreases by 618.183
 - overall the model is alright, the worst variable `contextual` is still significant with p<0.05.
+
+# Simulation
+works by calculating the statistical probability of any result happening - mostly using a normal distribution
+
+don't do simulation if
+- costs of running the simulation > potential benefit
+- execution is not technically feasible
+
+- `sample(c(10:30),1)` generates one integer - just an integer 
+	- e.g. 17
+- `10 + 20*runif(1,0,1)` generates decimal number between 10 and 30 
+	- e.g. 17.48
+
+# 
+
+
+
+
+
