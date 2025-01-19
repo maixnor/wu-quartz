@@ -50,8 +50,14 @@ price saturated fats vitamins storage life calories
 0.46  0.47           0.26     0.66         0.45
 ```
 
-`p-value`: 0.139, $\alpha$: 0.861
-#todo MSA, KMO, MSA for each item
+- `p-value`: 0.139, $\alpha$: 0.861S
+- KMO ... method of calculating MSAs
+- MSA ... higher = better
+- MSA ... anything above `0.5` is considered "adequate"
+	- adequate ... suitable to use in factor analysis
+	- marginal adequacy overall and for price, saturated fats, calories
+	- storage life is adequate
+	- vitamins is not adequate
 
 ## Common Factor vs Principal Component
 - common factor
