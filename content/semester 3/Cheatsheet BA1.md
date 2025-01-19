@@ -1,3 +1,8 @@
+# Bit and Byte
+3 Gigabyte using 22 Megabit connection
+3 GB = 3 * 1024 (GB->MB) * 8 (byte->bit) = 24576 Megabit
+24576 / 22 = 1112.55 seconds ~ 18 minutes, 33 seconds
+
 # Hypothesis Testing
 - $\alpha = 1 - \text{p-value}$
 - $z = \frac{\mu_{1}-\mu_{2}}{\sqrt{\frac{\sigma_{1}^{2}}{n_{1}}+\frac{\sigma_{2}^{2}}{n_{2}}}}$
@@ -17,6 +22,7 @@ with rotation:
 factanal(x = itsButter, factors = 2, scores = "Bartlett", rotation = "varimax")
 ```
 
+With rotation is always better - it adjusts the values accordingly to be easier correlated.
 ## Factors
 anything with a value above `0.4` is explanatory: "factor x is explaining variable y"
 
@@ -28,7 +34,7 @@ figuring out how many factors you need: [[Eigenvalues]] for each number greater 
 eigen(corr.itsButter.sc)[1]
 ```
 
-number of eigenvalues = number of factors needed to explain model
+number of eigenvalues > 1 = number of factors needed to explain model
 
 ## Bartlett
 shows if the dataset has correlations between the variables.
