@@ -1,6 +1,6 @@
 # Bit and Byte
 3 Gigabyte using 22 Megabit connection
-3 GB = 3 * 1024 (GB->MB) * 8 (byte->bit) = 24576 Megabit
+3 GB = 3 \* 1024 (GB->MB) \* 8 (byte->bit) = 24576 Megabit
 24576 / 22 = 1112.55 seconds ~ 18 minutes, 33 seconds
 
 # Hypothesis Testing
