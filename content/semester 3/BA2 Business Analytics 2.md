@@ -23,4 +23,4 @@
 	- 70 minutes of coding
 	- interpretation of results important
 	- different data sets for each person
-	- open-book + internet
+	- open-book + internet + GPT
