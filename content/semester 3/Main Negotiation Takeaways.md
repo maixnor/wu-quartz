@@ -16,3 +16,5 @@
 - influence group decisions by setting the agenda
 - losing is normal and expected
 	- don't let that stop you to start negotiations
+- the more information both players have the less deals there are
+	- best to have a lot of information yourself, while opponent has very little
