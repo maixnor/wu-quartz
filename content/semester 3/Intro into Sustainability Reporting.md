@@ -26,5 +26,5 @@
 ## Reasons to disclose
 - [[Transparency Theory]]
 	- also known as [[voluntary disclosure theory]]
-- [[stakeholder theory]]
+- [[Stakeholder Theory]]
 - [[Legitimacy Theory]]
