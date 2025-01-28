@@ -22,8 +22,8 @@
 	- expected decrease in exchange rate -> less attractive domestically
 	- buying a 10-year bond involves a lot of expectations 
 - changes in IS curve have no change on mundell-fleming model
-	- but the [[DD-curve]] still affects the net exports
-		- higher Y -> you are richer -> more imports
+	- but the DD-curve still affects the net exports
+		- higher Y -> you are richer -> more imports, less exports
 
 ## Monetary Policy
 #slides 
