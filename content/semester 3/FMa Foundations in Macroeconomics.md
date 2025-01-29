@@ -1,3 +1,6 @@
+# Formulas
+- [[Macro Formula Sheet]]
+
 # Overview
 - [[Goods Markets]]
 - [[Financial Markets]]
@@ -11,5 +14,4 @@
 - [[Short Summary Macro]]
 # Content
 - [[Equiibria over Time]]
-
 - [[Homework FMa 2]]
