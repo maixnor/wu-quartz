@@ -145,29 +145,39 @@ Which of the following statements about the early Industrial Revolution is/are c
 
 ## Quiz 3
 Which of the following statements regarding Pigou's theories is/are correct?
-- For Pigou, to ensure efficient allocation of resources, the marginal social gain from warfare should be equal to the marginal social gain from food production.
-- Pigou believed practical conclusions could be derived from utility analysis.
-- Pigouvian taxes are designed to address overproduction of goods with negative externalities.
-- Pigou argued that in perfectly competitive markets, full employment would be achieved.
+- **Pigou believed practical conclusions could be derived from utility analysis.
+	- thought about society - practical applications - pigouvian taxes
+	- learned about it in micro
+- **Pigouvian taxes are designed to address overproduction of goods with negative externalities.
+	- internalize externalities -> socio
+- **Pigou argued that in perfectly competitive markets, full employment would be achieved.
+- Pigou argued that in perfectly competitive markets, full employment would be achieved
 
 
 As Pigou later changed his opinion, the last answer is somewhat ambiguous, so we let both T & F count. Consider a consumer choosing between footballs and ice creams. Which of the following statements align/s with marginalist principles in the optimum?
 - Only for cardinal utilitarians a higher-priced football must yield proportionally more utility than an ice cream in the optimum.
-- If a football costs seven times as much as an ice cream, an additional football should provide seven times the pleasure of an additional ice cream.
+	- tying your utility to a specific number to calculate stuff
+- **If a football costs seven times as much as an ice cream, an additional football should provide seven times the pleasure of an additional ice cream.
 - For ordinal utilitarians, the increase in utility from being able to buy more of both goods can be measured.
-- Both cardinal and ordinal utilitarians would view a higher indifference curve, with more footballs and ice creams, as a state of higher utility.
+	- as long as the ordinality does not change it is not measurable
+- **Both cardinal and ordinal utilitarians would view a higher indifference curve, with more footballs and ice creams, as a state of higher utility.
+	- ordinal has similar curves - but without the numbers
 
 Here, due to the possibility of more complex interpretations than intended, we gave additional 0.25 points
 
 Which of the following statements about Alfred Marshall's economic approach is/are correct?
 - Marshall was only concerned with the modelling of short-term market equilibria.
-- Marshall developed partial equilibrium analysis to examine individual markets independently.
-- **Marshall viewed economics as a collection of true statements forming a representation of the world, and he advocated that economists should continuously inform the public about these truths.
-- **Marshall argued that economic insights could only be obtained by using pure mathematical modelling.
+- **Marshall developed partial equilibrium analysis to examine individual markets independently.
+	- Marshall ... guy who does everything
+- Marshall viewed economics as a collection of true statements forming a representation of the world, and he advocated that economists should continuously inform the public about these truths.
+	- it's not a collection of truths - rather a good toolset to solve a lot of problems
+- Marshall argued that economic insights could only be obtained by using pure mathematical modelling.
+	- just the "only" makes this statement wrong
 
 Which of the following statements regarding utility and indifference curves is/are correct?
 - Utilitarians might argue that individuals with the greatest capacity for work should perform the majority of it.
 - Edgeworth argued that the marginal utility of income increases as income rises.
+	- decreases
 - **An indifference curve represents combinations of goods yielding a constant level of utility for consumers.
 - **According to Edgeworth, utility can be interpreted to a degree that makes it a meaningful concept.
 
