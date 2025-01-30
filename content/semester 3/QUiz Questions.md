@@ -116,9 +116,9 @@ Which of the following best describes the purpose of the gold standard during th
 
 Which of the following statements about the early Industrial Revolution is/are correct?
 - The invention of railways was crucial in the early phase of the British Industrial Revolution.
-- Innovation and organizational changes were more critical for labour productivity growth than the increase in the capital/labor ratio.
+- **Innovation and organizational changes were more critical for labour productivity growth than the increase in the capital/labor ratio.
 - The industrial revolution advanced slowly because strong workers' associations (labor unions) impeded structural change.
-- The "Glorious Revolution" led to better protected and enforceable property rights.
+- **The "Glorious Revolution" led to better protected and enforceable property rights.
 
 ## Quiz 3
 Which of the following statements regarding Pigou's theories is/are correct?
@@ -128,15 +128,14 @@ Which of the following statements regarding Pigou's theories is/are correct?
 - Pigou argued that in perfectly competitive markets, full employment would be achieved.
 
 
-As Pigou later changed his opinion, the last answer is somewhat ambiguous, so we let both T & F count
-
-Consider a consumer choosing between footballs and ice creams. Which of the following statements align/s with marginalist principles in the optimum?
+As Pigou later changed his opinion, the last answer is somewhat ambiguous, so we let both T & F count. Consider a consumer choosing between footballs and ice creams. Which of the following statements align/s with marginalist principles in the optimum?
 - Only for cardinal utilitarians a higher-priced football must yield proportionally more utility than an ice cream in the optimum.
 - If a football costs seven times as much as an ice cream, an additional football should provide seven times the pleasure of an additional ice cream.
-- For ordinal utilitarians, the increase in utility from being able to buy more of both goods can be measured. a Both cardinal and ordinal utilitarians would view a higher indiference curve, with more footballs and ice creams, as a state of higher utility.
+- For ordinal utilitarians, the increase in utility from being able to buy more of both goods can be measured.
+- Both cardinal and ordinal utilitarians would view a higher indifference curve, with more footballs and ice creams, as a state of higher utility.
 
 
-Here, due to the possibility of more complex interpretations than inteded, we gave additional 0.25 points
+Here, due to the possibility of more complex interpretations than intended, we gave additional 0.25 points
 
 Which of the following statements about Alfred Marshall's economic approach is/are correct?
 - Marshall was only concerned with the modelling of short-term market equilibria.
