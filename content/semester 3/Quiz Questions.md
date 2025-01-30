@@ -75,6 +75,7 @@ Which of the following statement/s is/are true regarding Smith's distinction bet
 - Over long periods, the market price is more likely to stay below the natural price than above.
 - In competitive markets, market price and natural price always remain the same.
 - **The Market price fluctuates based on immediate supply and demand conditions.
+	- he didn't take demand into account, but it is still correct
 
 ## Quiz 2
 Which of the following statements about the industrial revolution is/are correct?
@@ -84,7 +85,7 @@ Which of the following statements about the industrial revolution is/are correct
 - **Technological advancements in the textile industry were central to early industrial growth in Britain.
 
 Which of the following statements about imperialism is/are correct?
-- The British Empire expanded significantly, controlling a larger proportion of the Earth's surface by 1914 than by 1815.
+- **The British Empire expanded significantly, controlling a larger proportion of the Earth's surface by 1914 than by 1815.
 - **European countries aggressively sought exclusive access to markets and raw materials after 1800.
 - **Internal imperialism in the US involved the conquest of territories from indigenous populations.
 - The United States played a leading role in the division of Africa among European powers in the late 19th century.
