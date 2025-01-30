@@ -1,4 +1,5 @@
 Bold = True
+[[HE History People]]
 ## Quiz 1
 Which of the following statement/s is/are true, given Smith's discussion on wage levels?
 - political and institutional circumstances play only a minor role in explaining wage levels.
@@ -7,6 +8,7 @@ Which of the following statement/s is/are true, given Smith's discussion on wage
 	- no economist has said that
 - **the wage level of different professions is affected by different noneconomic factors.
 	- opposite to first statement
+	- #todo
 - **In the long run, wages have to be high enough for workers to raise a family.
 	- subsistence+ theory -> feed yourself + family
 
@@ -312,6 +314,7 @@ Which of the following factors contributed to Western Europe and Japan convergin
 ## Quiz 5
 Which of the following statements about Ludwig von Mises and Oskar Lange is/are correct?
 - **Lange expressed gratitude for Mises’ critique of socialist central planning and proposed to erect a statue in his honour in any socialist planning board.
+	- ironic statue
 - **Lange argued that market-socialism, excluding private ownership, could allocate resources more efficiently than free markets by eliminating the influence of market power.
 - **Mises emphasized the importance of prices in resource allocation.
 	- mises ... critique of socialism
@@ -348,30 +351,42 @@ Which of the following statements about Marx and his theory is/are correct?
 Which of the following statements describe/s Oskar Lange and Abba P. Lerner’s approach to economic planning?
 - Lange acknowledged that his market-socialist system might suffer from bureaucracy.
 - According to Lange, a central planning bureau can use a trial-and-error process to simulate and even outperform free markets in terms of efficiency.
-- In Lange's system, state-owned enterprises would try to maximise profit based on prices set by the central planning bureau.
+- **In Lange's system, state-owned enterprises would try to maximise profit based on prices set by the central planning bureau.
+	- #todo like a hybrid - regulate just prices and let supply take care of it's own
 - Socialist economies should disregard prices entirely and focus on production targets.
 
 Which of the following statements accurately describe/s developments under Stalin's rule in the USSR?
 - Stalin employed market incentives to convince peasants to take part in the collectivization of agriculture.
-- The period was characterized by repression and severe humanitarian and political abuses.
-- Structural change from agriculture to industry took place.
+- **The period was characterized by repression and severe humanitarian and political abuses.
+- **Structural change from agriculture to industry took place.
 - Stalin's industrialization policies transformed the Soviet Union into a modern industrial powerhouse without significant social costs.
 
 Which of the following statement/s capture/s Joseph Schumpeter’s views on economic systems?
-- Schumpeter outlined the tendencies of capitalist systems becoming overly bureaucratic.
-- Schumpeter viewed markets as constantly evolving, rather than remaining in stable equilibrium.
-- Creative destruction describes how innovations replace outdated industries.
-- Schumpeter argued that capitalism's dynamics would eventually lead to socialism.
+- **Schumpeter outlined the tendencies of capitalist systems becoming overly bureaucratic.
+	- evolutionary theory of markets
+	- for good things to come bad things have to die
+- **Schumpeter viewed markets as constantly evolving, rather than remaining in stable equilibrium.
+- **Creative destruction describes how innovations replace outdated industries.
+- **Schumpeter argued that capitalism's dynamics would eventually lead to socialism.
+	- doesn't want bureaucracy, but he knows it is necessary
 
 Which of the following statements accurately describe/s early socialist ideas?
 - Marx was a strong proponent of the marginalist theory of value.
+	- marginalist theory of value ... demand, but Marx is supply side
 - Marx advocated a shift from "to each according to his needs" to "each according to his ability."
+	- "you're gonna work the job you are good at"
+	- problem is "shift from" -> adding would be more appropriate
+		- "to each according to his needs" are still applicable
 - Left Revisionism, associated with Lenin and Trotsky, strongly advocates reform rather than revolution.
-- Marx and Engels argued that for communism to prevail, there would need to be material conditions from advanced capitalism.
+- **Marx and Engels argued that for communism to prevail, there would need to be material conditions from advanced capitalism.
+	- "if capitalism continues like this there will be revolution"
+		- the "like this" is the "material condition"
+	- enough people have to be mad at capitalist for communism to work
+	- communist virus needs to spread first
 
 Which of the following statements about Friedrich (von) Hayek's views on knowledge and preferences relevant for economic decision-making is/are correct?
 - For Hayek, a central planning bureau could achieve market-like outcomes by collecting and using individual knowledge and preferences, and managing resources based on them.
-- They can be communicated indirectly through markets via price signals, which reflect them.
-- They are best understood as widely dispersed among individuals and influenced by individual and local contexts and circumstances.
-- No single individual or authority can fully aggregate and understand all of them.
+- **They can be communicated indirectly through markets via price signals, which reflect them.
+- **They are best understood as widely dispersed among individuals and influenced by individual and local contexts and circumstances.
+- **No single individual or authority can fully aggregate and understand all of them.
 
