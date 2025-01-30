@@ -253,27 +253,27 @@ Which of the following statements about Ludwig von Mises and Oskar Lange is/are 
 
 Which of the following statements accurately describe/s the period of Stalin's rule in the USSR?
 - Little to no emphasis was placed on capital accumulation to foster economic development.
-- The first Five-Year-Plan was introduced.
-- Internal criticism was repressed by force.
+- **The first Five-Year-Plan was introduced.
+- **Internal criticism was repressed by force.
 - The economic system under Stalin relied heavily on market price systems as envisaged by Oskar Lange.
 
 Which of the following statements reflect/s key aspects of the USSR and other socialist states in their later years?
 - The eastern bloc, with the exception of Romania, managed to lower its debt significantly in the 1980s.
 - The USSR shifted rapidly to a service-sector economy, which reduced overall output.
-- The USSR struggled to produce efficiently and had to rely on extensive rather than intensive growth.
-- According to some, central planners in the USSR chose unrealistic or incoherent goals that hindered economic progress.
+- **The USSR struggled to produce efficiently and had to rely on extensive rather than intensive growth.
+- **According to some, central planners in the USSR chose unrealistic or incoherent goals that hindered economic progress.
 
 Which of the following statements accurately describe/s Friedrich Hayek's views?
 - He believed the creation of the right incentives, free from profit-seeking or greed, is an advantage of socialist systems.
 - According to Hayek, resource allocation should be managed by central planners or mathematicians.
-- He saw prices as an important carrier of information.
-- His work reflects a strong antithesis to the views of his former teacher, Mises.
+- **He saw prices as an important carrier of information.
+- **His work reflects a strong antithesis to the views of his former teacher, Mises.
 
 Which of the following statements about Marx and his theory is/are correct?
 - For Marx, use value and price are always equivalent in a capitalist economy.
-- Marx viewed class struggle as a central driving force of historical change.
-- Marx believed that labor is the central factor in determining the value of commodities.
-- Marx argued that capital accumulation would eventually lead to crises and capitalism's downfall.
+- **Marx viewed class struggle as a central driving force of historical change.
+- **Marx believed that labor is the central factor in determining the value of commodities.
+- **Marx argued that capital accumulation would eventually lead to crises and capitalism's downfall.
 
 Which of the following statements describe/s Oskar Lange and Abba P. Lerner’s approach to economic planning?
 - Lange acknowledged that his market-socialist system might suffer from bureaucracy.
