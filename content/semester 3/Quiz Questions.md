@@ -101,9 +101,10 @@ Which of the following statements accurately describe/s factors that influence p
 - **Japan serves as an example of gradual economic opening, resulting in steady price changes over time.
 - When countries start to trade, the price of net exported goods tends to rise, while the price of net imported goods decreases.
 - According to the 'weak law of one price', prices should be identical across all locations.
+	- "law of one price" would be correct
 
 Which of the following statements is/are correct?
-- **The Industrial Revolution resulted in a larger workforce in the primary sector.
+- The Industrial Revolution resulted in a larger workforce in the primary sector.
 - The Industrial Revolution occurred swiftly and rapidly spread throughout Europe.
 - The "industrious revolution" refers to a shift toward reduced consumption and increased savings.
 - **The use of coal as a primary energy source grew significantly during the Industrial Revolution.
@@ -116,9 +117,11 @@ Which of the following statements about the factory system is/are correct?
 
 Which of the following statements concerning international price and trade dynamics in the 19th century is/are correct?
 - **According to the weak law of one price, prices may not be identical but tend to move in the same direction across different regions.
-- **"Peripheral" countries in the global economy did not really engage in economic specialization.
+- "Peripheral" countries in the global economy did not really engage in economic specialization.
+	- you can also specialize in agriculture
 - **Japan provides an interesting example, as it shifted from autarky to trade, allowing us to observe the direct impact of trade on prices
-- Rates of return on investments were often higher in the "peripheral" than in the "core" countries of the emerging world economy
+- **Rates of return on investments were often higher in the "peripheral" than in the "core" countries of the emerging world economy
+	- real estate is free if you rob it from the locals!
 
 Which of the following statements about the industrial revolution is/are correct?
 - **The "industrious revolution" saw households increase their working hours to afford new consumer goods like tea and sugar.
