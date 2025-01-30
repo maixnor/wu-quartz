@@ -179,61 +179,81 @@ Which of the following statements regarding utility and indifference curves is/a
 - Edgeworth argued that the marginal utility of income increases as income rises.
 	- decreases
 - **An indifference curve represents combinations of goods yielding a constant level of utility for consumers.
-- **According to Edgeworth, utility can be interpreted to a degree that makes it a meaningful concept.
+- According to Edgeworth, utility can be interpreted to a degree that makes it a meaningful concept.
+	- #todo idk
 
 Which of the following statements about equilibrium concepts in economic theory is/are correct?
 - **In Walras tâtonnement process, the economy reaches equilibrium through trial and error adjustments.
+	- Walras ... mathematician, scarcity, models, proving equilibriums exist
 - Menger did not assume that markets were always in equilibrium. He saw competition as a dynamic process that worked to eliminate monopolies.
 - Jevons formulated equilibrium conditions for multiple markets simultaneously.
+	- true for Walras, false for Jevons
+	- Jevons less obsessed with maths, utilitarian, maximizing utility
 - **The existence problem of equilibrium examines whether a set of prices and quantities exists that satisfy all equations in an economic model.
 
 Which of the following statements regarding Pareto's ideas are correct?
-- **Pareto assigned numbers to indifference curves to compare utility between individuals.
-* Pareto believed that the numbers assigned to indifference curves are not important, as long as they increase with the level of preference.
-- **There can only be one possible Pareto-optimal allocation in society.
+- Pareto assigned numbers to indifference curves to compare utility between individuals.
+* **Pareto believed that the numbers assigned to indifference curves are not important, as long as they increase with the level of preference.
+	* zero-sum game -> game theory
+	* Pareto ... ordinal, edgeworth ... cardinal
+- There can only be one possible Pareto-optimal allocation in society.
 - Pareto argued that his theory supports a capitalist model of production.
 
 In a society consisting of one wealthy person and one poor person, which of the following statements is/are correct
-- **This cannot be considered Pareto-efficient.
+- This cannot be considered Pareto-efficient.
 - **Edgeworth would advocate redistributing wealth to increase total utility.
 - Pigou would argue that economists should avoid moral questions on wealth distribution.
-- **According to ordinal utility theory, reducing the wealth of the wealthier person would not impact their utility.
+	- thought of society - would not avoid morals
+	- progress of utilitarians -> from mere individuals to populations
+- According to ordinal utility theory, reducing the wealth of the wealthier person would not impact their utility.
+	- it would impact - but less than lowering the wealth of the poor person
 
 Which of the following statements about Menger's and Marshall's concepts is/are correct?
-- According to Menger, value is inherently tied to a good's ability to satisfy human needs.
-- **In Marshall's economics, in the long-run supply of a good is fixed, as there is a limited stock of land, skilled labour and machinery.
+- **According to Menger, value is inherently tied to a good's ability to satisfy human needs.
+	- marginalist ... demand side only, value = utility -> satisfying
+- In Marshall's economics, in the long-run supply of a good is fixed, as there is a limited stock of land, skilled labour and machinery.
+	- marshall cross ... supply and demand diagram
 - Marshall strongly advocated for mathematical models even if they defy translation into ordinary language.
 - **Menger argued that consumer utility maximization ensures the maintenance of market equilibrium.
 
 Which of the following statements about utility concepts and their implications as explained in the text for week 5 is/are correct?
 - **According to Edgeworth, in principle an equal distribution of income creates optimal social welfare.
+	- something about diversification
 - **An indifference curve represents combinations of goods at which consumer utility remains constant.
-- **Exact utilitarianism argues that utility can neither be measured nor compared across individuals, and thus a term like "maximum utility" is misleading.
-- Pareto's concept of utility is ordinal, while Edgeworth's is cardinal.
+- Exact utilitarianism argues that utility can neither be measured nor compared across individuals, and thus a term like "maximum utility" is misleading.
+- **Pareto's concept of utility is ordinal, while Edgeworth's is cardinal.
 
 Which of the following statements reflect/s marginalist views on consumer decision-making?
-- **Consumers maximize utility by allocating their budget to equalize the marginal utility per dollar spent across all goods.
+- Consumers maximize utility by allocating their budget to equalize the marginal utility per dollar spent across all goods.
 - The value of a good is determined primarily by the labor hours dedicated to producing it.
-- In an exchange, the relative utility derived from goods should match their relative prices.
+- **In an exchange, the relative utility derived from goods should match their relative prices.
 - The marginal utility of a good increases with each additional unit consumed.
 ## Quiz 4
 Which of the following phenomena arose with the economic developments from the 1980s on? 
 - Global poverty rates stagnated or increased.
-- Banking crises became more frequent.
+	- CCBE -> decreased
+- **Banking crises became more frequent.
+	- more common with smaller economies
+	- graph on the slides
 - **In richer countries, a greater share of income went to the top 1%.
 - Overall global resource use and greenhouse gas emissions declined due to the transition to more service-oriented economies.
+	- they never declined
 
 Which of the following statements is/are correct?
-- **The period from WW1 to the end of WW2 saw particularly high economic growth rates, due to increased spendings on war.
-- **The Spanish flu happening shortly after WW2, exacerbated its aftermath's challenges and damages.
+- The period from WW1 to the end of WW2 saw particularly high economic growth rates, due to increased spendings on war.
+	- the fuel for starting WW2 - pointing fingers at a poor economy
+	- hyperinflation, great depression
+- The Spanish flu happening shortly after WW2, exacerbated its aftermath's challenges and damages.
+	- after WW1 - not WW2
 - Economic involvement by the state declined significantly during WW1.
 - **Economic and political relations were rather non-cooperative in the aftermath of WW1 due frictions regarding reparation payments and war debts.
 
 Which of the following statements is/are true for WW2 recovery?
-- **Free international capital flows were significant for recovery, and an essential part of the Bretton Woods system.
+- Free international capital flows were significant for recovery, and an essential part of the Bretton Woods system.
+	- there was only trade - not capital flow, trading only goods, not currency
 - **European cooperation increased after WW2.
 - The Bretton Woods system increased monetary autonomy for countries.
-- Germany's inability to pay reparations after World War I led directly to higher reparations after World War II, as the Allies sought to punish it further.
+- **Germany's inability to pay reparations after World War I led directly to higher reparations after World War II, as the Allies sought to punish it further.
 
 Which of the following statements is/are correct?
 - The return to the gold standard proved very effective as a sustainable solution to the problems arising in the aftermath of WW1
