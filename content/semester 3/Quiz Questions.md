@@ -5,7 +5,7 @@ Which of the following statement/s is/are true, given Smith's discussion on wage
 	- smith writes on respect, education, the harder the work, the more money you should got
 - In case of a conflict, workers are usually in a more powerful bargaining position than employer.
 	- no economist has said that
-- [ ] **the wage level of different professions is affected by different noneconomic factors.
+- **the wage level of different professions is affected by different noneconomic factors.
 	- opposite to first statement
 - **In the long run, wages have to be high enough for workers to raise a family.
 	- subsistence+ theory -> feed yourself + family
@@ -252,8 +252,10 @@ Which of the following statements is/are true for WW2 recovery?
 - Free international capital flows were significant for recovery, and an essential part of the Bretton Woods system.
 	- there was only trade - not capital flow, trading only goods, not currency
 - **European cooperation increased after WW2.
-- The Bretton Woods system increased monetary autonomy for countries.
-- **Germany's inability to pay reparations after World War I led directly to higher reparations after World War II, as the Allies sought to punish it further.
+- **The Bretton Woods system increased monetary autonomy for countries.
+	- USD was fixed to gold -> exchanges to USD were not fixed
+- Germany's inability to pay reparations after World War I led directly to higher reparations after World War II, as the Allies sought to punish it further.
+	- Allies learned their lesson - cooperation and control after WW2
 
 Which of the following statements is/are correct?
 - The return to the gold standard proved very effective as a sustainable solution to the problems arising in the aftermath of WW1
