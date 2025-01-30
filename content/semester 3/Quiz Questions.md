@@ -132,7 +132,9 @@ Which of the following statements about the industrial revolution is/are correct
 Which of the following best describes the purpose of the gold standard during the 19th century?
 * **To create stable exchange rates for international trade and reduce transaction costs.
 - To ensure countries could use monetary policy to mitigate the ups and downs of the business cycle.
+	- gold standard reduces monetary policy freedom
 - To replace commodity money with paper currency.
+	- coincidence - not the reason for it
 - To allow currency values to fluctuate freely between countries.
 
 Which of the following statements about the early Industrial Revolution is/are correct?
