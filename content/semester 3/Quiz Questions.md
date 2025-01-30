@@ -1,12 +1,18 @@
+Bold = True
 ## Quiz 1
 Which of the following statement/s is/are true, given Smith's discussion on wage levels?
 - political and institutional circumstances play only a minor role in explaining wage levels.
+	- smith writes on respect, education, the harder the work, the more money you should got
 - In case of a conflict, workers are usually in a more powerful bargaining position than employer.
-- the wage level of different professions is affected by different noneconomic factors.
+	- no economist has said that
+- [ ] **the wage level of different professions is affected by different noneconomic factors.
+	- opposite to first statement
 - **In the long run, wages have to be high enough for workers to raise a family.
+	- subsistence+ theory -> feed yourself + family
 
 According to Malthus' theory of population growth and food supply:
 - Advances in technology eliminate the threat of overpopulation.
+	- smith, not malthus
 - **There exists a constant tension between population growth and food supply.
 - **When unchecked, population grows geometrically, while food supply increases arithmetically.
 - Returns to scale are increasing in agriculture.
@@ -14,43 +20,54 @@ According to Malthus' theory of population growth and food supply:
 Against the backdrop of Ricardo's theory of comparative advantage, consider two countries, A and B, that both produce bicycles and tablets. Given that there are no transaction costs, which of the following statement/s is/are definitely correct?
 - Country B should focus on producing bicycles if it produces them faster than tablets.
 - **Countries maximize their combined output by specializing in the production of goods for which they have a comparative advantage.
+	- CCBE content
 - **If relative efficiencies in producing the two goods differ among the countries, trade is beneficial, even if one country is more efficient at producing both in absolute numbers.
+	- CCBE content
 - Country A cannot gain from trading with Country B if it is more efficient at making both tablets and bicycles.
 
 Adam Smith's distinction between "value in use" and "value in exchange" highlights a paradox. Which of the following statement/s is/are correct?
 - Smith's labor theory of value is able to resolve the paradox.
 - **Diamonds, although less useful than water, have a higher exchange value.
-- The paradox illustrates a weakness in classical price theory by failing to provide an adequate account of demand.
+- **The paradox illustrates a weakness in classical price theory by failing to provide an adequate account of demand.
 - Water has a higher exchange value than diamonds due to its necessity.
 
 In Adam Smith's example of a primitive society with free access to hunting grounds, what is/are the key determinant(s) of the exchange ratio between a beaver and a deer?
 - The number of hunters in society.
-- **The quantity of capital employed in hunting each animal.
+- The quantity of capital employed in hunting each animal.
 - The demand for each type of animal.
 - **The relative amount of labor required to hunt each animal.
+	- no time, knowledge, effort, skills, etc. Just labor hours considered
+	- ricardo started thinking about more than labor hours
 
 Which of the following statement/s about Ricardo's theories on taxation and loan financing is/are correct?
-- Taxation and loan financing of public expenditure are economically equivalent, meaning that citizens bear the same overall financial burden in either case.
+- **Taxation and loan financing of public expenditure are economically equivalent, meaning that citizens bear the same overall financial burden in either case.
+	- e.g. financing a war, tax and loans are the same - just the amount is relevant
+	- more "honest" to work with taxation rather than loan financing
 - Loan financing is generally preferable to taxation because it avoids imposing immediate costs on taxpayers.
 - **When the government finances its spending through loans, taxpayers feel richer in the short term due to lower immediate tax payments.
-- **The burden of taxation can be shared between producers and consumers, depending on market conditions.
+	- loans push back the date of population paying taxes backwards
+- The burden of taxation can be shared between producers and consumers, depending on market conditions.
+	- generally true, just not from ricardo
 
 Which of these statement/s is/are true regarding Smith's stances on competition and free trade?
 - **Smith was in support of protectionist measures when it comes to goods of strategic value for defence.
+	- in general for free trade, but still patriotic
 - Competitive markets by definition lead to just societal outcomes.
 - In general, he was an advocate of Mercantilist policies, and restricting international trade.
-- **Systems of free markets and free competition are inherently self-regulating.
+- Systems of free markets and free competition are inherently self-regulating.
+	- comes up later, "inherently" is too strong - "tend to" would fit better
 
 Which of the following factors can control population growth according to Malthus?
 - **Positive checks like famine, disease, and war.
 - **Preventive checks such as moral restraint, delayed marriage, and celibacy.
 - Economic policies that redistribute resources.
-- **Government regulations ensuring equal access to food for all.
+- Government regulations ensuring equal access to food for all.
 
 As outlined by Smith, which of these parameters play(s) a role in co-determining the unit cost of production in complex societies?
 - **the scale of production
-- the organisation of labor
+- **the organisation of labor
 - **the market size
+	- necessary for specialization
 - **the level of specialization
 
 Which of the following statement/s is/are true regarding Smith's distinction between "natural price" and "market price"?
