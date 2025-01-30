@@ -3,112 +3,113 @@ Which of the following statement/s is/are true, given Smith's discussion on wage
 - political and institutional circumstances play only a minor role in explaining wage levels.
 - In case of a conflict, workers are usually in a more powerful bargaining position than employer.
 - the wage level of different professions is affected by different noneconomic factors.
-- In the long run, wages have to be high enough for workers to raise a family.
+- **In the long run, wages have to be high enough for workers to raise a family.
 
 According to Malthus' theory of population growth and food supply:
 - Advances in technology eliminate the threat of overpopulation.
-- There exists a constant tension between population growth and food supply.
-- When unchecked, population grows geometrically, while food supply increases arithmetically.
+- **There exists a constant tension between population growth and food supply.
+- **When unchecked, population grows geometrically, while food supply increases arithmetically.
 - Returns to scale are increasing in agriculture.
 
 Against the backdrop of Ricardo's theory of comparative advantage, consider two countries, A and B, that both produce bicycles and tablets. Given that there are no transaction costs, which of the following statement/s is/are definitely correct?
 - Country B should focus on producing bicycles if it produces them faster than tablets.
-- Countries maximize their combined output by specializing in the production of goods for which they have a comparative advantage.
-- If relative efficiencies in producing the two goods differ among the countries, trade is beneficial, even if one country is more efficient at producing both in absolute numbers.
+- **Countries maximize their combined output by specializing in the production of goods for which they have a comparative advantage.
+- **If relative efficiencies in producing the two goods differ among the countries, trade is beneficial, even if one country is more efficient at producing both in absolute numbers.
 - Country A cannot gain from trading with Country B if it is more efficient at making both tablets and bicycles.
 
 Adam Smith's distinction between "value in use" and "value in exchange" highlights a paradox. Which of the following statement/s is/are correct?
 - Smith's labor theory of value is able to resolve the paradox.
-- Diamonds, although less useful than water, have a higher exchange value.
+- **Diamonds, although less useful than water, have a higher exchange value.
 - The paradox illustrates a weakness in classical price theory by failing to provide an adequate account of demand.
 - Water has a higher exchange value than diamonds due to its necessity.
 
 In Adam Smith's example of a primitive society with free access to hunting grounds, what is/are the key determinant(s) of the exchange ratio between a beaver and a deer?
 - The number of hunters in society.
-- The quantity of capital employed in hunting each animal.
+- **The quantity of capital employed in hunting each animal.
 - The demand for each type of animal.
-- The relative amount of labor required to hunt each animal.
+- **The relative amount of labor required to hunt each animal.
 
 Which of the following statement/s about Ricardo's theories on taxation and loan financing is/are correct?
 - Taxation and loan financing of public expenditure are economically equivalent, meaning that citizens bear the same overall financial burden in either case.
 - Loan financing is generally preferable to taxation because it avoids imposing immediate costs on taxpayers.
-- When the government finances its spending through loans, taxpayers feel richer in the short term due to lower immediate tax payments.
-- The burden of taxation can be shared between producers and consumers, depending on market conditions.
+- **When the government finances its spending through loans, taxpayers feel richer in the short term due to lower immediate tax payments.
+- **The burden of taxation can be shared between producers and consumers, depending on market conditions.
 
 Which of these statement/s is/are true regarding Smith's stances on competition and free trade?
-- Smith was in support of protectionist measures when it comes to goods of strategic value for defence.
+- **Smith was in support of protectionist measures when it comes to goods of strategic value for defence.
 - Competitive markets by definition lead to just societal outcomes.
 - In general, he was an advocate of Mercantilist policies, and restricting international trade.
-- Systems of free markets and free competition are inherently self-regulating.
+- **Systems of free markets and free competition are inherently self-regulating.
 
 Which of the following factors can control population growth according to Malthus?
-- Positive checks like famine, disease, and war.
-- Preventive checks such as moral restraint, delayed marriage, and celibacy.
+- **Positive checks like famine, disease, and war.
+- **Preventive checks such as moral restraint, delayed marriage, and celibacy.
 - Economic policies that redistribute resources.
-- Government regulations ensuring equal access to food for all.
+- **Government regulations ensuring equal access to food for all.
 
 As outlined by Smith, which of these parameters play(s) a role in co-determining the unit cost of production in complex societies?
-- the scale of production
+- **the scale of production
 - the organisation of labor
--  the market size
-- the level of specialization
+- **the market size
+- **the level of specialization
 
 Which of the following statement/s is/are true regarding Smith's distinction between "natural price" and "market price"?
-- The natural price is stable, representing the level to which market prices continually gravitate.
+- **The natural price is stable, representing the level to which market prices continually gravitate.
 - Over long periods, the market price is more likely to stay below the natural price than above.
 - In competitive markets, market price and natural price always remain the same.
-- The Market price fluctuates based on immediate supply and demand conditions.
+- **The Market price fluctuates based on immediate supply and demand conditions.
+
 ## Quiz 2
 Which of the following statements about the industrial revolution is/are correct?
-- The Industrial Revolution led to the formation of economic core-periphery patterns.
+- **The Industrial Revolution led to the formation of economic core-periphery patterns.
 - René Descartes' theories on practical experimentation were a primary influence on the technological advancements of the British Industrial Revolution.
 - The beginning of the Industrial Revolution was marked by a transition from water transport to railway transport.
-- Technological advancements in the textile industry were central to early industrial growth in Britain.
+- **Technological advancements in the textile industry were central to early industrial growth in Britain.
 
 Which of the following statements about imperialism is/are correct?
 - The British Empire expanded significantly, controlling a larger proportion of the Earth's surface by 1914 than by 1815.
-- European countries aggressively sought exclusive access to markets and raw materials after 1800.
-- Internal imperialism in the US involved the conquest of territories from indigenous populations.
+- **European countries aggressively sought exclusive access to markets and raw materials after 1800.
+- **Internal imperialism in the US involved the conquest of territories from indigenous populations.
 - The United States played a leading role in the division of Africa among European powers in the late 19th century.
 
 Which of the following factors contributed to lower transaction costs during the 19th century?
 - Frequent currency devaluations to boost exports.
-- Improvements in transportation technology, like steamships and railways.
-- Reduction of import duties (tariffs) and other political barriers to trade in many countries.
-- The adoption of the gold standard, providing stable exchange rates.
+- **Improvements in transportation technology, like steamships and railways.
+- **Reduction of import duties (tariffs) and other political barriers to trade in many countries.
+- **The adoption of the gold standard, providing stable exchange rates.
 
 Which of the following statements accurately describe/s factors that influence price ratios between countries?
-- High transportation costs are one reason that prices for the same commodity might not become identical across
-- Japan serves as an example of gradual economic opening, resulting in steady price changes over time.
+- **High transportation costs are one reason that prices for the same commodity might not become identical across
+- **Japan serves as an example of gradual economic opening, resulting in steady price changes over time.
 - When countries start to trade, the price of net exported goods tends to rise, while the price of net imported goods decreases.
 - According to the 'weak law of one price', prices should be identical across all locations.
 
 Which of the following statements is/are correct?
-- The Industrial Revolution resulted in a larger workforce in the primary sector.
+- **The Industrial Revolution resulted in a larger workforce in the primary sector.
 - The Industrial Revolution occurred swiftly and rapidly spread throughout Europe.
 - The "industrious revolution" refers to a shift toward reduced consumption and increased savings.
-- The use of coal as a primary energy source grew significantly during the Industrial Revolution.
+- **The use of coal as a primary energy source grew significantly during the Industrial Revolution.
 
 Which of the following statements about the factory system is/are correct?
-- It contributed to greater alienation of labor.
+- **It contributed to greater alienation of labor.
 - The emergence of factory towns directly improved living conditions and sanitation for workers.
 - It led to a unification of the workplace and home.
-- It increased the importance of time management.
+- **It increased the importance of time management.
 
 Which of the following statements concerning international price and trade dynamics in the 19th century is/are correct?
-- According to the weak law of one price, prices may not be identical but tend to move in the same direction across different regions.
-- "Peripheral" countries in the global economy did not really engage in economic specialization.
-- Japan provides an interesting example, as it shifted from autarky to trade, allowing us to observe the direct impact of trade on prices
+- **According to the weak law of one price, prices may not be identical but tend to move in the same direction across different regions.
+- **"Peripheral" countries in the global economy did not really engage in economic specialization.
+- **Japan provides an interesting example, as it shifted from autarky to trade, allowing us to observe the direct impact of trade on prices
 - Rates of return on investments were often higher in the "peripheral" than in the "core" countries of the emerging world economy
 
 Which of the following statements about the industrial revolution is/are correct?
-- The "industrious revolution" saw households increase their working hours to afford new consumer goods like tea and sugar.
+- **The "industrious revolution" saw households increase their working hours to afford new consumer goods like tea and sugar.
 - France was the first country to industrialize, quickly followed by Britain.
 - The productivity of services grew faster than that of industry.
-- The rise of industrial factories reduced the need for skilled artisans, shifting production to unskilled or semi-skilled
+- **The rise of industrial factories reduced the need for skilled artisans, shifting production to unskilled or semi-skilled
 
 Which of the following best describes the purpose of the gold standard during the 19th century?
-* To create stable exchange rates for international trade and reduce transaction costs.
+* **To create stable exchange rates for international trade and reduce transaction costs.
 - To ensure countries could use monetary policy to mitigate the ups and downs of the business cycle.
 - To replace commodity money with paper currency.
 - To allow currency values to fluctuate freely between countries.
