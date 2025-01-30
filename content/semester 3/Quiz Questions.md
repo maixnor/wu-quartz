@@ -260,51 +260,63 @@ Which of the following statements is/are true for WW2 recovery?
 Which of the following statements is/are correct?
 - The return to the gold standard proved very effective as a sustainable solution to the problems arising in the aftermath of WW1
 - **Trust and cooperation are crucial for the functioning of the gold standard.
+	- gold standard ... gentlemens agreement
 - Overvalued or undervalued gold parities had no impact on economies under the interwar gold standard
 - **The gold standard caused central banks to seek excessive monetary expansion in the interwar period.
 
 Which of the following statements is/are correct?
-- Leaving the gold standard helped fight deflationary pressures in the 1930s.
+- **Leaving the gold standard helped fight deflationary pressures in the 1930s.
 - Leaving the gold standard was essential to combat the particularly high inflation of the 1930s.
 - **US investments had an influence on German reparation payments after WW1.
-- **The stock market crash caused an immediate depression in the real economy.
+- The stock market crash caused an immediate depression in the real economy.
+	- it was not immediate, took 2-3 years to cause depression
 
 Which of the following statements is/are true for the post-1980 globalization wave?
 - Foreign direct investment in African countries declined, increasing their sovereignty.
 - International financial markets became less integrated over the period as a consequence of repeated crises.
 - Traditionally 'peripherical' countries became even more reliant on exporting primary products.
+	- moving to industry more - some countries not a lot but still moving
 - **Production processes became more spread out globally.
 
 Which of the following statements about monetarism is/are true?
 - John Maynard Keynes was a leading figure in monetarism.
-- Monetarists primarily blamed central bank policies for stagflation.
+- **Monetarists primarily blamed central bank policies for stagflation.
+	- monetarists (friedman) ... 
 - **Monetarist views led to increased deregulation and privatization.
-- **They believe central banks should have pursued more expansionary policies during crises.
+- They believe central banks should have pursued more expansionary policies during crises.
+	- more contractionary policy -> demand shock -> inflation
 
 Which of the following contributed to the end of the Golden Age and slower economic growth?
-- The 1973 oil crisis.
-- **Deflation and economic stagnation, known as "stagflation."
-- The completion of structural changes and technological catch-up.
+- **The 1973 oil crisis.
+- Deflation and economic stagnation, known as "stagflation."
+	- stagnation + inflation
+- **The completion of structural changes and technological catch-up.
 - **US inflation during the Vietnam War, posing problems for the Bretton Woods system.
+	- bretton woods -> fixing currencies to USD, if USD has problems the others have it too
 
 Which of the following statements about the Golden Age (1950-1973) is/are correct?
 - **International finance played a minor role during the Golden Age.
 - The Peoples Republic of China experienced significantly higher growth rates than the US during this period.
 - **The Golden Age saw high growth rates in Western Europe and Japan.
+	- second unbundling
 - Trade protectionism increased during the Golden Age.
 
 Which of the following factors contributed to Western Europe and Japan converging with the US after WW2?
-- **The liberalization of capital markets.
-- Adoption of technology and organizational change from the US.
-- Increasing industrialization.
-- Stronger integration of European markets.
+- The liberalization of capital markets.
+	- only about goods markets -> only after 1973
+- **Adoption of technology and organizational change from the US.
+- **Increasing industrialization.
+	- factory management, cost efficiency, 
+- **Stronger integration of European markets.
 
 ## Quiz 5
 Which of the following statements about Ludwig von Mises and Oskar Lange is/are correct?
-- Lange expressed gratitude for Mises’ critique of socialist central planning and proposed to erect a statue in his honour in any socialist planning board.
+- **Lange expressed gratitude for Mises’ critique of socialist central planning and proposed to erect a statue in his honour in any socialist planning board.
 - **Lange argued that market-socialism, excluding private ownership, could allocate resources more efficiently than free markets by eliminating the influence of market power.
-- Mises emphasized the importance of prices in resource allocation.
-- **Mises argued that a slow transition to socialism would be the inevitable result of bureaucratization of private enterprise and the decline of the entrepreneurial spirit in society.
+- **Mises emphasized the importance of prices in resource allocation.
+	- mises ... critique of socialism
+- Mises argued that a slow transition to socialism would be the inevitable result of bureaucratization of private enterprise and the decline of the entrepreneurial spirit in society.
+	- "inevitable" is the problem, it might - but does not have to
 
 Which of the following statements accurately describe/s the period of Stalin's rule in the USSR?
 - Little to no emphasis was placed on capital accumulation to foster economic development.
@@ -316,13 +328,16 @@ Which of the following statements reflect/s key aspects of the USSR and other so
 - The eastern bloc, with the exception of Romania, managed to lower its debt significantly in the 1980s.
 - The USSR shifted rapidly to a service-sector economy, which reduced overall output.
 - **The USSR struggled to produce efficiently and had to rely on extensive rather than intensive growth.
+	- more money demand than technological innovation
+	- building a lot of tanks, not good tanks
 - **According to some, central planners in the USSR chose unrealistic or incoherent goals that hindered economic progress.
 
 Which of the following statements accurately describe/s Friedrich Hayek's views?
 - He believed the creation of the right incentives, free from profit-seeking or greed, is an advantage of socialist systems.
 - According to Hayek, resource allocation should be managed by central planners or mathematicians.
 - **He saw prices as an important carrier of information.
-- **His work reflects a strong antithesis to the views of his former teacher, Mises.
+	- Hayek ... full on capitalist, anti-Marx
+- His work reflects a strong antithesis to the views of his former teacher, Mises.
 
 Which of the following statements about Marx and his theory is/are correct?
 - For Marx, use value and price are always equivalent in a capitalist economy.
