@@ -1,5 +1,5 @@
 # Formulas
-- [[Macro Formula Sheet]]
+- [[Macro Formula Sheet]] #todo make that after exam
 
 # Overview
 - [[Goods Markets]]

@@ -1,0 +1,2 @@
+- ROI = (revenues - operating ex - interest ex) / book value
+- RI 
