@@ -5,6 +5,7 @@
 
 # Content
 - [[Correlation vs Causation]] -> course is about finding causality
+- [[Probability Density Function]]
 - [[Linear Regression]]
 
 # Grading
@@ -12,6 +13,6 @@
 - 10% participation
 - 30% group research project
 	- A-B comparison
-	- 
+	- online survey or field test
 - 40% exam: 2025.05.22
 	- 1 page cheat sheet, otherwise just R help
