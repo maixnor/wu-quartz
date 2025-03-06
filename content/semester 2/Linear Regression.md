@@ -18,6 +18,8 @@
 - best ... least error (distance) between the actual values and the expected values
 	- $u_{i}= y_{i} - \bar{y_{i}}$ ... error of any data point
 	- $SSE = RSS = \sum\limits^{n}_{i=1} u^{2}=  \sum\limits^{n}_{i=1} (y_{i} - (\hat{\beta_{0}} + \hat{\beta_{1}}x_{i}))^{2}$
+		- $RSS$ ... residual sum of squares
+		- $SSE$ ... 
 - minimize $SSE$ to reach $\hat{\beta_{0}}$ and $\hat{\beta_{1}}$
 	- take partial derivatives in respect to $\hat{\beta_{0}}$ and $\hat{\beta_{1}}$
 	- solves beautifully, allegedly
