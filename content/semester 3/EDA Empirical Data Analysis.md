@@ -5,7 +5,7 @@
 
 # Content
 - [[Correlation vs Causation]] -> course is about finding causality
-- [[Probability Density Function]]
+- [[Probability Density Function]] and [[Hypothesis Testing]]
 - [[Linear Regression]]
 
 # Grading
