@@ -26,6 +26,9 @@
 - rejecting is positive
 ## Errors
 - [[Popper Logic#Errors]]
+- $\text{standard error} = \frac{\text{standard deviation}}{\sqrt{n}}$
+	- standard deviation ... data - how spread out the data points are
+	- standard error ... meaning - how relevant/meaningful the conclusions are
 ## Ingredients
 - confidence level
 	- e.g. 99%
