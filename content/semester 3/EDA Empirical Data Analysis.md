@@ -11,4 +11,7 @@
 - 20% weekly assignment
 - 10% participation
 - 30% group research project
+	- A-B comparison
+	- 
 - 40% exam: 2025.05.22
+	- 1 page cheat sheet, otherwise just R help
