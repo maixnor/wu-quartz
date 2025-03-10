@@ -14,6 +14,7 @@
 # How to Calculate
 ![[gdp_economy_example.png]]
 ## Expenditure Method
+#todo
 
 ## Income Method
 - wages: 80 + 70 = 150
