@@ -7,10 +7,16 @@ Buzzwords
 
 Behavior
 - travel
+- understanding
+- communication
 
 Cognitive
 - conflict
-- difference
+- stereotypes
+- conflict
 
 Affective
 - smile
+- attitude
+- open-mindedness / inclusivity
+- tolerance
