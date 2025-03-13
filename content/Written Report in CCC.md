@@ -1,0 +1,15 @@
+- connect with peers
+- narrow down the topic, find a specific issue
+	- personal interest, relevant to the course, target group interests
+	- relevant experiences
+- structure proposal
+	- central phenomenon
+	- culture of focus
+	- main research question
+	- study structure
+	- selected resources
+		- min 4 academic sources, min 8 titles total
+
+- using AI is okay, just specify the task
+	- form is on canvas
+	- transparency

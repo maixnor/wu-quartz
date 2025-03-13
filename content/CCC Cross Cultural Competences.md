@@ -9,16 +9,6 @@
 - 40% learning portfolio
 	- 4 tasks related to content of sessions
 	- do tasks close to the sessions
-- 20% written report (group)
-	- language
-	- what's in a name
-	- dress codes
-	- gender issues
-	- education
-	- space (e.g. architecture)
-	- food culture
-	- national identity and stereotypes ("Europe according to Austrians")
-	- sports and cultural identity
-		- maybe Judo around the world?
-- 20% presentation (group)
+- 20% [[Written Report in CCC|written report]] (group)
+- 20% [[Presentation in CCC|presentation]] (group)
 	- done online in last session

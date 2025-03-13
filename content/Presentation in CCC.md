@@ -1,0 +1,14 @@
+- coherent presentation
+- introduction
+	- why chosen this topic
+	- why relevant? key questions?
+	- focus and why? basis of insights?
+	- citation style must be unanimous
+		- cite at the bottom of each slide
+- main part
+	- discuss pros and cons, challenges, controvercies
+- conclusion
+	- key insights
+	- which questions able to answer? which not? why?
+	- possible future scenarios/recommendations
+
