@@ -41,5 +41,7 @@ after Reader 2021, Bolten
 		- hugging, touching during conversations, etc
 - para-language
 	- idioms, rate of speech, tone, inflection of voice, volume
+		- Spanish and Italians are louder than e.g. Polish
 - object language
 	- "material culture", artifacts, architecture, office design, clothing
+		- amount of perfume
