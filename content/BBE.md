@@ -27,6 +27,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 - [[Managing Organizations]]
 - [[Logic and Methodology of Social Sciences]]
 - [[Introduction to Academic Writing]]
+- [[CCC Cross Cultural Competences]]
 ### Semester 5 & 6
 up till here at least 16 ECTS
 - [[BBE Bachelor Thesis]]
