@@ -38,6 +38,8 @@ after Reader 2021, Bolten
 		- 👌 can mean different things
 - proxmics
 	- proximity and space (1m, 80cm, 60cm) in contexts (office, personal)
+		- hugging
 - para-language
-	- 
+	- idioms, rate of speech, tone, inflection of voice, volume
 - object language
+	- "material culture", artifacts, architecture, office design, clothing
