@@ -9,7 +9,8 @@
 	- #todo get definitions and graphics from slides
 
 # Experiments
-- [[Changing ]]
+- [[Changing Math Signs]]
+- [[Count to 20 together]]
 
 # Components
 after Reader 2021, Bolten
