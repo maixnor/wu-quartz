@@ -2,7 +2,6 @@
 - many different definitions
 - summary
 	- located within groups of people - collective phenomenon
-	- 
 
 # Analogies
 ## Onion - Layers
@@ -26,3 +25,17 @@
 ## Tree - Structure
 - stem: central values/norms/habits/history
 - branches: subcultures and variations
+
+# 3 Factor Model
+- actors, cultures, institutions, situations
+
+# 3 Level Model
+- micro level: actor
+	- interactions such as leadership and cooperations
+	- values, ideas, constraints, interests and power constellations
+- meso level: organization
+	- organization structure and culture
+	- objectives, strategies, values, structures, processes , identities and routines
+- macro level: societies
+	- social, political, economic and cultural institutions
+	- values, standards, rules
