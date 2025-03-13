@@ -19,5 +19,6 @@
 	- food culture
 	- national identity and stereotypes ("Europe according to Austrians")
 	- sports and cultural identity
+		- maybe Judo around the world?
 - 20% presentation (group)
 	- done online in last session
