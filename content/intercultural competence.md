@@ -5,17 +5,20 @@ Buzzwords
 - smile
 
 
-Behavior
+# Components
+after Reader 2021, Bolten
+
+## Behavior
 - travel
 - understanding
 - communication
 
-Cognitive
+## Cognitive
 - conflict
 - stereotypes
 - conflict
 
-Affective
+## Affective
 - smile
 - attitude
 - open-mindedness / inclusivity
