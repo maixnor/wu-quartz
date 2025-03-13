@@ -2,11 +2,14 @@
 - Bolten 2020
 
 # Definitions
-- inturcultural competence
+- intercultural competence
 	- general action competence expressed in uncertain contexts
-- multi-cultural encounter ar amost always 
-	- characterized
-	- #todo get definitions and graphics from slides
+- Multi-cultural encounter are almost always
+	- characterized by a set of rules that sound at least partially familiar to all those involved.
+	- the context of action is predominantly foreign/lacks security – insecure.
+- Intercultural competence 
+	- consists of identifying possible appropriate rules in contexts with less familiar and less obviously determinable rules
+	- in order to generate plausibility and security among the actors involved.
 
 # Experiments
 - [[Changing Math Signs]]
@@ -15,7 +18,6 @@
 # Components
 after Reader 2021, Bolten
 
-#todo get graphic from slides
 ## Behavior
 - travel
 - understanding
