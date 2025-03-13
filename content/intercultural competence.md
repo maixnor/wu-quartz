@@ -31,3 +31,10 @@ after Reader 2021, Bolten
 - open-mindedness / inclusivity
 - tolerance
 - smile
+
+# Types of Non-verbal Communication
+- kinesic behivor
+	- body movement, posture, gestures, eye contact, facial expressions
+- proxmics
+- para-language
+- object language
