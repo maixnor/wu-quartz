@@ -1,0 +1,1 @@
+Values, Norms and Habits shared by people in the same geographic area
