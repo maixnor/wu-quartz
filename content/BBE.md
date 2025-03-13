@@ -39,5 +39,4 @@ up till here at least 16 ECTS
 - [[All the Economics]]
 - [[Statistics]]
 - [[Survival Guide Semester 1 and 2]]
-- [[TODOs]]
 - [[BBE Welcome Days]] had good information
