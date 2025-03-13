@@ -35,6 +35,9 @@ after Reader 2021, Bolten
 # Types of Non-verbal Communication
 - kinesic behivor
 	- body movement, posture, gestures, eye contact, facial expressions
+		- 👌 can mean different things
 - proxmics
+	- proximity and space (1m, 80cm, 60cm) in contexts (office, personal)
 - para-language
+	- 
 - object language
