@@ -1,10 +1,3 @@
-Buzzwords
-- travel
-- conflict
-- difference
-- smile
-
-
 # Components
 after Reader 2021, Bolten
 
@@ -19,7 +12,7 @@ after Reader 2021, Bolten
 - conflict
 
 ## Affective
-- smile
 - attitude
 - open-mindedness / inclusivity
 - tolerance
+- smile
