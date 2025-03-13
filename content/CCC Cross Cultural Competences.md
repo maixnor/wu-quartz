@@ -4,6 +4,13 @@
 - [[cross-cultural management theories]]
 - [[studying and working across cultures]]
 
+## Current Todos
+- [ ] read stuff on canvas
+- [ ] sign up for a topic on canvas
+	- [ ] research 
+- [ ] I learned that WU can be a place where a lot of different people come together, even tho it seems so sterile and homogeneous
+- [ ] I was surprised that there were so many experiments today
+- [ ] I liked that I met new people from my BBE cohort I have never seen before
 # Grading
 - 20% participation
 - 40% learning portfolio
