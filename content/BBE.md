@@ -34,6 +34,7 @@ up till here at least 16 ECTS
 ### All Time
 - [[BBE Internship + Seminar]]
 - [[BBE Double Degree]]
+- [[Exchange Semester]]
 - [[Free Electives]]
 - [[Latin Glossary]]
 - [[All the Economics]]
