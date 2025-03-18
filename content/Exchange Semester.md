@@ -1,5 +1,6 @@
-# WU Grant and Credit Transfer Event
-- even without a grant you don't pay any tuition fees
+# WU Mobility Grant 
+- martina.stalizter@wu.ac.at
+- even without a grant you don't pay any tuition fees at the host university
 - **pay student fee (OEH)**
 - WU mobility grant: 200 EUR (or less)
 - WU mobility grant: **Deadline April 6th**
@@ -7,4 +8,40 @@
 	- bank details (please fill it in correctly)
 - current status has no effect on grant sum
 - submit -> no confirmation email
-	- 
+- grant agreement by early June
+	- has to be signed by hand or digitally (Id Austria)
+	- send within 3 weeks by email 
+	- **a PDF, not a picture**
+- minimum requirement to keep the grant is **15 ECTS**
+	- must be transferred to WU
+- if you receive Studienbeihilfe
+	- get it from course.abroad@wu.ac.at
+
+# Credit Transfer
+- pre-recognition notice
+	- certainty for students
+	- anything on there needs to be transferred by WU
+	- you don't have to take those courses/exams, but they will be transferable for sure
+- credit transfer database is only a guideline - not an absolute list
+- checklist partner university
+	- when do I have to announce courses?
+	- how does the course registration work?
+	- how much time do I have to change courses?
+	- when will the current course catalog be online or when was it online last semester?
+- online application
+	- researched by you
+		- the course must have a grade when finishing
+			- not just 'attended' when finishing
+	- filled out by you
+		- **use the exact wording**
+	- processed by WU
+	- pre-recognition notice accessible in OSS
+- any course you have already passed (regardless of grade) you cannot get transferred to WU
+- documents for assessment
+	- provide information on the contents of the courses
+	- the more detailed information the better
+- comments are optional
+- max 6 courses
+- free electives 26 (BBE)
+- each WU course can only be selected once
+- 
