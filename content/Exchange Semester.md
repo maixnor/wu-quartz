@@ -44,4 +44,15 @@
 - max 6 courses
 - free electives 26 (BBE)
 - each WU course can only be selected once
-- 
+- When is the right time to send the application?
+	- depends on partner universities
+	- depends on the when official catalog is released online
+- status on application
+	- blue: check later whether transfer is possible
+	- green: everything is great, transfer possible
+	- red: transfer not possible
+- if there is a correction necessary you will receive a mail
+- what if I need to change the courses during the semester?
+	- application for amendment
+- only transferable courses are eligible for transfer
+#todo get timeline from slides
