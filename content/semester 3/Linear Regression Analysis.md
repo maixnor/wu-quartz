@@ -51,5 +51,5 @@
 - [[Cook's Distance]]
 
 ## Predict using Regression Analysis
-- `preduct(mreg4, newdata=new)`
+- `predict(mreg4, newdata=new)`
 - 
