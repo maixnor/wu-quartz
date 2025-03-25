@@ -25,7 +25,7 @@
 
 - Covariance #slides 82
 
-#### Portfolio Frontier
+### Portfolio Frontier
 - only 2 stocks
 	- perfect correlation ... line between 2 portfolios
 	- perfect non-correlation ... line between a ... y-axis and y-axis b
@@ -37,7 +37,7 @@
 	- only part of the portfolio frontier is efficient (optimal)
 	- part is the monotonously increasing (upper) part of the portfolio frontier curve
 
-#### Investor Preference
+### Investor Preference
 - [[Indifference Curve]] and efficient portfolio line are tangent
 	- indifference curve dependent on preferences of investor
 - the intersection is the optimal choice of an investor
