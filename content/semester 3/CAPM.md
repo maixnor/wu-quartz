@@ -5,7 +5,7 @@
 	- Homogeneous Expectations ... All investors have the same estimates concerning future investments and returns
 
 ### Risk Premium
-- 
+- #todo
 
 ### Security Market Line
 - plotting the expected return by the betas of each stock
