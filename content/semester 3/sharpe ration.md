@@ -1,3 +1,4 @@
+![[beta_regression.png]]
 
 ### Negative $\beta$ value
 - indicator that the stock is not moving together with the market
