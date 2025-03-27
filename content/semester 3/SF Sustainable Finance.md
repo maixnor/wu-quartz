@@ -2,7 +2,7 @@
 - "diversified portfolio" from 10 stocks and up
 	- 10 stocks (24% risk) .... 1000 stocks (21% risk)
 - efficient asset ... same return but lower variance (risk)
-- [[short selling]] = giving out a [[bond]]
+- [[short selling]] = giving out a [[bond]], going into debt
 - [[sharpe ration]] = $\beta$-value
 - [[CAPM]]
 - passive/active portfolio ... rebalance portfolio
