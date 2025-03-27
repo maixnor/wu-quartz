@@ -9,4 +9,3 @@ chile: relaxed, holiday
 marocco: travel, diving, desert
 - coast, culture, language
 
-
