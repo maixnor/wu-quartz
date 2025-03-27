@@ -1,5 +1,5 @@
 # Content
-- [[culture]], [[identity]], [[intercultural competence]], [[stereotypes]], [[prejudice]]
+- [[culture]], [[identity]], [[intercultural competence]], [[Stereotypes]], [[prejudice]]
 - [[cultural adaptation process]]
 - [[cross-cultural management theories]]
 - [[studying and working across cultures]]

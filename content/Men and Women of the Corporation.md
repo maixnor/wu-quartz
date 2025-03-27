@@ -6,7 +6,7 @@ by [[Kanter]]
 - Kanter examines the role of gender in corporate environments, shedding light on the challenges faced by women in the workplace.
 
 **Structural Barriers:**
-- The book discusses structural barriers that inhibit women's progress in corporate settings, such as [[stereotypes]], biases, and unequal opportunities.
+- The book discusses structural barriers that inhibit women's progress in corporate settings, such as [[Stereotypes]], biases, and unequal opportunities.
 
 **Tokenism:**
 - Kanter introduces the concept of "[[tokenism]]" and explores how being a minority in a particular gender can affect an individual's experience within an organization.

@@ -3,7 +3,7 @@
 	- overstating attitudes
 - [[behavioral control]] -> situation changes, attitude stays the same
 	- e.g. wanting to buy organic food but cannot afford
-- [[stereotypes]]
+- [[Stereotypes]]
 
 # LaPierre (1934)
 - in the USA at that time there was a strong prejudice towards Asians
