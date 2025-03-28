@@ -4,7 +4,7 @@
 - [[cross-cultural management theories]]
 - [[studying and working across cultures]]
 
-[[findme link to ccc presentation]]
+#todo remove findme note
 
 ## Current Todos
 - [ ] read stuff on canvas
