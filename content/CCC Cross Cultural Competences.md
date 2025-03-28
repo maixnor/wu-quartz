@@ -4,8 +4,6 @@
 - [[cross-cultural management theories]]
 - [[studying and working across cultures]]
 
-#todo remove findme note
-
 ## Current Todos
 - [ ] read stuff on canvas
 - [ ] sign up for a topic on canvas
