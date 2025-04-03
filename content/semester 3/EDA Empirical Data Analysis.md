@@ -9,7 +9,8 @@
 	- [[Probability Density Function]]
 	- [[Confidence Intervals]]
 - [[Linear Regression]]
-- [[Causal Identfication]]
+- [[Economic Experiments]]
+- [[Causal Identification]]
 
 # Grading
 - 20% weekly assignment

@@ -12,3 +12,18 @@
 	- all same probably to be selected
 		- e.g. [[Vietnam Lottery]]
 	- no prior knowledge about [[unobservable information]] necessary
+
+## Typical Session
+- motivation, research question, hypothesis, instructions, recruitment, (ethics approval)
+- participant check-in
+- (informed consent)
+- control: side-talk, mobile phones, computer use
+- instructions distributed (read aloud)
+	- people know that the instructions are common knowledge
+		- important for econ
+	- people need to listen to it - cannot miss important details
+- answer questions privately
+- comprehension test, practice rounds maybe
+- SAVE THE DATA
+- post-experimental questionnaire
+- participants paid and dismissed
