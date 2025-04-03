@@ -16,7 +16,18 @@
 	- are we doing the right thing in our [[experiment]]?
 - external ... truth in real life
 	- can we generalize the findings to the whole population?
+- usually a tradeoff between internal and external validity 
 
+### Threats
+- internal
+	- failure to randomize
+	- failure to follow treatment protocol -> [[IV Regression]]
+	- attrition (dropping out of experiment)
+	- [[Hawthorne]] effect
+- external
+	- non-representative sample (cannot infer from sample to population)
+	- general equilibrium effects (factors/interaction which are not included in the model)
+	- manna from heaven (earned vs given money)
 # Visual
 ![[internal_external_validity.png]]
 ![[reliability_validity.png]]

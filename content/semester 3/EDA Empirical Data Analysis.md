@@ -9,6 +9,7 @@
 	- [[Probability Density Function]]
 	- [[Confidence Intervals]]
 - [[Linear Regression]]
+- [[Reliability and Validity]]
 - [[Economic Experiments]]
 - [[Causal Identification]]
 

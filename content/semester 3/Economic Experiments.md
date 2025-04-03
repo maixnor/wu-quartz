@@ -12,6 +12,11 @@
 	- disprove a wrong/weak work
 	- gather further evidence for an insight
 
+# Rules
+- no deception
+	- unless you are in marketing
+- real financial incentives, whenever possible
+
 # Terminology
 ## Important
 - control: the change between 2 groups

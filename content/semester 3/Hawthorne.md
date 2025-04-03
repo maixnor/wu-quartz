@@ -1,0 +1,2 @@
+- people behave differently when they know they are watched/analyzed
+- circumvent by providing privacy
