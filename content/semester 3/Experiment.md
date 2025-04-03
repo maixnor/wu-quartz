@@ -34,11 +34,11 @@
 - again [[Correlation vs Causation]]
 - [[Inference]] Problems
 	- time plots are not enough
-		- a [[Counter Factual]] is needed
+		- a [[Counterfactual]] is needed
 	- also multiple samples are not better than single samples
-		- more robust, just not solving the missing [[counter factual]] 
+		- more robust, just not solving the missing [[Counterfactual]] 
 		
-# Potential Solutions for Missing [[Counter Factual]]s
+# Potential Solutions for Missing [[Counterfactual]]s
 - Propensity Score Matching (PSM)
 	- matching 1:1 results from treatment and control group which have similar values
 	- e.g. in a sport study match athletes by sport and weight to analyse performance, could not compare a runner with a sumo fighter otherwise

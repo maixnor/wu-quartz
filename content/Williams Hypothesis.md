@@ -4,7 +4,7 @@ contributed-by:
 ---
 - **Williams Hypothesis**: Relates [[slavery]] to [[economic growth]] in Great Britain.
 - **Key Elements**: Profits from the slave trade, triangular trade value, British West Indies contributions, profits fueling investments.
-- **[[Counter factual]] Analysis**: Compares returns on capital in colonies versus alternatives.
+- **[[Counterfactual]] Analysis**: Compares returns on capital in colonies versus alternatives.
 - **Critiques**: 
   - [[Engerman]]: Colonies too small to impact British growth; net loss instead of gain.
   - Response: Challenges validity of these criticisms.
