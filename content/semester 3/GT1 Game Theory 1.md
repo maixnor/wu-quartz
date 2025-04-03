@@ -10,6 +10,20 @@
 - [[Limits of Game Theory]]
 
 - [[Types of Games]]
+
+## Experiments
+- [[Experiment 1 GT1]]
+- [[Experiment 2 and 3 GT1]]
+- [[Experiment 4 GT1]]
+- [[Experiment 5 GT1]]
+- [[Experiment 6 GT1]]
+- [[Experiment 7 GT1]]
+- .... #contrib
+- [[Experiment 12 GT1]]
+- [[Experiment 13 GT1]]
+- [[Experiment 14 GT1]]
+- .... #contrib
+
 ## Grading
 - 30% preparation
 - 2x10% written homework

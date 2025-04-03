@@ -12,6 +12,7 @@
 	- disprove a wrong/weak work
 	- gather further evidence for an insight
 
+# Terminology
 ## Important Terminology
 - control: the change between 2 groups
 	- e.g. heels vs no heels
@@ -27,6 +28,7 @@
 	- between: each treatment on different subjects
 	- within: each subject gets different treatments
 		- cheaper
+		- have a look at [[#Repetition]]
 
 ## Tradeoffs
 - possibility to study [[Interaction Effects]] 
@@ -34,3 +36,6 @@
 		- are heels more effective in summer than in winter?
 - cost/feasibility
 	- cannot add too many independent variables
+
+## Repetition
+- one-shot vs repeated game
