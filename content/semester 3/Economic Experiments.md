@@ -13,7 +13,7 @@
 	- gather further evidence for an insight
 
 # Terminology
-## Important Terminology
+## Important
 - control: the change between 2 groups
 	- e.g. heels vs no heels
 - factor levels:
