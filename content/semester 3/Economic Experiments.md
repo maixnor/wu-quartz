@@ -16,6 +16,7 @@
 - no deception
 	- unless you are in marketing
 - real financial incentives, whenever possible
+	- sometimes impossible, too expensive, not ethically OK
 
 # Terminology
 ## Important
