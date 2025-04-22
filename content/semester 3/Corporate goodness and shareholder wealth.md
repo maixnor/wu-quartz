@@ -36,4 +36,26 @@ Using a unique data set, I study how stock markets react to positive and negativ
 	- better reaction to improving something bad than just improving
 		- there is a reason to improve bad CSR
 
+## 2 Literature
+- excess returns 
+	- good CSR companies
+	- good CSR portfolios
+- no risk/return difference to conventional portfolios
+- democratically leaning executives care more about shareholders than republican
+- agency problems
+
+## 3 Data
+- public information
+	- e.g. news of poor labor relations
+	- e.g. report on toxic waste water dumping
+- areas
+	- community
+	- corporate governancne
+	- diversity
+	- employee relations
+	- environment
+	- human rights
+	- product
+- 
+
 
