@@ -45,7 +45,7 @@ Using a unique data set, I study how stock markets react to positive and negativ
 - agency problems
 
 ## 3 Data
-- public information
+- public information between 2001 and 2007
 	- e.g. news of poor labor relations
 	- e.g. report on toxic waste water dumping
 - areas
@@ -56,6 +56,6 @@ Using a unique data set, I study how stock markets react to positive and negativ
 	- environment
 	- human rights
 	- product
-- 
+- KLD Socrates -> MSCI ESG Ratings
 
 
