@@ -61,5 +61,8 @@ Using a unique data set, I study how stock markets react to positive and negativ
 - CSR is often seen as charitable giving -> cash flow shock
 - slightly positive reaction to positive product news -> market leader, etc
 	- surprising that positive reaction is not more pronounced
-- 
+
+## 5 Agency Motivated
+- positive news better received from high leverage companies
+	- probably less agency mismatch than high liquidity companies
 
