@@ -57,5 +57,9 @@ Using a unique data set, I study how stock markets react to positive and negativ
 	- human rights
 	- product
 - KLD Socrates -> MSCI ESG Ratings
-
+- CSR policies are mostly costly
+- CSR is often seen as charitable giving -> cash flow shock
+- slightly positive reaction to positive product news -> market leader, etc
+	- surprising that positive reaction is not more pronounced
+- 
 
