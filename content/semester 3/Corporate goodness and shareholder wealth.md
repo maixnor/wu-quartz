@@ -66,9 +66,16 @@ Using a unique data set, I study how stock markets react to positive and negativ
 - positive news better received from high leverage companies
 	- probably less agency mismatch than high liquidity companies
 
-## Textual Analysis
+## 6 Textual Analysis
 - counting words per category (positive, negative, legal, economics, digits, etc)
 - more hard facts in negative news
 	- more digits, legal terms 
-- 
 
+## 7 Conclusion
+- stronger reaction to more extreme news
+- more positive reaction if agency problems are less probable
+	- higher leverage, lower liquidity
+- more positive reaction if past irresponsibility is addressed
+	- especially in community and environmental factors
+- negative reaction if just responsible
+- more positive reaction if news are legal/economic 

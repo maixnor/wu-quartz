@@ -1,0 +1,79 @@
+
+### Corporate Goodness and Shareholder Wealth
+by Philipp Krüger
+
+- written: 2012-09-15
+- released: 2014-09-17
+---
+# Companies
+---
+
+## Solar Inc.
+- bringing solar to businesses and individuals
+- high leverage
+- 200 employees
+
+---
+
+## 'Murica Oil Inc.
+- trading and refining oil products
+- high liquidity 
+- 1500 employees
+
+---
+## Espana Farming Inc.
+- farming in south america
+- low liquidity
+- 1000 employees
+
+---
+# News
+Let's get warmed up
+
+---
+## Murica Oil Inc.
+> Workers unions demand higher bonuses for hazardous jobs in the facilities of Murica Oil.
+
+---
+# Negative
+
+---
+## Espana Farming Inc.
+> Fertilizer Scandal at Espana Farming. The amounts of fertilizer used on the fields are 3x the allowed amounts.
+---
+# Negative
+---
+## Solar Inc.
+> Solar Inc invests $100.000 into building local communities.
+
+---
+# Positive
+
+--- 
+## Murica Oil Inc.
+> Murica Oil invests $100.000 into building local communities.
+
+---
+# Negative
+---
+# Agency Problem
+
+What's that?
+
+--- 
+#### Agency Problem
+> An agency problem is a conflict of interest where one party, motivated by self-interest, is expected to act in another's best interest. In [corporate finance](https://www.investopedia.com/terms/c/corporatefinance.asp), an agency problem usually refers to a conflict of interest between a company's management and the company's stockholders.
+
+---
+#### Agency Problem Examples
+- Manager investing in green project to please local politicians
+- CEO decides to decides for a carbon offsetting provider based on personal relation
+- CEO pushes a green agenda to polish his personal image
+
+--- 
+#### Mitigate Agency Problem
+- high leverage
+- low liquidity
+- only positive NPV projects
+- tighter budgets
+
