@@ -131,6 +131,10 @@ notes: in the past not so great with safety policy
 - human rights
 - product
 --- 
-### 
+
+# News
+---
+## Solar Inc.
+> The company is facing fines for 
 
 
