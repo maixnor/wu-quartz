@@ -1,4 +1,4 @@
-> Environment, Social, Governance Matters in business
+> Environment, Social, Governance matters in business
 # Reporting Standards
 - [[NFRD]] with [[NaDiVeG]] (past, but still applicable)
 - [[ESRS]] standard with implementation of [[CSRD]]
