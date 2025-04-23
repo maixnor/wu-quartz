@@ -65,9 +65,9 @@ Let's get warmed up
 
 What's that?
 
---- 
-#### Agency Problem
-> An agency problem is a conflict of interest where one party, motivated by self-interest, is expected to act in another's best interest. In [corporate finance](https://www.investopedia.com/terms/c/corporatefinance.asp), an agency problem usually refers to a conflict of interest between a company's management and the company's stockholders.
+---
+
+> An agency problem is a conflict of interest where one party, motivated by self-interest, is expected to act in another's best interest. In [corporate finance](https://www.investopedia.com/terms/c/corporatefinance.asp), an agency problem usually refers to a conflict of interest between a company's management and the company's stockholders. [...]
 
 ---
 #### Agency Problem Examples
@@ -75,7 +75,8 @@ What's that?
 - CEO decides to decides for a carbon offsetting provider based on personal relation
 - CEO pushes a green agenda to polish his personal image
 
---- 
+
+---
 #### Mitigate Agency Problems
 - high leverage
 - low liquidity
@@ -91,10 +92,13 @@ What's that?
 notes: in the past not so great with safety policy
 
 ---
-# Positive
---- 
+
+# Positive 
+---
+
 ## Murica Oil Inc.
 > Murica Oil invests additional $10 Million into new filtration technology in it's production facilities to become the cleanest oil production in the USA.
+
 
 ---
 # Negative
@@ -111,7 +115,9 @@ notes: in the past not so great with safety policy
 - human rights
 - product
 
---- 
+---
+
+
 ### Prior Irresponsibility
 - community
 - corporate governance
@@ -122,6 +128,7 @@ notes: in the past not so great with safety policy
 - product
 
 ---
+
 ### Prior Irresponsibility
 - ***community***
 - corporate governance
@@ -130,11 +137,21 @@ notes: in the past not so great with safety policy
 - ***environment***
 - human rights
 - product
+
 --- 
 
 # News
+
 ---
+
 ## Solar Inc.
-> The company is facing fines for 
+> The company is large facing fines for anti-union behavior.
+
+> Solar Inc is under investigation regarding anti-union behavior and may be fined up to USD 100.000 for this behavior.
+
+---
+
+# Textual Analysis
+> Textual Analysis is a research method that involves closely and critically examining written, spoken, or visual messages. It refers to the process of deconstructing text and its underlying themes, messages, and symbols [...].
 
 
