@@ -78,4 +78,4 @@ Using a unique data set, I study how stock markets react to positive and negativ
 - more positive reaction if past irresponsibility is addressed
 	- especially in community and environmental factors
 - negative reaction if just responsible
-- more positive reaction if news are legal/economic 
+- more positive reaction if news are legal/economic and have digits/numbers in them
