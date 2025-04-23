@@ -50,7 +50,7 @@ Using a unique data set, I study how stock markets react to positive and negativ
 	- e.g. report on toxic waste water dumping
 - areas
 	- community
-	- corporate governancne
+	- corporate governance
 	- diversity
 	- employee relations
 	- environment

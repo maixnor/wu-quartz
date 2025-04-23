@@ -27,6 +27,11 @@ by Philipp Krüger
 - 1000 employees
 
 ---
+# How to play
+- news first
+- decide positive/negative market reaction
+- think about strong/weak reaction
+- cumulative abnormal return (CAR)
 # News
 Let's get warmed up
 
@@ -71,9 +76,61 @@ What's that?
 - CEO pushes a green agenda to polish his personal image
 
 --- 
-#### Mitigate Agency Problem
+#### Mitigate Agency Problems
 - high leverage
 - low liquidity
 - only positive NPV projects
 - tighter budgets
+
+---
+# News
+---
+## Murica Oil Inc.
+> Murica Oil invests $10 Million into safer work environments and additional safety training. 
+
+notes: in the past not so great with safety policy
+
+---
+# Positive
+--- 
+## Murica Oil Inc.
+> Murica Oil invests additional $10 Million into new filtration technology in it's production facilities to become the cleanest oil production in the USA.
+
+---
+# Negative
+---
+
+# Areas 
+
+---
+- community
+- corporate governance
+- diversity
+- employee relations
+- environment
+- human rights
+- product
+
+--- 
+### Prior Irresponsibility
+- community
+- corporate governance
+- diversity
+- employee relations
+- environment
+- human rights
+- product
+
+---
+### Prior Irresponsibility
+- ***community***
+- corporate governance
+- diversity
+- employee relations
+- ***environment***
+- human rights
+- product
+--- 
+### 
+
 
