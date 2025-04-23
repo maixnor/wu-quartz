@@ -60,7 +60,8 @@ by Philipp Krüger
 ---
 # Positive
 
---- 
+---
+
 ## Murica Oil Inc.
 > Murica Oil invests $100.000 into building local communities.
 
@@ -73,7 +74,7 @@ What's that?
 
 ---
 
-> An agency problem is a conflict of interest where one party, motivated by self-interest, is expected to act in another's best interest. In [corporate finance](https://www.investopedia.com/terms/c/corporatefinance.asp), an agency problem usually refers to a conflict of interest between a company's management and the company's stockholders. [...]
+> An agency problem is a conflict of interest where one party, motivated by self-interest, is expected to act in another's best interest. In corporate finance, an agency problem usually refers to a conflict of interest between a company's management and the company's stockholders. [...]
 
 ---
 #### Agency Problem Examples
@@ -185,11 +186,14 @@ notes: in the past not so great with safety policy
 
 # Wrap Up
 - stronger reaction to more extreme news
+- negative reaction if just responsible
 - more positive reaction if agency problems are less probable
 	- higher leverage, lower liquidity
+
+---
+# Wrap Up
 - more positive reaction if past irresponsibility is addressed
 	- especially in community and environmental factors
-- negative reaction if just responsible
 - more positive reaction if news are legal/economic and have digits/numbers in them
 
 ---
