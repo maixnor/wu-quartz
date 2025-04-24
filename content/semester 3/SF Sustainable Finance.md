@@ -16,3 +16,8 @@
 # Presentation(s)
 - [[General SF Presentation]]
 - [[Corporate Goodness SF Presentation]]
+
+# Seminar Paper
+- create something that is more than it's parts
+- connect the dots - differences and commonalities
+- 
