@@ -1,0 +1,24 @@
+Benjamin Meixner, Lukas Weinhold, Filip Dvofacek
+
+- title: Climate, conflict and forced migration
+- abstract: brief overview and conclusion
+- introduction:
+	- background
+	- why topic is important
+- literature review:
+	- elaborating on previous arguments/methods
+	- exposing inconsistencies in previous literature
+	- exposing lack of consensus
+- modelling asylum-seeking flows
+	- method (gravity model)
+	- define model
+	- discuss and visualize data on migration
+- results
+	- showing results of regression analysis
+	- robustness check
+- discussion
+	- visualize effect of SPEI on Conflict
+	- present conclusion
+- appendix A
+	- link to further data
+- references
