@@ -1,0 +1,2 @@
+- we can know what the outcomes are, but you don't know the percentages
+- we can know either X or Y will be true, but not what are the chances
