@@ -37,8 +37,38 @@
 - #todo 
 
 ## Information Search
-1. problem recognition
-2. information search
+- 1 problem recognition
+- 2 information search
 	- internal (memories) vs external (research, availability)
 	- active progressing is done in [[Memory#Working Memory Model|Working Memory]]
-3. 
+
+### Intuition
+- intuition depends a lot on the information you have
+	- shit in - shit out
+- the better your inputs (memories, biases, etc) are the better your intuitions are the better decisions you will make
+- if you have a bad (inaccurate) gut feeling you can change this with better inputs
+- justification only after making a choice -> only looking for supporting evidence, not for counteracting arguments
+
+### Indifference
+- if choices are equal or only marginally different
+- problem: infinite decision time, [[Buyers Remorse]]
+- solution: picking randomly
+
+### Others
+- asking other people
+- e.g. an export on the topic, a friend, a trusted individual
+- just speaking it out changes a lot
+- outsourcing: coin, person, algorithm, `/dev/random`
+
+### Dealing with Limitations
+- trade off between efficiency and accuracy (Simon, 1957)
+- moral wriggle room (putting off a decision)
+	- e.g. not opening the door to a salesman to say no
+
+# Construction
+- perception is influenced by
+	- context factors
+	- previous experiences
+	- expectations
+	- motivations
+- 
