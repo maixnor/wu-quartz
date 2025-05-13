@@ -24,7 +24,7 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 	- [[SR Sustainability Reporting]]
 	- [[DS Decision Sciences]]
 ### Semester 4
-- [[Managing Organizations]]
+- [[MOP Managing Organizations]]
 - [[Logic and Methodology of Social Sciences]]
 - [[Introduction to Academic Writing]]
 - [[CCC Cross Cultural Competences]]
