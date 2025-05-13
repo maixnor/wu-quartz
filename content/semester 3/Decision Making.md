@@ -71,4 +71,74 @@
 	- previous experiences
 	- expectations
 	- motivations
-- 
+- framing
+	- experienced entrepreneurs perceive less uncertainty and are less affected by framing issues
+
+## Prospect Theory
+- editing phase
+	- simplify decisions (cutting off branches of decision tree)
+	- reduce consideration set
+	- cancelling options out or simplifying
+- evaluation phase
+	- consider values relative to one another
+	- consideration of probabilities
+- value of losses weighted more than value of losses
+	- utility function is not linear
+	- [[Marginal Changes]] appear with gains and losses
+- value is rather wealth changes, not absolute wealth level
+- risk-averse for gains, risk-seeking for losses
+	- gambling addiction
+- probability weighting
+	- overweighting low probabilities, underweighting high probabilities
+	- overestimate luck, good and bad
+	- certainty (say 1%, 99%) are undervalued
+
+# Heuristics
+> Mental shortcuts to make judgement quickly and efficiently.
+
+&amp; Aronson el al. 2019, p. 64
+
+- most of the time heuristics are great
+- [[Cognitive Bias Codex]]
+
+## Availability
+- if you think of it, it must be important
+- not as many people die from shark attacks as from lightning strikes
+- but people are worried more of sharks, because they can think of it
+- if availability is good or not depends on what your sample is
+- emotional events will be more available
+- problematic implications:
+	- anything that is not available is not regarded
+	- distortion or abuse of public order
+	- bad allocation of funds
+
+## Insensitivity to Sample Size Bias
+- failing to appreciate role of sample size
+
+## Conjunction Fallacy
+- an and gate can only ever reduce the probability
+- "certain" combinations are considered more probable than the individual factors, although it can only be more probable
+
+## Confirmation Bias
+- accepting supporting data as is
+- trying to reject disproving data
+- "You see what you expect to see"
+- [[Dissonance]]
+- remedy: [[Devils Advocate]], outside counsel
+- dark side of dissonance:
+	- escalation of commitment
+	- sunk cost fallacy
+	- irrational ignorance towards relevant information
+	- ethical dissonance
+	- overweighting of expensive advise
+	- discounting of feedback 
+		- just because a bad person said a good thing does not make it bad
+	- absenteeism
+	- resistance to change
+
+### Examples Confirmation Bias
+- thinking a university course is bad, then you perceive it as bad even though you would like otherwise if not told that before
+
+## Anchoring
+- #todo
+- price set in beginning is really important
