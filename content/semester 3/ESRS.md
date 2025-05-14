@@ -48,6 +48,17 @@
 - S4 - consumers
 - G1 - business conduct
 
+## Same Logic
+- each standard has the same structure
+- governance (GOV)
+	- how the company is dealing with it
+- strategy (SBM)
+	- how it fits the overall strategy and business model of company
+- IROs
+	- as an example: [[Rittersport Sustainability Report - IRO Analysis]]
+- Metrics and Targets
+	- quanitative measures and goal definitions
+
 ## The Report
 - requirements defined in [[ESRS 1]]
 - disclosures defined in [[ESRS 2]]

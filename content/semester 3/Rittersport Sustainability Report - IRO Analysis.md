@@ -1,4 +1,4 @@
-# **Sustainability Reporting for Rittersport: IRO Analysis **
+# Sustainability Reporting for Rittersport: IRO Analysis
 
 by Group 5 - Farkas Benedek, Horvat Zellhofer Paulina, Meixner Benjamin
 

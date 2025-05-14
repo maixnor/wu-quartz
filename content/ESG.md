@@ -4,6 +4,7 @@
 - [[ESRS]] standard with implementation of [[CSRD]]
 	- [[CSRD]] is just saying: "you have to comply with [[ESRS]]"
 	- transposition in Austria: NaBeG (pending)
+	- [[Omnibus]] is changing ESRS again
 - [[EU Taxonomy Regulation]] for financial sector
 - [[CSDDD]] -> [[EU]] parlament 23rd of April 2024
 	- not yet transposed in Austria
