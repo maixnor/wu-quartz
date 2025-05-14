@@ -25,17 +25,4 @@
 - e.g. [[human rights]] violation in production chains
 - "auswirkende Wesentlichkeit"
 
-# Impacts, Risks, Opportunities
-- aka IROs
-- big part of [[Materiality Assesment]]
-- impact materiality
-	- positive/negative impacts
-	- actual/potential
-	- scale, scope, irremediability, likelihood
-	- create list of everything
-- financial materiality
-	- risks/opportunities
-	- potential magnitude, likelihood
-- allows for separate ranking of impact/financial
-	- then combined for actual [[double materiality]]
 
