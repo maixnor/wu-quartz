@@ -48,4 +48,9 @@
 # Downsides
 - descriptive norm ... what people are doing now
 - injunctive norm ... what people are supposed to do
-- 
+
+- effects are highly contextually
+- effects might be tiny
+- effects may not last
+- backfiring may be possible
+
