@@ -54,3 +54,6 @@
 - effects may not last
 - backfiring may be possible
 
+# Boosting
+- creating competence, so people make better decisions for themselves
+- noevom
