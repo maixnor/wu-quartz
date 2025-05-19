@@ -1,0 +1,4 @@
+- adding a less preferred option as a decoy
+	- nobody would choose the decoy
+- bringing people closer to the target
+	- mostly a more pricey option
