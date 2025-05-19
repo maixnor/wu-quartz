@@ -56,4 +56,3 @@
 
 # Boosting
 - creating competence, so people make better decisions for themselves
-- noevom
