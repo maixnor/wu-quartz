@@ -44,4 +44,8 @@
 - we are great at comparing, not at pinpointing exact prices
 - the default option is very important
 	- any additional effort can be forgotten or not done at all
+
+# Downsides
+- descriptive norm ... what people are doing now
+- injunctive norm ... what people are supposed to do
 - 
