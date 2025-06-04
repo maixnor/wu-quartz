@@ -81,7 +81,7 @@
 - roll-up data to corporate level
 
 ### Scope 3 Emissions
-- GHG Protocol -> [[#GHG Protocol Standards]]
+- [[GHG Protocol]]
 - screening
 	- based on all 15 categories of [[GHG Protocol]]
 	- identify significant categories based on estimated emissions
