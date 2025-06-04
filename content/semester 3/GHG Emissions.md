@@ -37,7 +37,8 @@
 
 # How they are important
 - most companies have high [[#Scope 3]] emissions
-	- therefore push to sustainability standards
+- therefore push to sustainability standards
+
 ![[ghg_emissions_by_sector.png]]
 
 # But there is more than CO2
@@ -47,12 +48,3 @@
 		- e.g. currently x27 for methane CH4, x273 for nitrous oxide N2O
 - they are added up to be just 1 CO2 amount
 	- possible to have 0 actual CO2 emissions but still report high CO2 emissions which are translated methane
-
-## Example Scope 1 - Car Fleet
-#todo
-
-## Example Scope 2 - Electricity in USA
-#todo 
-
-## Example Scope 3
-#todo
