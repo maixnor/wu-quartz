@@ -23,3 +23,6 @@
 - "a nazi said it, so it must be wrong"
 # In-Group Bias
 - favoring characteristics of own group over other groups
+# Availability Bias
+- information that is more readily available (i.e. more easily accessible) by your memories are used more than the once that are less available
+- [[Priming]]
