@@ -31,6 +31,11 @@ This study plan is recommended by the BBE Program and is worth following. [Here]
 ### Semester 5 & 6
 up till here at least 16 ECTS
 - [[BBE Bachelor Thesis]]
+### Exchange Semester
+- [[GFAS Global Food and Agribusiness Strategies]]
+- [[DTTI Design Thinking and Technological Innovation]]
+- [[MD Marketing Deportivo]]
+- [[RI Relationes Internacionales]]
 ### All Time
 - [[BBE Internship + Seminar]]
 - [[BBE Double Degree]]
