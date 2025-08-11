@@ -1,0 +1,2 @@
+- a large shipment of grains "became" organic during the shipping process
+- one fraudulent invoice was traced

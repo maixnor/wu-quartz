@@ -1,0 +1,4 @@
+- perishable
+- time-sensitive shipments
+- high degree of product loss (rotting)
+- traceability important
