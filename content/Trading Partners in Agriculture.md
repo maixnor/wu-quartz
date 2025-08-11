@@ -7,3 +7,4 @@
 - not checking for pesticides at all
 - checking for bacteria (e.g. salmonella) and heavy metals
 - also checking for traceability [[Organic Grain Scandal]]
+- highest meat consumer in the world

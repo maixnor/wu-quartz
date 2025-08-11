@@ -9,3 +9,4 @@
 - [[Crops in global Agriculture]]s
 - [[Agri Value Chain]]
 - [[Agri Supply Chain]]
+- [[Alternative Proteins]]
