@@ -33,9 +33,9 @@ up till here at least 16 ECTS
 - [[BBE Bachelor Thesis]]
 ### Exchange Semester
 - [[GFAS Global Food and Agribusiness Strategies]]
-- [[DTTI Design Thinking and Technological Innovation]]
-- [[MD Marketing Deportivo]]
-- [[RI Relationes Internacionales]]
+- [[CEM Customer Experience Management]]
+- [[ARB Administraction de Riesgo en Banca]]
+- [[MM Marketplace Management]]
 ### All Time
 - [[BBE Internship + Seminar]]
 - [[BBE Double Degree]]
