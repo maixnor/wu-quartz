@@ -1,0 +1,12 @@
+Riesgo ...
+- de tasa de interes
+- cambiario
+- de mercado
+- de credito
+- de liquidez
+- de actividadse fuera de hoja de balance
+- pais o riesgo soberano
+- operacional
+- de insolvencia
+- tecnologico
+- otros
