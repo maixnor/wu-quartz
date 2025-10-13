@@ -62,7 +62,7 @@
 ## Value at Risk
 - "what is the worst that could happen?"
 - $\alpha$ ... chance of the worst case happening
-- #todo 
+$$\text{VaR} = M * \alpha * \sigma * \sqrt{T}$$
 
 ### Expected Shortall
 - "when the worst is happening, how bad is it?"
