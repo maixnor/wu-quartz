@@ -603,11 +603,12 @@ The company's equity **decreased by $628,428** due to the rise in interest rates
     DL​=1 year
     
 - Duration of the Loan (DA​): For the 2-year, 10% coupon loan issued at par (yield = 10%), we can use the formula:
-    
-    DA​=y1+y​[1−(1+y)T1​]
-    
-    DA​=0.101.10​[1−(1.10)21​]=11×(0.17355)=1.909 years
-    
+    $$
+    DA​=y1+y​[1−(1+y)T1​] 
+    $$
+    $$
+    DA​=0.10*1.10​[1−(1.10)*2*1​]=11×(0.17355)=1.909 years
+    $$
 
 ---
 
@@ -615,7 +616,7 @@ The company's equity **decreased by $628,428** due to the rise in interest rates
 
 The expected change in value (ΔP) is estimated using the duration formula:
 
-ΔP≈−D×[1+yΔy​]×P
+$ΔP≈−D×[1+yΔy​]×P$
 
 - Expected Change in Loan Value:
     
