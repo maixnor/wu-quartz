@@ -1,5 +1,3 @@
-### Strategic Marketplace Notes: Airbnb vs. Booking.com
-
 #### **1. Business Model Overview**
 
 | **Airbnb (P2P / Asset-Light)**                                                                                                                   | **Booking.com (Aggregator / Asset-Heavy OTA)**                                                                                                           |
